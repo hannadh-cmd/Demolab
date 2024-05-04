@@ -1,16 +1,93 @@
-title: Template
-author: TeachBooks Team, built with <a href="https://teachbooks.tudelft.nl/">TeachBooks</a> and <a href="https://jupyterbook.org/">Jupyter Book</a>, <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer"">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""> #Add your own name here
-logo: figures/TUDelft_logo_rgb.png #add your own logo here
+# Book settings
+# Learn more at https://jupyterbook.org/customize/config.html
 
+#######################################################################################
+# A default configuration that will be loaded for all jupyter books
+# Users are expected to override these values in their own `_config.yml` file.
+# This is also the "master list" of all allowed keys and values.
+
+#######################################################################################
+# Book settings
+title                       : DemoLab  # The title of the book. Will be placed in the left navbar.
+author                      : R. Haaksman # The author of the book
+date                        : today
+description                 : An online archive of physics classroom demonstrations
+copyright                   : "Delft University of Technology, CC BY 4.0"  # Copyright year to be placed in the footer
+logo                        : "TUD_logo.png"  # A path to the book logo
+# Patterns to skip when building the book. Can be glob-style (e.g. "*skip.ipynb")
+exclude_patterns            : [_build, Thumbs.db, .DS_Store, "**.ipynb_checkpoints"]
+# Auto-exclude files not in the toc
+only_build_toc_files        : true
+
+#######################################################################################
+# Execution settings
 execute:
-  execute_notebooks: "off"
+  execute_notebooks         : force  # Whether to execute notebooks at build time. Must be one of ("auto", "force", "cache", "off")
+  cache                     : ""    # A path to the jupyter cache that will be used to store execution artifacts. Defaults to `_build/.jupyter_cache/`
+  exclude_patterns          : []    # A list of patterns to *skip* in execution (e.g. a notebook that takes a really long time)
+  timeout                   : 30    # The maximum time (in seconds) each notebook cell is allowed to run.
+  run_in_temp               : false # If `True`, then a temporary directory will be created and used as the command working directory (cwd),
+                                    # otherwise the notebook's parent directory will be the cwd.
+  allow_errors              : false # If `False`, when a code cell raises an error the execution is stopped, otherwise all cells are always run.
+  stderr_output             : show  # One of 'show', 'remove', 'remove-warn', 'warn', 'error', 'severe'
 
-only_build_toc_files: true
+#######################################################################################
+# Parse and render settings
+parse:
+  myst_enable_extensions:  # default extensions to enable in the myst parser. See https://myst-parser.readthedocs.io/en/latest/using/syntax-optional.html
+    # don't forget to list any other extensions you want enabled,
+    # including those that are enabled by default!
+    # meaning that we have to explicitly include dollarmath!
+    # Colon-fence is to allow for ::: instead of ``` blocks.
+    - amsmath
+    - dollarmath
+    - colon_fence
+    - deflist
+    - dollarmath
+    - html_admonition
+    - html_image
+    - linkify
+    - replacements
+    - smartquotes
+    - substitution
+    - tasklist
+#    - ipywidgets # enabling ipywidgets screws with the book rendering, see: https://myst-nb.readthedocs.io/en/latest/render/interactive.html#ipywidgets
+  myst_url_schemes: [mailto, http, https] # URI schemes that will be recognised as external URLs in Markdown links
+  myst_dmath_double_inline: true  # Allow display math ($$) within an inline context
 
+
+
+#######################################################################################
+# HTML-specific settings
 html:
-  favicon : "figures/favicon.ico"
-  baseurl :  "https://teachbooks.github.io/template/" #Replace this with your own URL
-  home_page_in_navbar       : true
+  favicon                   : ""  # A path to a favicon image
+  use_edit_page_button      : false  # Whether to add an "edit this page" button to pages. If `true`, repository information in repository: must be filled in
+  use_repository_button     : false  # Whether to add a link to your repository button
+  use_issues_button         : false  # Whether to add an "open an issue" button
+  use_multitoc_numbering    : true   # Continuous numbering across parts/chapters
+  extra_footer              : ""  # Will be displayed underneath the footer.
+  extra_navbar              : ""  # Will be displayed underneath the left navbar. This setting overrides the default 'powered by Jupyter Book'
+  google_analytics_id       : ""  # A GA id that can be used to track book views.
+  home_page_in_navbar       : true  # Whether to include your home page in the left Navigation Bar
+  baseurl                   : ""  # The base URL where your book will be hosted. Used for creating image previews and social links. e.g.: https://mypage.com/mybook/
+  analytics:
+
+  comments:
+    hypothesis              : false # Hypothesis for comments
+    utterances              : false
+  announcement: "<p style=\"font-size:100px\">&#128680;</p> Under construction, this is a randomly selected group of demonstrations to reduce loading times <p style=\"font-size:100px\">&#128680;</p>"
+
+  #template:                  # rph 18Jan2024 stats histogram page
+  #  path                    : book/_layouts # rph 18Jan2024 stats histogram page
+  #  name                    : custom # rph 18Jan2024 stats histogram page
+
+#######################################################################################
+# LaTeX-specific settings
+latex:
+  latex_engine              : pdflatex  # one of 'pdflatex', 'xelatex' (recommended for unicode), 'luatex', 'platex', 'uplatex'
+  use_jupyterbook_latex     : true # use sphinx-jupyterbook-latex for pdf builds as default
+  latex_documents           : 
+    targetname: book.tex'
 
 sphinx:
   config:
@@ -29,6 +106,9 @@ sphinx:
   extra_extensions:
     - sphinx.ext.imgconverter
     - jupyterbook_patches
+    - sphinx_proof
+    - sphinxcontrib.bibtex
+    - sphinx_togglebutton
 
 bibtex_bibfiles: 
   - references.bib

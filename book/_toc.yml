@@ -1,13 +1,163 @@
 format: jb-book
-root: intro.md
-
+root: template_files/index # this is the landing page i.e. index.md
 parts:
-  - caption: Contents
+  - caption: TU Delft DemoLab
     chapters:
-    - file: some_content/overview.md
-# START REMOVE-FROM-PUBLISH
-      sections:
-      - file: some_content/text_and_code.ipynb
-# END REMOVE-FROM-PUBLISH
-    - file: references.md
-    - file: credits.md
+      - file: template_files/introduction
+  - caption: Astronomy
+    numbered: True
+    chapters:
+      - file: build/Astronomy/A10/Kepler's_second_law/output
+  - caption: Electricity and Magnetism
+    numbered: True
+    chapters:
+      - file: build/Electricity_and_Magnetism/A10/Electric_soap_bubbles/output
+      - file: build/Electricity_and_Magnetism/A40/Charging_by_induction/output
+      - file: build/Electricity_and_Magnetism/A40/Electric_soap_bubbles/output
+      - file: build/Electricity_and_Magnetism/A40/Polarizing_a_dielectric/output
+      - file: build/Electricity_and_Magnetism/A40/Water_dropper/output
+      - file: build/Electricity_and_Magnetism/A50/Water_dropper/output
+      - file: build/Electricity_and_Magnetism/B20/Gauss's_law/output
+      - file: build/Electricity_and_Magnetism/C20/Polarizing_a_dielectric/output
+      - file: build/Electricity_and_Magnetism/H20/force_between_magnets__1_/output
+      - file: build/Electricity_and_Magnetism/H20/force_between_magnets__2_/output
+      - file: build/Electricity_and_Magnetism/H30/Force_on_electrons_in_a_magnetic_field__1_/output
+      - file: build/Electricity_and_Magnetism/H40/Lorentz_force__1_/output
+      - file: build/Electricity_and_Magnetism/H40/Lorentz_force__2_/output
+      - file: build/Electricity_and_Magnetism/H50/Current_loop_in_magnetic_field/output
+      - file: build/Electricity_and_Magnetism/J10/Selfinductance_in_AC-circuit/output
+      - file: build/Electricity_and_Magnetism/K10/Damped_galvanometer/output
+      - file: build/Electricity_and_Magnetism/K20/Arago's_compass_needle/output
+      - file: build/Electricity_and_Magnetism/K30/Transformer/output
+      - file: build/Electricity_and_Magnetism/K40/Electric_motor__synchronous_motor_/output
+      - file: build/Electricity_and_Magnetism/L20/LRC_circuits/output
+      - file: build/Electricity_and_Magnetism/L20/Phase/output
+      - file: build/Electricity_and_Magnetism/L20/Selfinductance_in_AC-circuit/output
+  - caption: Fluid Mechanics
+    numbered: True
+    chapters:
+      - file: build/Fluid_Mechanics/B20/Rotating_liquid/output
+      - file: build/Fluid_Mechanics/C20/Magnus_effect__2_/output
+  - caption: Mechanics
+    numbered: True
+    chapters:
+      - file: build/Mechanics/A40/Cross_product/output
+      - file: build/Mechanics/D40/Students'_centre_of_mass/output
+      - file: build/Mechanics/D50/Conical_pendulum/output
+      - file: build/Mechanics/D50/Force_field/output
+      - file: build/Mechanics/E10/Shoot_and_catch/output
+      - file: build/Mechanics/E20/Coriolis__1a_/output
+      - file: build/Mechanics/E20/Coriolis__1b_/output
+      - file: build/Mechanics/E20/Coriolis__1_/output
+      - file: build/Mechanics/E20/Coriolis__2_/output
+      - file: build/Mechanics/E20/Coriolis__3_/output
+      - file: build/Mechanics/E20/Rotating_liquid/output
+      - file: build/Mechanics/E30/Coriolis__1a_/output
+      - file: build/Mechanics/E30/Coriolis__1b_/output
+      - file: build/Mechanics/E30/Coriolis__1_/output
+      - file: build/Mechanics/E30/Coriolis__2_/output
+      - file: build/Mechanics/E30/Coriolis__3_/output
+      - file: build/Mechanics/E30/Cross_product/output
+      - file: build/Mechanics/F20/Not_breaking_a_wine_glass/output
+      - file: build/Mechanics/F30/Walk_and_ball/output
+      - file: build/Mechanics/G10/Pulling_a_thread/output
+      - file: build/Mechanics/H10/Magnet_symmetry/output
+      - file: build/Mechanics/H10/Recoil_of_a_water-jet/output
+      - file: build/Mechanics/H10/trying_hard_to_pull_differntly/output
+      - file: build/Mechanics/H10/Who_is_pulling/output
+      - file: build/Mechanics/H10/Who_is_the_strongest_in_a_collision/output
+      - file: build/Mechanics/J30/Strong_professor__weak_students_/output
+      - file: build/Mechanics/K10/Boomerang_ball__2_/output
+      - file: build/Mechanics/K10/Falling_stick/output
+      - file: build/Mechanics/K10/Pulling_a_spool/output
+      - file: build/Mechanics/K20/Chain_friction/output
+      - file: build/Mechanics/K20/Falling_stick/output
+      - file: build/Mechanics/K20/No_tipping_allowed/output
+      - file: build/Mechanics/K20/Phonebook_friction/output
+      - file: build/Mechanics/K20/Pulling_a_sliding_block/output
+      - file: build/Mechanics/K20/Rolling_up-and-down,_again_and_again/output
+      - file: build/Mechanics/K20/Rope_on_a_table/output
+      - file: build/Mechanics/K20/Sliding_towel/output
+      - file: build/Mechanics/L20/Kepler's_second_law/output
+      - file: build/Mechanics/M40/Dropping_rolls_of_toilet_paper/output
+      - file: build/Mechanics/M40/Mortar/output
+      - file: build/Mechanics/N10/Boomerang_ball__2_/output
+      - file: build/Mechanics/N10/Sliding_ladder/output
+      - file: build/Mechanics/N20/Colliding_balls__1_/output
+      - file: build/Mechanics/N20/Inelastic_collisions/output
+      - file: build/Mechanics/N20/Knock-out/output
+      - file: build/Mechanics/N20/Magnet_symmetry/output
+      - file: build/Mechanics/N20/Pulling_a_slackened_rope/output
+      - file: build/Mechanics/N22/Recoil_of_a_water-jet/output
+      - file: build/Mechanics/N30/Knock-out/output
+      - file: build/Mechanics/Q10/Maximum_rotational_inertia/output
+      - file: build/Mechanics/Q10/Physical_pendulum__2_/output
+      - file: build/Mechanics/Q10/Pirouette/output
+      - file: build/Mechanics/Q20/Dropping_rolls_of_toilet_paper/output
+      - file: build/Mechanics/Q40/Balls_on_a_rotating_ramp/output
+      - file: build/Mechanics/Q40/Bicycle_wheel_and_swivel_chair/output
+      - file: build/Mechanics/Q40/Colliding_magnets/output
+      - file: build/Mechanics/Q40/Dumb-bell/output
+      - file: build/Mechanics/Q40/Pirouette/output
+      - file: build/Mechanics/Q40/Playing_tennis/output
+      - file: build/Mechanics/Q40/Tippe_top/output
+      - file: build/Mechanics/Q40/Vibrating_stopwatch/output
+      - file: build/Mechanics/Q50/Precession__1_/output
+      - file: build/Mechanics/Q50/Precession__2_/output
+      - file: build/Mechanics/Q50/Precession__3a_/output
+      - file: build/Mechanics/Q50/Precession__3b_/output
+      - file: build/Mechanics/Q60/Dumb-bell/output
+      - file: build/Mechanics/Q60/Maximum_rotational_inertia/output
+      - file: build/Mechanics/Q60/Percussionpoint__1_/output
+      - file: build/Mechanics/Q60/rugbyball/output
+      - file: build/Mechanics/Q60/Sleeper/output
+      - file: build/Mechanics/Q60/Tippe_top/output
+  - caption: Miscellaneous
+    numbered: True
+    chapters:
+      - file: build/Miscellaneous/B62/Speckles/output
+  - caption: Modern Physics
+    numbered: True
+    chapters:
+      - file: build/Modern_Physics/A60/Discovering_Bragg/output
+  - caption: Optics
+    numbered: True
+    chapters:
+      - file: build/Optics/A10/Confusing_mirrors/output
+      - file: build/Optics/A40/Curved_lightbeams/output
+      - file: build/Optics/C20/Diffraction_1_,_introduction/output
+      - file: build/Optics/C20/Fraunhofer_-_and_Fresnel_diffraction/output
+      - file: build/Optics/D10/Fresnel_double_mirror/output
+      - file: build/Optics/D10/Fresnel_double_prism/output
+      - file: build/Optics/D10/Lloyds_mirror/output
+      - file: build/Optics/D30/Newton's_rings__2_/output
+      - file: build/Optics/D30/Soap_film/output
+      - file: build/Optics/D40/Michelson-Morley_interferometer/output
+  - caption: Oscillations and Waves
+    numbered: True
+    chapters:
+      - file: build/Oscillations_and_Waves/A10/Chaotic_pendulum/output
+      - file: build/Oscillations_and_Waves/A10/Mathematical_pendulum__2__-_Large_angle/output
+      - file: build/Oscillations_and_Waves/A15/Physical_pendulum__1__-_Compound_pendulum/output
+      - file: build/Oscillations_and_Waves/A15/Physical_pendulum__2_/output
+      - file: build/Oscillations_and_Waves/A50/Damped_galvanometer/output
+      - file: build/Oscillations_and_Waves/A95/Chaotic_pendulum/output
+      - file: build/Oscillations_and_Waves/B10/Reflections_of_transverse_pulses__2_/output
+      - file: build/Oscillations_and_Waves/B10/Speed_of_a_single_pulse_on_different_strings__1_/output
+      - file: build/Oscillations_and_Waves/B22/Kundt's_tube/output
+  - caption: Thermodynamics
+    numbered: True
+    chapters:
+      - file: build/Thermodynamics/B10/Joule's_experiment/output
+      - file: build/Thermodynamics/B20/Cooling_by_insulation/output
+      - file: build/Thermodynamics/B30/Cooling_by_insulation/output
+      - file: build/Thermodynamics/B60/Joule's_experiment/output
+      - file: build/Thermodynamics/C10/Compressing_a_gas/output
+      - file: build/Thermodynamics/C10/pdV/output
+      - file: build/Thermodynamics/C33/Dippy_bird/output
+      - file: build/Thermodynamics/C50/Critical_point/output
+      - file: build/Thermodynamics/D10/Brownian_motion/output
+      - file: build/Thermodynamics/F10/Irreversible_process/output
+      - file: build/Thermodynamics/F10/Violation_of_the_entropy_law/output
+      - file: build/Thermodynamics/F30/Dippy_bird/output
+      - file: build/Thermodynamics/F30/Stirling_engine/output
