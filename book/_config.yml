@@ -106,7 +106,6 @@ sphinx:
   extra_extensions:
     - sphinx.ext.imgconverter
     - jupyterbook_patches
-    - sphinx_proof
     - sphinxcontrib.bibtex
     - sphinx_togglebutton
 
