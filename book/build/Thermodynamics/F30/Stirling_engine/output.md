@@ -22,7 +22,7 @@ caption
  *  Digital thermometer.
      
 <b> Presentation: </b>  
- A beaker is filled, almost to the rim with hot tapwater (about 50oC). The Stirling engine is placed on top of it (see Diagram A) and after some time the instructor gently spins the flywheel. Try anti-clockwise spin, because then the students will observe that the engine by itself wants to spin clockwise, and so it will do. During the lecture the engine continues spinning. After some time, halfway your lecture, the instructor places the still running engine on the beaker filled with ice. Very soon the engine slows down and will stop. Some time later the instructor gently tries to spin the flywheel again in a clockwise direction, but to his surprise (?) the engine starts running now in the anti-clockwise direction. During the rest of the lecture-time the engine keeps on running this way.    
+ A beaker is filled, almost to the rim with hot tapwater (about 50oC). The Stirling engine is placed on top of it (see Diagram A) and after some time the instructor gently spins the flywheel. Try anti-clockwise spin, because then the students will observe that the engine by itself wants to spin clockwise, and so it will do. During the lecture the engine continues spinning. After some time, halfway your lecture, the instructor places the still running engine on the beaker filled with ice. Very soon the engine slows down and will stop. Some time later the instructor gently tries to spin the flywheel again in a clockwise direction, but to his surprise (?) the engine starts running now in the anti-clockwise direction. During the rest of the lecture-time the engine keeps on running this way.     
 ```{figure} figures/figure_1.png  
 ---  
 width: 50%  

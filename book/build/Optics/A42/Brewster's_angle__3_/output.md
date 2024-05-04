@@ -1,2 +1,39 @@
 # Brewster's angle  3  
- 
+ Brewster's angle (3)   
+<b> Aim: </b>  
+ To investigate the reflection and transmission of p- and s-polarized light at different angles of incidence at the surface of an acrylic block. Also the critical angle is shown.    
+<b> Subjects: </b>  
+ 6A42 (Refraction at Flat Surfaces) 6A44 (Total Internal Reflection) 6H20 (Polarization by Reflection)   
+<b> Diagram: </b>  
+   
+```{figure} figures/figure_0.png  
+---  
+width: 50%  
+name: figures/figure_0.png  
+---  
+caption  
+``` 
+     
+<b> Equipment: </b>  
+  Laser, 15mW (see Safety).  Lens f=+10mm.  Lens f=+50mm.  Short optical rail.  Rotatable Polaroid filter.  Graduated rotating disk.  Overhead sheet with a graph of the amplitude coefficients of reflection and transmission (Fig. 4.39 in "Optics" of E. Hecht).   
+<b> Safety: </b>  
+  Even relatively small amounts of laser light can lead to permanent eye Brewster's angle (3)
+    
+<b> Presentation: </b>  
+ Preparation. Position the laser and graduated rotating disk carefully in line. Then the two lenses are used to make a wider parallel laser beam. Using the +10mm and the +50mm lens, the distance between the two lenses should be 60mm. The spots, indicating the positions of the reflected and the refracted beam need to be clearly visible. Mention and show to the students the relevant parts of the demonstration: "air"; "acrylic block"; "boundary layer"; "normal". 1. ni<nt. -First the reflection and refraction at the boundary between air and the acrylic block is shown at different angles of incidence. The starting position is at 0o (coinciding with the normal to the flat surface of the acrylic block) and slowly the angle of incidence is increased up to 90o (see Figure 1A). Repeating this demo you can draw the attention to the difference in intensities of the reflected and refracted beam.   
+```{figure} figures/figure_1.png  
+---  
+width: 50%  
+name: figures/figure_1.png  
+---  
+caption  
+``` 
+ -Then a Polaroid filter is placed in the laser beam to make the E-field parallel to the plane of incidence: Show the students that the green stick indicating the direction of the resulting E-field is in the plane of the large disc: p-polarization (see Diagram B). Again reflection and refraction is observed while increasing the angle of incidence from 0-90o. Clearly observable now is the disappearance of the reflected beam at around 56o (see Figure 1B). This shows Brewster's angle. At Brewster's angle it is also observable that between the disappeared reflected beam and the refracted beam there is an angle of 90o. Brewster's angle (3) Repeating this demo the difference in intensities between the reflected and refracted beam is observed. This observation can be related to the projected graph of the amplitude coefficients of reflection and transmission (see Figure 2 in Brewster's angle (1)" in this database). -Finally the Polaroid filter is rotated 90o to make the E-field normal to the plane of incidence (perpendicular to the large disc: s-polarization). Again reflection and refraction is observed but no Brewster's angle appears (see Figure 1C). 2. ni>nt. -The Polaroid filter is removed and the laser beam now enters the circular side of the acrylic block. (Upon entering the acrylic block the laser beam is always perpendicular to the surface of the block. So there is no refraction upon entering the acrylic block.) Again the angle of incidence on the boundary between acrylic block and air is increased from 0 up to 90o and reflection and refraction is observed (see Figure 2A). When the angle of incidence comes close to 42o, the refracted beam approaches 90o and then disappears.    
+```{figure} figures/figure_2.png  
+---  
+width: 50%  
+name: figures/figure_2.png  
+---  
+caption  
+``` 
+ At this point the angle of incidence is called 'critical angle' and there is total internal reflection in the acrylic block. -The Polaroid filter is used to make the E-field p-polarized. The demo is repeated and a Brewster's angle appears at 34o. Also check the 90o angle between the refracted and disappeared reflected beam (see figure 2B). -Finally s-polarization is investigated: no Brewster's angle appears (see Figure 2C).  

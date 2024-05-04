@@ -22,7 +22,7 @@ caption
 <b> Presentation: </b>  
  
  *  Rotate the screw into the direction of A(cid:1) to B(cid:1). The screw moves into the direction of the result of the cross product of these two vectors. Rotating the screw into the opposite direction makes visible that now also the cross productvector is pointing into the other direction. 
- *  The small white model is used in case of explaining coriolis-force in combination with a globe (see Figure1).    
+ *  The small white model is used in case of explaining coriolis-force in combination with a globe (see Figure1).   
 ```{figure} figures/figure_1.png  
 ---  
 width: 50%  

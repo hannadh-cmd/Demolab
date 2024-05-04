@@ -25,7 +25,7 @@ caption
  *  Large-screen video-monitor, or beamer.
      
 <b> Presentation: </b>  
- The room is darkened and the laser is switched on. By means of the +20 mm lens an illuminated disk is projected on the white screen. The Fresnel double mirror is adjusted so that the two halves of the mirror are parallel. The mirror surface is shifted into the diverging light beam, approximately parallel to it and turned just that much so that the beam of rays strike both mirror halves equally. Two light spots (half circles) are visible on the screen/monitor, seperated by a dark zone (see Figure1).      
+ The room is darkened and the laser is switched on. By means of the +20 mm lens an illuminated disk is projected on the white screen. The Fresnel double mirror is adjusted so that the two halves of the mirror are parallel. The mirror surface is shifted into the diverging light beam, approximately parallel to it and turned just that much so that the beam of rays strike both mirror halves equally. Two light spots (half circles) are visible on the screen/monitor, seperated by a dark zone (see Figure1).     
 ```{figure} figures/figure_1.png  
 ---  
 width: 50%  
@@ -35,7 +35,7 @@ caption
 ``` 
      
 <b> Presentation: </b>  
- The room is darkened and the laser is switched on. By means of the +20 mm lens an illuminated disk is projected on the white screen. The Fresnel double mirror is adjusted so that the two halves of the mirror are parallel. The mirror surface is shifted into the diverging light beam, approximately parallel to it and turned just that much so that the beam of rays strike both mirror halves equally. Two light spots (half circles) are visible on the screen/monitor, seperated by a dark zone (see Figure1).    Figure 1  Turning the adjustment screw of the Fresnel mirror, the movable part of the mirror is tilted and the two light spots start overlapping. From a distance, an intensification of the light in the overlapping zone is clearly observed. Then, at a closer look, by means of a camera, a clear interference pattern is observed. (see Figure2).     
+ The room is darkened and the laser is switched on. By means of the +20 mm lens an illuminated disk is projected on the white screen. The Fresnel double mirror is adjusted so that the two halves of the mirror are parallel. The mirror surface is shifted into the diverging light beam, approximately parallel to it and turned just that much so that the beam of rays strike both mirror halves equally. Two light spots (half circles) are visible on the screen/monitor, seperated by a dark zone (see Figure1).    Figure 1  Turning the adjustment screw of the Fresnel mirror, the movable part of the mirror is tilted and the two light spots start overlapping. From a distance, an intensification of the light in the overlapping zone is clearly observed. Then, at a closer look, by means of a camera, a clear interference pattern is observed. (see Figure2).    
 ```{figure} figures/figure_2.png  
 ---  
 width: 50%  

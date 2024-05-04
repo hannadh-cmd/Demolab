@@ -22,7 +22,7 @@ caption
 <b> Presentation: </b>  
  Set up the dippy bird and the beaker as shown in the Diagram. Fill the beaker with distilled water and dip the beak of the dippy bird in it. Then let the bird go. While the bird is swinging, the blue liquid rises from the belly through the central tube to the head. The bird topples, and dips its beak into the water again, the blue liquid runs down the straight tube and the bird rises again to its vertical, swinging position. This goes on and on, repeating its chain of events. To the teacher it is very instructive to have the students explain what is happening. So just put the bird in your lecture room and let the students break their brains.    
 <b> Explanation: </b>  
- Figure 1 shows the system. The bird is filled with a liquid (dichloromethane) having low latent heat of evaporation. Only this liquid and its vapour are inside the bird.      
+ Figure 1 shows the system. The bird is filled with a liquid (dichloromethane) having low latent heat of evaporation. Only this liquid and its vapour are inside the bird.     
 ```{figure} figures/figure_1.png  
 ---  
 width: 50%  
@@ -30,7 +30,7 @@ name: figures/figure_1.png
 ---  
 caption  
 ``` 
- Initially the system is at equilibrium. There are two spaces to consider: the head with nh moles of vapour and the abdomen with na moles of vapour. Evaporation of water on the beak outside the head draws heat from inside it; the vapour inside the head partially condenses, reducing nh and thus lowering ph. Now the pressure pa in the abdomen pushes fluid up the thorax, which reduces the volume Vh of the head. Consequently the volume Va of the abdomen increases. This causes evaporation in the abdomen (increasing na), made possible by drawing heat from the surroundings. The rising fluid raises the centre of mass above the pivot point, so the bird dips. The amount of fluid is set so that at full dip the lower end of the tube is exposed to the vapour. A bubble of vapour rises in the tube and fluid drains into the abdomen. The rising bubble transfers heat to the head. The centre of mass drops below the pivot point and the bird bobs up, oscillating back to its starting position. Due to this fast swinging movement, there is good evaporation of the water on the beak, and the whole cycle described above repeats itself.    
+ Initially the system is at equilibrium. There are two spaces to consider: the head with nh moles of vapour and the abdomen with na moles of vapour. Evaporation of water on the beak outside the head draws heat from inside it; the vapour inside the head partially condenses, reducing nh and thus lowering ph. Now the pressure pa in the abdomen pushes fluid up the thorax, which reduces the volume Vh of the head. Consequently the volume Va of the abdomen increases. This causes evaporation in the abdomen (increasing na), made possible by drawing heat from the surroundings. The rising fluid raises the centre of mass above the pivot point, so the bird dips. The amount of fluid is set so that at full dip the lower end of the tube is exposed to the vapour. A bubble of vapour rises in the tube and fluid drains into the abdomen. The rising bubble transfers heat to the head. The centre of mass drops below the pivot point and the bird bobs up, oscillating back to its starting position. Due to this fast swinging movement, there is good evaporation of the water on the beak, and the whole cycle described above repeats itself.     
 ```{figure} figures/figure_2.png  
 ---  
 width: 50%  

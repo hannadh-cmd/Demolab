@@ -5,7 +5,7 @@
 <b> Subjects: </b>  
  1Q50 (Gyros)   
 <b> Diagram: </b>  
-    
+   
 ```{figure} figures/figure_0.png  
 ---  
 width: 50%  
@@ -13,7 +13,7 @@ name: figures/figure_0.png
 ---  
 caption  
 ``` 
-     
+      
 <b> Equipment: </b>  
  
  *  bicyclewheel with handles 
@@ -24,23 +24,11 @@ caption
 <b> Presentation: </b>  
  The bicyclewheel with handles is vertically mounted on a rotating platform in such a way that one handle is fixed in a hinged clamp and the other handle rests on a support (see diagram). The bicycle wheel is made fast spinning. Now the rotating platform is slowly turned round by hand, trying both directions of rotation. In one direction of rotation, the spinning bicyclewheel will lift its free handle upwards from the support. As soon as you stop speeding up the rotating platform, the lifting of the spinning bicyclewheel will stop also. Leaving the spinning bicyclewheel to itself now, it slowly comes down, and the rotating platform speeds up.    
 <b> Explanation: </b>  
- The spinning bicyclewheel has an angular momentum of I1w0. Rotating the platform, introduces a torque T. This torque tends to change I1w0, so I1w0 moves into the direction of T. So, when T is pointing upward, I1w0 moves upward: the bicyclewheel-handle lifts itself from the support. (See Figure 1.)    
+ The spinning bicyclewheel has an angular momentum of I1w0. Rotating the platform, introduces a torque T. This torque tends to change I1w0, so I1w0 moves into the direction of T. So, when T is pointing upward, I1w0 moves upward: the bicyclewheel-handle lifts itself from the support. (See Figure 1.)     
 ```{figure} figures/figure_1.png  
 ---  
 width: 50%  
 name: figures/figure_1.png  
----  
-caption  
-``` 
- Precession (3b)    
-<b> Presentation: </b>  
- The bicyclewheel with handles is vertically mounted on a rotating platform in such a way that one handle is fixed in a hinged clamp and the other handle rests on a support (see diagram). The bicycle wheel is made fast spinning. Now the rotating platform is slowly turned round by hand, trying both directions of rotation. In one direction of rotation, the spinning bicyclewheel will lift its free handle upwards from the support. As soon as you stop speeding up the rotating platform, the lifting of the spinning bicyclewheel will stop also. Leaving the spinning bicyclewheel to itself now, it slowly comes down, and the rotating platform speeds up.    
-<b> Explanation: </b>  
- The spinning bicyclewheel has an angular momentum of I1w0. Rotating the platform, introduces a torque T. This torque tends to change I1w0, so I1w0 moves into the direction of T. So, when T is pointing upward, I1w0 moves upward: the bicyclewheel-handle lifts itself from the support. (See Figure 1.)    
-```{figure} figures/figure_2.png  
----  
-width: 50%  
-name: figures/figure_2.png  
 ---  
 caption  
 ``` 

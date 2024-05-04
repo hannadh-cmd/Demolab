@@ -5,7 +5,7 @@
 <b> Subjects: </b>  
  1H10 (Action and Reaction) 1N20 (Conservation of Linear Momentum) 1Q40 (Conservation of Angular Momentum)   
 <b> Diagram: </b>  
-    
+   
 ```{figure} figures/figure_0.png  
 ---  
 width: 50%  
@@ -13,7 +13,7 @@ name: figures/figure_0.png
 ---  
 caption  
 ``` 
-     
+      
 <b> Equipment: </b>  
  
  *  Two small horseshoemagnets. 
@@ -29,7 +29,7 @@ caption
    
 <b> Remarks: </b>  
  
- *  Releasing the two magnets needs some practicing (see Figure1), both fingers need to move away from the magnets simultaneously.   
+ *  Releasing the two magnets needs some practicing (see Figure1), both fingers need to move away from the magnets simultaneously.    
 ```{figure} figures/figure_1.png  
 ---  
 width: 50%  

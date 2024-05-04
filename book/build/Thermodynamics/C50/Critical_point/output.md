@@ -32,7 +32,7 @@ caption
  *  There is a high pressure inside the chamber. The manufacturer indicates a maximum temperature of 100ºC.
      
 <b> Presentation: </b>  
- pressure chamber . 8 steam from flask         tubing              clamp               bypass           steam           out  A           B   
+ pressure chamber . 8 steam from flask         tubing              clamp               bypass          steam           out  A           B   
 ```{figure} figures/figure_1.png  
 ---  
 width: 50%  
@@ -50,4 +50,4 @@ caption
 <b> Sources: </b>  
  
  * 
-   
+    

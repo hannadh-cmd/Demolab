@@ -5,7 +5,7 @@
 <b> Subjects: </b>  
  1D50 (Central Forces)   
 <b> Diagram: </b>  
-    
+   
 ```{figure} figures/figure_0.png  
 ---  
 width: 50%  
@@ -13,7 +13,7 @@ name: figures/figure_0.png
 ---  
 caption  
 ``` 
-     
+      
 <b> Equipment: </b>  
  
  *  Ball suspended to a thread. 

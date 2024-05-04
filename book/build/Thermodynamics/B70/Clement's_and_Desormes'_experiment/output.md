@@ -1,2 +1,43 @@
 # Clement's and Desormes' experiment 
+ Clement's and Desormes' experiment.   
+<b> Aim: </b>  
  
+ *  To show an adiabatic proces. 
+ *  To determine the ratio of the specific heats of a gas.
+   
+<b> Subjects: </b>  
+ 4B70 (Adiabatic Processes)   
+<b> Diagram: </b>  
+   
+```{figure} figures/figure_0.png  
+---  
+width: 50%  
+name: figures/figure_0.png  
+---  
+caption  
+``` 
+      
+<b> Equipment: </b>  
+ 
+ *  Large container (we use a 5 liter decantationbottle) 
+ *  valve with large opening, 10mm 
+ *  syringe, 100ml 
+ *  U-tube manometer Clement's and Desormes' experiment.
+    
+<b> Presentation: </b>  
+ The valve of the container is closed. By means of the syringe an amount of air is pushed into the container. The manometer shows the raised pressure in the container (h1). Now the valve of the container is opened for a short time (just long enough to have the pressure in- and outside the container to be equal; about 1s in our situation). After closing the valve, the manometer shows that the pressure inside the container rises and after some time reaches a fixed value (h2). The ratio of heat capacities, Cp/CV can now be determined by 112hCpCvhhg==-   
+<b> Explanation: </b>  
+ The air in the container and syringe is at room temperature T0 and pressure p0.Pressing the syringe raises the pressure to p1. The manometer reads h1. (See Figure 1.)    
+```{figure} figures/figure_1.png  
+---  
+width: 50%  
+name: figures/figure_1.png  
+---  
+caption  
+``` 
+ Opening the valve makes the air expand adiabatically to pressure p0 and temperature falls to T2. The valve is quickly closed and now the trapped air in the container raises isochorically in temperature to T0 and pressure p3. The manometer reads h2. Consider the isothermic - and adiabatic process: Isothermic: pV=const. Vdp+pdV=0 idypdVV=- Adiabatic:.rpVconst=,10rrVdppVdVg-+=,adppdVVg=- These two combined: aidpdpdVdVg= Consider this for the same dV in both processes (see Figure 1) and we find: 112aidphdphhg==-   
+<b> Remarks: </b>  
+ 
+ *  It is easy to repeat the experiment a number of times. 
+ *  Instead of starting the experiment by pressing air into the container it can also be performed by sucking air out of it. (Figure 1 will be different, of course.)
+  

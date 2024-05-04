@@ -43,7 +43,7 @@ name: figures/figure_1.png
 ---  
 caption  
 ``` 
- The pattern scanner, as described in the list of equipment,is placed in the projected beam (see Figure1) and connected to the interface to scan and record position and intensity of the image on the pc.  Diffraction(1), introduction First the intensity of the broadened laserbeam is registered (see Figure2, red line). Then the razorblade is positioned vertically, blocking half the beam and again the whole pattern is scanned (seeFigure2, green line).    
+ The pattern scanner, as described in the list of equipment,is placed in the projected beam (see Figure1) and connected to the interface to scan and record position and intensity of the image on the pc.  Diffraction(1), introduction First the intensity of the broadened laserbeam is registered (see Figure2, red line). Then the razorblade is positioned vertically, blocking half the beam and again the whole pattern is scanned (seeFigure2, green line).   
 ```{figure} figures/figure_2.png  
 ---  
 width: 50%  

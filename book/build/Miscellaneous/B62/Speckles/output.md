@@ -5,7 +5,7 @@
 <b> Subjects: </b>  
  9B62 (Lasers)   
 <b> Diagram: </b>  
-   
+    
 ```{figure} figures/figure_0.png  
 ---  
 width: 50%  
@@ -13,7 +13,7 @@ name: figures/figure_0.png
 ---  
 caption  
 ``` 
-      
+     
 <b> Equipment: </b>  
  
  *  Laser 
@@ -29,7 +29,7 @@ caption
  *  Put a lens in front of your eye (we use +50 mm), blurring everything but the granual appearance of the spot remains perfectly distinct.
    
 <b> Explanation: </b>  
- The laser light is scattered from a diffuse surface. This light is spatially coherent and it will fill the surrounding region with a stationary interference pattern. At any position in space the resultant field is the superposition of many contributing scattered wavelengths. A real system of fringes is formed of the scattered waves that converge in front of the screen. After forming the real image in space, the rays proceed to diverge, and any region of the image can therefore be viewed directly with the eye approximately focussed.  Figure 1   
+ The laser light is scattered from a diffuse surface. This light is spatially coherent and it will fill the surrounding region with a stationary interference pattern. At any position in space the resultant field is the superposition of many contributing scattered wavelengths. A real system of fringes is formed of the scattered waves that converge in front of the screen. After forming the real image in space, the rays proceed to diverge, and any region of the image can therefore be viewed directly with the eye approximately focussed.   
 ```{figure} figures/figure_1.png  
 ---  
 width: 50%  
@@ -37,7 +37,7 @@ name: figures/figure_1.png
 ---  
 caption  
 ``` 
-    The constructive and destructive interference occur in the eye.  The diverging rays appear to the eye as if they had originated behind the scattering screen (see Figure 1)). This is a result of chromatic aberration: normal and farsighted eyes tend to focus red light behind the screen. (A nearsighted person in front of the screen.)    
+ The constructive and destructive interference occur in the eye.  The diverging rays appear to the eye as if they had originated behind the scattering screen (see Figure 1)). This is a result of chromatic aberration: normal and farsighted eyes tend to focus red light behind the screen. (A nearsighted person in front of the screen.)    
 <b> Sources: </b>  
  
  *  Hecht, Eugene, Optics, pag. 595-596 

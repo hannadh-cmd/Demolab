@@ -32,7 +32,7 @@ caption
 ``` 
  Before, we had this figure projected on a large sheet of cardboard and the elliptical time-segments were cut out (see Diagram). The similarity between the software-image and the cardboard-model is shown to the students. When the segments are placed one after the other on the balance, equal mass is observed. This also means that the areas of the segments are equal (Kepler's second law).      
 <b> Explanation: </b>  
- Kepler "found" his law while working on the astronomical data of Tycho Brahe. So in our demonstration the law should arise from watching the areas and "seeing" the equality. since Newton we can use the law of conservation of angular momentum. Using this law we can explain the statement of Kepler's second law.    
+ Kepler "found" his law while working on the astronomical data of Tycho Brahe. So in our demonstration the law should arise from watching the areas and "seeing" the equality. since Newton we can use the law of conservation of angular momentum. Using this law we can explain the statement of Kepler's second law.   
 ```{figure} figures/figure_2.png  
 ---  
 width: 50%  

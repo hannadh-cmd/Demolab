@@ -72,7 +72,17 @@ name: figures/figure_6.png
 ---  
 caption  
 ``` 
- Momentum is conserved: m1u1+m2u2=m1vrel These two equations give us:12112relmmuvmm-=+ and 12122relmuvmm=+ The next table shows the results of different situations concerning our demonstrations.  m1/m2 u1 u2 1/3 -1/2 v 1/2 v 1 0 v 3 1/2 v 3/2 v  This table explains the behaviour shown in presentation 1 and 3.  In the demonstration of figure 4, a hits b. b gets the speed of a (see table) and immediately hits c. b comes to rest and c gets the speed of b and immediately hits d, etc. At the end, e is launched with the speed v that a orignally had. In the demonstration of figure 5, the first thing that happens is that b hits c. b comes to rest and finally e is launched. In the meantime a hits b and a comes to rest and finally d is launched. If not reasoning step by step, the question could be raised why ball e is not coming out with double velocity. After all this would conserve momentum. But checking kinetic energy will show that in that case kinetic energy is not conserved.    
+ Colliding balls (1)    
+<b> Explanation: </b>  
+ Figure 6 shows the situation before and after an elastic collision. In an elastic collision, both momentum and kinetic energy are conserved. This means that vrel will not change: u2-u1=vrel  Figure 6  Momentum is conserved: m1u1+m2u2=m1vrel These two equations give us:12112relmmuvmm-=+ and 12122relmuvmm=+ The next table shows the results of different situations concerning our demonstrations.  m1/m2 u1 u2 1/3 -1/2 v 1/2 v 1 0 v 3 1/2 v 3/2 v   
+```{figure} figures/figure_7.png  
+---  
+width: 50%  
+name: figures/figure_7.png  
+---  
+caption  
+``` 
+    This table explains the behaviour shown in presentation 1 and 3.  In the demonstration of figure 4, a hits b. b gets the speed of a (see table) and immediately hits c. b comes to rest and c gets the speed of b and immediately hits d, etc. At the end, e is launched with the speed v that a orignally had. In the demonstration of figure 5, the first thing that happens is that b hits c. b comes to rest and finally e is launched. In the meantime a hits b and a comes to rest and finally d is launched. If not reasoning step by step, the question could be raised why ball e is not coming out with double velocity. After all this would conserve momentum. But checking kinetic energy will show that in that case kinetic energy is not conserved.    
 <b> Remarks: </b>  
  In succession to demonstration 2 (in the end with three balls), one ball with mass 3m and speed v hits the row of balls at rest. It can be seen that in this case not the last three balls are launched with speed v, but that all balls are moving now with different speeds and also the 3m-ball is still moving.    
 <b> Sources: </b>  

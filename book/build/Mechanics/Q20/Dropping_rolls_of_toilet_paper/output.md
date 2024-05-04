@@ -21,7 +21,7 @@ caption
 <b> Presentation: </b>  
  Two rolls of toilet paper are dropped simultaneously from the same height ( 2m), one ≈of them while holding on to the paper-end of the roll. This roll hits the floor later than the other.    
 <b> Explanation: </b>  
- When you drop the toilet paper roll while holding on to one end, the roll is momentarily rotating about an axis at the edge of the roll. The angular acceleration (α) of the roll during its fall can be found from Iτα=, where the net torque is given by 2mgrτ= (see Figure 1).    
+ When you drop the toilet paper roll while holding on to one end, the roll is momentarily rotating about an axis at the edge of the roll. The angular acceleration (α) of the roll during its fall can be found from Iτα=, where the net torque is given by 2mgrτ= (see Figure 1).   
 ```{figure} figures/figure_1.png  
 ---  
 width: 50%  

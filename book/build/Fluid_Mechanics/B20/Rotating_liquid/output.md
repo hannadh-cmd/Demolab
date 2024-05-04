@@ -5,7 +5,7 @@
 <b> Subjects: </b>  
  1E20 (Rotating Reference Frames) 2B20 (Static Pressure)   
 <b> Diagram: </b>  
-   
+    
 ```{figure} figures/figure_0.png  
 ---  
 width: 50%  
@@ -13,7 +13,7 @@ name: figures/figure_0.png
 ---  
 caption  
 ``` 
-      
+     
 <b> Equipment: </b>  
  
  *  Glass beaker, 1liter, fixed to an electric motor, variable speed (see Diagram) 

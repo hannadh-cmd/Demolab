@@ -21,7 +21,7 @@ caption
  *  Black screen
      
 <b> Presentation: </b>  
- The glass beaker is half filled with water. The beaker is submerged in a square reservoir (see Diagram). By means of the electric motor the glass is made rotating. Gradually the liquid climbs the wall of the beaker until it settles itself. The paraboloidic shape can be seen clearly. By means of a videocamera and projector, the paraboloid is projected on the blackboard. Chalk is used to draw the shape of the parabola on the blackboard. Now it is checked that the drawn shape is really paraboloidic by looking for the focal point (F) and course line(c). Our experience is that the positions of this point and line are found quickly by trial and error (until the distances of focal point and course line to the drawn line are equal: see Figure 1).     
+ The glass beaker is half filled with water. The beaker is submerged in a square reservoir (see Diagram). By means of the electric motor the glass is made rotating. Gradually the liquid climbs the wall of the beaker until it settles itself. The paraboloidic shape can be seen clearly. By means of a videocamera and projector, the paraboloid is projected on the blackboard. Chalk is used to draw the shape of the parabola on the blackboard. Now it is checked that the drawn shape is really paraboloidic by looking for the focal point (F) and course line(c). Our experience is that the positions of this point and line are found quickly by trial and error (until the distances of focal point and course line to the drawn line are equal: see Figure 1).      
 ```{figure} figures/figure_1.png  
 ---  
 width: 50%  
@@ -41,7 +41,7 @@ name: figures/figure_2.png
 ---  
 caption  
 ``` 
- The constant c indicates the position of the lowest point of the rotating liquid. If the x-axis in Figure1 is located in the surface of the liquid at w=0, then because of the conservation of mass and the assumed incompressibility of the water, one obtains:  00aydx=∫. After integration we find: 2216acgw=-.  2. Explaining can also be done from the point of view of hydrostatics (see Figure 3).      
+ The constant c indicates the position of the lowest point of the rotating liquid. If the x-axis in Figure1 is located in the surface of the liquid at w=0, then because of the conservation of mass and the assumed incompressibility of the water, one obtains:  00aydx=∫. After integration we find: 2216acgw=-.  2. Explaining can also be done from the point of view of hydrostatics (see Figure 3).     
 ```{figure} figures/figure_3.png  
 ---  
 width: 50%  

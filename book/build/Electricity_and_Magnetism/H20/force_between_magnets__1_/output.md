@@ -5,7 +5,7 @@
 <b> Subjects: </b>  
  5H20 (Forces on Magnets)   
 <b> Diagram: </b>  
-    
+   
 ```{figure} figures/figure_0.png  
 ---  
 width: 50%  
@@ -13,7 +13,7 @@ name: figures/figure_0.png
 ---  
 caption  
 ``` 
-     
+      
 <b> Equipment: </b>  
  
  *  6 Hardferrite magnets, 100x70x20 mm (ring). 
@@ -24,7 +24,7 @@ caption
  *  Camera and beamer focussed on the first two magnets (see DiagramB). force between magnets (1)
     
 <b> Presentation: </b>  
- The U-sections and shelf are set up as shown in Diagram. The magnets can roll freely in the U-profiles. The first magnet is placed in the shelf, stopped by a clamp (see Diagram). Then the second magnet is placed in the U-section. It rolls towards the first magnet, then stops due to repulsion. The set up is bumped gently by hand, in order to reduce the influence of friction on the setting of the distance between the repelling magnets. Then the seperation s, between the magnets can be read (the audience can do so thanks to the projection by the beamer) and the center to center distance (d) is determined by adding 100mm to s (see Figure 1).   
+ The U-sections and shelf are set up as shown in Diagram. The magnets can roll freely in the U-profiles. The first magnet is placed in the shelf, stopped by a clamp (see Diagram). Then the second magnet is placed in the U-section. It rolls towards the first magnet, then stops due to repulsion. The set up is bumped gently by hand, in order to reduce the influence of friction on the setting of the distance between the repelling magnets. Then the seperation s, between the magnets can be read (the audience can do so thanks to the projection by the beamer) and the center to center distance (d) is determined by adding 100mm to s (see Figure 1).    
 ```{figure} figures/figure_1.png  
 ---  
 width: 50%  

@@ -23,7 +23,7 @@ caption
 <b> Presentation: </b>  
  1. Place the ruler with its centerline on the thick centerline of the grid (see Diagram). With the stick you give a short blow to the center of the stick (a movement like you are playing pool-billiards). There will result a translation of the stick. 2. Again place the ruler with its centerline on the grid. With the stick you give a short blow to the ruler e.g. at 60cm. There will result a translation and rotation of the stick. 3. With the stick you give a short blow to the ruler at 100cm. There will result a translation and rotation of the stick. Special is that it rotates around the point of 33cm on the ruler. 4. With the stick you give a short blow to the ruler at 67cm. There will result a translation and rotation of the stick. Special is that it rotates around the beginning of the stick.  The point, around whioch the stick rotates is called "percussionpoint". In Presentation3 and -4, this point is on the stick; in Presentation2 it is outside the stick.    
 <b> Explanation: </b>  
- Due to the short blow, the ruler performs a movement that can be considered as consisting of two movements: a translation and rotation around its center of mass CM (see Figure1).      
+ Due to the short blow, the ruler performs a movement that can be considered as consisting of two movements: a translation and rotation around its center of mass CM (see Figure1).     
 ```{figure} figures/figure_1.png  
 ---  
 width: 50%  
@@ -31,7 +31,7 @@ name: figures/figure_1.png
 ---  
 caption  
 ``` 
- During the short blow force acts on the ruler. The total momentum of this force is Fdtp=∫. The ruler gets a speed vc, so the momentum of the ruler is mvc. This makes vc=p/m. Relative to CM the ruler has also an angular momentum Icwc=bp (see Figure2). So wc=bp/Ic. On one side of CM, vc and wc have the same direction; on the other side vc and wc are   Percussionpoint (1)    
+ During the short blow force acts on the ruler. The total momentum of this force is Fdtp=∫. The ruler gets a speed vc, so the momentum of the ruler is mvc. This makes vc=p/m. Relative to CM the ruler has also an angular momentum Icwc=bp (see Figure2). So wc=bp/Ic. On one side of CM, vc and wc have the same direction; on the other side vc and wc are   Percussionpoint (1)   
 ```{figure} figures/figure_2.png  
 ---  
 width: 50%  

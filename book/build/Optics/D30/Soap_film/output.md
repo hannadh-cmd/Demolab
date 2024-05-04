@@ -35,7 +35,7 @@ caption
 ``` 
  First, the image is whitish, but very soon a reddish haze appears, transforming into red and white stripes. Gradually more colors appear (see Figure1A) and when full color rainbows appear, also black stripes show themselves. Finally a broad whitish band appears on the upper side, abruptly followed by complete darkness (see Figure1B). Then the film breaks. The demonstration is repeated a couple of times because the colortransformations go pretty fast. Sometimes it needs to be repeated because the soapfilm breaks too soon.    
 <b> Explanation: </b>  
- The soap film is a water sandwich. A layer of water is held between two layers of soapmolecules. When the soap film is vertical the water drains down under the pull of gravity so that the top of the film becomes thin while the bottom becomes thick. Light reflects from the front and from the back of the soap film. These two reflections add up producing interference of light. Some wavelengths (colors) add up out of phase and are canceled while other colors add up in phase and are strengthened. Different thicknesses of soap film cancel/strengthen different colors. Black region The light waves reflected from the front of the soap film are inverted (phaseshift p), while  those from the back are not. Thus, soap films that are thin compared to all wavelength of light reflect no light at all. White region Going down the film until it is 1/4 wavelength of blue light in thickness the blue light is reflected strongly. At this point the film is about 1/8 of a wavelength of red light thick (taking that the wavelength of red light is about twice that of blue). So some red light is reflected. The result is that the transparant film shows a metallic white sheen that grows bluer and bluer towards the black region. Regions of thicker films When the film is 1/2 of a wavelength of blue light thick the blue waves cancel. But now the film is also 1/4 of the wavelength of red light thick, and the red ligth is reflected strongly. Every integral multiple of 1/2 blue wavelength, blue light is removed, every odd multiple of 1/4 wavelength of blue light is strengthened.     
+ The soap film is a water sandwich. A layer of water is held between two layers of soapmolecules. When the soap film is vertical the water drains down under the pull of gravity so that the top of the film becomes thin while the bottom becomes thick. Light reflects from the front and from the back of the soap film. These two reflections add up producing interference of light. Some wavelengths (colors) add up out of phase and are canceled while other colors add up in phase and are strengthened. Different thicknesses of soap film cancel/strengthen different colors. Black region The light waves reflected from the front of the soap film are inverted (phaseshift p), while  those from the back are not. Thus, soap films that are thin compared to all wavelength of light reflect no light at all. White region Going down the film until it is 1/4 wavelength of blue light in thickness the blue light is reflected strongly. At this point the film is about 1/8 of a wavelength of red light thick (taking that the wavelength of red light is about twice that of blue). So some red light is reflected. The result is that the transparant film shows a metallic white sheen that grows bluer and bluer towards the black region. Regions of thicker films When the film is 1/2 of a wavelength of blue light thick the blue waves cancel. But now the film is also 1/4 of the wavelength of red light thick, and the red ligth is reflected strongly. Every integral multiple of 1/2 blue wavelength, blue light is removed, every odd multiple of 1/4 wavelength of blue light is strengthened.    
 ```{figure} figures/figure_2.png  
 ---  
 width: 50%  
@@ -43,19 +43,11 @@ name: figures/figure_2.png
 ---  
 caption  
 ``` 
- The same holds for red light. Figure2 shows the result of this simplified blue-red dance. This figure clarifies that red dominates blue: the maximum of blue has always some red in it, while the maximum of red is "pure" red. In incandescent lamplight this is even stronger,due to the fact that red has a higher intensity in that light than blue.   Figures:   
+ The same holds for red light. Figure2 shows the result of this simplified blue-red dance. This figure clarifies that red dominates blue: the maximum of blue has always some red in it, while the maximum of red is "pure" red. In incandescent lamplight this is even stronger,due to the fact that red has a higher intensity in that light than blue.   Figures:    
 ```{figure} figures/figure_3.png  
 ---  
 width: 50%  
 name: figures/figure_3.png  
----  
-caption  
-``` 
-  Figures:    
-```{figure} figures/figure_4.png  
----  
-width: 50%  
-name: figures/figure_4.png  
 ---  
 caption  
 ``` 

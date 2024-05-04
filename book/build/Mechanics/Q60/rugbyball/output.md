@@ -5,7 +5,7 @@
 <b> Subjects: </b>  
  1Q60 (Rotational Stability)   
 <b> Diagram: </b>  
-   
+    
 ```{figure} figures/figure_0.png  
 ---  
 width: 50%  
@@ -13,13 +13,13 @@ name: figures/figure_0.png
 ---  
 caption  
 ``` 
-      
+     
 <b> Equipment: </b>  
  
  *  Rugbyball Rugbyball
     
 <b> Presentation: </b>  
- The rugbyball lies on the floor. By hand it is given a fast spin around its short axis (see Figure1).   Figure 1   
+ The rugbyball lies on the floor. By hand it is given a fast spin around its short axis (see Figure1).     
 ```{figure} figures/figure_1.png  
 ---  
 width: 50%  
@@ -31,7 +31,7 @@ caption
 <b> Presentation: </b>  
  The rugbyball lies on the floor. By hand it is given a fast spin around its short axis (see Figure1).   Figure 1  When the ball has made some turns it lifts itself, finally standing on its nose (tail) and rotating around its long axis.    
 <b> Explanation: </b>  
- • When the ball turns around its short axis (ws ) it will tilt its long axis a little due to unbalanced mass distribution. Then spinning around its long axis (wl ) will start (see Figure2) and at the same time, the long axis starts a precession (I2wl moves into the direction of Tp ).    
+ • When the ball turns around its short axis (ws ) it will tilt its long axis a little due to unbalanced mass distribution. Then spinning around its long axis (wl ) will start (see Figure2) and at the same time, the long axis starts a precession (I2wl moves into the direction of Tp ).     
 ```{figure} figures/figure_2.png  
 ---  
 width: 50%  

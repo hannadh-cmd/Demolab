@@ -5,7 +5,7 @@
 <b> Subjects: </b>  
  4D10 (Brownian Motion)   
 <b> Diagram: </b>  
-    
+   
 ```{figure} figures/figure_0.png  
 ---  
 width: 50%  
@@ -13,14 +13,14 @@ name: figures/figure_0.png
 ---  
 caption  
 ``` 
-    
+     
 <b> Equipment: </b>  
   Microscope.  Microscope slide on which a shallow "well" is made (211cm) by means of thin adhesive tape.  Thin cover glass (we use .1mm).  Solution op polystyrene latex particles, normally used as calibration particles in microscopic analysis (we use a solution with mean particle size 1.036m).  Video beamer.   
 <b> Safety: </b>  
  
       
 <b> Presentation: </b>  
- To show Brownian motion we use a solution of polystyrene latex particles in distilled water (see Equipment). A small drop of this solution is placed in the "well" on the microscope slide. The "well" is covered by the thin cover glass (see Figure1).      
+ To show Brownian motion we use a solution of polystyrene latex particles in distilled water (see Equipment). A small drop of this solution is placed in the "well" on the microscope slide. The "well" is covered by the thin cover glass (see Figure1).     
 ```{figure} figures/figure_1.png  
 ---  
 width: 50%  

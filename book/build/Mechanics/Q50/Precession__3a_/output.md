@@ -23,23 +23,11 @@ caption
 <b> Presentation: </b>  
  The wheel is rotating and held by a string. The rotating wheel has an angle of about 45°-60° with the vertical. The wheel will precess about a vertical axis. When the instructor pushes with the side of his hands or a stick against one of the handles of the wheel in the direction of precession, then the rotating wheel will rise to a more vertical position. This can be continued, even passing the vertical.    
 <b> Explanation: </b>  
- The rotating wheel will precess due to gravitational torque, mgs (Iw0 moves in the direction of this gravitational torque; precession) (see figure 1).    
+ The rotating wheel will precess due to gravitational torque, mgs (Iw0 moves in the direction of this gravitational torque; precession) (see figure 1).      
 ```{figure} figures/figure_1.png  
 ---  
 width: 50%  
 name: figures/figure_1.png  
----  
-caption  
-``` 
- Precession (3a)    
-<b> Presentation: </b>  
- The wheel is rotating and held by a string. The rotating wheel has an angle of about 45°-60° with the vertical. The wheel will precess about a vertical axis. When the instructor pushes with the side of his hands or a stick against one of the handles of the wheel in the direction of precession, then the rotating wheel will rise to a more vertical position. This can be continued, even passing the vertical.    
-<b> Explanation: </b>  
- The rotating wheel will precess due to gravitational torque, mgs (Iw0 moves in the direction of this gravitational torque; precession) (see figure 1).      
-```{figure} figures/figure_2.png  
----  
-width: 50%  
-name: figures/figure_2.png  
 ---  
 caption  
 ``` 

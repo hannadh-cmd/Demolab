@@ -12,7 +12,7 @@
 <b> Presentation: </b>  
  Hold the stick so that it is standing on its wheel. Incline the stick about 20º from the vertical. Indicate to the audience the marked center of mass. This point is right in front of your belly. Let the stick go and it will hit the floor. The marked center is right in front of your toes, so this point moved vertically down. The demonstration is done once more but now the wheel cannot move since your foot blocks it. Let the stick go and observe that the stick falls with the center of mass on the left of yourself; it even jumps away from your right foot to the left!    
 <b> Explanation: </b>  
- The behavior of the stick depends on the friction force between the tip and the floor on which it rests. When there is frictionless interaction the only forces acting on the pencil are its weight and the normal force, both of which are vertical. There are no horizontal forces on the stick. (See figure 1.)     
+ The behavior of the stick depends on the friction force between the tip and the floor on which it rests. When there is frictionless interaction the only forces acting on the pencil are its weight and the normal force, both of which are vertical. There are no horizontal forces on the stick. (See figure 1.)    
 ```{figure} figures/figure_0.png  
 ---  
 width: 50%  

@@ -1,7 +1,7 @@
 # Lloyds mirror 
      
 <b> Presentation: </b>  
- The room is darkened and the laser is switched on. By means of the +10 mm-lens an illuminated disk is projected on the white screen. The surface mirror is placed parallel to the diverging light beam (see figure 1)       
+ The room is darkened and the laser is switched on. By means of the +10 mm-lens an illuminated disk is projected on the white screen. The surface mirror is placed parallel to the diverging light beam (see figure 1)     
 ```{figure} figures/figure_0.png  
 ---  
 width: 50%  
@@ -11,23 +11,13 @@ caption
 ``` 
      
 <b> Presentation: </b>  
- The room is darkened and the laser is switched on. By means of the +10 mm-lens an illuminated disk is projected on the white screen. The surface mirror is placed parallel to the diverging light beam (see figure 1)     
+ The room is darkened and the laser is switched on. By means of the +10 mm-lens an illuminated disk is projected on the white screen. The surface mirror is placed parallel to the diverging light beam (see figure 1)     Figure 1 Figure 2  and then turned just a little, so that the outer rays of the beam are reflected (see figure 2). In the light spot on the wall the fringes are visible now.    
+<b> Explanation: </b>  
+ A portion of the wavefront is reflected from S (see figure 3).     
 ```{figure} figures/figure_1.png  
 ---  
 width: 50%  
 name: figures/figure_1.png  
----  
-caption  
-``` 
-     
-<b> Presentation: </b>  
- The room is darkened and the laser is switched on. By means of the +10 mm-lens an illuminated disk is projected on the white screen. The surface mirror is placed parallel to the diverging light beam (see figure 1)     Figure 1 Figure 2  and then turned just a little, so that the outer rays of the beam are reflected (see figure 2). In the light spot on the wall the fringes are visible now.    
-<b> Explanation: </b>  
- A portion of the wavefront is reflected from S (see figure 3).      
-```{figure} figures/figure_2.png  
----  
-width: 50%  
-name: figures/figure_2.png  
 ---  
 caption  
 ``` 

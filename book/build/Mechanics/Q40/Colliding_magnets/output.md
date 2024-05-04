@@ -19,7 +19,7 @@ caption
  *  Two large ceramic ring magnets, d=70 mm.
      
 <b> Presentation: </b>  
- Slide across the table (or floor) one ring towards the other to make a glancing collision. The two magnets stick together and rotate about their common center of mass (see Figure1). (No rotation is observed for head-on collisions.)     
+ Slide across the table (or floor) one ring towards the other to make a glancing collision. The two magnets stick together and rotate about their common center of mass (see Figure1). (No rotation is observed for head-on collisions.)    
 ```{figure} figures/figure_1.png  
 ---  
 width: 50%  

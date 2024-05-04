@@ -20,7 +20,7 @@ caption
   The needle point support is very sharp!
       
 <b> Presentation: </b>  
- A top-view image of the compass-needle is presented to the audience (see Figure 1).  North-South direction   
+ A top-view image of the compass-needle is presented to the audience (see Figure 1). North-South direction   
 ```{figure} figures/figure_1.png  
 ---  
 width: 50%  
@@ -30,7 +30,7 @@ caption
 ``` 
      
 <b> Presentation: </b>  
- A top-view image of the compass-needle is presented to the audience (see Figure 1).  Figure 1  It is standing still, pointing in the magnetic North-South direction. By hand we deflect the needle 90º. Then let it go. The needle swings quite some time before it comes to a rest again. We count around 30 complete swings in total.  Then the copper sheet is shifted close under the magnetic needle (see Diagram B and Figure 2). North-South direction   
+ A top-view image of the compass-needle is presented to the audience (see Figure 1).  Figure 1  It is standing still, pointing in the magnetic North-South direction. By hand we deflect the needle 90º. Then let it go. The needle swings quite some time before it comes to a rest again. We count around 30 complete swings in total.  Then the copper sheet is shifted close under the magnetic needle (see Diagram B and Figure 2).  North-South direction   
 ```{figure} figures/figure_2.png  
 ---  
 width: 50%  

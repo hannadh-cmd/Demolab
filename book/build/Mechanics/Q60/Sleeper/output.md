@@ -20,7 +20,7 @@ caption
  *  Top with felt-pen 
  *  Bicyclewheel with handlles, the handles fixed 
  *  Hard surface to spin the tops on 
- *  White standard hardboard (about 50 × 50 cm2)     
+ *  White standard hardboard (about 50 × 50 cm2)    
 ```{figure} figures/figure_1.png  
 ---  
 width: 50%  

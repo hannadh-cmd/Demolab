@@ -36,7 +36,7 @@ caption
 <b> Explanation: </b>  
  In order to convert a downward waterflow into a sideways waterflow, the T-tube has to exert a force on the water. The reaction to this force is responsible for the recoil to the other side. When a plate is placed in the outcoming waterstream, it also exerts a force on the plate. When this plate is fixed to the T-tube, these two forces cancel, so there is no recoil    
 <b> Remarks: </b>  
- This demonstration can be performed by the students themselves, by giving each of them a flexible soda straw, giving it a 90° bend (Figure 1).    
+ This demonstration can be performed by the students themselves, by giving each of them a flexible soda straw, giving it a 90° bend (Figure 1).   
 ```{figure} figures/figure_2.png  
 ---  
 width: 50%  

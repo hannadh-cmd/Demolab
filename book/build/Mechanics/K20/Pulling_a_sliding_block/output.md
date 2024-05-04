@@ -24,7 +24,7 @@ caption
 <b> Presentation: </b>  
  The slotted mass is made so heavy that the block just doesn’t move. Then you give a smash on the table and the block will start sliding and keep on sliding.    
 <b> Explanation: </b>  
- When the block just doesn't move, it means that Ff is almost equal to Ff,max=mstatFn (see Figure 1).   
+ When the block just doesn't move, it means that Ff is almost equal to Ff,max=mstatFn (see Figure 1).    
 ```{figure} figures/figure_1.png  
 ---  
 width: 50%  

@@ -41,7 +41,7 @@ name: figures/figure_2.png
 ---  
 caption  
 ``` 
- Coriolis (2)  Figure 2 3. -v' parallel to ω, so Fcor=0; 0cfF≠ 4. v' perpendicular to ω; direction of Fcor see Figure2 B. 0cfF≠. corF is opposing cfF. In general corF>>cfF, so there is a large F  pointing inward, in magnitude almost equal to corF. (See the result on point 4. in Figure 3.)  'v(cid:75)ω(cid:75)()2'corFmvω=−×(cid:75)(cid:75)(cid:75)'v(cid:75)ω(cid:75)A        B ()2'corFmvω=−×(cid:75)(cid:75)(cid:75)'vω×(cid:75)(cid:75)'vω×(cid:75)(cid:75)spindleω2.                4.   
+ Coriolis (2)  Figure 2 3. -v' parallel to ω, so Fcor=0; 0cfF≠ 4. v' perpendicular to ω; direction of Fcor see Figure2 B. 0cfF≠. corF is opposing cfF. In general corF>>cfF, so there is a large F  pointing inward, in magnitude almost equal to corF. (See the result on point 4. in Figure 3.) 'v(cid:75)ω(cid:75)()2'corFmvω=−×(cid:75)(cid:75)(cid:75)'v(cid:75)ω(cid:75)A        B ()2'corFmvω=−×(cid:75)(cid:75)(cid:75)'vω×(cid:75)(cid:75)'vω×(cid:75)(cid:75)spindleω2.                4.   
 ```{figure} figures/figure_3.png  
 ---  
 width: 50%  
@@ -65,7 +65,7 @@ name: figures/figure_5.png
 ---  
 caption  
 ``` 
- The two vΔ’s in that Figure 5 also show the directions of the forces needed for that. But there are no such forces applied to these positions of the paper since the paper is slack in its material substance. To create this force in the paper a deformation is needed. For that reason the upper part will bend outward and the lower part inward. These directions of deformation correspond with the deformation shown in Figure 3.   Coriolis (2) 3. Explaining it with ω-vectors. This is the “easiest” explanation. There are two ω-vectors in this demonstration: ω of the paper disk and ω of the demonstrator. In the demonstration these two add together (see Figure 6) to the green TOTALω. The rotating disk will orientate itself to this new rotational vector.  v’DISKωDEMONSTRATORωTOTALω  
+ The two vΔ’s in that Figure 5 also show the directions of the forces needed for that. But there are no such forces applied to these positions of the paper since the paper is slack in its material substance. To create this force in the paper a deformation is needed. For that reason the upper part will bend outward and the lower part inward. These directions of deformation correspond with the deformation shown in Figure 3.   Coriolis (2) 3. Explaining it with ω-vectors. This is the “easiest” explanation. There are two ω-vectors in this demonstration: ω of the paper disk and ω of the demonstrator. In the demonstration these two add together (see Figure 6) to the green TOTALω. The rotating disk will orientate itself to this new rotational vector.   v’DISKωDEMONSTRATORωTOTALω  
 ```{figure} figures/figure_6.png  
 ---  
 width: 50%  

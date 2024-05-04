@@ -5,7 +5,7 @@
 <b> Subjects: </b>  
  3A10 (Pendula) 3A95 (Non-Linear Systems)   
 <b> Diagram: </b>  
-    rotarymotionsensorslidependulum Driving crank   
+   rotarymotionsensorslidependulum Driving crank   
 ```{figure} figures/figure_0.png  
 ---  
 width: 50%  
@@ -13,7 +13,7 @@ name: figures/figure_0.png
 ---  
 caption  
 ``` 
-    
+     
 <b> Equipment: </b>  
  
  *  Parametrically driven pendulum  
@@ -23,7 +23,7 @@ caption
  *  Beamer to project monitor-image.
       
 <b> Presentation: </b>  
- The Pendulum is fixed on the shaft of the rotary motion sensor. The rotary motion sensor is fixed to the slide that is driven up and down by a crank mechanism (See Diagram and Figure 1). The driven pendulum, see Figure 1, is placed on a spot that can be observed by all the students but which can be closed off during the lecture i self. Place it for example just outside the lecture room, so the door can be shut during the lecture, while keeping the monitor image visible to the students       
+ The Pendulum is fixed on the shaft of the rotary motion sensor. The rotary motion sensor is fixed to the slide that is driven up and down by a crank mechanism (See Diagram and Figure 1). The driven pendulum, see Figure 1, is placed on a spot that can be observed by all the students but which can be closed off during the lecture i self. Place it for example just outside the lecture room, so the door can be shut during the lecture, while keeping the monitor image visible to the students     
 ```{figure} figures/figure_1.png  
 ---  
 width: 50%  
@@ -51,7 +51,7 @@ name: figures/figure_3.png
 ---  
 caption  
 ``` 
- • The Photogate is placed on driving wheel and will give use the moment at which  we will plot both the angular position and angular velocity of that moment in the Poincaré plot (see figure 4).    
+ • The Photogate is placed on driving wheel and will give use the moment at which  we will plot both the angular position and angular velocity of that moment in the Poincaré plot (see figure 4).   
 ```{figure} figures/figure_4.png  
 ---  
 width: 50%  

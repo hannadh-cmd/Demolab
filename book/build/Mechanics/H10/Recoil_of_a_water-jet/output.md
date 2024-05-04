@@ -5,7 +5,7 @@
 <b> Subjects: </b>  
  1H10 (Action and Reaction) 1N22 (Rockets)   
 <b> Diagram: </b>  
-    
+   
 ```{figure} figures/figure_0.png  
 ---  
 width: 50%  
@@ -13,7 +13,7 @@ name: figures/figure_0.png
 ---  
 caption  
 ``` 
-     
+      
 <b> Equipment: </b>  
  
  *  T-tube, ˘ 10 
@@ -22,7 +22,7 @@ caption
  *  tray to catch the water   Recoil of a water-jet
     
 <b> Presentation: </b>  
- The rubber hose with T-tube hangs vertically down. Opening the faucet makes the T-tube move away.     
+ The rubber hose with T-tube hangs vertically down. Opening the faucet makes the T-tube move away.    
 ```{figure} figures/figure_1.png  
 ---  
 width: 50%  

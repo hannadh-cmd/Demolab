@@ -30,7 +30,7 @@ caption
  When the ball hits the wooden block, the block experiences a force depending on the impulse Fdt∫. The elastic collision imparts more impulse to the block because the ball changes its momentum from +mv to -mv (a change of -2mv), while the ball hitting the clayed block changes its momentum from +mv to 0 (a change of -mv). So Fdt∫is twice as high in the first situation.    
 <b> Remarks: </b>  
  
- *  Sticking the piece of clay to the wooden block, we model it in a sharp way (see Figure 1).   
+ *  Sticking the piece of clay to the wooden block, we model it in a sharp way (see Figure 1).    
 ```{figure} figures/figure_1.png  
 ---  
 width: 50%  

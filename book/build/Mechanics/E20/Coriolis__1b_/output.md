@@ -5,7 +5,7 @@
 <b> Subjects: </b>  
  1E20 (Rotating Reference Frames) 1E30 (Coriolis Effect)   
 <b> Diagram: </b>  
- camera fixed to rotating platform rotating platform   
+  camera fixed to rotating platform rotating platform   
 ```{figure} figures/figure_0.png  
 ---  
 width: 50%  
@@ -13,7 +13,7 @@ name: figures/figure_0.png
 ---  
 caption  
 ``` 
-     
+    
 <b> Equipment: </b>  
   Rotating platform.  Board, with square grid (). 21010cm Tripod with camera fixed to rotating platform.  Large tripod to hold cables to the camera (see Diagram).  Clamping material.   
 <b> Safety: </b>  

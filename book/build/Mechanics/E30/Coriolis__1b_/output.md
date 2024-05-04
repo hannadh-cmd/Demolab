@@ -22,7 +22,7 @@ caption
 <b> Presentation: </b>  
  This demonstration is equal to “Coriolis 1a” in this database. The difference is that now the camera presents directly to the audience what is observed on the rotating platform. Again show that the steel ball follows a straight line in the lecturehall’s frame of reference, while the camera shows a curved path. Rotate the platform in both directions.   
 <b> Explanation: </b>  
- corF2corFmv. vand are continuously perpendicular to each other. Figure 1 shows    
+ corF2corFmv. vand are continuously perpendicular to each other. Figure 1 shows   
 ```{figure} figures/figure_1.png  
 ---  
 width: 50%  

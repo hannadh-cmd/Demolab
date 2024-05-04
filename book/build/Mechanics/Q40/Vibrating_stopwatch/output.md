@@ -5,7 +5,7 @@
 <b> Subjects: </b>  
  1Q40 (Conservation of Angular Momentum)   
 <b> Diagram: </b>  
-    
+   
 ```{figure} figures/figure_0.png  
 ---  
 width: 50%  
@@ -13,7 +13,7 @@ name: figures/figure_0.png
 ---  
 caption  
 ``` 
-     
+      
 <b> Equipment: </b>  
  
  *  Mechanical stopwatch 

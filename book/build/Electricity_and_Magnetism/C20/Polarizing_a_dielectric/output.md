@@ -5,7 +5,7 @@
 <b> Subjects: </b>  
  5A40 (Induced Charge) 5C20 (Dielectric)   
 <b> Diagram: </b>  
-   
+    
 ```{figure} figures/figure_0.png  
 ---  
 width: 50%  
@@ -13,7 +13,7 @@ name: figures/figure_0.png
 ---  
 caption  
 ``` 
-      
+     
 <b> Equipment: </b>  
  An assembly of overheadsheets: 
  *  Overheadsheet with capacitor drawn on it. 

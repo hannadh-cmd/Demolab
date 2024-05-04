@@ -41,7 +41,7 @@ name: figures/figure_2.png
 ---  
 caption  
 ``` 
- Coriolis (2)  Figure 2 3. -v' parallel to ω, so Fcor=0; 0cfF≠ 4. v' perpendicular to ω; direction of Fcor see Figure2 B. 0cfF≠. corF is opposing cfF. In general corF>>cfF, so there is a large F  pointing inward, in magnitude almost equal to corF. (See the result on point 4. in Figure 3.)  'v(cid:75)ω(cid:75)()2'corFmvω=−×(cid:75)(cid:75)(cid:75)'v(cid:75)ω(cid:75)A        B ()2'corFmvω=−×(cid:75)(cid:75)(cid:75)'vω×(cid:75)(cid:75)'vω×(cid:75)(cid:75)spindleω2.                4.   
+ Coriolis (2)  Figure 2 3. -v' parallel to ω, so Fcor=0; 0cfF≠ 4. v' perpendicular to ω; direction of Fcor see Figure2 B. 0cfF≠. corF is opposing cfF. In general corF>>cfF, so there is a large F  pointing inward, in magnitude almost equal to corF. (See the result on point 4. in Figure 3.) 'v(cid:75)ω(cid:75)()2'corFmvω=−×(cid:75)(cid:75)(cid:75)'v(cid:75)ω(cid:75)A        B ()2'corFmvω=−×(cid:75)(cid:75)(cid:75)'vω×(cid:75)(cid:75)'vω×(cid:75)(cid:75)spindleω2.                4.   
 ```{figure} figures/figure_3.png  
 ---  
 width: 50%  
@@ -57,7 +57,7 @@ name: figures/figure_4.png
 ---  
 caption  
 ``` 
- Coriolis (2) 2. Explaining it from the outside: In Figure 1 the whole piece of paper turns around the axis of the demonstrator. The magnitude of v’  hardly changes when the demonstrator starts turning withω around his axis (see the red arrows in Figure 4): We consider v’  remaining constant in magnitude.  Figure 4   But due to ω of the demonstrator v’  in position 2. and 4. changes direction appreciably. Forces are needed for that. Figure 5 shows how v’  changes direction in position 2. and in position 4.  v ’v ’v ’ v ’RωRωRωRω1.2.3. 4.vΔvΔv’ v’v’v’ω  
+ Coriolis (2) 2. Explaining it from the outside: In Figure 1 the whole piece of paper turns around the axis of the demonstrator. The magnitude of v’  hardly changes when the demonstrator starts turning withω around his axis (see the red arrows in Figure 4): We consider v’  remaining constant in magnitude.  Figure 4   But due to ω of the demonstrator v’  in position 2. and 4. changes direction appreciably. Forces are needed for that. Figure 5 shows how v’  changes direction in position 2. and in position 4.   v ’v ’v ’ v ’RωRωRωRω1.2.3. 4.vΔvΔv’ v’v’v’ω  
 ```{figure} figures/figure_5.png  
 ---  
 width: 50%  

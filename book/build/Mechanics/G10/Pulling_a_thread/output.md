@@ -5,7 +5,7 @@
 <b> Subjects: </b>  
  1G10 (Force, Mass, and Acceleration)   
 <b> Diagram: </b>  
-    
+   
 ```{figure} figures/figure_0.png  
 ---  
 width: 50%  
@@ -13,7 +13,7 @@ name: figures/figure_0.png
 ---  
 caption  
 ``` 
-    
+     
 <b> Equipment: </b>  
   Mass of 5kg.  4 identical masses, 1kg each (see Remarks).  Thin cotton thread.  A bar to hang the masses.   
 <b> Safety: </b>  

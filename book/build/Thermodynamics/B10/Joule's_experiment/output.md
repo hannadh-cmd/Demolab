@@ -27,7 +27,7 @@ caption
 <b> Presentation: </b>  
  Set up the equipment as shown in Diagram. Explain the set-up to the students and show that the thermocouple that is fixed on the resistor R, measures temperature, by touching the thermocouple with your fingers: the mV-meter shows a deflection. 1. Disconnect the generator from the resistance R. By turning the shaft with your hands the mass is lifted .75m above the ground. Then let it go.  It falls with a high speed on the ground (almost free fall). 2. By turning the shaft, the mass is lifted again .75m above the ground (position of cursor). The generator is connected to the resistance R. Let it go again. It falls slower towards the ground now. Almost immediately the mV-meter (temperature meter) shows a rise in temperature. Read its highest value before it shows the cooling down of the resistor. 3. Lift the mass to a height of 1.5m above the ground and let it go. The measured temperature-rise will be double the value we measured in the first .75m-experiment.  We conclude a linear relationship between mechanical work and temperature rise (or heat).   
 <b> Explanation: </b>  
- Mechanical work is transformed into heat in the system (See Figure 1). Part of that heat is dissipated in the resistor.    
+ Mechanical work is transformed into heat in the system (See Figure 1). Part of that heat is dissipated in the resistor.     
 ```{figure} figures/figure_1.png  
 ---  
 width: 50%  
@@ -40,7 +40,7 @@ caption
  
  *  The mass that drives the system has to go down relatively slow, otherwise the kinetic energy of this mass is too large compared to the energy that enters the system. 
  *  The temperature rise of the system is measured in the resistor (part of the total system). Of course there are losses in all transformations involved. We suppose that the efficiencies are constant for different values of h, thenTUΔ∝Δ. 
- *  When recording the thermocouple mV-reading we find a figure as shown in Joule's experiment Figure 2.    
+ *  When recording the thermocouple mV-reading we find a figure as shown in Joule's experiment Figure 2.     
 ```{figure} figures/figure_2.png  
 ---  
 width: 50%  

@@ -22,7 +22,7 @@ caption
 <b> Presentation: </b>  
  Release the ball and it will roll down the track, climb the other track, and so on. But gradually the distance it rolls reduces (due to rolling friction). After n runs the coefficient of rolling friction can be determined by measuring the distance the ball travels upward in the n-th run.    
 <b> Explanation: </b>  
- The potential energy of the ball equals (see Figure 1 and 2)     
+ The potential energy of the ball equals (see Figure 1 and 2)    
 ```{figure} figures/figure_1.png  
 ---  
 width: 50%  

@@ -5,7 +5,7 @@
 <b> Subjects: </b>  
  3B22 (Standing Waves)   
 <b> Diagram: </b>  
-   
+    
 ```{figure} figures/figure_0.png  
 ---  
 width: 50%  
@@ -13,7 +13,7 @@ name: figures/figure_0.png
 ---  
 caption  
 ``` 
-     
+    
 <b> Equipment: </b>  
   Longitudinal Wave Demonstrator (Pasco SE-9604).  Glass tube (with moveable piston).  Funnel, placed between glass tube and speaker.  Cork dust; poured into the glass tube and evenly distributed into a thin layer.  Loudspeaker.  Signal generator.  Meterstick.  Camera.   
 <b> Safety: </b>  
@@ -40,7 +40,7 @@ caption
 <b> Explanation: </b>  
  In Kundt's tube (1866) the cork dust is so light that moving air easily displaces it when a strong standing wave occurs. The cork is swept away at places where the air is in motion. The cork dust collects at places where the air is not moving. Referring to the Longitudinal Wave Demonstrator highlights what happens in Kundt's tube, e.g.: At a closed end the displacement of air is zero, while the pressure variations are maximum. At an open end there are no pressure variations while the displacement of air is maximum. At an open end the displacement of air goes beyond the length of the tube, so for nodes and anti-nodes the tube is a little "longer".              Kundt's tube   
 <b> Remarks: </b>  
-  In the area where cork dust collects, small vertical “curtains” appear, separated by around 4-5mm (see Figure below). Probably this is caused by higher harmonics? We are not sure and until now found nothing of this phenomenon in literature. When it is a higher harmonics it can be useful to try to perform the experiment with other particles, because then a different curtain-separation will occur? When you know more we like to hear from you.    
+  In the area where cork dust collects, small vertical “curtains” appear, separated by around 4-5mm (see Figure below). Probably this is caused by higher harmonics? We are not sure and until now found nothing of this phenomenon in literature. When it is a higher harmonics it can be useful to try to perform the experiment with other particles, because then a different curtain-separation will occur? When you know more we like to hear from you.   
 ```{figure} figures/figure_3.png  
 ---  
 width: 50%  
@@ -48,6 +48,6 @@ name: figures/figure_3.png
 ---  
 caption  
 ``` 
-    
+     
 <b> Sources: </b>  
  Giancoli, D.G., Physics for scientists and engineers with modern physics , third edition, pag. 426-427.  

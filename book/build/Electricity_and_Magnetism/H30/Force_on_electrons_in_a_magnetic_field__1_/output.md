@@ -5,7 +5,7 @@
 <b> Subjects: </b>  
  5H30 (Force on Moving Charges)   
 <b> Diagram: </b>  
-    
+   
 ```{figure} figures/figure_0.png  
 ---  
 width: 50%  
@@ -13,7 +13,7 @@ name: figures/figure_0.png
 ---  
 caption  
 ``` 
-    
+     
 <b> Equipment: </b>  
   Oscilloscope, cover removed (see Diagram).  2 Signal generators.  Small bar magnet.  Video camera and beamer to present the screen of the oscilloscope to a large audience.   
 <b> Safety: </b>  
@@ -22,7 +22,7 @@ caption
 <b> Presentation: </b>  
   Preparation: Remove the cover of the oscilloscope and notice the high tension labels (see: Safety).   
 <b> Presentation: </b>  
- Switch on the oscilloscope and set its time-base so a stable horizontal line appears on the screen (see Diagram). Explain to the students that a beam of electrons is moving from the back to the front side (fluorescent screen) of the oscilloscope, where it appears as a line.  1. Ask the students what will happen to that line when you approach the oscilloscope tube with a North pole coming from the left side of the oscilloscope. As a comment to their answers, show that the end of the line goes downward (see Figure 1).     
+ Switch on the oscilloscope and set its time-base so a stable horizontal line appears on the screen (see Diagram). Explain to the students that a beam of electrons is moving from the back to the front side (fluorescent screen) of the oscilloscope, where it appears as a line.  1. Ask the students what will happen to that line when you approach the oscilloscope tube with a North pole coming from the left side of the oscilloscope. As a comment to their answers, show that the end of the line goes downward (see Figure 1).    
 ```{figure} figures/figure_1.png  
 ---  
 width: 50%  
@@ -38,7 +38,7 @@ name: figures/figure_2.png
 ---  
 caption  
 ``` 
- Force on electrons in a magnetic field (1)  Figure 2  Then approach the front of the oscilloscope screen with the bar magnet. Figure 2 shows the effect on that line. Observe that in het centre of the bar magnet there is no displacement. A more detailed discussion with the students is needed to explain what is happening on the right and left (see Explanation).  3. The next challenging question is: “What will happen to the horizontal line when I approach it with the bar magnet parallel to that line?” After their answers do the demonstration (see Figure 3).     
+ Force on electrons in a magnetic field (1)  Figure 2  Then approach the front of the oscilloscope screen with the bar magnet. Figure 2 shows the effect on that line. Observe that in het centre of the bar magnet there is no displacement. A more detailed discussion with the students is needed to explain what is happening on the right and left (see Explanation).  3. The next challenging question is: “What will happen to the horizontal line when I approach it with the bar magnet parallel to that line?” After their answers do the demonstration (see Figure 3).    
 ```{figure} figures/figure_3.png  
 ---  
 width: 50%  
@@ -46,7 +46,7 @@ name: figures/figure_3.png
 ---  
 caption  
 ``` 
- Observe that above the magnet the line has risen above the original horizontal line, and at the left and right of the bar magnet that the line has descended below the original horizontal line.   Force on electrons in a magnetic field (1) 4. The oscilloscope is connected to the two signal generators and used as an x-y scope (see Figure 4).     
+ Observe that above the magnet the line has risen above the original horizontal line, and at the left and right of the bar magnet that the line has descended below the original horizontal line.   Force on electrons in a magnetic field (1) 4. The oscilloscope is connected to the two signal generators and used as an x-y scope (see Figure 4).    
 ```{figure} figures/figure_4.png  
 ---  
 width: 50%  

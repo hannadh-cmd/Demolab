@@ -29,7 +29,7 @@ caption
    
 <b> Remarks: </b>  
  
- *  Releasing the two magnets needs some practicing (see Figure1), both fingers need to move away from the magnets simultaneously.   
+ *  Releasing the two magnets needs some practicing (see Figure1), both fingers need to move away from the magnets simultaneously.    
 ```{figure} figures/figure_1.png  
 ---  
 width: 50%  

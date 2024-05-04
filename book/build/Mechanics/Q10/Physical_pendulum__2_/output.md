@@ -5,7 +5,7 @@
 <b> Subjects: </b>  
  1Q10 (Momentum of Inertia) 3A15 (Physical Pendula)   
 <b> Diagram: </b>  
-   
+    
 ```{figure} figures/figure_0.png  
 ---  
 width: 50%  
@@ -13,7 +13,7 @@ name: figures/figure_0.png
 ---  
 caption  
 ``` 
-      
+     
 <b> Equipment: </b>  
  
  *  4 sticks, one meter each, with holes at the ends. 

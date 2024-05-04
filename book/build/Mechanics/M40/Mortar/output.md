@@ -28,7 +28,7 @@ caption
  *  What goes up will come down. Wear your helmet when you make high launches.
      
 <b> Presentation: </b>  
- The dimensions of the components are such that when the mortar is assembled, the top of the steel ball is just level with the top of the launching tube (see Figure 1).      
+ The dimensions of the components are such that when the mortar is assembled, the top of the steel ball is just level with the top of the launching tube (see Figure 1).     
 ```{figure} figures/figure_1.png  
 ---  
 width: 50%  

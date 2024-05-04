@@ -31,7 +31,7 @@ name: figures/figure_1.png
 ---  
 caption  
 ``` 
- Figure 2    When the centre of mass (CM) is above the point of support, then there is a gravitational torque mgs (see Figure 2), pointing away from you.      Precession (1) This torque tends to change Iw0 , so Iw0 moves into the direction of mgs (see Figure 3),       
+ Figure 2    When the centre of mass (CM) is above the point of support, then there is a gravitational torque mgs (see Figure 2), pointing away from you.      Precession (1) This torque tends to change Iw0 , so Iw0 moves into the direction of mgs (see Figure 3),      
 ```{figure} figures/figure_2.png  
 ---  
 width: 50%  

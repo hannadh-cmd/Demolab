@@ -5,7 +5,7 @@
 <b> Subjects: </b>  
  4B20 (Convection) 4B30 (Conduction) 4B40 (Radiation)   
 <b> Diagram: </b>  
-    
+   
 ```{figure} figures/figure_0.png  
 ---  
 width: 50%  
@@ -13,7 +13,7 @@ name: figures/figure_0.png
 ---  
 caption  
 ``` 
-     
+      
 <b> Equipment: </b>  
  
  *  1.5m of copper wire, d=0.7mm (as used in house wiring) half of its length stripped of its insulation. 
@@ -26,7 +26,7 @@ caption
 <b> Presentation: </b>  
  The presentation is set up as shown in the diagram. The circuit is a Wheatstone bridge. Central part is the copper wire, half of its insulation removed. The oscilloscope is used as the balance detector in the bridge (the second not used scope-channel provides the zero reference line). 5A dc is made flowing through the bridge (flowing almost completely through the copper wire with its low resistance). In this situation the copper wire heats up only a little. Students can observe that the bridge can be balanced by means of the rheostat. The current is increased to 25A. The oscilloscope shows that the Wheatstone bridge becomes unbalanced: the line on the screen displaces itself slowly from its zero reference line (stable after about half a minute). This unbalance must be due to the temperature-difference between the insulated - and bare copper wire. Students are asked which of the two wires will have the highest temperature. (Our expereince is that almost all the students intuitively guess that the insulated wire has the highest temperature.) Now the bridge is balanced by means of the rheostat. The new balance of the bridge shows clearly that the bare copper wire has increased most its resistance value, so this wire has a higher temperature than the insulated wire!    
 <b> Explanation: </b>  
- See Figure1A. T1 is the temperature of the hotter surface and To the temperature of the colder surroundings.     
+ See Figure1A. T1 is the temperature of the hotter surface and To the temperature of the colder surroundings.    
 ```{figure} figures/figure_1.png  
 ---  
 width: 50%  

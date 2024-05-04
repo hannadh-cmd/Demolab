@@ -5,7 +5,7 @@
 <b> Subjects: </b>  
  1K20 (Friction)   
 <b> Diagram: </b>  
-    
+   
 ```{figure} figures/figure_0.png  
 ---  
 width: 50%  
@@ -13,7 +13,7 @@ name: figures/figure_0.png
 ---  
 caption  
 ``` 
-    
+     
 <b> Equipment: </b>  
   Table.  Chain, ( 1.20 m).   Bar.   
 <b> Safety: </b>  

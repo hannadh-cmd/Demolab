@@ -25,7 +25,7 @@ caption
  See the explanation in "Reflections (1)" in this database. Also applying the energy-concept can strengthen the insight in the shown phenomenon: In case of the free end there must be total reflection in the same way, since there is no mechanism by which energy can be extracted, not even temporarily. When the end of the wave demonstrator is fixed, a convenient model to explain the phase change by 180 degrees is that the end must be a node, so at any moment the sum of the arriving pulse and the reflected one must add to zero.    
 <b> Remarks: </b>  
  
- *  Before showing the demonstration it is advised to practice with it, because it needs some 'skill' to produce a sharp disturbance in the upward direction without overshoot in the downward direction. And such a disturbance is needed for a good demonstration. A good way to do this is that with one hand you produce the disturbance and the other hand you hold in the zero-deflection position as a reference you should not pass (see figure below). making the disturbance   
+ *  Before showing the demonstration it is advised to practice with it, because it needs some 'skill' to produce a sharp disturbance in the upward direction without overshoot in the downward direction. And such a disturbance is needed for a good demonstration. A good way to do this is that with one hand you produce the disturbance and the other hand you hold in the zero-deflection position as a reference you should not pass (see figure below). reference hand making the disturbance   
 ```{figure} figures/figure_1.png  
 ---  
 width: 50%  
@@ -39,5 +39,5 @@ caption
  
  *  PASCO scientific, Instruction Manual for the PASCO scientific Model SE-9600, 9601, 9602, and 9603. 
  *  Giancoli, D.G., Physics for scientists and engineers with modern physics, pag. 402-403. 
- *  Jewett, J.W. and Serway, R.A., Physics for Scientists and Engineers with Modern Physics (seventh edition), pg 461-462.  reference hand
- 
+ *  Jewett, J.W. and Serway, R.A., Physics for Scientists and Engineers with Modern Physics (seventh edition), pg 461-462.
+  

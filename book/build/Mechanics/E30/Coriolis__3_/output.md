@@ -5,7 +5,7 @@
 <b> Subjects: </b>  
  1E20 (Rotating Reference Frames) 1E30 (Coriolis Effect)   
 <b> Diagram: </b>  
-    
+   
 ```{figure} figures/figure_0.png  
 ---  
 width: 50%  
@@ -13,7 +13,7 @@ name: figures/figure_0.png
 ---  
 caption  
 ``` 
-     
+      
 <b> Equipment: </b>  
  
  *  Globe. 
@@ -21,7 +21,7 @@ caption
  *  Toothpick (F in DiagramB). Coriolis (3)
     
 <b> Presentation: </b>  
- On the globe our local position is indicated by sticking a small puppet at our coordinates (Delft, 52o Nothern latitude; see DiagramA). On the globe the sense of rotation is indicated by arrows stuck to the equator. This sense of rotation is also indicated by the wo-vector stuck into the Northpole. The flexible straw is used as a resource to indicate simultaneously the direction of wo and the direction into which an object is moving (velocity v). The long arm of the straw is used to indicate the direction of wo and the short arm used to indicate the direction of v. Applying the corkscrew rule (()2corFmvw=-·(cid:1)(cid:1)(cid:1)), the direction of Fcor is indicated by sticking the toothpick into the elbow of the flexible straw (see Diagram). The advantage of using the flexible straw is that easily the angle between wo and v can be changed; the toothpick can be easily shifted in and out the elbow when the corkscrew rule indicates that the direction of Fcor is different (see Figure1).      
+ On the globe our local position is indicated by sticking a small puppet at our coordinates (Delft, 52o Nothern latitude; see DiagramA). On the globe the sense of rotation is indicated by arrows stuck to the equator. This sense of rotation is also indicated by the wo-vector stuck into the Northpole. The flexible straw is used as a resource to indicate simultaneously the direction of wo and the direction into which an object is moving (velocity v). The long arm of the straw is used to indicate the direction of wo and the short arm used to indicate the direction of v. Applying the corkscrew rule (()2corFmvw=-·(cid:1)(cid:1)(cid:1)), the direction of Fcor is indicated by sticking the toothpick into the elbow of the flexible straw (see Diagram). The advantage of using the flexible straw is that easily the angle between wo and v can be changed; the toothpick can be easily shifted in and out the elbow when the corkscrew rule indicates that the direction of Fcor is different (see Figure1).     
 ```{figure} figures/figure_1.png  
 ---  
 width: 50%  

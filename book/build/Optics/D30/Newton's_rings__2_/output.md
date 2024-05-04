@@ -5,7 +5,7 @@
 <b> Subjects: </b>  
  6D30 (Thin Films)   
 <b> Diagram: </b>  
-    
+   
 ```{figure} figures/figure_0.png  
 ---  
 width: 50%  
@@ -13,7 +13,7 @@ name: figures/figure_0.png
 ---  
 caption  
 ``` 
-    
+     
 <b> Equipment: </b>  
   Newton's rings apparatus (convex lens pressed against flat glass plate (Duboscq); pressure can be adjusted by screws in the ring-mount).  Hg-lamp, with power-unit.  Objective lens.  Two lenses f=150mm/diam.=70mm.  Flat surface mirror.  Black screen. Newton's rings (2)   
 <b> Safety: </b>  
@@ -28,7 +28,7 @@ name: figures/figure_1.png
 ---  
 caption  
 ``` 
- After the lamp is heated up, situation of Diagram A is presented to the students, to indicate that there will be a reflected and a transmitted beam of light. Then the transmitted beam is blocked (black screen) and using the mirror and a +150mm-lens the reflection image is projected (Diagram B). Clearly Newton's rings are observed. Observe the central dark spot (see also: Remarks) observe the colored rings, the color-sequence and observe the diminishing distance between the rings when moving away from the centre. Changing the pressure on the Newton's rings apparatus will change/move the reflected image. Then the black screen is removed and using the second +150mm-lens the transmitted image is projected next to the reflected image (see Diagram C and Figure 1). It is clearly visible that both images are complementary. At first glance, the observed colors look rainbowlike, but careful observation shows that it differs from a rainbow (see Figure 2; reality is much better than this photograph).  Newton's rings (2)    
+ After the lamp is heated up, situation of Diagram A is presented to the students, to indicate that there will be a reflected and a transmitted beam of light. Then the transmitted beam is blocked (black screen) and using the mirror and a +150mm-lens the reflection image is projected (Diagram B). Clearly Newton's rings are observed. Observe the central dark spot (see also: Remarks) observe the colored rings, the color-sequence and observe the diminishing distance between the rings when moving away from the centre. Changing the pressure on the Newton's rings apparatus will change/move the reflected image. Then the black screen is removed and using the second +150mm-lens the transmitted image is projected next to the reflected image (see Diagram C and Figure 1). It is clearly visible that both images are complementary. At first glance, the observed colors look rainbowlike, but careful observation shows that it differs from a rainbow (see Figure 2; reality is much better than this photograph).  Newton's rings (2)   
 ```{figure} figures/figure_2.png  
 ---  
 width: 50%  

@@ -5,7 +5,7 @@
 <b> Subjects: </b>  
  1K10 (Dynamic Torque)   
 <b> Diagram: </b>  
-    
+   
 ```{figure} figures/figure_0.png  
 ---  
 width: 50%  
@@ -13,7 +13,7 @@ name: figures/figure_0.png
 ---  
 caption  
 ``` 
-     
+      
 <b> Equipment: </b>  
  
  *  A (large) spool of thread. 
@@ -48,7 +48,7 @@ name: figures/figure_2.png
 caption  
 ``` 
  
- *  A nice extension of this demonstration is to set the system up so that the string passes over a pully and the force is supplied by hanging a weight from the end of the string (Figure 3).     
+ *  A nice extension of this demonstration is to set the system up so that the string passes over a pully and the force is supplied by hanging a weight from the end of the string (Figure 3).    
 ```{figure} figures/figure_3.png  
 ---  
 width: 50%  

@@ -5,7 +5,7 @@
 <b> Subjects: </b>  
  1N20 (Conservation of Linear Momentum)   
 <b> Diagram: </b>  
-   
+    
 ```{figure} figures/figure_0.png  
 ---  
 width: 50%  
@@ -13,7 +13,7 @@ name: figures/figure_0.png
 ---  
 caption  
 ``` 
-      
+     
 <b> Equipment: </b>  
  
  *  Two light carts, easily rolling. 

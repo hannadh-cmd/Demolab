@@ -23,7 +23,7 @@ caption
 <b> Presentation: </b>  
  Preparation. The glass of the overhead projector and the coverglass are cleaned and polished. Prersentation. The coverglass rests against the wooden block (see Diagram A). By hand, the inclination of the coverglass is decreased by pulling the wooden block very slowly to the right (see Diagram B). At a certain moment the coverglass starts sliding: It moves downwards and away from the wooden block. Pose the question to the students: "What makes the coverglass move away from the wooden block?"    
 <b> Explanation: </b>  
- During the sliding movement, five forces are acting: The weight G, the normal forces NA and NB and the friction forces in A and B (see Figure1; the friction forces are neglected).   
+ During the sliding movement, five forces are acting: The weight G, the normal forces NA and NB and the friction forces in A and B (see Figure1; the friction forces are neglected).    
 ```{figure} figures/figure_1.png  
 ---  
 width: 50%  

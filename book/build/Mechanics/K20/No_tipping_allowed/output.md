@@ -34,7 +34,7 @@ caption
 <b> Presentation: </b>  
  The lateral standing cylinder is given a push by hand. (Push the cylinder on the bottom half, a number of times from left to right and vice versa). Cylinder l1 never tips, l5 always tips, l2, l3 and l4 tip sometimes/often (l3, 50%).    
 <b> Explanation: </b>  
- On the verge of tipping, the upward normal force acts at the leading edge of the base (Figure 1, point A).  Figure 1  In the decelarating reference frame ma acts on the center of mass, along with the vertical gravitational force mg. (See Figure 2).    
+ On the verge of tipping, the upward normal force acts at the leading edge of the base (Figure 1, point A).  Figure 1  In the decelarating reference frame ma acts on the center of mass, along with the vertical gravitational force mg. (See Figure 2).     
 ```{figure} figures/figure_2.png  
 ---  
 width: 50%  

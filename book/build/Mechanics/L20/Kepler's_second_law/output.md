@@ -22,7 +22,7 @@ caption
  *  Beamer, to project the monitor-image on a large screen.
      
 <b> Presentation: </b>  
- By means of the software program an elliptical orbit is projected (see Figure 1A). The speed in the orbit is visualized when in the orbit points are plotted at constant time-intervals. This orbit is also plotted when the time-interval applied is 16 times larger (Figure 1B).      
+ By means of the software program an elliptical orbit is projected (see Figure 1A). The speed in the orbit is visualized when in the orbit points are plotted at constant time-intervals. This orbit is also plotted when the time-interval applied is 16 times larger (Figure 1B).     
 ```{figure} figures/figure_1.png  
 ---  
 width: 50%  

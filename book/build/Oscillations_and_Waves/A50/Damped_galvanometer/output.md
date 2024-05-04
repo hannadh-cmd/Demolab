@@ -5,7 +5,7 @@
 <b> Subjects: </b>  
  3A50 (Damped Oscillators) 5K10 (Induced Currents and Forces)   
 <b> Diagram: </b>  
-  oscillation chalk line (reflection)   
+ oscillation chalk line (reflection)   
 ```{figure} figures/figure_0.png  
 ---  
 width: 50%  
@@ -13,7 +13,7 @@ name: figures/figure_0.png
 ---  
 caption  
 ``` 
-    
+     
 <b> Equipment: </b>  
  
  *  Lightspot galvanometer 
@@ -39,7 +39,7 @@ caption
  Textbooks give a lot of information about damped harmonic motion. Usually the description is about a simple one dimensional mass-spring system. The galvanometer-system in our demonstration is a torsion pendulum in which a coil is suspended from a wire. The analysis of such a torsion pendulum can be done analog to that of a mass-spring system. When the torsion pendulum is twisted an angle θ there will be a torque (τ) that tries     
 <b> Remarks: </b>  
  
- *  When the students have not seen a torsionwire system before, such a system is shortly explained to them using a large scale model (a piece of rope, having a rectangular sheet of metal and a small coil, taped to it. See Figure 2.)    
+ *  When the students have not seen a torsionwire system before, such a system is shortly explained to them using a large scale model (a piece of rope, having a rectangular sheet of metal and a small coil, taped to it. See Figure 2.)   
 ```{figure} figures/figure_2.png  
 ---  
 width: 50%  

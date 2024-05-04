@@ -1,2 +1,63 @@
 # Resolution 
+    
+<b> Aim: </b>  
+ To show how diffraction limits the resolution of an optical system.    
+<b> Subjects: </b>  
+ 6C10 (Diffraction From Two Sources)   
+<b> Diagram: </b>  
+ Diaphragm Aluminum foil Lamp   
+```{figure} figures/figure_0.png  
+---  
+width: 50%  
+name: figures/figure_0.png  
+---  
+caption  
+``` 
+    
+<b> Equipment: </b>  
+  Rotatable disc with 8 holes: 3.0, 2.5, 2.0, 1.5, 1.0, 0.5, 0.4 and 0.3 mm (see Figure1).  Aluminium foil with 2 pair of holes fitted on a stand (see Diagram and Figure2).  Lamp, 220V/200W.  Variable transformer on the 220V line voltage.  Camera with zoom lens.   
+<b> Safety: </b>  
+  No remarks.
+     
+<b> Presentation: </b>  
+ Preparation Built the demonstration as shown in the   
+<b> Diagram: </b>  
+ -Focus the camera on the Aluminium foil. -The rotatable disc is placed as close as possible to the camera. -The lamp should not be too close to the Aluminum foil, because we need parallel light beams     from the holes in the Aluminium foil. To avoid scattered light a cardboard tube is placed    between lamp and the Aluminium foil. -Adjust the vertical and horizontal position of the lamp and also its intensity to get a satisfying     illumination of the small holes in the foil.   
+```{figure} figures/figure_1.png  
+---  
+width: 50%  
+name: figures/figure_1.png  
+---  
+caption  
+``` 
+     
+<b> Presentation: </b>  
+ Preparation Built the demonstration as shown in the   
+<b> Diagram: </b>  
+ -Focus the camera on the Aluminium foil. -The rotatable disc is placed as close as possible to the camera. -The lamp should not be too close to the Aluminum foil, because we need parallel light beams     from the holes in the Aluminium foil. To avoid scattered light a cardboard tube is placed    between lamp and the Aluminium foil. -Adjust the vertical and horizontal position of the lamp and also its intensity to get a satisfying     illumination of the small holes in the foil.  Figure 1  The lamp is switched on. The rotatable disc has its largest hole in position. The camera is focussed at the pairs of holes in the aluminium foil. The holes of both pairs in the aluminium foil are observed as separate images.   
+```{figure} figures/figure_2.png  
+---  
+width: 50%  
+name: figures/figure_2.png  
+---  
+caption  
+``` 
+ Presentation Choose the smallest hole in the rotatable disc. Two rather hazy patches of light are observed by the camera. One of the two patches gives the idea that it could be a double spot. Then a larger hole is selected on the rotatable disc and we see that our idea of one of the light patches being two separate spots is strengthened. When we continue to select larger holes on the rotatable disc the light spot resolves as really consisting of two light spots. Even the other light spot finally resolves into two! Figure 3 shows the sequence of the observed light spots.   Two faint spots Diaphragm (mm)           .3                   .4                   .5                   1.0                 1.5    1.22D                 .002               .0015             .0012            .00061           .00041   
+```{figure} figures/figure_3.png  
+---  
+width: 50%  
+name: figures/figure_3.png  
+---  
+caption  
+``` 
+   Figure 3  (In demonstrating we also go again backwards to smaller holes in the diaphragm.)     
+<b> Explanation: </b>  
+ If two point objects are very close, the diffraction patterns of their images will overlap. As the objects are moved closer, a separation is reached where you can't tell if there are two overlapping images or a single image. The separation at which this happens is stated by Lord Rayleigh: two images are just resolvable when the centre of the diffraction disk of one image is directly over the first minimum in the diffraction disc of the other. A circular hole shows a diffraction pattern with a central maximum of half width: 1.22D, where D is the diameter of the circular opening. Calculating with  = 500nm we get for the smallest hole on the rotatable disc D = .3mm,  = 2x10-3.  Two faint spots Diaphragm (mm)           .3                   .4                   .5                   1.0                 1.5    1.22D                 .002               .0015             .0012            .00061           .00041   
+```{figure} figures/figure_4.png  
+---  
+width: 50%  
+name: figures/figure_4.png  
+---  
+caption  
+``` 
  

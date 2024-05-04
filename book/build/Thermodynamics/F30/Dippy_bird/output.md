@@ -5,7 +5,7 @@
 <b> Subjects: </b>  
  4C33 (Vapor Pressure) 4F30 (Heat Cycles)   
 <b> Diagram: </b>  
-    
+   
 ```{figure} figures/figure_0.png  
 ---  
 width: 50%  
@@ -13,7 +13,7 @@ name: figures/figure_0.png
 ---  
 caption  
 ``` 
-    
+     
 <b> Equipment: </b>  
   Dippy bird.  Small beaker, filled with distilled water.  (Second dippy bird and lamp; see at the end of 'Explanation'.)   
 <b> Safety: </b>  

@@ -32,7 +32,7 @@ name: figures/figure_1.png
 ---  
 caption  
 ``` 
- When the physical pendulum is a long uniform stick of length Flits moment of inertia is 2112cFIml=and when it oscillates around a point A a distance 12fsl=away from C, then 2211122()AImlml=+, so:213AFIml=. The period of the pendulum becomes: 213231222FFFFmllTmglgππ==. A mathematical pendulum of length Ml has a moment of inertia 2AMIml=and so: 222MMMMmllTmglgππ==. Physical pendulum (1) Compound pendulum When we want TF=TM , then we need that 23MFll=. This Mlis called the reduced length of the physical pendulum. 2. When the physical pendulum is suspended in a point B, such that its remaining length is Ml, then again the period is the same! (See Figure 2) 2BITmgsπ= 22112BFImlms=+  Figure 2   
+ When the physical pendulum is a long uniform stick of length Flits moment of inertia is 2112cFIml=and when it oscillates around a point A a distance 12fsl=away from C, then 2211122()AImlml=+, so:213AFIml=. The period of the pendulum becomes: 213231222FFFFmllTmglgππ==. A mathematical pendulum of length Ml has a moment of inertia 2AMIml=and so: 222MMMMmllTmglgππ==. Physical pendulum (1) Compound pendulum When we want TF=TM , then we need that 23MFll=. This Mlis called the reduced length of the physical pendulum. 2. When the physical pendulum is suspended in a point B, such that its remaining length is Ml, then again the period is the same! (See Figure 2) 2BITmgsπ= 22112BFImlms=+   
 ```{figure} figures/figure_2.png  
 ---  
 width: 50%  
@@ -40,10 +40,10 @@ name: figures/figure_2.png
 ---  
 caption  
 ``` 
-  12MFsll=− and with 23MFll=, and 16Fsl=, we find:22211112369BFFFImlmlml=+=. Then the period will be: 219231622FFFmllTmglgππ== So this pendulum has the same reduced length and the same period as the physical pendulum shown in the first presentation. 3. Between the suspension of A and B the presentation shows that a minimum period appears (suspension at D; see Diagram). Now: 2DITmgsπ= (D being some point at s away from C.) 2dcIIms=+and with 2112cFIml=we find: 2211222112FFmlmslTmgssgππ+==+ T  being a minimum for 0dTds=, we find: 12Fls=. Physical pendulum (1) Compound pendulum The length of the stick (Fl) is 1 meter, so s  equals10.28912=meters.   
+ 12MFsll=− and with 23MFll=, and 16Fsl=, we find:22211112369BFFFImlmlml=+=. Then the period will be: 219231622FFFmllTmglgππ== So this pendulum has the same reduced length and the same period as the physical pendulum shown in the first presentation. 3. Between the suspension of A and B the presentation shows that a minimum period appears (suspension at D; see Diagram). Now: 2DITmgsπ= (D being some point at s away from C.) 2dcIIms=+and with 2112cFIml=we find: 2211222112FFmlmslTmgssgππ+==+ T  being a minimum for 0dTds=, we find: 12Fls=. Physical pendulum (1) Compound pendulum The length of the stick (Fl) is 1 meter, so s  equals10.28912=meters.   
 <b> Remarks: </b>  
  
- *  In order to give the physical pendulum a length of 1 meter and yet have a hole at the ends of this stick, we have triangularly shaped the ends (see Figure 3).    
+ *  In order to give the physical pendulum a length of 1 meter and yet have a hole at the ends of this stick, we have triangularly shaped the ends (see Figure 3).   
 ```{figure} figures/figure_3.png  
 ---  
 width: 50%  
