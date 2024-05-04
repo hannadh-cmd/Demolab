@@ -75,7 +75,7 @@ html:
   comments:
     hypothesis              : false # Hypothesis for comments
     utterances              : false
-  announcement: "<p style=\"font-size:100px\">&#128680;</p> Under construction, this is a randomly selected group of demonstrations to reduce loading times <p style=\"font-size:100px\">&#128680;</p>"
+  announcement              : "Under construction, this is a randomly selected group of demonstrations to reduce loading times"
 
   #template:                  # rph 18Jan2024 stats histogram page
   #  path                    : book/_layouts # rph 18Jan2024 stats histogram page
