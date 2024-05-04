@@ -1,0 +1,42 @@
+# Colliding magnets 
+  Title: Colliding magnets    
+<b> Aim: </b>  
+ To show that a linearly moving mass also can posess angular momentum.    
+<b> Subjects: </b>  
+ 1Q40 (Conservation of Angular Momentum)   
+<b> Diagram: </b>  
+   
+```{figure} figures/figure_0.png  
+---  
+width: 50%  
+name: figures/figure_0.png  
+---  
+caption  
+``` 
+      
+<b> Equipment: </b>  
+ 
+ *  Two large ceramic ring magnets, d=70 mm.
+     
+<b> Presentation: </b>  
+ Slide across the table (or floor) one ring towards the other to make a glancing collision. The two magnets stick together and rotate about their common center of mass (see Figure1). (No rotation is observed for head-on collisions.)     
+```{figure} figures/figure_1.png  
+---  
+width: 50%  
+name: figures/figure_1.png  
+---  
+caption  
+``` 
+ In the beginning there is no rotation, so the question to the students is: "From where does this rotation emerge? Is this demonstration violating the law of conservation of angular momentum?"    
+<b> Explanation: </b>  
+ A linearly moving object possesses angular momentum lrp=·(cid:1)(cid:1)(cid:1)where p(cid:1)is the linear momentum and r(cid:1)is the position vector relative to some axis (r(cid:1)is the amount of glancing). The centre of mass of the moving magnet (CM1) has angular momentum relative to the common centre of mass of both magnets. During the whole experiment this angular momentum is conserved and due to the sticking together this angular momentum is visible as a rotation around the common centre of mass. (Also the amount of linear momentum is visible in the linear movement of the pair of magnets after the collision.)    
+<b> Remarks: </b>  
+ 
+ *  Because the magnet is fired by hand, some practice is needed to make nice glancing collisions. 
+ *  We have taped the sides of the magnets in order to prevent damage when the magnets collide. (See figure 1.)
+   
+<b> Sources: </b>  
+ 
+ *  Ehrlich, R., Why Toast Lands Jelly-Side Down: Zen and the Art of Physics Demonstrations, pag. 66 
+ *  Mansfield, M and O'Sullivan, C., Understanding physics, pag. 103
+  

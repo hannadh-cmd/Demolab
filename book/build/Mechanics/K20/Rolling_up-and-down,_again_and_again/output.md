@@ -1,0 +1,49 @@
+# Rolling up-and-down, again and again 
+    
+<b> Aim: </b>  
+ Determining the coefficient of rolling friction and to give an impression how low the coefficient of rolling friction is.    
+<b> Subjects: </b>  
+ 1K20 (Friction)   
+<b> Diagram: </b>  
+   
+```{figure} figures/figure_0.png  
+---  
+width: 50%  
+name: figures/figure_0.png  
+---  
+caption  
+``` 
+      
+<b> Equipment: </b>  
+ 
+ *  U-shaped railtrack 
+ *  Metal ball
+     
+<b> Presentation: </b>  
+ Release the ball and it will roll down the track, climb the other track, and so on. But gradually the distance it rolls reduces (due to rolling friction). After n runs the coefficient of rolling friction can be determined by measuring the distance the ball travels upward in the n-th run.    
+<b> Explanation: </b>  
+ The potential energy of the ball equals (see Figure 1 and 2)     
+```{figure} figures/figure_1.png  
+---  
+width: 50%  
+name: figures/figure_1.png  
+---  
+caption  
+``` 
+     
+<b> Presentation: </b>  
+ Release the ball and it will roll down the track, climb the other track, and so on. But gradually the distance it rolls reduces (due to rolling friction). After n runs the coefficient of rolling friction can be determined by measuring the distance the ball travels upward in the n-th run.    
+<b> Explanation: </b>  
+ The potential energy of the ball equals (see Figure 1 and 2)   Figure 1  ()()000sinpUmgsFsa== Reacting the other side (1): ()()()0101ppfUUFss-=+ So: ()()0101fFssFss-=+ 100011ffffFFFFssssbFFFF--===++ Rolling back (s1) and up (s2) again: s2=s1.b=s0.b2 The coefficient of friction (m) is by definition Ff/FN.  In this case (see Figure 2): tanfFFma=.    
+```{figure} figures/figure_2.png  
+---  
+width: 50%  
+name: figures/figure_2.png  
+---  
+caption  
+``` 
+ So the coefficient of friction can be determined by measuring s0, s2 and a and using the formulas above.    
+<b> Sources: </b>  
+ 
+ *  Jordens, H.
+  

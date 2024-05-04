@@ -1,0 +1,2 @@
+# Damped harmonic motion 
+ 

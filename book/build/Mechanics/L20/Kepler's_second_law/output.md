@@ -1,0 +1,56 @@
+# Kepler's second law 
+    
+<b> Aim: </b>  
+ To verify Kepler's second law    
+<b> Subjects: </b>  
+ 1L20 (Orbits) 8A10 (Solar System Mechanics)   
+<b> Diagram: </b>  
+    
+```{figure} figures/figure_0.png  
+---  
+width: 50%  
+name: figures/figure_0.png  
+---  
+caption  
+``` 
+    
+<b> Equipment: </b>  
+ 
+ *  Board-model with "Kepler-areas" (see Diagram). 
+ *  Balance, with large display. 
+ *  Software program (we use Interactive Physics) drawing the position of a planet around a central mass at a couple of time-intervals. 
+ *  Beamer, to project the monitor-image on a large screen.
+     
+<b> Presentation: </b>  
+ By means of the software program an elliptical orbit is projected (see Figure 1A). The speed in the orbit is visualized when in the orbit points are plotted at constant time-intervals. This orbit is also plotted when the time-interval applied is 16 times larger (Figure 1B).      
+```{figure} figures/figure_1.png  
+---  
+width: 50%  
+name: figures/figure_1.png  
+---  
+caption  
+``` 
+ Before, we had this figure projected on a large sheet of cardboard and the elliptical time-segments were cut out (see Diagram). The similarity between the software-image and the cardboard-model is shown to the students. When the segments are placed one after the other on the balance, equal mass is observed. This also means that the areas of the segments are equal (Kepler's second law).      
+<b> Explanation: </b>  
+ Kepler "found" his law while working on the astronomical data of Tycho Brahe. So in our demonstration the law should arise from watching the areas and "seeing" the equality. since Newton we can use the law of conservation of angular momentum. Using this law we can explain the statement of Kepler's second law.    
+```{figure} figures/figure_2.png  
+---  
+width: 50%  
+name: figures/figure_2.png  
+---  
+caption  
+``` 
+ Consider the area in Figure 2 swept by the vector r in a time Δt.   The magnitude of this area is given by:  12ArrΔ=×Δ(cid:75)(cid:75) 1122ArrrvttΔΔ=×=×ΔΔ(cid:75)(cid:75)(cid:75)(cid:75) Since, .Lmrvconst=×=(cid:75)(cid:75)(cid:75)12.LAconsttmΔ==Δ(cid:75). So, when tΔ is constant (equal time-intervals), then  is constant.  AΔ  
+<b> Simulations: </b>  
+ On the internet you can find many simulations that are appropriate. For instance on: www.walter-fendt.de , www.physics.sjsu.edu/Tomley/demos.htm and www.astro.unl.edu/naap/pos/animations/kepler.swf .   
+<b> Remarks: </b>  
+ 
+ *  L(cid:74)(cid:71) being constant means also that m moves in a fixed, flat plane, since L(cid:74)(cid:71) will not change its direction.
+   
+<b> Sources: </b>  
+ 
+ *  Mansfield, M and O'Sullivan, C., Understanding physics, edition 1998, pag. 105-106. 
+ *  McComb,W.D., Dynamics and Relativity, edition 1999, pag. 71. 
+ *  Roest, R., Inleiding Mechanica, vijfde druk, pag. 100-102. 
+ *  Stewart, J, Calculus, edition 1999, pag. 866-867.
+  

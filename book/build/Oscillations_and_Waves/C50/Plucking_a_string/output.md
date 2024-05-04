@@ -1,0 +1,2 @@
+# Plucking a string 
+ 

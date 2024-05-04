@@ -1,0 +1,47 @@
+# Phase 
+    
+<b> Aim: </b>  
+ To show the phase-relationship between current and applied voltage when using R or L or C in an a.c. circuit.    
+<b> Subjects: </b>  
+ 5L20 (LCR Circuits - AC)   
+<b> Diagram: </b>  
+   
+```{figure} figures/figure_0.png  
+---  
+width: 50%  
+name: figures/figure_0.png  
+---  
+caption  
+``` 
+     
+<b> Equipment: </b>  
+ 
+ *  Signal generator, low frequency (we use PASCO PI9587C) 
+ *  Large display analog dc V-meter (-5/0/+5V) 
+ *  Large display analog dc A-meter (-0,5/0/+0,5A) 
+ *  Resistor,11 Ω(8A) 
+ *  Capacitor, 68mF/10V 
+ *  Coil, n=500 with ferromagnetic core (we use Leybold 56214)
+     
+<b> Presentation: </b>  
+ Switch on the signal generator and set the frequency at 0,3 Hz. Build the circuit with the resistor (see Figure 1).    
+```{figure} figures/figure_1.png  
+---  
+width: 50%  
+name: figures/figure_1.png  
+---  
+caption  
+``` 
+ Adjust the voltage until about 3V amplitude is read on the voltmeter. Observing also the A-meter scale, it is observed that the applied voltage and current are in phase. Reduce the voltage to zero and replace the resistor by the coil. Again adjust the voltage at about 3V amplitude. Observing the A-meter and V-meter, it is observed that the current lags the applied emf by 90o. Reduce the voltage to zero and replace the coil by the capacitor. Adjust the voltage until about 3V amplitude is read on the V-meter. Observing the A-meter and V-meter it can be seen that the current leads the applied emf by 90o.    
+<b> Explanation: </b>  
+ In case of the resistance, the current in it at any time is given by ()EtIR=. E(t) is the applied emf. When E(t)=E0sinωt, then 0sinEItRω=. So current and applied emf are in phase. In case of the coil the applied emf is opposed by a 'back emf' inddIELdt=. When there is no R in the circuit, then()0dIEtLdt−=. This can be rewritten as ()02sinEItLπωω=−. So the current has a phase difference of -π/2 when compared with the applied emf (E0sinωt). In case of the capacitor, the applied emf is opposed by the voltage due to the charge of the capacitor Q=CV(t). Q=CE0sinωt. By differentiating it can be written as ()02sinICEtπωω=+. So the current has a phase difference of +π/2 when compared with the applied emf E0sinωt.    
+<b> Remarks: </b>  
+ 
+ *  We have chosen the R- and C-values such that they will give around the same voltage - and current values as in case of the demonstration with the coil. 
+ *  When changing the coil, always reduce the amplitude to zero, otherwise high induction voltages can occur damaging your signal generator. 
+ *  When applying the capacitor, be sure it has no stored charge in it.
+   
+<b> Sources: </b>  
+ 
+ *  Wolfson, R., Essential University Physics, pag. 490-494
+  

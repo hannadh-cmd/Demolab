@@ -1,0 +1,57 @@
+# Mathematical pendulum  2  - Large angle 
+ Mathematical pendulum (2) Large angle    
+<b> Aim: </b>  
+ To show that the period of motion of a simple pendulum depends on the angle the pendulum makes with the vertical.    
+<b> Subjects: </b>  
+ 3A10 (Pendula)   
+<b> Diagram: </b>  
+   
+```{figure} figures/figure_0.png  
+---  
+width: 50%  
+name: figures/figure_0.png  
+---  
+caption  
+``` 
+      
+<b> Equipment: </b>  
+ 
+ *  Pendulum; brass bob attached to a threaded rod (l=50cm) and connected to a support with ballbearing. 
+ *  Large cardboard with the principal angles of deflection indicated on it (see Diagram).  
+ *  Photogate. 
+ *  Computerinterface. 
+ *  Computer with data-acquisition system. (we use PASCO Science Workshop) Mathematical pendulum (2) Large angle
+    
+<b> Presentation: </b>  
+ The photogate is placed just offset the rest-position of the pendulum. The data-acquisition system is set up in such a way that a graph of periodtimes can be presented. The data-acquisition is started, and by hand the pendulum is given a deflection of almost 180o and released. When q has reached angles smaller than 90o, the data-acquisition is stopped. During the data-acquisition the students observe the graph displayed (see red line in Figure 1).   
+```{figure} figures/figure_1.png  
+---  
+width: 50%  
+name: figures/figure_1.png  
+---  
+caption  
+``` 
+ (This means that the expected range of the axes of the graph have to be prepared before the demonstration is started.) A second run is made, giving the pendulum the smallest deflection possible. After about 10-20 registrations of T the data-acquisition is stopped. The complete graph can be observed and discussed now.    
+<b> Explanation: </b>  
+ The equation that describes the motion of the mass m is given by 22sinsxdagdtq==- (x-direction along the tangent of the circle; see Figure2A). This is not a simple harmonic motion since sinq is not proportional to s. Only for small amplitude oscillations sinslqq»=and the equation of motion reduces to22dsgsdtl=- This is the differential equation for simple harmonic motion. Then the period is given by 2lTgp= For large amplitudes we need sinxagq=-in stead of xagq=-. Since sinqq<, this means that ax is smaller than the small-amplitude equation indicates: The mass will need more time than 2lTgp= to reach its maximum deflection. In other words: T is Mathematical pendulum (2) Large angle larger than2lgp. (For an exact solution to the equation of motion: see literature.)    
+<b> Remarks: </b>  
+ 
+ *  Also see the demonstration "Mathematical pendulum (1) - Simple harmonic motion" in this database. With that demonstration the effect on the acceleration a can be observed very well. 
+ *  When you observe the pendulum directly by eye it can be seen directly that the period of oscillation is larger at larger angles. 
+ *  The software is setup in such a way that the period is presented after the pendulum has passed three times through the photogate. Every next period is presented after every second passage (see Figure2B).    
+```{figure} figures/figure_2.png  
+---  
+width: 50%  
+name: figures/figure_2.png  
+---  
+caption  
+``` 
+ 
+ *  Since the system measures the complete period the position of the photogate can be at any arbitrary point along the arc of motion.
+   
+<b> Sources: </b>  
+ 
+ *  Borghouts, A.N., Inleiding in de Mechanica, pag. 129-131 
+ *  Mansfield, M and O'Sullivan, C., Understanding physics, pag. 72-73 
+ *  Roest, R., Inleiding Mechanica, pag. 91-93
+  
