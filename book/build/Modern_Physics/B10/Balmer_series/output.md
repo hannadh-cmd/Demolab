@@ -54,4 +54,8 @@ name: figures/figure_4.png
 ---  
 caption  
 ``` 
- shows: 22sinxxs. Rewriting we get:22xsd. Whend thenx is directly proportional to. Since we do not know s exactly we cannot calibrate our spectroscope. But we can compare the different first order colors like Balmer did. Using our tape measurements we find: 2561,36188CmrCmb; 2561,51170CmrCmv; 1881,11170CmbCmv The empirical formula as stated in 1885 by Balmer (while studying the experimental results of Ångström) says:5, n = 3, 4,…  Using the right numbers forn gives us:  n=3:    22311152336RR  n=4:    22411132416RR  n=5:     2251112125100RR Now calculating: 431,35; 531,51;541,12. The conformity with the results obtained in our simple demonstration is striking, and 
+ shows: 22sinxxs. Rewriting we get:22xsd. Whend thenx is directly proportional to. Since we do not know s exactly we cannot calibrate our spectroscope. But we can compare the different first order colors like Balmer did. Using our tape measurements we find: 2561,36188CmrCmb; 2561,51170CmrCmv; 1881,11170CmbCmv The empirical formula as stated in 1885 by Balmer (while studying the experimental results of Ångström) says:5, n = 3, 4,…  Using the right numbers forn gives us:  n=3:    22311152336RR  n=4:    22411132416RR  n=5:     2251112125100RR Now calculating: 431,35; 531,51;541,12. The conformity with the results obtained in our simple demonstration is striking, and   we identify3 as the red line, 4 as the blue line and 5 as the violet line. The measurements are easy; the excellence of Balmer is in the mathematical formulation. He really did a terrific job.   
+<b> Remarks: </b>  
+    
+<b> Sources: </b>  
+  Giancoli, D.G., Physics for scientists and engineers with modern physics, Third edition, pag. 900-901 and 963-965.  Wolfson, R., Essential University Physics, First edition, pag. 616.  

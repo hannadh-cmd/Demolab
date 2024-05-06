@@ -30,4 +30,17 @@ name: figures/figure_1.png
 ---  
 caption  
 ``` 
- Figure 2  When studying these graphs, the jerk at the turning point is clearly observed. (Also a strong vibration.) See that the jerk at the turning point is much higher than the weight of the yo-yo. Going from one jerk to the next, the highest position of the yo-yo is halfway between the two jerks. When a complete cycle is enlarged (see Figure2), it is clear that during the complete cycle the string tension is lower than the weight of the yo-yo.   
+ Figure 2  When studying these graphs, the jerk at the turning point is clearly observed. (Also a strong vibration.) See that the jerk at the turning point is much higher than the weight of the yo-yo. Going from one jerk to the next, the highest position of the yo-yo is halfway between the two jerks. When a complete cycle is enlarged (see Figure2), it is clear that during the complete cycle the string tension is lower than the weight of the yo-yo.        
+<b> Explanation: </b>  
+ The yo-yo accelerates (a) due to a force ma=mg-Fs (Fs being the string tension and m the mass of the yo-yo.) When there is no string, then Fs=0 and a=g (free fall); With a string, a is always smaller than g: sFagm=− When Fs is just a little smaller than mg, then a will be very small. The angular acceleration (α) of the roll during its fall can be found fromIτα=, where the net torque (τ) is given by τ=mgr. The acceleration of the center of mass (a) is related to the angular acceleration of the yo-yo by a=αr, so the yo-yo accelerates downward by2mgraI=. Our yo-yo is a simple double disc, so 212CMImR=. It rolls at the circumference of the shaft (radius r), that's why 2122ImRmr=+, and we find for the acceleration: 2222gaRr=+. Because R>>r, a<<g. With our yo-yo we have R=150mm and r=12mm, so a=0.012g. Also the string tension can be calculated now: sFmgma=−, so: , 0.012sFmgmg=−showing that the string tension is just a little lower than the weight of the yo-yo.    
+<b> Remarks: </b>  
+ 
+ *  A worthwhile observation is, that when the string is unwrapped completely and the yo-yo starts climbing again, that the yo-yo's translational velocity changes its direction (-v to +v) but keeps its rotation in the same direction. In other words: its momentum changes direction (-mv to +mv), but there is no change in angular momentum. The large change of momentum (2mv) at this point of the yo-yo's movement explains the jerk (the change of momentum takes place in a very short time). 
+ *  See also the demonstration "Maxwheel" in this database in order to link the measured string tension to the acceleration of the yo-yo. Usually we show these two demonstrations together.
+   
+<b> Sources: </b>  
+ 
+ *  Borghouts, A.N., Inleiding in de Mechanica, pag. 186-187 
+ *  Roest, R., Inleiding Mechanica, pag. 183-185 
+ *  Young, H.D. and Freeman, R.A., University Physics, pag. 303
+  

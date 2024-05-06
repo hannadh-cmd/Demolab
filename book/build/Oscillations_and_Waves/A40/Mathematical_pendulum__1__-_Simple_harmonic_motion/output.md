@@ -36,4 +36,9 @@ caption
  *  ……….
    
 <b> Explanation: </b>  
- The equation that describes the motion of the mass m is given by 22sinsxdagdtq==-. This is not a simple harmonic motion since sinq is not proportional to s. Only for small amplitude oscillations sinslqq»=and the equation of motion reduces to22dsgsdtl=- This is the differential equation for simple harmonic motion, giving our observed sinusoidal graphs. For further explanation see: Sources.  
+ The equation that describes the motion of the mass m is given by 22sinsxdagdtq==-. This is not a simple harmonic motion since sinq is not proportional to s. Only for small amplitude oscillations sinslqq»=and the equation of motion reduces to22dsgsdtl=- This is the differential equation for simple harmonic motion, giving our observed sinusoidal graphs. For further explanation see: Sources.  Mathematical pendulum (1) Simple harmonic motion      
+<b> Sources: </b>  
+ 
+ *  Mansfield, M and O'Sullivan, C., Understanding physics, pag. 48-52 
+ *  Young, H.D. and Freeman, R.A., University Physics, pag. 398-399
+  

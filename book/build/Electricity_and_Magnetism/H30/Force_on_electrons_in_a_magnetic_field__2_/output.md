@@ -44,4 +44,8 @@ name: figures/figure_2.png
 ---  
 caption  
 ``` 
- Figure 3  The vertical component of this force makes the electrons oscillate from one pole to the other continuously (the horizontal component causes the circular movement in the spiralled path). When the second magnetic pole should be a same magnetic pole (S-pole in this Explanation), the electrons escape from the region between the poles (see in Figure3 the different directions of F).  
+ Figure 3  The vertical component of this force makes the electrons oscillate from one pole to the other continuously (the horizontal component causes the circular movement in the spiralled path). When the second magnetic pole should be a same magnetic pole (S-pole in this Explanation), the electrons escape from the region between the poles (see in Figure3 the different directions of F).  Force on electrons in a magnetic field (2)      
+<b> Remarks: </b>  
+ • When, in the beginning of the demonstration, the N-pole is replaced by a S-pole the trap also functions. The electron beam spirals into the other direction when a different pole is used. Due to the configuration of our electron tube it is not possible to show a satisfactory trapping when approaching the electron beam head on by a S-pole.    
+<b> Sources: </b>  
+ • Biezeveld, H. and Mathot, L., Scoop, Natuurkunde voor de bovenbouw, part 5/6 vwo, pag. 212 • Mansfield, M and O'Sullivan, C., Understanding physics, pag. 497-498 • Young, H.D. and Freeman, R.A., University Physics, pag. 873-876 • Giancoli, D.G., Physics for scientists and engineers with modern physics, pag. 692-694  

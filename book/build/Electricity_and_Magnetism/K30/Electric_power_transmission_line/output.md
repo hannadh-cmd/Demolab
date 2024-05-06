@@ -34,4 +34,13 @@ caption
 ``` 
  The powersupply is switched on, but the lamp shows no light. Using the voltmeter it is seen that there is no voltage across the lamp. Sliding the leads of the voltmeter along the long wires shows that all the voltage of the powersupply is lost in these wires. The two identical transformers are connected into the circuit (see Figure1B). The powersupply is switched on and the lamp lights brightly!    
 <b> Explanation: </b>  
- In the first part of the demonstration almost all power is lost in the long wires, because of the high resistance of these wires compared to the resistance-value of the lamp. In the second part of the demonstration, the first transformer steps the 6V up to 200V (using the voltmeter this can be checked). To transport power at such a higher voltage a much lower current is needed; the current in the "long" wires is now 500/15 times lower than in part A of the demonstration. Then the power lost in these wires is (500/15)2 times lower; the powerloss in the transportwires is reduced more than a factor 1000! 
+ In the first part of the demonstration almost all power is lost in the long wires, because of the high resistance of these wires compared to the resistance-value of the lamp. In the second part of the demonstration, the first transformer steps the 6V up to 200V (using the voltmeter this can be checked). To transport power at such a higher voltage a much lower current is needed; the current in the "long" wires is now 500/15 times lower than in part A of the demonstration. Then the power lost in these wires is (500/15)2 times lower; the powerloss in the transportwires is reduced more than a factor 1000!    To calculate exactly we have to consider Figure1C. The lamp has a resistance of about 1W. Since E2=E1(n2/n1) and I2=I1(n1/n2), we find E2/I2=Rlamp(n2/n1)2. This results in that E2 'sees' Rlamp as 1111W. Figure1D explains the rest: The 6V of the powersupply is transformed by the first transformer to 200V. Considering the resistancevalues, 167V remains at the second transformer. This second transformer steps this voltage down to 5V. This is enough to make the lamp glow.    
+<b> Remarks: </b>  
+ 
+ *  Take care with the 200V in the second part of the demonstration. 
+ *  If relevant, you can show that a bird is safe on such a high-voltage transmissionline. Just grab one lead and hold it. Nothing happens. There will happen only something when you grab also the other lead by your other hand (do not try this!).
+   
+<b> Sources: </b>  
+ 
+ *  Mansfield, M and O'Sullivan, C., Understanding physics, pag. 527-529
+  

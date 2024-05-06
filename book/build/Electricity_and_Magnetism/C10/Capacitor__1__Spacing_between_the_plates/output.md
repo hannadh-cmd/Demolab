@@ -66,4 +66,13 @@ caption
 ``` 
    
 <b> Explanation: </b>  
- 1. Constant charge: Explanation 1: When charging, Q has a certain, constant value. Increasing the distance between the plates means that you do work, because there is an attracting force between the plates. Ding work means an increase in voltage. Decreasing the distance is doing negative work, so lowering the voltage.  Explanation 2: When the separation d increases, C decreases (ACdε=) and since Q is constant this will cause V to increase (Q=CV).  
+ 1. Constant charge: Explanation 1: When charging, Q has a certain, constant value. Increasing the distance between the plates means that you do work, because there is an attracting force between the plates. Ding work means an increase in voltage. Decreasing the distance is doing negative work, so lowering the voltage.  Explanation 2: When the separation d increases, C decreases (ACdε=) and since Q is constant this will cause V to increase (Q=CV).  Capacitor (1) Spacing between the plates  2. Constant voltage: When the voltage is constant, the amount of work (WΔ) done in shifting the capacitor plate equals: WVQΔ=Δ. So there is a QΔ, meaning that for a certain time a current will flow:QItΔ=Δ. Positive work means current in one direction; negative work current into the other direction. This is directly visible in: QWItVtΔΔ==ΔΔ. W+Δ makes I+ and W−Δ makes I−. (The direction of the current flow in the circuit that is demonstrated can be shown to the students. But then it is needed that in your set-up all connections are clearly visible, so they can see where plus and minus of the power supply and of the resistor and of the data acquisition box are situated.)   
+<b> Remarks: </b>  
+ 
+ *  In the explanation of the demonstration it is supposed that the charge on the capacitor is constant. This is true only if the capacitance of the electrostatic voltmeter is small compared to that of the parallel plate capacitor. 
+ *  In the first part of the demonstration the 50kΩ resistor is already in the circuit, but shorted.
+   
+<b> Sources: </b>  
+ 
+ *  Mansfield, M and O'Sullivan, C., Understanding physics, pag. 455-458.
+  

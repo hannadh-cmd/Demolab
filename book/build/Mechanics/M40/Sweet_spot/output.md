@@ -46,5 +46,10 @@ caption
 <b> Remarks: </b>  
  
  *  Repeating the same situation a couple of times will show a distribution in the results of how far the cart rolls before it stops. In our demonstration this distribution is not disturbing the "one-run" presentations. However, take care not to take the different r-distances too close to each other. 
- *  As 13lcmrlm=shows, the sweet spot and percussionpoint will be the same
+ *  As 13lcmrlm=shows, the sweet spot and percussionpoint will be the same    distance r at 34clmm=. 
+ *  The vertical shafts are not round but square. This enables easy positioning when shifting a pendulum up or down.
+   
+<b> Sources: </b>  
  
+ *  PASCO scientific, Instruction Manual and Experiment Guide, pag. ME9430, exp.5
+  

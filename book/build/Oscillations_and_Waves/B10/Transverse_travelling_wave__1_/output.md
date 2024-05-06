@@ -20,5 +20,11 @@ caption
  *  Heavy weight (m=25 kg). 
  *  Tape. 
  *  Camera. 
- *  Beamer.
- 
+ *  Beamer. Transverse travelling wave (1)
+      
+<b> Presentation: </b>  
+ Lay the piece of hose in a straight line on the floor in front of the lectureroom. On the floor, this straight line is marked by tape. At one end the hose is fixed by the heavy weight. Now create a sine wave by shaking the free end of the hose vigorously in a horizontal direction. Give the hose that much tension and amplitude that the wave amplitude is damped to zero when it reaches the fixed end of the hose. Then you don't have to worry about reflections. The travelling wave can be observed, and its name "travelling wave" will be clear. By shaking the end of the hose at different frequencies you can show the inverse relationship between frequency and wavelength.    
+<b> Remarks: </b>  
+ • To get a "nice" wave make sure that you drive the rubber hose at the same amount of amplitude at both sides of the taped line. Practicing before demonstrating is necessary. • To get a good view of the travelling wave, a camera is placed at the fixed end, so that a picture can be projected by the beamer as shown in the Diagram.   
+<b> Sources: </b>  
+ • Ehrlich, Robert, Turning the World Inside Out and 174 Other Simple Physics Demonstrations, pag. 126 • Friedrich, Artur, Handbuch der experimentellen Schulphysik, part 1, Schwindungen, Wellen, Schall, Ultraschall, pag. 74 • Mansfield, M and O'Sullivan, C., Understanding physics, pag. 307-310  

@@ -45,5 +45,14 @@ caption
  Figure 3  On the right side of the cylinder, the rotation causes the medium to flow slower, while on the other side the medium flows faster. This difference in speed causes a pressure-difference; according to Bernoulli's equation: 12pρΔ= (v2left-v2right). Since vleft>vright , the net lift-force due to pΔis pointing to the left and proportional to ()22leftrightvvρ−. Also since vleft=v+ωr and vright=v-ωr, Flift is proportional to 2ρωrvtr. Because the density of water equals 103 kg/m3, the lift-force is considerable. Therefore the effect of this force is clearly visible as a deviation of a trajectory without rotation.    
 <b> Remarks: </b>  
  
- *  PVC or perspex is used for our cylinder, because the specific density of these materials is just a little higher than that of water. Therefore the time it takes to sink to the bottom is high and so the deflection will be high when the bottom is reached.
+ *  PVC or perspex is used for our cylinder, because the specific density of these materials is just a little higher than that of water. Therefore the time it takes to sink to the bottom is high and so the deflection will be high when the bottom is reached.  Magnus effect (1)
+     
+<b> Sources: </b>  
+ 
+ *  Edge, String & sticky tape experiments, pag. 3.12 
+ *  Freier, George D. and Anderson, Frances J., A demonstration handbook for physics, pag. F15; F17 
+ *  Grimsehl, Lehrbuch der Physik, part 1, pag. 288-291 and 617 
+ *  Mansfield, M and O'Sullivan, C., Understanding physics, pag. 240 
+ *  Sutton, Richard Manliffe, Demonstration experiments in Physics, pag. 116-117
+ *  Vogel, H, Physik, pag. 98-99
   

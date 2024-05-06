@@ -40,4 +40,10 @@ name: figures/figure_2.png
 ---  
 caption  
 ``` 
- We stop the pump, remove the upper transparent cap and with a small stick we shift the frozen drop across the table, to show the audience that the drop is solid. 
+ We stop the pump, remove the upper transparent cap and with a small stick we shift the frozen drop across the table, to show the audience that the drop is solid.     
+<b> Explanation: </b>  
+ When the pump is switched on the water starts boiling because of the low pressure. This boiling is vigorously because of the fast drop in pressure. Then after some time this boiling stops because now the decrease in pressure is continuing at a slower rate. (The evaporation of water continues in this part of the demonstration but is not visible to us now.) During the process of boiling and evaporation the drop of water looses heat and its temperature decreases. Because the small table top is very clean, the drop of water even becomes supercooled; it reaches a temperature below the freezing point of 0ºC. At that low temperature it suddenly freezes.   
+<b> Remarks: </b>  
+     
+<b> Sources: </b>  
+    

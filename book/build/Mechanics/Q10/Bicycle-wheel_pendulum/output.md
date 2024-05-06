@@ -32,4 +32,4 @@ caption
 <b> Explanation: </b>  
  In the first part of the demonstration, the wheel can rotate about its axis and thus acts as though all its mass were concentrated at its axis. I=MR2. In the second part, the wheel swings as a rigid body and the total rotational inertia now includes the rotational inertia of the wheel about an axis through its centre of mass, Ic, plus MR2. I=MRc2, so I=2MRtot2, making it a slower pendulum. Since the period of a physical pendulum equals2ITmgR, the pendulum is 41% slower (21.41).    
 <b> Sources: </b>  
-  Meiners, Harry F., Physics demonstration experiments, part I, pag. 280.  Mansfield, M and O'Sullivan, C., Understanding physics, pag. 155-157.  Roest, R., Inleiding Mechanica, pag. 163-164 en 169. 
+  Meiners, Harry F., Physics demonstration experiments, part I, pag. 280.  Mansfield, M and O'Sullivan, C., Understanding physics, pag. 155-157.  Roest, R., Inleiding Mechanica, pag. 163-164 en 169.    

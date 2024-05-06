@@ -60,4 +60,8 @@ name: figures/figure_4.png
 ---  
 caption  
 ``` 
- 
+   In our demonstration: lf (see Figure 4). The distance f =2meter, and calculating   for both pair of holes, we get  = .75x10-3 for the pair of holes with a separation of 1.5mm and  = 2x10-3 for the pair of holes with a separation of 4 mm.  These calculations compared with the Rayleigh criterion (that is expressed as 1.22D and is calculated and listed in the bottom row of Figure 3), shows that the two holes with a separation of 4mm will be resolved when the diaphragm is larger than .3 mm and that the holes with a separation of 1.5 mm will be resolved when the diaphragm is larger than .5 mm. The observed light spots in Figure 3 show that this is more or less right!    
+<b> Remarks: </b>  
+ Since 1.22D , it is useful to do this demonstration in different colours. (We didn’t try this yet.)   
+<b> Sources: </b>  
+  Giancoli, D.G., Physics for scientists and engineers with modern physics, pag. 896-899  Hecht, Eugene, Optics, pag. 416 and 461-465  PSSC, College Physics, pag. Laboratory Guide, Experiment 22  

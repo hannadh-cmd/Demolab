@@ -40,4 +40,8 @@ caption
 ``` 
  We measure d = 10 cm.   
 <b> Explanation: </b>  
- The rising of the marshmallows at certain spots only, shows that there is heating only at certain spots. This can be explained by assuming a standing em-wave in the cavity that the oven is. Discussion: Knowing that the magnetron-frequency is 2.45Ghz, makes that the 
+ The rising of the marshmallows at certain spots only, shows that there is heating only at certain spots. This can be explained by assuming a standing em-wave in the cavity that the oven is. Discussion: Knowing that the magnetron-frequency is 2.45Ghz, makes that the   wavelength in air of the em-wave equals 12.2cm. Then possible standing waves are standing waves with n(12.2)cm [n=1,2,3,…], and we expect heating at multiples of half wavelength distances, so at n(6.1)cm. We measure heating hills at 10cm separation (see Figure 2). This means that the standing wave has a wavelength of 20cm. This can only mean that the frequency of the em-wave inside the oven is less than 2.45MHz. supposing it is half that frequency, then we expect standing waves with n(24.4)cm, and heating hills at 12.2cm separation. That we measure 10cm can be caused by the dielectric constant of marsh-mallows being >1, causing a smaller wavelength inside the mars-mallows.   
+<b> Remarks: </b>  
+     
+<b> Sources: </b>  
+  http://www.radartutorial.eu/08.transmitters/tx08.en.html  

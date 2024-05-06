@@ -40,4 +40,15 @@ name: figures/figure_2.png
 ---  
 caption  
 ``` 
- In the last part of the demonstration the influence of different dielectrics is shown. The capacitor is placed in front of an improvised guiding construction (see Figure2A). The capacitor is given a separation d, just a little bit larger than the thickness of the glass plate. The capacitor is charged by means of the power supply; the electroscope shows a medium deflection. Ask the students what will happen when the glass plate is shifted between the capacitor plates. When they have given their answers shift the plate between the plates and they will see that the voltage lowers. The same demonstration can be performed by shifting the container with water between the capacitor plates (see Figure2B). 
+ In the last part of the demonstration the influence of different dielectrics is shown. The capacitor is placed in front of an improvised guiding construction (see Figure2A). The capacitor is given a separation d, just a little bit larger than the thickness of the glass plate. The capacitor is charged by means of the power supply; the electroscope shows a medium deflection. Ask the students what will happen when the glass plate is shifted between the capacitor plates. When they have given their answers shift the plate between the plates and they will see that the voltage lowers. The same demonstration can be performed by shifting the container with water between the capacitor plates (see Figure2B). Capacitor: spacing and dielectric      
+<b> Explanation: </b>  
+ When charging, Q has a certain, constant value. When the seperation d increases, C decreases (ACde=) and since Q is constant this will cause V to increase (Q=CV). The influence of the dielectric on C is shown in ACde=, so when the glass plate is shifted between the plates, C increases. Since the amount of charge is constant, V has to become a lower value (Q=CV).    
+<b> Remarks: </b>  
+ 
+ *  In order to easily set the distance d between the plates of the capacitor at a minimum, three small pieces of thin felt are stuck on the inside of one of the plates. 
+ *  In the explanation of the demonstration it is supposed that the charge on the capacitor is constant. This is true only if the capacitance of the electroscope is small compared to that of the parallel plate capacitor.
+    
+<b> Sources: </b>  
+ 
+ *  Mansfield, M and O'Sullivan, C., Understanding physics, pag. 455-458
+  

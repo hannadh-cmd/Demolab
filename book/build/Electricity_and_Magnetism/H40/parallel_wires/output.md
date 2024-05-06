@@ -42,4 +42,19 @@ name: figures/figure_2.png
 ---  
 caption  
 ``` 
+ Parallel wires    Calculating F for every 1 cm length of wire we find: 
+ *  at the top where the wires are separated about 3mm: F = 27.10-5 N/cm  
+ *  at the bottom where the wires are separated about 2 cm: F=4.10-5 N/cm 
+ *  and for the total length of wire: F=23mN. So, in this demonstration the force on the wires is very small.
+    
+<b> Remarks: </b>  
  
+ *  When the effect in this demonstration is not visible enough, a video-camera with projection can be used. 
+ *  A higher current is advisable for this demonstration; the current shows itself squared in F. 
+ *  This demonstration can be used in combination with the current-balance demon
+stration.   
+<b> Sources: </b>  
+ 
+ *  Biezeveld, H. and Mathot, L., Scoop, Natuurkunde voor de bovenbouw, part 4/5 vwo, pag. 223 
+ *  Mansfield, M and O'Sullivan, C., Understanding physics, pag. 409-410 and 486-487
+  

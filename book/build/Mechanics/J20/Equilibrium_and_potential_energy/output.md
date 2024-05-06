@@ -30,4 +30,14 @@ name: figures/figure_1.png
 ---  
 caption  
 ``` 
+       
+<b> Remarks: </b>  
  
+ *  This demonstration can be shown on an overhead projector. 
+ *  You can also show this demonstration with one ball and petri dish. Just put the ball in the petri dish and slowly fill it with water. When floating the ball will first stick to the rim, but when filling continues, at a certain moment the ball will float away from the rim. 
+ *  You can also just place the dishes with water and balls in your lecture-room. Draft in your room will make the balls float around. The performance of the balls will make your students puzzle.
+   
+<b> Sources: </b>  
+ 
+ *  Roest, R., Inleiding Mechanica, pag. 76-78;188-193
+  

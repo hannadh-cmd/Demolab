@@ -45,4 +45,13 @@ name: figures/figure_2.png
 ---  
 caption  
 ``` 
- The pingpong ball has a mass of 2.5x10-3kg and falls a height of around 0.5m, so at the collision with the platform it has a speed of around 3m/s. So, the momentum at collision is 7.5x10-3kgm/s. The impulseFdtp=D∫. So, in this case Fdt∫should read 15x10-3Ns. Using the function "integrate" of the software over the corresponding impulse-area will produce that result. Since the collision is not perpendicular and not completely elastic, the registeredFdt∫ will be lower than 15x10-3Ns.  Average force In our macroscopic world we experience the average force. After a collision with a ping-pong ball the platform shows a damped free oscillation. Such a free oscillation averages to F=0. The force-time graph shows 50 15x10-3-collisions in about 4 seconds time average to around 0.19N. Selecting the area between of 4 seconds the software shows this as the mean y-value.  
+ The pingpong ball has a mass of 2.5x10-3kg and falls a height of around 0.5m, so at the collision with the platform it has a speed of around 3m/s. So, the momentum at collision is 7.5x10-3kgm/s. The impulseFdtp=D∫. So, in this case Fdt∫should read 15x10-3Ns. Using the function "integrate" of the software over the corresponding impulse-area will produce that result. Since the collision is not perpendicular and not completely elastic, the registeredFdt∫ will be lower than 15x10-3Ns.  Average force In our macroscopic world we experience the average force. After a collision with a ping-pong ball the platform shows a damped free oscillation. Such a free oscillation averages to F=0. The force-time graph shows 50 15x10-3-collisions in about 4 seconds time average to around 0.19N. Selecting the area between of 4 seconds the software shows this as the mean y-value.        
+<b> Remarks: </b>  
+ 
+ *  The platform that is hit by the ping-pong balls is not an ideal rigid wall as meant when you treat the details of the kinetic theory of gasses. As the registered graph shows, the platform vibrates strongly (in many modes) after a hit. However, when we average the registered forces of these vibrations (so average the whole registered graph of a hit except the "real hit" at the beginning) we find 'zero' as a resul
+t.    
+<b> Sources: </b>  
+ 
+ *  Mansfield, M and O'Sullivan, C., Understanding physics, pag. 247-250 
+ *  PASCO scientific, Instruction Manual and Experiment Guide, pag. CI-6537
+  

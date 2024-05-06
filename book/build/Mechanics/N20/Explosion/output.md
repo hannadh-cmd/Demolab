@@ -54,4 +54,6 @@ name: figures/figure_3.png
 ---  
 caption  
 ``` 
-  
+      
+<b> Sources: </b>  
+  PASCO scientific, Instruction Manual and Experiment Guide for the PASCO scientific Model ME-9458 and ME-9452, experiment 1 and 11  Mansfield, M and O'Sullivan, C., Understanding physics, pag. 124-129  

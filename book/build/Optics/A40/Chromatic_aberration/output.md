@@ -44,5 +44,13 @@ caption
 <b> Remarks: </b>  
  
  *  Careful alignment is essential to this demonstration: The optical axis needs to be in good parallelism with the optical rail, so that when shifting the camera the lightspot stays on the center of the screen. 
- *  The demonstration can also be done without using filters; Then the diafragm is imaged at the camera as good as possible. When now we shift the camera towards the single lens we will get a concentration of blue near the optical axis and red in a circle around it. Shifting the camera away from the lens the opposite happens: we see red near the optical axis and a blue circle around it.
+ *  The demonstration can also be done without using filters; Then the diafragm is imaged at the camera as good as possible. When now we shift the camera towards the single lens we will get a concentration of blue near the optical axis and red in a circle around it. Shifting the camera away from the lens the opposite happens: we see red near the optical axis and a blue circle around it.    Going from one position to the other also yellow and green near the axis can be observed. 
+ *  The demonstration can also be done using a Hg-lamp in stead of an incandescent lamp. However, in that way the demonstration is more complicated due to the high differences between the intensities of the separate spectral lines: Every spectral line will need its own grey-filter in order not to saturate the light sensitive layer of the camera.
+   
+<b> Sources: </b>  
  
+ *  Hecht, Eugene, Optics, pag. 66-73, 157-159 and 271-277 
+ *  Sutton, Richard Manliffe, Demonstration experiments in Physics, pag. 389-390 
+ *  The Physics Teacher, pag. march 1986, 160-163 
+ *  The Physics Teacher, pag. nov. 1987, 502-503
+  

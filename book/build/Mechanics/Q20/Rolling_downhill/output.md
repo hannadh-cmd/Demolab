@@ -37,4 +37,21 @@ caption
  
    
 <b> Explanation: </b>  
- Rolling down means translational acceleration plus rotational acceleration. The more 
+ Rolling down means translational acceleration plus rotational acceleration. The more    energy is needed for rotational acceleration, the less energy is left for translational acceleration. Conservation of energy tells us: 1/2mvc2+1/2Iw2+mgh=constant. By vc=wR, h=ssing and differentiating, we find 2sin1ccgaImRg=+ The moment of inertia of objects with circular symmetry can be written as: I=CmR2, where C is a constant. From tables we know (see Figure1): 
+ *  solid sphere, C=2/5 
+ *  solid cilinder, C=1/2 
+ *  hollow sphere, C=2/3 
+ *  hollow cilinder, C=1 
+ *  cilinder with thickness (R2-R1), 211221RCR=+  Using C in the expression above, we find: sin1cgaCg=+  The larger C, the smaller ac. Also note that ac does not depend
+ on m or R!    
+<b> Remarks: </b>  
+ 
+ *  To have a fair race you need to have a good starting procedure. We get the best start by using a shelf, blocking the objects in the starting position. Starting is done by very quickly moving the shelf away into the direction of the descending ramp. 
+ *  When racing the basketball and ping pong ball (Race 5) there is no winner. Makes sure that in starting, the basketball is not
+ ahead of the ping pong ball.   
+<b> Sources: </b>  
+ 
+ *  Jewett Jr., John W., Physics Begins With Another M... : Mysteries, Magic, Myth, and Modern Physics, pag. 113-114 
+ *  Young, H.D. and Freeman, R.A., University Physics, pag. 304 
+ *  Giancoli, D.G., Physics for scientists and engineers with modern physics, pag. 263
+  

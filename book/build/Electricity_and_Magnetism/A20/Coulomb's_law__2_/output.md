@@ -56,4 +56,10 @@ name: figures/figure_3.png
 ---  
 caption  
 ``` 
-   In this way measuring 1r and 2r will give us the value for n. The mentioned measurement in the Presentation with 1r=78cm and 2r=62cm presents the ratio12rr=1,258.. the table above shows that this produces a value for n very close to 2. 
+   In this way measuring 1r and 2r will give us the value for n. The mentioned measurement in the Presentation with 1r=78cm and 2r=62cm presents the ratio12rr=1,258.. the table above shows that this produces a value for n very close to 2. Coulomb’s law (2)     
+<b> Remarks: </b>  
+ • Measuring r1 and r2 must be done with some care. For instance when you measure r2 being 63cm in stead of 62cm you find n=2,2(5) in stead of n=2,0(2). • When charge leaks away during the demonstration the measured r2 will be too low making 12rrhigher and n will appear as a higher value. (So usually this will happen.) • At 3/4 from the upper side of the support a horizontal bar is placed (see Diagram). This makes that when the balls move when they deflect, they remain in the same vertical plane. Without this bar the balls will start to rotate, making a useful shadow projection impossible. Nowadays we use a thin double thread instead of a metal bar; a metal bar that close to the balls disturbs the E-field more than a thin thread. The balls hang between the double, horizontal threads.   
+<b> Sources: </b>  
+ • Ehrlich, R., Why Toast Lands Jelly-Side Down: Zen and the Art of Physics Demonstrations, pag. 146-147 • Mansfield, M and O'Sullivan, C., Understanding physics, pag. 443 and 467 • Young, H.D. and Freeman, R.A., University Physics, pag. 674-679 • Buijze W. en Roest R., Inleiding electriciteit en Magnetisme, pag. 11, eerste zin. • Giancoli, D.G., Physics for scientists and engineers with modern physics, pag. 549-551 and 586!   
+<b> Supplement: </b>  
+    Historical results                                  21()Erre+∼ - Henry Cavendish: …………………………..0.02e£ - James Clark Maxwell:………………………5510e-£·  - E.R. Williams, J.E. Faller and H.A. Hill:16(2.73.1)10e-£–· (1971)   

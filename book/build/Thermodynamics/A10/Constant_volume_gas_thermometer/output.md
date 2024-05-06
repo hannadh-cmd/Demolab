@@ -44,4 +44,4 @@ caption
  
  *  Mansfield, M and O'Sullivan, C., Understanding physics, pag. 263-265 and 277 
  *  Young, H.D. and Freeman, R.A., University Physics, pag. 463-464
- 
+     

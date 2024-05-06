@@ -38,5 +38,5 @@ caption
 <b> Sources: </b>  
  
  *  Borghouts, A.N., Inleiding in de Mechanica, pag. 224-227 
- *  Roest, R., Inleiding Mechanica, pag. 222-226
- 
+ *  Roest, R., Inleiding Mechanica, pag. 222-226 Nutation (2)
+    

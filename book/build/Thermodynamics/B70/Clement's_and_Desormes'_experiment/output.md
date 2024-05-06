@@ -39,5 +39,11 @@ caption
 <b> Remarks: </b>  
  
  *  It is easy to repeat the experiment a number of times. 
- *  Instead of starting the experiment by pressing air into the container it can also be performed by sucking air out of it. (Figure 1 will be different, of course.)
+ *  Instead of starting the experiment by pressing air into the container it can also be performed by sucking air out of it. (Figure 1 will be different, of course.
+)  .     
+<b> Sources: </b>  
+ 
+ *  Freier, George D. and Anderson, Frances J., A demonstration handbook for physics, pag. H.14 
+ *  Grimsehl, Lehrbuch der Physik, part 1, pag. 473-475 
+ *  Aulis, Handbuch der Physik, part 4, pag. 65
   

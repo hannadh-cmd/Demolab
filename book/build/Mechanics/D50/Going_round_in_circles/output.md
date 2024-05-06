@@ -54,5 +54,10 @@ w2R).
  *  Practice the demonstration before you show it. A practiced hand is needed to make m1 go round properly. 
  *  We use rubber stoppers as masses moving around in circles for safety reasons. 
  *  The spinning mass should be light compared to the hanging weight (about a factor 3), because otherwise the angle between the string and the vertical does not approach 90o: there will be more friction and due to the slanting rope (making a cone of our circle) the analysis becomes a different one. 
- *  In the last part of the presentation (grabbing and pulling m2 downwards) the demonstrator will feel that quite a lot of force is needed. It is of course most instructive for the students if they feel this force themselves (during coffeebreak?).
+ *  In the last part of the presentation (grabbing and pulling m2 downwards) the demonstrator will feel that quite a lot of force is needed. It is of course most instructive for the students if they feel this force themselves (during coff
+eebreak?).      
+<b> Sources: </b>  
  
+ *  Ehrlich, Robert, Turning the World Inside Out and 174 Other Simple Physics Demonstrations, pag. 72-73 
+ *  Mansfield, M and O'Sullivan, C., Understanding physics, pag. 68-71 and74-75
+  

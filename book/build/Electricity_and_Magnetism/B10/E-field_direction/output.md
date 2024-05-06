@@ -49,4 +49,4 @@ caption
 <b> Sources: </b>  
  
  *  Giancoli, D.G., Physics for scientists and engineers with modern physics, pag. 581
- 
+     

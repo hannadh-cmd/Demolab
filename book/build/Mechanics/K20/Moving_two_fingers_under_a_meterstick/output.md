@@ -36,4 +36,14 @@ name: figures/figure_1.png
 ---  
 caption  
 ``` 
- Combining the two preceding equations yields the condition mkx1=msx2. By observing just where one finger stops sliding and the other starts, you can measure the values of x1 and x2, and thereby determine the ratio of the two friction coefficients using mk/ms=x2/x1.  
+ Combining the two preceding equations yields the condition mkx1=msx2. By observing just where one finger stops sliding and the other starts, you can measure the values of x1 and x2, and thereby determine the ratio of the two friction coefficients using mk/ms=x2/x1.       
+<b> Remarks: </b>  
+ You can, of course, make your fingers meet at some point other than the half-way mark by suddenly accelerating one of them, because in that case the friction force each finger exerts on the stick need not be the same. According to Newton's second law, accelerations imply unbalanced forces.    
+<b> Sources: </b>  
+ 
+ *  Ehrlich, Robert, Turning the World Inside Out and 174 Other Simple Physics Demonstrations, pag. 49 
+ *  Taylor, Charles, Art and Science of Lecture Demonstration, pag. 47 
+ *  Friedrich, Artur, Handbuch der experimentellen Schulphysik, part 2, Mechanik der festen Körper, pag. 130 
+ *  Vlaanderen, C.L., Physics Fair 
+ *  Borghouts, A.N., Inleiding in de Mechanica, pag. 61
+  

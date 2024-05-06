@@ -42,6 +42,12 @@ caption
  *  The most troublesome is the measurement of l: How accurate is a simple hardware store tape measure? 
  *  The measurement of T is performed carefully, since in 224lgTp=T appears as T2 and so in the error analysis this gives a weighing factor of 2. 
  *  Also the length of the pendulum compared to the size of the sphere is important to consider. When we neglect the mass of the thread compared to that of the cast iron sphere, but not neglecting the dimensions of the sphere, we should
-   
-<b> write: </b>  
- 2spherelTmglp=. When the sphere is a point-mass, I=ml2 and we have again 2lTgp=. But when the sphere is not a point-mass, we have 2225sphereImRml=+and225R introduces an error compared to l2. In our 
+ write: 2spherelTmglp=. When the sphere is a point-mass, I=ml2 and we have again 2lTgp=. But when the sphere is not a point-mass, we have 2225sphereImRml=+and225R introduces an error compared to l2. In our Mathematical pendulum (3) Determing g.   situation l=6.305m and R=9.3cm. This introduces an error of less than 0.0001 in g, so small compared to the standard deviation.   
+<b> Sources: </b>  
+ 
+ *  Borghouts, A.N., Inleiding in de Mechanica, pag. 129-131 
+ *  Mansfield, M and O'Sullivan, C., Understanding physics, pag. 72-73 and 168 
+ *  Roest, R., Inleiding Mechanica, pag. 91-93 
+ *  Stewart, J, Calculus, pag. 262 and 266 
+ *  Young, H.D. and Freeman, R.A., University Physics, pag. 407-410
+  

@@ -40,4 +40,8 @@ name: figures/figure_2.png
 ---  
 caption  
 ``` 
- Using the 5000mm-lens makes the curvature in Figure 3 much less and so the layer of air will change much slower in the x-direction, broadening the distance between the fringes.  
+ Using the 5000mm-lens makes the curvature in Figure 3 much less and so the layer of air will change much slower in the x-direction, broadening the distance between the fringes.  Newton's rings (1)    
+<b> Remarks: </b>  
+  In literature this setup is also known as "interference prism".  The phenomenon is easily seen by eye. So encourage your students to look at the setup when the lecture is over. The eye-observation is of such a higher quality than the observation through a camera that this is worth doing it.  It wouldn't surprise me when Newton saw this phenomenon for the first time just accidently. Supposing he had lenses and prisms littering around, it suddenly stroke him! By eye the phenomenon is so easily observed, so it could be possible.  Newton tried to explain this phenomenon using his particle theory of light, with its hypothesis of 'fits of easy transmission [refraction] and reflection', but he also suggests to associate the rings with vibrations in the medium.    
+<b> Sources: </b>  
+  Giancoli, D.G., Physics for scientists and engineers with modern physics, pag. 879-880  Hecht, Eugene, Optics, pag. 398-399  

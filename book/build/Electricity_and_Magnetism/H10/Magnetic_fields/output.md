@@ -55,5 +55,6 @@ caption
 <b> Sources: </b>  
  
  *  Buijze W. en Roest R., Inleiding electriciteit en Magnetisme, pag. 109-111 
- *  Giancoli, D.G., Physics for scientists and engineers with modern physics, pag.
- 
+ *  Giancoli, D.G., Physics for scientists and engineers with modern physics, pag.    719-720 
+ *  Mansfield, M and O'Sullivan, C., Understanding physics, pag. 484-485
+  

@@ -44,4 +44,14 @@ name: figures/figure_2.png
 ---  
 caption  
 ``` 
- Figure 4  For the observer in the laboratory, this results in a rotation of the coplanar vectors w0, I0w0, w, DL and w' around L. The cone described by the symmetry-axis around L is called the cone of nutation; the cone described by w around L is called the space cone. For the observer in the rotating frame (e.g. seated on the symmetry-axis), the vector w rotates around this axis, thus describing the socalled body cone. For the observer in the 
+ Figure 4  For the observer in the laboratory, this results in a rotation of the coplanar vectors w0, I0w0, w, DL and w' around L. The cone described by the symmetry-axis around L is called the cone of nutation; the cone described by w around L is called the space cone. For the observer in the rotating frame (e.g. seated on the symmetry-axis), the vector w rotates around this axis, thus describing the socalled body cone. For the observer in the Nutation (1)   laboratory, this cone is not stationary, but moves around the space cone. Notice that the space cone and the body cone have the vector w in common.    
+<b> Remarks: </b>  
+ 
+ *  See also the description of the demonstration "Nutation (2)" in this database.
+   
+<b> Sources: </b>  
+ 
+ *  Roest, R., Inleiding Mechanica, pag. 223 
+ *  Borghouts, A.N., Inleiding in de Mechanica, pag. 225 
+ *  Leybold Didactic GmbH, Gerätekarte, 34818
+  

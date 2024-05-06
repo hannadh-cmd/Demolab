@@ -26,4 +26,10 @@ caption
 <b> Explanation: </b>  
  Based on conservation of momentum, we know that a ball which bounces off a wall delivers a greater momentum to the wall than another ball of the same mass and velocity that sticks to the wall. In fact, for an elastic ball which bounces backward with its initial speed, the momentum delivered to the wall is twice as great as the ball's original momentum. In just the same way, we expect that a photon of light gives more momentum to a surface when it is reflected than when it is absorbed. Therefore, light should exert a greater pressure on the mirrored sides of the vanes than the absorbing black sides. According to this explanation, the radiometer turns in the wrong direction! The effect of light pressure is overwhelmed by another: the greater heating of the blackened sides. This greater heating causes residual air molecules in the globe to recoil more forcefully when they hit the black sides than when they hit the mirrored sides,, thereby giving them a greater impact than the mirrored sides. When the light passes through a layer of water, the vanes will not turn because the water filters out the infrared radiation that causes most of the heating.    
 <b> Remarks: </b>  
- When placing the watertank, be sure that there is no reflection from the surface increasing the light intensity towards the radiometer.  
+ When placing the watertank, be sure that there is no reflection from the surface increasing the light intensity towards the radiometer.  ?     
+<b> Sources: </b>  
+ 
+ *  Ehrlich, R., Why Toast Lands Jelly-Side Down: Zen and the Art of Physics Demonstrations, pag. 15 
+ *  Ehrlich, Robert, Turning the World Inside Out and 174 Other Simple Physics Demonstrations, pag. 117 
+ *  Sutton, Richard Manliffe, Demonstration experiments in Physics, pag. 242
+  

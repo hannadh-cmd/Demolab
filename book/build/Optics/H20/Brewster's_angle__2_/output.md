@@ -40,4 +40,8 @@ name: figures/figure_2.png
 ---  
 caption  
 ``` 
- Figure 2A shows such a dipole radiation pattern (green line is the envelope) of such an oscillating charge. If the situation is arranged such that 90rt, there is no reradiation into the direction of reflection (see Figure 2B): the reflected wave vanishes. (In a simple way you can say that in the direction of reflection an observer “sees” no oscillation). The angle at which this situation happens is called Brewster's angle (p).  
+ Figure 2A shows such a dipole radiation pattern (green line is the envelope) of such an oscillating charge. If the situation is arranged such that 90rt, there is no reradiation into the direction of reflection (see Figure 2B): the reflected wave vanishes. (In a simple way you can say that in the direction of reflection an observer “sees” no oscillation). The angle at which this situation happens is called Brewster's angle (p).  Brewster's angle (2)     
+<b> Remarks: </b>  
+  Also see the demonstration Brewster's angle (1) in this database.  The pictures in Diagram, Figure 1A and -1B show that in this demonstration you can also say something about the intensities of the reflected and transmitted beams. Figure 2 in the demonstration "Brewster's angle (1)" in this database can be used to elucidate the observed differences in intensities.   
+<b> Sources: </b>  
+  Hecht, Eugene, Optics, pag. 111-115; 342-346  

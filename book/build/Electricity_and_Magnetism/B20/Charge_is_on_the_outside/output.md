@@ -40,4 +40,14 @@ name: figures/figure_2.png
 ---  
 caption  
 ``` 
+ .     
+<b> Explanation: </b>  
+ The electric field inside any conductor is zero even if it carries a net charge (otherwise the free charges inside the conductor would move until the net force on each were zero, and hence E were zero).  The net charge must reside on the outer surface. Gauss's law shows this: When we choose a Gaussian surface close to the surface of the conductor but still inside it, the electric field inside is zero at all points. Hence there can be no net charge on the inside. The electroscope on the inside of the hemisphere, being a charge detector, shows this. When the two halves are seperated, the electroscope becomes an outer surface and so it will carry charge. The electroscope, being this outer surface, shows this by its deflection.    
+<b> Remarks: </b>  
  
+ *  Manipulate the two sieves only by touching the styrofoam blocks. The heavy wooden blocks are no good isolators.
+   
+<b> Sources: </b>  
+ 
+ *  Giancoli, D.G., Physics for scientists and engineers with modern physics, pag. 584-585
+  

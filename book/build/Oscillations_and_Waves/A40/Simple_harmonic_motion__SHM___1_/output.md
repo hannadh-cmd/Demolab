@@ -32,4 +32,15 @@ name: figures/figure_1.png
 ---  
 caption  
 ``` 
- Data-recording is started and the spring-mass system is set in motion again. When about 5 cycles are registered, the data-recording is stopped and the resulting position graph can be studied (see Figure1A: 1. When the mass rises above the marked rest position the first part (AB) of the curve shows that it slows down (because AB becomes more and more level). So during AB the force is downwardly directed. From B to C the graph shows that 
+ Data-recording is started and the spring-mass system is set in motion again. When about 5 cycles are registered, the data-recording is stopped and the resulting position graph can be studied (see Figure1A: 1. When the mass rises above the marked rest position the first part (AB) of the curve shows that it slows down (because AB becomes more and more level). So during AB the force is downwardly directed. From B to C the graph shows that Simple harmonic motion (SHM) (1)   the mass accelerates (because BC becomes steeper all the time). So also during BC the force is directed downward. CDE can be described in a similar way: always the force is directed towards the rest-position.  2. The graph suggests very strongly that it has a sine-shape. So by means of the software we try a sine-fit (see Figure1B). This fits very well (very low CHI2-value), confirming our "guess". 3. Applying the software we add the graphs of velocity and acceleration. The differential relationship between these three quantities can be verified now: -The points of zero velocity correspond with maximum - and minimum position; -The acceleration-graph is an inverse "copy" of the position-graph; -…….   
+<b> Explanation: </b>  
+ 1. An oscillating system in which the accelearation (or force) is always directed towards a fixed central point and increases linearly with displacement from that fixed point performs a so-called simple harmonic motion. A spring-mass system is such a system: When the (ideal) spring is displaced from its rest position, the restoring force (F) is proportional to this displacement (F=-kx) and directed towards thart rest position. 2. Applying Newton's second law, the dynamic equation of motion is 22dxkxdtm=-. Solution of this is ()sinxtAtw= The sine-fit in our demonstration confirms this.    
+<b> Remarks: </b>  
+ 
+ *  Making the frequency of the position sensor lower will smoothen the calculated graphs of velocity and acceleration.
+   
+<b> Sources: </b>  
+ 
+ *  Mansfield, M and O'Sullivan, C., Understanding physics, pag. 45-52 
+ *  Young, H.D. and Freeman, R.A., University Physics, pag. 394-397
+  

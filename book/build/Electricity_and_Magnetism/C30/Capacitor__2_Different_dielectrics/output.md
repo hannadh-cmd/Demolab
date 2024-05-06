@@ -61,5 +61,10 @@ caption
  Explanation 1: The demonstration shows that the voltage lowers when a dielectric is shifted between the capacitor plates. Voltage is the energy per unit charge, so we can say that the potential energy of the capacitor lowers. Where is this energy gone? It was needed to polarize the dielectric! The “lost” energy is now in the polarized dipoles of the dielectric. In the same way the energy stored in the capacitor becomes higher when the dielectric is removed. Also the demonstrator has to pull now because there is an attracting force between the induced charge on the dielectric and the plates. So he adds energy to the capacitor. Explanation 2: When the dielectric is between the plates, C increases (ACde=) because e becomes higher, and since Q is constant this will cause V to decrease (Q=CV). (This explanation is just mathematics and no physics.)  Especially when water is the dielectric the voltage should lower dramatically, sincere of water is around 80!   
 <b> Remarks: </b>  
  
- *  In the explanation of the demonstration it is supposed that the charge on the capacitor is constant. This is true only if the capacitance of the electrostatic voltmeter is small compared to that of the parallel plate capacitor.
+ *  In the explanation of the demonstration it is supposed that the charge on the capacitor is constant. This is true only if the capacitance of the electrostatic voltmeter is small compared to that of the parallel plate capacitor.  Capacitor (2) Different dielectrics
+     
+<b> Sources: </b>  
+ 
+ *  Mansfield, M and O'Sullivan, C., Understanding physics, pag. 455-458. 
+ *  Giancoli, D.G., Physics for scientists and engineers with modern physics, pag. 621-625.
   

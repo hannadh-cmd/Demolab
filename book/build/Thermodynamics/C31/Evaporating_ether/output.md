@@ -23,4 +23,23 @@ caption
  *  Ether. 
  *  Thermometer. 
  *  Video camera and large screen projection.
+       
+<b> Presentation: </b>  
  
+ *  A layer of ether is poured into the petri disk. The thermometer probe is placed in the ether. Blowing across the petri disk will cause the temperature of the ether to go down. 
+ *  A small drop of water is placed on top of the styrofoam block. The petri disk with the ether is placed on the drop of water. Blowing is started again and when this is continued long enough, the ether temperature drops below 0°C, freezing the drop of water. The petri disk is lifted and the styrofoam block sticks to it. While blowing across the ether, watervapor in the air condenses on the petri disk. When all the ether is evaporated, this condensed water is frozen and can be seen as an ice/snowlayer on the disk.
+    
+<b> Explanation: </b>  
+ Evaporation needs heat. This heat is taken from the surroundings, so also from the drop of water, and so lowering the temperature of the water and turning it into ice.    
+<b> Remarks: </b>  
+ 
+ *  When using ether, no fire or sparks should be in the neighbourhood! 
+ *  Take care not to blow the ether out of the petri disk. (The styrofoam is dissolved by it and when the ether mixes with the water, this mixture will not freeze anymore.) 
+ *  With a video-camera and -projector, the proces of freezing can be shown on s
+creen.   
+<b> Sources: </b>  
+ 
+ *  Aulis, Handbuch der Physik, part 4, pag. 123 
+ *  Biezeveld, H. and Mathot, L., Scoop, Natuurkunde voor de bovenbouw, part 5/6 vwo, pag. 31 
+ *  Mansfield, M and O'Sullivan, C., Understanding physics, pag. 276
+  

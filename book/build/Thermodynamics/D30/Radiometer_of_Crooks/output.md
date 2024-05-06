@@ -33,4 +33,4 @@ caption
  *  Ehrlich, Robert, Turning the World Inside Out and 174 Other Simple Physics Demonstrations, pag. 117 
  *  Jewett Jr., John W., Physics Begins With Another M... : Mysteries, Magic, Myth, and Modern Physics, pag. 271-72 
  *  Sutton, Richard Manliffe, Demonstration experiments in Physics, pag. 242
- 
+     

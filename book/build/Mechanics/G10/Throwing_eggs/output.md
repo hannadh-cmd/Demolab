@@ -33,4 +33,4 @@ caption
  
  *  Ehrlich, Robert, Turning the World Inside Out and 174 Other Simple Physics Demonstrations, pag. 32-33 
  *  Mansfield, M and O'Sullivan, C., Understanding physics, pag. 42
- 
+     

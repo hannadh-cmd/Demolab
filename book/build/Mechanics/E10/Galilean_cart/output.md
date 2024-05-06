@@ -48,4 +48,4 @@ ure1).
  
  *  Mansfield, M and O'Sullivan, C., Understanding physics, pag. 173-174 
  *  McComb,W.D., Dynamics and Relativity, pag. 24-25
- 
+     

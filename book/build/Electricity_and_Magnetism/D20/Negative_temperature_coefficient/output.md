@@ -20,4 +20,8 @@ caption
  *  Power supply 
  *  Current meter with large display 
  *  Gasflame
- 
+       
+<b> Presentation: </b>  
+ Set the Ammeter at a 1A-scale. The voltage of the power supply is raised until a current of about 0.05 A flows in the circuit. The bar of P-Ge is heated by the gasflame and soon the current rises to a much higher value. After a short time of heating the gasflame can be removed and the current continues to rise, faster and faster, only limited by the powersupply.    
+<b> Explanation: </b>  
+ The resistance of a semiconductor drops with temperature because at a higher temperature there are more free charge-carriers in it. The current flowing in the material heats it up:2elVPR= The heat leaving the piece of material is proportional to DT: outPT(cid:181)D (Newton cooling). When Pout=Pel. there will be thermal equilibrium and the temperature is constant. Reaching such an equilibrium takes some time. In this demonstration R lowers due to a rise in temperature and so Pel. rises due to a rise in temperature. When this rise is faster than the rise of Pout an ever faster rising of DT (like an avalanche) will result.   

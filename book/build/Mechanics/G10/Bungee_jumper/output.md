@@ -38,4 +38,14 @@ name: figures/figure_2.png
 ---  
 caption  
 ``` 
- The block fixed to the chain reaches the ground before the free falling block does. 
+ The block fixed to the chain reaches the ground before the free falling block does.   This means that the chained block has acceleration greater than g!    
+<b> Explanation: </b>  
+ The key to understanding the phenomenon is in recognizing that the mass of a real bungee cord is at least equal to the mass of the jumper. Therefore, the jumper on the end of the bungee cord can accelerate at greater than g because the center of mass of the system is not accelerating more than g.  Approaching the problem of from the point of view of energy leads to an acceleration (at the end of maximum stretch) of (4)18ag where  is the ratio of the mass of the cord to the mass of the jumper. (See   
+<b> Sources: </b>  
+ The Physics Teacher) This equation shows that a is always greater than g and, depending on , can be substantially greater than g. An explanation with a force model is hard to give. In the indicated literature some intuitive insight is gleaned from the following considerations:  The motion of a bungee cord and jumper is similar to that of a whip. When a whip is cracked, energy from the entire whip is transferred via internal forces to the tip in such a way that initial speedsof a few meters per second become supersonic at the tip.  Continuously the portion of the chain at the bottom of the loop is coming to rest. Since it was moving downward, an upward force is required on this part of the system. Since this upward force is an internal force, and Newton's Third Law must be satisfied, there must be an equal and opposite downward force somewhere within the system. A portion of this reaction force acts on the stationary part of the chain, but another part acts on the falling portion, causing it to accelerate.  The falling portion of the chain can be thought of as a rocket moving downward. It is "ejecting" chain as its "fuel" in such a way that the ejected chain is always at rest. So this ejected chain is "fired" upward, producing a downward "thrust" on the remaining portion of the moving chain.   
+<b> Remarks: </b>  
+  When the block fixed to the chain contains an acceleration-sensor, its acceleration can easily be recorded by a data-acquisition system. Also in this way we perform this demonstration and the results are satisfying when compared to theory. When the experiment is performed in this way, no ladder is needed. We obtain good results dropping the block from a height of 2 meters. (In this demonstration we make that the block with sensor does not reach the ground, in order to protect the acceleration sensor!)  Instead of using an acceleration sensor, the demonstration can also be performed using a Rotary Motion Sensor (see   
+<b> Sources: </b>  
+ Pasco Newsletter).   
+<b> Sources: </b>  
+ Pronk, C./Biegstraaten,A.W.W.M., Syllabus "Inleiding Computergebruik" , pag. 191-218. American Journal of Physics , pag 776 (Vol. 74-9; 2006). Pasco Newsletter , Vol. 1/Issue 1 (Fall 09), pag. 6.  

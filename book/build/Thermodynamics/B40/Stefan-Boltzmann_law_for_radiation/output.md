@@ -33,4 +33,16 @@ name: figures/figure_1.png
 ---  
 caption  
 ``` 
- As soon as the temperature of the plate reads about 30oC, the data-acquisition system is started to record temperature- and radiation measurements. Slowly temperature rises and the teacher can go on with his lecture. It takes about 30 minutes to reach a temperature of 150oC. So, near the end of the lecture the data-acquisition is stopped and the heating of the plate switched off. Studying the four graphs it is clear that the 
+ As soon as the temperature of the plate reads about 30oC, the data-acquisition system is started to record temperature- and radiation measurements. Slowly temperature rises and the teacher can go on with his lecture. It takes about 30 minutes to reach a temperature of 150oC. So, near the end of the lecture the data-acquisition is stopped and the heating of the plate switched off. Studying the four graphs it is clear that the    T4-graph is the straightest line among the four (see Figure1), so this is the best P-T relationship. (T3-graph "curves" upwards and T5-graph "curves" downwards.)    
+<b> Explanation: </b>  
+ We can obtain the Stefan-Boltzmann radiation law by integrating Planck's radiation law over all l.    
+<b> Remarks: </b>  
+ 
+ *  Do not start measurements directly after switching on the hot plate. Heat capacity of the system makes that at the very beginning, temperatures in the system are not equally distributed. That's why we start measurements from 30oC on. (In Figure1 you can see this "switching-on"-effect in the graph at the leftside of the vertical Voltage-axis.) This is also the reason why the plate should heat up slowly, otherwise measured temperature and measured radiation are not related properly. 
+ *  The software also enables to apply a linear fit on the graphs recorded. This also shows that the T4-graph has the closest approach to such a linear relationship (lowest chi2).
+   
+<b> Sources: </b>  
+ 
+ *  Mansfield, M and O'Sullivan, C., Understanding physics, pag. 270-272 
+ *  Young, H.D. and Freeman, R.A., University Physics, pag. 1256-1258
+  

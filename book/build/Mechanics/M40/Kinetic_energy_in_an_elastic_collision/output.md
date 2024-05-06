@@ -43,4 +43,4 @@ caption
  
  *  Mansfield, M and O'Sullivan, C., Understanding physics, pag. 91 
  *  PASCO scientific, Instruction Manual and Experiment Guide, pag. CI-6569
- 
+     

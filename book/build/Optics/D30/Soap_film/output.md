@@ -43,7 +43,13 @@ name: figures/figure_2.png
 ---  
 caption  
 ``` 
- The same holds for red light. Figure2 shows the result of this simplified blue-red dance. This figure clarifies that red dominates blue: the maximum of blue has always some red in it, while the maximum of red is "pure" red. In incandescent lamplight this is even stronger,due to the fact that red has a higher intensity in that light than blue.   Figures:    
+ The same holds for red light. Figure2 shows the result of this simplified blue-red dance. This figure clarifies that red dominates blue: the maximum of blue has always some red in it, while the maximum of red is "pure" red. In incandescent lamplight this is even stronger,due to the fact that red has a higher intensity in that light than blue.       
+<b> Remarks: </b>  
+ 
+ *  The colorpattern can also be easily observed in normal daylight. But for a larger group projetion will be necessary. 
+ *  The wineglass has a small hole cut in its cup. When you use an ordinairy wineglass you will notice that the soapfilm will bend inward. Colors can still be observed, but projecting a sharp image is not possible. 
+ *  Robert Hooke first reported observing the transparant film in a letter to the Royal Society. His letter indicates that he thought that the film actually did not exist where it was transparant. A simple experiment of poking the invisible film and so breaking it proves the existence of the invisible film. 
+ *  See also the demonstration "Oil film" in this database.  Figures:    
 ```{figure} figures/figure_3.png  
 ---  
 width: 50%  
@@ -51,7 +57,8 @@ name: figures/figure_3.png
 ---  
 caption  
 ``` 
- Figure 2     
+ Figure 2
+     
 <b> Sources: </b>  
  
  *  Biezeveld, H. and Mathot, L., Scoop, Natuurkunde voor de bovenbouw, part 4/5 vwo, pag. 128-129 

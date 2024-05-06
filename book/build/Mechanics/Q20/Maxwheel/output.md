@@ -49,5 +49,12 @@ caption
  
  *  Care must be exercised so that the two threads always have the same length and so there is no overlapping on the spindle which would change r1. In our wheel, overlapping is prevented by giving different lengths to the spindle and suspension bar (see Figure 2b). 
  *  When measuring r1 do not forget the thickness of the thread! 
- *  As an introduction to this experiment see the demonstration "Yo-yo" in this database. Doing so, the measured acceleration can be related to the force of the strings holding the wheel.
+ *  As an introduction to this experiment see the demonstration "Yo-yo" in this database. Doing so, the measured acceleration can be related to the force of the strings holding the whe
+el.      
+<b> Sources: </b>  
  
+ *  Meiners, Harry F., Physics demonstration experiments, part I, pag. 286 
+ *  Friedrich, Artur, Handbuch der experimentellen Schulphysik, part 2, Mechanik der festen Körper, pag. 214 
+ *  Roest, R., Inleiding Mechanica, pag. 183-185 
+ *  Young, H.D. and Freeman, R.A., University Physics, pag. 303
+  

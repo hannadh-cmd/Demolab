@@ -42,4 +42,4 @@ caption
 <b> Remarks: </b>  
   When in the beginning you place the crystal model between sender and receiver, the received signal will reduce. Depending on the separation chosen between sender and receiver, the received signal might even reduce to zero.    
 <b> Sources: </b>  
-  Callister, Jr. William D., Material Science and Engineering, an introduction, pag. 53-57. Giancoli, D.G., Physics for scientists and engineers with modern physics, pag. 905-906.  Mansfield, M and O'Sullivan, C., Understanding physics, pag. 335-336.  Pasco Instruction Manual, Microwaves Optics (WA9314B), Exp. 12, pag. 33-34 and 44.
+  Callister, Jr. William D., Material Science and Engineering, an introduction, pag. 53-57. Giancoli, D.G., Physics for scientists and engineers with modern physics, pag. 905-906.  Mansfield, M and O'Sullivan, C., Understanding physics, pag. 335-336.  Pasco Instruction Manual, Microwaves Optics (WA9314B), Exp. 12, pag. 33-34 and 44.   

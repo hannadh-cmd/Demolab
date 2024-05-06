@@ -42,4 +42,6 @@ caption
 ``` 
  When turning around in circles the ping-pong ball is forced to move in a circle. A centripetal force is needed for that. Figure 2b shows the new situation of equilibrium: the net upward force and tension are compensated by a centripetal force Fc.. Any other position of the ping-pong ball is not a situation of equilibrium (drawing a free body diagram of the forces will show this).    
 <b> Remarks: </b>  
-  When an air-bubble is trapped in the conical beaker filled with water, this bubble will behave in the same way as the ping-pong ball does.  When you move the system from left to right, the acceleration on the left side and the deceleration on the right side can be observed. In general: the system can be used as an acceleration-meter. 
+  When an air-bubble is trapped in the conical beaker filled with water, this bubble will behave in the same way as the ping-pong ball does.  When you move the system from left to right, the acceleration on the left side and the deceleration on the right side can be observed. In general: the system can be used as an acceleration-meter.     
+<b> Sources: </b>  
+  Ehrlich, Robert, Turning the World Inside Out and 174 Other Simple Physics Demonstrations, pag. 31-32.  

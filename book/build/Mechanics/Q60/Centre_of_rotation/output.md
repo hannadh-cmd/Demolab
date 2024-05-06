@@ -38,4 +38,8 @@ name: figures/figure_2.png
 ---  
 caption  
 ``` 
- 
+       
+<b> Remarks: </b>  
+  The easiest way to wind the rubber band is done by holding the small sphere in your hand and whirling the large sphere round over the ground.  The wooden spheres having diameters of 4- and 5cm will have a mass ratioof 1 to 1.95, so very close to a factor 2.  See also the demonstration "Dumbbell" in this database.   
+<b> Sources: </b>  
+  Mansfield, M and O'Sullivan, C., Understanding physics, pag. 139-141.  PSSC, College Physics, pag. 352-354.  

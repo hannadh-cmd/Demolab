@@ -34,11 +34,7 @@ caption
 ``` 
  The third magnet is placed. It rolls towards the second magnet until it stops. Again the set up is bumped gently by hand until the three magnets have set themselves due to magnetic forces alone. The separation between the two first magnets has become smaller. Again this distance is read. A fourth magnet is added and the procedure repeated. Also a fifth - and sixth magnet follow. The table in Figure 1 shows a typical result of our measurements.    
 <b> Explanation: </b>  
- Supposing that the force between magnetic (mono)poles is like Coulomb's law for electric charges, then we can   
-<b> write: </b>  
- 12polesnppFkr= (p1 and p2 are the "magnetic pole strength" of pole 1 and pole 2). Between real magnets, being dipoles, the force between them will be of a higher power then the foregoing "Coulomb's law for magnets" indicates. So, we   
-<b> write: </b>  
- 12magnetsmRRFcr=. The first measurement (with two magnets) gives: F1r1m=cR1R2. The second measurement (with three magnets) gives: F2r2m=cR1R2. force between magnets (1) Since F2=2F1 (see Figure 2), we find: 122mrr= So measuring r1 and r2, we can determine m!   
+ Supposing that the force between magnetic (mono)poles is like Coulomb's law for electric charges, then we can write: 12polesnppFkr= (p1 and p2 are the "magnetic pole strength" of pole 1 and pole 2). Between real magnets, being dipoles, the force between them will be of a higher power then the foregoing "Coulomb's law for magnets" indicates. So, we write: 12magnetsmRRFcr=. The first measurement (with two magnets) gives: F1r1m=cR1R2. The second measurement (with three magnets) gives: F2r2m=cR1R2. force between magnets (1) Since F2=2F1 (see Figure 2), we find: 122mrr= So measuring r1 and r2, we can determine m!   
 ```{figure} figures/figure_2.png  
 ---  
 width: 50%  

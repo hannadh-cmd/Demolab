@@ -56,4 +56,9 @@ name: figures/figure_3.png
 ---  
 caption  
 ``` 
- When the system is made in such a way that x1=x2, then x1=x2=x and 
+ When the system is made in such a way that x1=x2, then x1=x2=x and Simple harmonic motion (SHM) (3)   k3=k1+k2. So in our demonstration k3=2k. So a system with two springs in parallel and two masses added to it will oscillate with the same frequency as when one mass is suspended to one spring. The measured w's can be verified now.   
+<b> Sources: </b>  
+ 
+ *  Mansfield, M and O'Sullivan, C., Understanding physics, pag. 48-52, 89 and 97-101 
+ *  McComb,W.D., Dynamics and Relativity, pag. 81-82
+  

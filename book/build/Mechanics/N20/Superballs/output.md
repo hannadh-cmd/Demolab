@@ -31,4 +31,8 @@ name: figures/figure_1.png
 ---  
 caption  
 ``` 
-    The small ball would have gone up with a velocity v if it had just hit the floor, but now it takes off with a velocity 3v. Because mgh=½mv2, a 3 times higher take-off velocity means that it goes 9 times higher.  
+    The small ball would have gone up with a velocity v if it had just hit the floor, but now it takes off with a velocity 3v. Because mgh=½mv2, a 3 times higher take-off velocity means that it goes 9 times higher.        
+<b> Remarks: </b>  
+ • Do not rest the table-tennis ball on the basketball and drop it as such a combination. When this is done, the table-tennis ball stays fixed to the basketball (aerodynamic reason) and for this demonstration it is needed that on hitting the ground there is some distance between the two balls. • It is recommended that the dropping of the balls is practiced, especially dropping the small and large ball simultaneously. • An extension of the demonstration is to drop a stack of three or even more balls ("Astro-superball"; see Diagram). When a three-ball combination is dropped, the top ball approaches a maximum of 49 times the initial release height. In order to drop the Astroball-stack perfectly vertical, wetten your fingers holding the stack and slowly let it slip away. • The experiment does not perform very well on a woorden floor.   
+<b> Sources: </b>  
+ • The Physics Teacher, vol. 21, no. 7, pag. 466, Superball problem, G. Stroink • Ehrlich, Robert, Turning the World Inside Out and 174 Other Simple Physics Demonstrations, pag. 60 • Stark Verlag, Astro-Blaster 11938  

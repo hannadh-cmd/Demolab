@@ -31,4 +31,11 @@ name: figures/figure_1.png
 ---  
 caption  
 ``` 
- In case of an ellipse, the situation becomes even worse. Now one focus of the ellipse is off the center of the bowl (see Figure 1) and at r=0, U(0)=0, but U'(0) is not 0! So now: ()()()()231126'0''0'''0UrUrUrUr=++…, showing that expressing the potential with respect to a focal point, this potential is still farther away from a -potential. 1r−Conclusion is that the bowl only suggests planetary motion (but is in the same time a wrong example of such a motion). The only reason to show it, is to challenge the mind of the students with the question how the shape of the bowl ought to be for a real 1r−-potential.       
+ In case of an ellipse, the situation becomes even worse. Now one focus of the ellipse is off the center of the bowl (see Figure 1) and at r=0, U(0)=0, but U'(0) is not 0! So now: ()()()()231126'0''0'''0UrUrUrUr=++…, showing that expressing the potential with respect to a focal point, this potential is still farther away from a -potential. 1r−Conclusion is that the bowl only suggests planetary motion (but is in the same time a wrong example of such a motion). The only reason to show it, is to challenge the mind of the students with the question how the shape of the bowl ought to be for a real 1r−-potential.       Precessing orbit (1)    
+<b> Sources: </b>  
+ 
+ *  Ehrlich, R., Why Toast Lands Jelly-Side Down: Zen and the Art of Physics Demonstrations, pag. 66-68 
+ *  Ehrlich, Robert, Turning the World Inside Out and 174 Other Simple Physics Demonstrations, pag. 13-14 
+ *  Mansfield, M and O'Sullivan, C., Understanding physics, pag. 107-108 
+ *  McComb,W.D., Dynamics and Relativity, pag. 34
+  

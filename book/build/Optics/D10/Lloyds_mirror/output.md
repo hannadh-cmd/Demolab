@@ -1,4 +1,17 @@
 # Lloyds mirror 
+    Title: Lloyds mirror    
+<b> Aim: </b>  
+ To show the interference of two coherent beams of light.    
+<b> Subjects: </b>  
+ 6D10 (Interference From Two Sources)   
+<b> Diagram: </b>  
+ Diagram   
+<b> Equipment: </b>  
+ 
+ *  Laser 
+ *  Simple lens (we use +10 mm) 
+ *  Surface mirror 
+ *  White screen/wall
      
 <b> Presentation: </b>  
  The room is darkened and the laser is switched on. By means of the +10 mm-lens an illuminated disk is projected on the white screen. The surface mirror is placed parallel to the diverging light beam (see figure 1)     

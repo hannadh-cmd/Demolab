@@ -39,4 +39,4 @@ name: figures/figure_2.png
 ---  
 caption  
 ``` 
- Due to this torque the direction of the vector w is changed: w is changed into the 
+ Due to this torque the direction of the vector w is changed: w is changed into the    direction of t (see figure2C), so the wheel will make a curve while rolling. This continues because the vectors w and t remain perpendicular to each other. Also can be seen now that the larger the inclination, the sharper the curve it will make since the vector r increases, making t larger.   

@@ -36,4 +36,4 @@ caption
 ``` 
  .   
 <b> Sources: </b>  
- • Mansfield, M and O'Sullivan, C., Understanding physics, pag. 336-338 and 344-345 • Young, H.D. and Freeman, R.A., University Physics, pag. 627-629 
+ • Mansfield, M and O'Sullivan, C., Understanding physics, pag. 336-338 and 344-345 • Young, H.D. and Freeman, R.A., University Physics, pag. 627-629    • The Physics Teacher, Vol. 38 sept. 2000  

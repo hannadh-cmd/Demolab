@@ -44,4 +44,13 @@ name: figures/figure_2.png
 ---  
 caption  
 ``` 
- -against xz-plane, a2 changes into -a2, -against xy-plane, a3 changes into -a3 and -against yz-plane, a1 changes into -a1. So the finally reflected ray is ar=<-a1,-a2,-a3>=-ai. So the reflected ray is parallel to the incident ray. 
+ -against xz-plane, a2 changes into -a2, -against xy-plane, a3 changes into -a3 and -against yz-plane, a1 changes into -a1. So the finally reflected ray is ar=<-a1,-a2,-a3>=-ai. So the reflected ray is parallel to the incident ray.       
+<b> Remarks: </b>  
+ 
+ *  The principle that the resulting reflection is always perpendicular to the initial ray is used in an array of corner cubes on the moon. Together with a laser beam from earth the measurement of the reflection is used to calculate very precisely the distance from Earth to the Moon.
+   
+<b> Sources: </b>  
+ 
+ *  Hecht, Eugene, Optics, pag. 178-180 and 195 
+ *  Stewart, J, Calculus, pag. 791 and 796
+  

@@ -36,4 +36,11 @@ caption
  
  *  Open the door of your lecture-room and the ball will leave the room on its way to infinity. 
  *  Another reasoning of Galileo can also be told related to this ball-and-gutter demonstration : When the ball is going down, speed increases; when the ball is going up, speed decreases; so, when there is no going up or down, speed should remain the same!
+      
+<b> Sources: </b>  
  
+ *  Mansfield, M and O'Sullivan, C., Understanding physics, pag. 37 
+ *  Biezeveld, H. and Mathot, L., Scoop, Natuurkunde voor de bovenbouw, part 4/5 vwo, pag. 57 
+ *  PSSC, College Physics, pag. 221 
+ *  Young, H.D. and Freeman, R.A., University Physics, pag. 92
+  

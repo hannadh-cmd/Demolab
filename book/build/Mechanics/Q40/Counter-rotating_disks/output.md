@@ -20,4 +20,13 @@ caption
  *  Acessory disk and counterweight (PASCO ME-8961). 
  *  Thread, appoximately 2.5m long with loops in the ends. 
  *  Slotted mass (150 gr).
+       
+<b> Presentation: </b>  
+ The gyroscope is set up with two rotating disks and has its counterweights adjusted until the gyroscope is balanced (see Diagram). Show that the gyroscope is statically balanced in any orientation. Unbalance the gyroscope by placing the slotted mass on the end of the axis and show that, when released, the disk-side falls downward vertically. Hold the gyroscope and place the loops of thread around the pulleys. Both disks are made spinning in the same direction. Releasing the gyroscope will show that there is precession. Stop the disks, hold the gyroscope and place the loops of thread around the pulleys in such a way that both disks are made spinning in opposite directions (and at the same speed). Ask your students what will happen when you release this "gyroscope". On releasing, there is no precession at all: the disk-side falls downward vertically as the gyrocope did when it was not spinning at all.    
+<b> Explanation: </b>  
+ The opposite rotating disks have opposite angular momenta. Having the same speed these momenta add to zero. When a force or torque is applied the resulting movement is not influenced by an angular momentum that equals zero.    
+<b> Remarks: </b>  
  
+ *  When in the last demonstration one of the opposite rotating disks is slowed down, precession is there again. Reduce the speed of one of the disks by hand and ask your students in which direction precession will occur. 
+ *  Both disks can be given the same angular speed by winding the same amount of turns around the pulleys
+  

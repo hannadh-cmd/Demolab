@@ -29,4 +29,10 @@ caption
 ``` 
    
 <b> Explanation: </b>  
- The ball has an impulse p, which can be looked at as consisting of a vertical component pv and a horizontal component ph. When the ball hits the ground, pv is reversed (supposing complete elasticity). But ph changes because the friction force FR, that acts during a short time (Δt), reduces the horizontal impulse by an amount of 0thRpFdtΔΔ=∫vv. The combination of unchanged pv and changed ph makes that the ball mounts steeper (Figure 1C). That it rotates as well is due to the torque during contact with the ground, changing its angular momentum by an amount of: 0tLrFdtΔΔ=×∫vvv.  
+ The ball has an impulse p, which can be looked at as consisting of a vertical component pv and a horizontal component ph. When the ball hits the ground, pv is reversed (supposing complete elasticity). But ph changes because the friction force FR, that acts during a short time (Δt), reduces the horizontal impulse by an amount of 0thRpFdtΔΔ=∫vv. The combination of unchanged pv and changed ph makes that the ball mounts steeper (Figure 1C). That it rotates as well is due to the torque during contact with the ground, changing its angular momentum by an amount of: 0tLrFdtΔΔ=×∫vvv.       
+<b> Sources: </b>  
+ 
+ *  American Journal of Physics, 72-7(2004), pag. 875-883 
+ *  Nederlands Tijdschrift voor Natuurkunde, 70-10(2004), pag. 347 
+ *  Walker, J., Roundabout, the Physics of Rotation in the Everyday World, pag. 8-12
+  

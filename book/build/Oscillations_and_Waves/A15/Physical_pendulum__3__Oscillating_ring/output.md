@@ -43,4 +43,6 @@ name: figures/figure_2.png
 ---  
 caption  
 ``` 
- 
+ Physical pendulum (3) Oscillating ring   • If the pendulum is part of a complete ring, IO=mR2 (Figure 2). Also IO=IC+m(R-s)2 (C is the center of mass) and IA=IC+ms2. It follows that IA=2mRs and 22TRgp=. So again lr=2R.   
+<b> Sources: </b>  
+ • Ehrlich, R., Why Toast Lands Jelly-Side Down: Zen and the Art of Physics Demonstrations, pag. 126-127 • Roest, R., Inleiding Mechanica, pag. 169-170 • Sutton, Richard Manliffe, Demonstration experiments in Physics, pag. 88  

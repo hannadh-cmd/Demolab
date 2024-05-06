@@ -43,4 +43,13 @@ name: figures/figure_2.png
 ---  
 caption  
 ``` 
- So outPdT(cid:181)D. Comparing Pel. and Pout shows that a thicker wire needs a higher DT to reach Pel.=Pout .  
+ So outPdT(cid:181)D. Comparing Pel. and Pout shows that a thicker wire needs a higher DT to reach Pel.=Pout .        
+<b> Remarks: </b>  
+ 
+ *  The wires on the board are bend outward a little. When they heat up they become longer and bend more outward. When you do not bend them outward they might bend inward when heating up, scorching the board.
+    
+<b> Sources: </b>  
+ 
+ *  Sutton, Richard Manliffe, Demonstration experiments in Physics, pag. 320 
+ *  Mansfield, M and O'Sullivan, C., Understanding physics, pag. 417
+  

@@ -41,4 +41,17 @@ name: figures/figure_2.png
 ---  
 caption  
 ``` 
- Energy conservation enables a description of the begin- and end-situation (no matter how complicated the proces in between). So we give a description of ball 4 and ball 3: 
+ Energy conservation enables a description of the begin- and end-situation (no matter how complicated the proces in between). So we give a description of ball 4 and ball 3:    Total energy before = Total energy after U4 + K4 + U3 + K3 = U'4 + K'4 + U'3 + K'3 0 + K4 + U3 + 0 = U'4 + 0 + 0 + K'3 so, K'3 = K4 + U3 - U'4 U3 and U'4 are both negative and [U'4]>[U3], making K'3>K4. Ball 3 has the same mass as ball 4, so when K'3>K4, then ball 3 moves faster than ball 4. Figure2 visualizes the energy conservation in such a way.    
+<b> Remarks: </b>  
+ 
+ *  The demonstration can also be done with 2 or 4 or more steel balls attached to the right side of the magnet. We have the most spectacular effect with three balls. 
+ *  The graph of potential energy of the magnetic field is drawn symmetrically. In reality it will be asymmetric, because when balls are attached to the magnet, the shape of the magnetic field will be changed, but it still holds that 12potpotEE>and the explanation remains the same. 
+ *  Extra demonstration Is reversing the demonstration possible? (see Figure1D). So, when rolling ball3, can we launch ball 4? The preceding demonstration suggests that to make that happen, ball 3 should have a high speed and 4 will be launched with a low speed (reverse the energy-diagram of Figure2). But this will not happen. No matter how high the speed of ball 3, ball 4 will never escape its potential energy well. When the high-speed ball 3 hits the magnet-combination it will easily rebound, leaving too little energy to launch ball4. The best we can get is making ball 4 just moving a little to the left (climbing in its well), but then it accelerates quickly back to the magnet. It is even easier to make ball 2 escape to the right in this way. So, when ball 3 makes a hit,after that collision ball 2 and ball 3 are "free particles". To explain this demonstration we also need to take in consideration conservation of momentum and not only conservation of momentum. 
+ *  We experience that after the demonstration, during the break, students love to try several options: It induces a lot of discussions.
+   
+<b> Sources: </b>  
+ 
+ *  Mansfield, M and O'Sullivan, C., Understanding physics, pag. 91-97 
+ *  Vlaanderen, C.L., Physics Fair, pag. 15-16 
+ *  The Physics Teacher, pag. Vol.41(2003) 158-161
+  
