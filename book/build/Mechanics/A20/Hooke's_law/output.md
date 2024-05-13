@@ -1,5 +1,4 @@
 # A20 Hooke's law 
- Hooke's law   
   
 ## Aim   
  This demonstration shows Hooke's law but also very much about measurements and how to interpret the results.    

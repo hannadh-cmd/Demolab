@@ -1,5 +1,4 @@
 # D50 xxxxxxxxxxx Going round in circles 
- Gauss's law Title: Going round in circles    
   
 ## Aim   
  To see/feel centripetal force.    

@@ -1,5 +1,4 @@
 # D40 Students' centre of mass 
- Students' centre of mass   
   
 ## Aim   
  To show that the centre of mass (CM) will not move when only internal forces are acting.    
