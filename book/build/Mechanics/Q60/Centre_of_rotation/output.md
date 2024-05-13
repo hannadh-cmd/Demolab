@@ -1,10 +1,13 @@
-# Centre of rotation 
+# Q60 Centre of rotation 
      
-<b> Aim: </b>  
+  
+## Aim   
  To show that a free rotating body rotates around its centre of mass.    
-<b> Subjects: </b>  
+  
+## Subjects   
  1D40 (Motion of the Centre of Mass) 1Q60 (Rotational Stability)   
-<b> Diagram: </b>  
+  
+## Diagram   
    
 ```{figure} figures/figure_0.png  
 ---  
@@ -14,14 +17,24 @@ name: figures/figure_0.png
 caption  
 ``` 
     
-<b> Equipment: </b>  
-  Two different wooden spheres (d1=5cm and d2=4cm), connected by a light stick.  Two different wooden spheres (d1=5cm and d2=4cm), connected by a rubber band (length unwound around 50cm).  Board with square grid (10×10 cm2).  Video camera on tripod (see Diagram).  Beamer to project image of square grid to the audience.   
-<b> Safety: </b>  
- 
+  
+## Equipment   
+ 
+ *  Two different wooden spheres (d1=5cm and d2=4cm), connected by a light stick. 
+ *  Two different wooden spheres (d1=5cm and d2=4cm), connected by a rubber band (length unwound around 50cm). 
+ *  Board with square grid (10×10 cm2). 
+ *  Video camera on tripod (see Diagram). 
+ *  Beamer to project image of square grid to the audience.   
+  
+## Safety   
+ 
+ * 
        
-<b> Presentation: </b>  
+  
+## Presentation   
  The two spheres connected to each other by means of the light stick are balanced (see Diagram) to show where the centre of mass (CM) is located. As can be observed, the location of the CM divides the distance (d) between the two centres of the spheres in roughly 1/d3 and 2/d3. Then the system of the two spheres connected by the rubber band is taken. The rubber band is twisted (see Diagram and Remarks). The system is placed on the board with the grid and then left by itself. The combination starts to rotate while unwinding the twisted rubber band. As can be observed, the combination rotates around a fixed point. This can be recognized as the CM shown in the first part of the demonstration. During the rotation the distance between the spheres increases, but its centre of rotation keeps the ratio 1/3 - 2/3 .    
-<b> Explanation: </b>  
+  
+## Explanation   
  1. The total mass is located at the CM. No external forces are acting, so the CM has to remain at its position on the board as Newton's first law tells us. (When the system should rotate around any other point but the CM, the CM performs a rotation and an external torque should be needed for that.)    
 ```{figure} figures/figure_1.png  
 ---  
@@ -39,7 +52,9 @@ name: figures/figure_2.png
 caption  
 ``` 
        
-<b> Remarks: </b>  
+  
+## Remarks   
   The easiest way to wind the rubber band is done by holding the small sphere in your hand and whirling the large sphere round over the ground.  The wooden spheres having diameters of 4- and 5cm will have a mass ratioof 1 to 1.95, so very close to a factor 2.  See also the demonstration "Dumbbell" in this database.   
-<b> Sources: </b>  
+  
+## Sources   
   Mansfield, M and O'Sullivan, C., Understanding physics, pag. 139-141.  PSSC, College Physics, pag. 352-354.  

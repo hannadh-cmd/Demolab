@@ -1,10 +1,13 @@
-# Boomerang ball  1  
+# K10 Boomerang ball  1  
  Boomerang ball (1)   
-<b> Aim: </b>  
+  
+## Aim   
  To explain the very peculiar behavior of a bouncing superball.    
-<b> Subjects: </b>  
+  
+## Subjects   
  1K10 (Dynamic Torque) 1N10 (Impulse and Thrust)   
-<b> Diagram: </b>  
+  
+## Diagram   
    
 ```{figure} figures/figure_0.png  
 ---  
@@ -14,14 +17,22 @@ name: figures/figure_0.png
 caption  
 ``` 
      
-<b> Equipment: </b>  
-  Superball.  Basketball.  Table.   
-<b> Safety: </b>  
-  A superball can jump into many unexpected directions, so mind vulnerable objects in your neighborhood. Boomerang ball (1)
+  
+## Equipment   
+ 
+ *  Superball. 
+ *  Basketball. 
+ *  Table.   
+  
+## Safety   
+ 
+ *  A superball can jump into many unexpected directions, so mind vulnerable objects in your neighborhood. Boomerang ball (1)
     
-<b> Presentation: </b>  
+  
+## Presentation   
  The superball is thrown under the table as shown in the Diagram. Surprisingly it bounces back to the pitcher! How is this possible?   
-<b> Explanation: </b>  
+  
+## Explanation   
  As an introduction to an explanation a basketball is rolled over the floor, hitting the wall and rolling back to you. But in this rolling back it is also bouncing up and down (see the demonstration “What force makes that ball bounce?” in this database). Confronting your students with the question "where originates this vertical momentum?" will lead them (I hope) to the answer: "the impulse of the friction force while the ball touches the vertical wall".  As a second introduction to an explanation the basketball is thrown as shown in Figure 1A   
 ```{figure} figures/figure_1.png  
 ---  
@@ -39,7 +50,20 @@ name: figures/figure_2.png
 caption  
 ``` 
  Due to this horizontal impulse, ph even changes direction and bouncing from the bottom-Boomerang ball (1)  side, the ball even moves to the left. (The clockwise rotation will be slowed down, stopped or even reversed, because on hitting the bottom-side of the tabletopM is directed in the opposite direction.) Depending on the value of ph now, CD in Figure 2 could be a possible line of movement. Explaining line DE (towards the pitcher) will be easy when you suppose a counterclockwise rotation in the path CD, because then the friction force on hitting the floor is directed again to the left increasing the horizontal component of the ball's velocity to the left! (see Figure 2B)   
-<b> Remarks: </b>  
-  In theory all balls will behave in this way. Yet a superball is needed to show this type of “boomerang-behavior”. That a superball performs so well is due in the first place to its high coefficient of friction and subsequently its high friction force on horizontal contact with the floor and table. And a high friction force can change the horizontal momentum dramatically.  It is more spectacular to throw the ball between the floor and the ceiling of the lecture room! (Even in our lecture hall that is around 7 meters high this succeeds.) The higher the speed of the ball that you throw, the more surprising the demonstration. But to do this, practicing is absolutely necessary. (But when you miss, this enlightens your performance in front of your students and their laughing will consolidate their reminiscence of this demonstration.)  When you are able to keep the ball between the floor and the table (two horizontal surfaces), then the thrown ball goes to and fro quite a number of times, and eventually moves only up and down perfect vertically. The same can be tried between two vertical surfaces: the ball thrown will go up and down a number of times.  So, in these two cases an oscillating displacement of the ball can be observed (see the article in AJP 72-7). When you try these possibilities the ball needs to be thrown at very high speeds.  Many other strange bounces are possible: see "Boomerang ball (2)" in this database.   
-<b> Sources: </b>  
-  Walker, J., Roundabout, the Physics of Rotation in the Everyday World, pag. 8-12  American Journal of Physics, pag. 875-883 (Vol.72-7; 2004)  Nederlands Tijdschrift voor Natuurkunde, 70/10(2004), pag. 347  McComb, W. D. Dynamics and Relativity, pag. 3  
+  
+## Remarks   
+ 
+ *  In theory all balls will behave in this way. Yet a superball is needed to show this type of “boomerang-behavior”. That a superball performs so well is due in the first place to its high coefficient of friction and subsequently its high friction force on horizontal contact with the floor and table. And a high friction force can change the horizontal momentum dramatically. 
+ *  It is more spectacular to throw the ball between the floor and the ceiling of the lecture room! (Even in our lecture hall that is around 7 meters high this succeeds.)
+ *  The higher the speed of the ball that you throw, the more surprising the demonstration. But to do this, practicing is absolutely necessary. (But when you miss, this enlightens your performance in front of your students and their laughing will consolidate their reminiscence of this demonstration.) 
+ *  When you are able to keep the ball between the floor and the table (two horizontal surfaces), then the thrown ball goes to and fro quite a number of times, and eventually moves only up and down perfect vertically. The same can be tried between two vertical surfaces: the ball thrown will go up and down a number of times.  So, in these two cases an oscillating displacement of the ball can be observed (see the article in AJP 72-7). When you try these possibilities the ball needs to be thrown at very high speeds. 
+ *  Many other strange bounces are possible: see "Boomerang ball (2)" in this database.
+   
+  
+## Sources   
+ 
+ *  Walker, J., Roundabout, the Physics of Rotation in the Everyday World, pag. 8-12 
+ *  American Journal of Physics, pag. 875-883 (Vol.72-7; 2004) 
+ *  Nederlands Tijdschrift voor Natuurkunde, 70/10(2004), pag. 347 
+ *  McComb, W. D. Dynamics and Relativity, pag. 3
+  

@@ -1,10 +1,13 @@
-# Weighing the earth 
+# L10 Weighing the earth 
     
-<b> Aim: </b>  
+  
+## Aim   
  To show the experiment of Cavendish.   
-<b> Subjects: </b>  
+  
+## Subjects   
  1L10 (Universal Gravitational Constant)   
-<b> Diagram: </b>  
+  
+## Diagram   
    
 ```{figure} figures/figure_0.png  
 ---  
@@ -14,13 +17,21 @@ name: figures/figure_0.png
 caption  
 ``` 
      
-<b> Equipment: </b>  
-  Computerized Cavendish Balance (TEL-Atomic RP2111).  Data-acquisition system (We use PASCO ScienceWorkshop).  Some models of torsion balances (see Diagram A).   
-<b> Safety: </b>  
-  You are manipulating lead balls in this experiment. So wash your hands after you have performed the demonstration.  A                                             B
+  
+## Equipment   
+ 
+ *  Computerized Cavendish Balance (TEL-Atomic RP2111). 
+ *  Data-acquisition system (We use PASCO ScienceWorkshop). 
+ *  Some models of torsion balances (see Diagram A).   
+  
+## Safety   
+ 
+ *  You are manipulating lead balls in this experiment. So wash your hands after you have performed the demonstration.  A                                             B
      
-<b> Presentation: </b>  
-  First a short historical survey is presented to the students:  1687: Newton’s law on gravitation published in his “Philosophia Naturalis Principia”. In this “Principia” he considers that the attraction of a pendulum (that hangs straight downwards) by a mountain could be used as a practical demonstration of his theory (see Figure 1), but pessimistically he thought that any real mountain would produce too small a deflection to measure.    
+  
+## Presentation   
+  First a short historical survey is presented to the students: 
+ *  1687: Newton’s law on gravitation published in his “Philosophia Naturalis Principia”. In this “Principia” he considers that the attraction of a pendulum (that hangs straight downwards) by a mountain could be used as a practical demonstration of his theory (see Figure 1), but pessimistically he thought that any real mountain would produce too small a deflection to measure.    
 ```{figure} figures/figure_1.png  
 ---  
 width: 50%  
@@ -28,7 +39,11 @@ name: figures/figure_1.png
 ---  
 caption  
 ``` 
-  An experiment to test Newton’s gravitational law would provide an estimate of the mass and density of the Earth. Since, by that time, the masses of astronomical objects were known in terms of relative ratios, the mass of the Earth would provide reasonable values of density and mass to the other planets, their moons, and the Sun.   1738: A French team performs plumb-line measurements next to the volcano Chimborazo in Ecuador. They determined a deflection of 8 seconds of arc, but doubted the reliability of their results (they measured in very difficult circumstances).   1774: The plumb-line experiment is conducted around the Scottish mountain of Schiehallion. A deflection of 11.6 seconds of arc is measured (the sum of the north - and south deflections). Based on these measurements Hutton determined in 1778 that the earth had a mean density of about 9/5 of that of the mountain, and announced that the mean density of the Earth is 4,5003/kgm. He also gives a density table for the other planets and the Sun.  1783: John Michell, a geologist, invents the torsion balance (independent of Coulomb in France) in order to measure the force of gravity between masses in the laboratory. He dies in 1793 before he could begin the experiment. His apparatus was sent to Cavendish who performed and completed the experiment in 1798. Pictures of Cavendish balance are shown to the students (see Figure 2).    Figure 2   
+ 
+ *  An experiment to test Newton’s gravitational law would provide an estimate of the mass and density of the Earth. Since, by that time, the masses of astronomical objects were known in terms of relative ratios, the mass of the Earth would provide reasonable values of density and mass to the other planets, their moons, and the Sun.  
+ *  1738: A French team performs plumb-line measurements next to the volcano Chimborazo in Ecuador. They determined a deflection of 8 seconds of arc, but doubted the reliability of their results (they measured in very difficult circumstances). 
+ *   1774: The plumb-line experiment is conducted around the Scottish mountain of Schiehallion. A deflection of 11.6 seconds of arc is measured (the sum of the north - and south deflections). Based on these measurements Hutton determined in 1778 that the earth had a mean density of about 9/5 of that of the mountain, and announced that the mean density of the Earth is 4,5003/kgm. He also gives a density table for the other planets and the Sun. 
+ *  1783: John Michell, a geologist, invents the torsion balance (independent of Coulomb in France) in order to measure the force of gravity between masses in the laboratory. He dies in 1793 before he could begin the experiment. His apparatus was sent to Cavendish who performed and completed the experiment in 1798. Pictures of Cavendish balance are shown to the students (see Figure 2).    Figure 2   
 ```{figure} figures/figure_2.png  
 ---  
 width: 50%  
@@ -52,10 +67,23 @@ name: figures/figure_4.png
 ---  
 caption  
 ``` 
- (Giving the model torsion-balances a small deflection will strengthen their imagination of what is happening inside the casing of our instrument.) In P-Q we swivel the lead balls in the right rhythm from one position to the other in order to drive the boom to higher amplitudes (swivel from one side to the other when the indicated amplitude is at its extreme value). This part shows clearly that there must be an attractive force that is responsible for the increasing amplitude.       
-<b> Explanation: </b>  
+ (Giving the model torsion-balances a small deflection will strengthen their imagination of what is happening inside the casing of our instrument.) In P-Q we swivel the lead balls in the right rhythm from one position to the other in order to drive the boom to higher amplitudes (swivel from one side to the other when the indicated amplitude is at its extreme value). This part shows clearly that there must be an attractive force that is responsible for the increasing amplitude.
+       
+  
+## Explanation   
  The mountain experiment (see Figure 1): 2MmMFGd And2EEmMWGr. This leads to:22MEMMEEEEMrVrFWMdVd tanFW , so 2tanMEEMEVdVr. Since the volumes of the Earth and mountain are known as are Er and d, then ME is determined in measuring the angle of the plumb-line with the vertical. Knowing M (soil drilling), E is determined.  Cavendish experiment: In order to know the force between the lead balls, the torsion constant of the wire needs to be known. Oscillation experiments yield this value (see manual). Quite a lot of calculation is needed, also for the determination of G out of the oscillations. So this is not suitable when demonstrating. The demonstration just shows that here is an attractive force working. Once G has been found, the attraction of an object (m) at the Earth’s surface to the Earth itself can be used to calculate the Earth’s mass and density: 2EEmMmgGr; so 2EEgrMG, and 34334EEEEEEMMgVrrG In this way Cavendish found that the Earth’s density is 5.448 times that of water. (Cavendish was not interested in the value of G. To him was just a proportionality constant, in which he was not specifically interested. To us that is different.)    
-<b> Remarks: </b>  
-  Treat the Cavendish balance carefully, it is a sensitive instrument.  Fix the table to the floor and be sure it is a massive floor the assembly is standing on (a wooden floor moves too much).   
-<b> Sources: </b>  
-  Wikipedia: http://en.wikipedia.org/wiki/Cavendish_experiment, and http://en.wikipedia.org/wiki/Schiehallion_experiment .  Sutton, Richard Manliffe, Demonstration experiments in Physics, pag. 57.  Giancoli, D.G., Physics for scientists and engineers with modern physics, pag. 133-135.  The Physics Teacher Lally, Sean P., “Henry Cavendish and the density of the earth.”, Vol. 37, pg 34-37.  The American Journal of Physics Clotfelter, B. E., “The Cavendish experiment as Cavendish knew it.”, Vol. 55, pg 210-213.  
+  
+## Remarks   
+ 
+ *  Treat the Cavendish balance carefully, it is a sensitive instrument. 
+ *  Fix the table to the floor and be sure it is a massive floor the assembly is standing on (a wooden floor m
+oves too much).   
+  
+## Sources   
+ 
+ *  Wikipedia: http://en.wikipedia.org/wiki/Cavendish_experiment, and http://en.wikipedia.org/wiki/Schiehallion_experiment . 
+ *  Sutton, Richard Manliffe, Demonstration experiments in Physics, pag. 57. 
+ *  Giancoli, D.G., Physics for scientists and engineers with modern physics, pag. 133-135. 
+ *  The Physics Teacher Lally, Sean P., “Henry Cavendish and the density of the earth.”, Vol. 37, pg 34-37. 
+ *  The American Journal of Physics Clotfelter, B. E., “The Cavendish experiment as Cavendish knew it.”, Vol. 55, pg 210-213.
+  

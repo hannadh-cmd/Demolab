@@ -1,10 +1,13 @@
-# Capacitor- spacing and dielectric 
+# C10 Capacitor- spacing and dielectric 
  Capacitor: spacing and dielectric   
-<b> Aim: </b>  
+  
+## Aim   
  To show how the voltage of a capacitor changes when changing -the spacing and -the dielectric between the parallel plates. This is done with constant charge and with constant voltage.    
-<b> Subjects: </b>  
+  
+## Subjects   
  5C10 (Capacitors) 5C20 (Dielectric)   
-<b> Diagram: </b>  
+  
+## Diagram   
    
 ```{figure} figures/figure_0.png  
 ---  
@@ -14,7 +17,8 @@ name: figures/figure_0.png
 caption  
 ``` 
       
-<b> Equipment: </b>  
+  
+## Equipment   
  
  *  Parallel plate capacitor. 
  *  Electroscope (watched by camera and displayed on monitor). 
@@ -23,7 +27,8 @@ caption
  *  Glass plate, thickness 20mm. 
  *  Perspex container, 50×30×3 cm3, half filled with water. Capacitor: spacing and dielectric
     
-<b> Presentation: </b>  
+  
+## Presentation   
  The students are told that in this demonstration we will measure the voltage across a charged capacitor. Measuring this voltage is done by an electroscope. A "normal" moving coil meter cannot be used for this measurement, since such an instrument discharges the capacitor immediately (if needed you can show this: charge the capacitor with the power supply, apply the kV-meter and measure … nothing). So, the first thing to do in this demonstration is to show that the electroscope can be used as a voltmeter. The demonstration is set up as shown in Figure1A (DiagramA).    
 ```{figure} figures/figure_1.png  
 ---  
@@ -41,14 +46,17 @@ name: figures/figure_2.png
 caption  
 ``` 
  In the last part of the demonstration the influence of different dielectrics is shown. The capacitor is placed in front of an improvised guiding construction (see Figure2A). The capacitor is given a separation d, just a little bit larger than the thickness of the glass plate. The capacitor is charged by means of the power supply; the electroscope shows a medium deflection. Ask the students what will happen when the glass plate is shifted between the capacitor plates. When they have given their answers shift the plate between the plates and they will see that the voltage lowers. The same demonstration can be performed by shifting the container with water between the capacitor plates (see Figure2B). Capacitor: spacing and dielectric      
-<b> Explanation: </b>  
+  
+## Explanation   
  When charging, Q has a certain, constant value. When the seperation d increases, C decreases (ACde=) and since Q is constant this will cause V to increase (Q=CV). The influence of the dielectric on C is shown in ACde=, so when the glass plate is shifted between the plates, C increases. Since the amount of charge is constant, V has to become a lower value (Q=CV).    
-<b> Remarks: </b>  
+  
+## Remarks   
  
  *  In order to easily set the distance d between the plates of the capacitor at a minimum, three small pieces of thin felt are stuck on the inside of one of the plates. 
  *  In the explanation of the demonstration it is supposed that the charge on the capacitor is constant. This is true only if the capacitance of the electroscope is small compared to that of the parallel plate capacitor.
     
-<b> Sources: </b>  
+  
+## Sources   
  
  *  Mansfield, M and O'Sullivan, C., Understanding physics, pag. 455-458
   

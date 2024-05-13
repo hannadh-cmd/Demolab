@@ -1,10 +1,13 @@
-# Tippe top 
+# Q60 Tippe top 
     
-<b> Aim: </b>  
+  
+## Aim   
  To show and explain the fascinating behaviour of a tippe top    
-<b> Subjects: </b>  
+  
+## Subjects   
  1Q40 (Conservation of Angular Momentum) 1Q60 (Rotational Stability)   
-<b> Diagram: </b>  
+  
+## Diagram   
    
 ```{figure} figures/figure_0.png  
 ---  
@@ -14,7 +17,8 @@ name: figures/figure_0.png
 caption  
 ``` 
       
-<b> Equipment: </b>  
+  
+## Equipment   
  
  *  3 tippe tops (see Diagram). 
  *  White standard board (about). 50 × 50 cm2  
@@ -22,9 +26,16 @@ caption
  *  Overheadsheet, showing that picture of Pauli and Bohr observing a spinning tippe top. 
  *  Round transparent disc with arrow painted on it to show the sense of rotation.
      
-<b> Presentation: </b>  
- • Spin the tippe top (nr.1) with a quick snap of your fingers. It will spin with its hemispherical bottom downwards. After a short time the top turns over and spins on the stem. It continues to rotate on its stem, slows down and finally falls, resuming its position with stem up. • Take tippe top nr.2, with the arrows painted on it. Repeat what seems to be the motion of the top without actually releasing it, that is: hold the stem of the top in the normal starting position (stem up) and twist the stem between thumb and forefinger, in the direction of the arrows painted on it. At the same time rotate the hand slowly to invert the top. The audience can clearly see that the inverted top continues to rotate in the direction of the arrow, but seen from the outside the sense of rotation is in the opposite direction. When you show this to a large audience you can use the transparent disc with the arrow painted on it to show this. Now spin the arrowed top as in the first demonstration and when it inverts itself ask the audience to determine the actual direction of spin by close observation. Everybody can see that the inverted top is spinning opposite the direction of the arrows painted on it! • Take tippe top nr.3, with the lines painted on it. Spin this top with a quick snap of your fingers. First the top spins on its hemispherical bottom and the lines appear blurred. When the top has inverted itself and spins on its stem the lines also appear blurred. But in between these two positions lines can be seen on the top, so in this in-between position the top is not spinning around its body-axis. This happens when the top has its body-axis more or less horizontal. • Take the white board and spray a paint-layer on its surface. Take tippe top nr.1 and spin it in the normal way on this painted surface. After it has spun with finally stem up take the top and observe the track on its sphere (see picture in Diagram). Clearly can be seen that going from hemisphere to stem there is an inversion of direction (close to the equitorial line on the tippe top; the spinning position with body-axis horizontal).   
-<b> Explanation: </b>  
+  
+## Presentation   
+ 
+ *  Spin the tippe top (nr.1) with a quick snap of your fingers. It will spin with its hemispherical bottom downwards. After a short time the top turns over and spins on the stem. It continues to rotate on its stem, slows down and finally falls, resuming its position with stem up. 
+ *  Take tippe top nr.2, with the arrows painted on it. Repeat what seems to be the motion of the top without actually releasing it, that is: hold the stem of the top in the normal starting position (stem up) and twist the stem between thumb and forefinger, in the direction of the arrows painted on it. At the same time rotate the hand slowly to invert the top. The audience can clearly see that the inverted top continues to rotate in the direction of the arrow, but seen from the outside the sense of rotation is in the opposite direction. When you show this to a large audience you can use the transparent disc with the arrow painted on it to show this. Now spin the arrowed top as in the first demonstration and when it inverts itself ask the audience to determine the actual direction of spin by close observation. Everybody can see that the inverted top is spinning opposite the direction of the arrows painted on it! 
+ *  Take tippe top nr.3, with the lines painted on it. Spin this top with a quick snap of your fingers. First the top spins on its hemispherical bottom and the lines appear blurred. When the top has inverted itself and spins on its stem the lines also appear blurred. But in between these two positions lines can be seen on the top, so in this in-between position the top is not spinning around its body-axis. This happens when the top has its body-axis more or less horizontal. 
+ *  Take the white board and spray a paint-layer on its surface. Take tippe top nr.1 and spin it in the normal way on this painted surface. After it has spun with finally stem up take the top and observe the track on its sphere (see picture in Diagram). Clearly can be seen that going from hemisphere to stem there is an inversion of direction (close to the equitorial line on the tippe top; the spinning position with body-axis horizontal).
+   
+  
+## Explanation   
  The top consists of a hollow sphere that is sliced off with a stem attached to it. This top is in stable static equilibrium when it points its stem upward, so the centre of mass (CM) is below the centre of curvature (C). This top is given a spin w0 (see Figure1).     
 ```{figure} figures/figure_1.png  
 ---  
@@ -50,7 +61,9 @@ name: figures/figure_3.png
 caption  
 ``` 
  The frictionforce in A on the tippe top is pointing contrary to its direction of slip (so in Figure 2 towards the reader). The torque of this frictionforce is almost perpendicular to L0, trying to change L0 (Lz becomes smaller, Ly larger: see the y- and z-component of Tf ). But since L0 is conserved this change can only be reached by increasing the initial disturbance, so tilting the tippe top still more. This continues until the tippe top is spinning on its stem. This analysis of the tippe top differs from the analysis of a rising conventional top, because the analysis of a rising conventional top depends on the fact that the angular momentum points predominantly along the symmetry axis of the top (see the demonstration "Sleeper" in this database), whereas the angular momentum of the tippe top points along the vertical during the entire inversion process.    
-<b> Remarks: </b>  
+  
+## Remarks   
  • The flip of the tippe top occurs as a result of a frictional torque at the point of contact, so it should take longer to occur if the top is spun on a very smooth surface (may be even not flipping at all). • Since CM is close to C, precession due to gravitational torque is neglected in our explanation.   
-<b> Sources: </b>  
+  
+## Sources   
  • American Journal of Physics, Vol. 20 (1952), pag. 517-518 • American Journal of Physics, Vol. 22 (1954), pag. 28-32 • American Journal of Physics, Vol. 45 (1977), pag. 12-17 • American Journal of Physics, Vol. 68 (2000), pag. 821-828 • Ehrlich, R., Why Toast Lands Jelly-Side Down: Zen and the Art of Physics Demonstrations, pag. 183-184 • Friedrich, Artur, Handbuch der experimentellen Schulphysik, part 2, Mechanik der festen Körper, pag. 234 • Meiners, Harry F., Physics demonstration experiments, part I, pag. 297-299  

@@ -1,10 +1,13 @@
-# Cross product 
+# E30 Cross product 
     
-<b> Aim: </b>  
+  
+## Aim   
  To visualize the result of a cross product of two vectors.    
-<b> Subjects: </b>  
+  
+## Subjects   
  1A40 (Vectors) 1E30 (Coriolis Effect)   
-<b> Diagram: </b>  
+  
+## Diagram   
    
 ```{figure} figures/figure_0.png  
 ---  
@@ -14,12 +17,14 @@ name: figures/figure_0.png
 caption  
 ``` 
       
-<b> Equipment: </b>  
+  
+## Equipment   
  
  *  Screw model. 
  *  Righthand rule model.
      
-<b> Presentation: </b>  
+  
+## Presentation   
  
  *  Rotate the screw into the direction of A(cid:1) to B(cid:1). The screw moves into the direction of the result of the cross product of these two vectors. Rotating the screw into the opposite direction makes visible that now also the cross productvector is pointing into the other direction. 
  *  The small white model is used in case of explaining coriolis-force in combination with a globe (see Figure1).   
@@ -33,11 +38,13 @@ caption
  
  *   This model is useful because otherwise the professor is twisting his fingers in too many directions trying to visualize the right-hand rule. In this small model the resultant vector of the cross product can point in one way or the other by shifting it through the small tube that is soldered to the fixed vectors A(cid:1)and B(cid:1).
     
-<b> Remarks: </b>  
+  
+## Remarks   
  
  *  There is a nice interactive vector cross product tutorial at http://www.phy.syr.edu/courses/java-suite/crosspro.html of Syracuse Uni
 versity.    
-<b> Sources: </b>  
+  
+## Sources   
  
  *  Mansfield, M and O'Sullivan, C., Understanding physics, pag. 183 and 733
   

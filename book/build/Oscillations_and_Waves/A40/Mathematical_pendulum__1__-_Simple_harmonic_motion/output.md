@@ -1,10 +1,13 @@
-# Mathematical pendulum  1  - Simple harmonic motion 
+# A40 Mathematical pendulum  1  - Simple harmonic motion 
  Mathematical pendulum (1) Simple harmonic motion    
-<b> Aim: </b>  
+  
+## Aim   
  To show the relationship between position, velocity and acceleration of a simple pendulum.    
-<b> Subjects: </b>  
+  
+## Subjects   
  3A10 (Pendula) 3A40 (Simple Harmonic Motions)   
-<b> Diagram: </b>  
+  
+## Diagram   
    
 ```{figure} figures/figure_0.png  
 ---  
@@ -14,14 +17,16 @@ name: figures/figure_0.png
 caption  
 ``` 
       
-<b> Equipment: </b>  
+  
+## Equipment   
  
  *  Simple pendulum: aluminum tube with brass mass. 
  *  Rotary motion sensor (we use Pasco CI-6538). 
  *  Data-acquisiton system and computer with software (we use 'Science Workshop'). 
  *  Beamer to project the monitorscreen. Mathematical pendulum (1) Simple harmonic motion
     
-<b> Presentation: </b>  
+  
+## Presentation   
  Set up the software to display graphically angular position, angular velocity and angular acceleration of the pendulum. When the pendulum is in its vertical position at rest, we start datacollection. We give the pendulum a small amplitude and let it swing. When we have collected about four complete cycli, the data-acquisition is stopped.    
 ```{figure} figures/figure_1.png  
 ---  
@@ -35,9 +40,11 @@ caption
  *  The acceleration-graph is an inverse "copy" of the postion-graph; 
  *  ……….
    
-<b> Explanation: </b>  
+  
+## Explanation   
  The equation that describes the motion of the mass m is given by 22sinsxdagdtq==-. This is not a simple harmonic motion since sinq is not proportional to s. Only for small amplitude oscillations sinslqq»=and the equation of motion reduces to22dsgsdtl=- This is the differential equation for simple harmonic motion, giving our observed sinusoidal graphs. For further explanation see: Sources.  Mathematical pendulum (1) Simple harmonic motion      
-<b> Sources: </b>  
+  
+## Sources   
  
  *  Mansfield, M and O'Sullivan, C., Understanding physics, pag. 48-52 
  *  Young, H.D. and Freeman, R.A., University Physics, pag. 398-399

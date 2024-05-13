@@ -1,10 +1,13 @@
-# Compressing a gas 
+# C10 Compressing a gas 
      
-<b> Aim: </b>  
+  
+## Aim   
  Showing how to consider the work done on a gas    
-<b> Subjects: </b>  
+  
+## Subjects   
  4C10 (PVT Surfaces)   
-<b> Diagram: </b>  
+  
+## Diagram   
  Rotary Motion Sensor pressure position/ volume   
 ```{figure} figures/figure_0.png  
 ---  
@@ -14,7 +17,8 @@ name: figures/figure_0.png
 caption  
 ``` 
      
-<b> Equipment: </b>  
+  
+## Equipment   
  
  *  Cylinder with piston (PASCO TD-8572). Piston diameter= 32.5mm 
  *  Pressure sensor (PASCO CI-6532A). 
@@ -24,9 +28,11 @@ caption
  *  Ruler. 
  *  Data-acquisition system (we use PASCO ScienceWorkshop).
      
-<b> Presentation: </b>  
+  
+## Presentation   
  Preparation: Set up the equipment as shown in Diagram. The mass of 5 kg is large compared to the cylinder with piston. We take care that the set up is also stable when that mass is positioned on the platform of the piston shaft. (See the thread that holds and guides the mass when moving, and the slanting shaft that fixes the vertical shaft that holds the cylinder. Also the blocks of wood under the cylinder give extra support.). The pressure sensor is connected to the cylinder. A thin wire, connected to the top of the mass and wound around the pulley of the Rotary Motion Sensor, makes it possible to measure the volume of the cylinder. In the software of Science Workshop a graph is prepared, showing pressure as function of cylinder volume. Pressure can be displayed directly in the graph; displaying volume on the x-axis needs some calculation, using the piston area. (see Figure 1).   
-<b> Presentation: </b>  
+  
+## Presentation   
  The piston is placed in its highest position. The pressure inside the cylinder is atmospheric (around 100kPa) and the volume of the air chamber is 100ml. Be sure that the shut-off valve of the cylinder is closed. The mass of 5 kg is placed on the platform. A thumbscrew turned into the cylinder-housing holds the piston still in this starting position.  Ask the students what they expect to see on the displayed graph. Then data-acquisition is started, slowly the thumbscrew is released and the piston slides downward, compressing the gas. When equilibrium is reached the data-acquisition is stopped. The gasvolume is compressed to around 70ml. On the ruler we can see that the mass has fallen around 3.5cm. A graph as displayed in Figure 1 is the result of this demonstration.     
 ```{figure} figures/figure_1.png  
 ---  
@@ -39,7 +45,8 @@ caption
  *  At first sight, the graph looks almost like a straight line. Usually students expect a more curved line because that is what is presented to them in textbooks. We perform a powerfit on these results, showing that when in such a way our results are extrapolated, the function resembles the pictures we see in textbooks.  
  *  In the software we calculate the area under the measured PV curve, in order to know the work done on the gas in the cylinder. We find around 4J (see: Area in Figure 2). Then we calculate the work done by the mass: 5100.035UmghΔ=Δ=××=1.75J! The difference is surprising; are we gaining in energy? Have we found a possible perpetuum mobile? Ask the students how they can explain this.
    
-<b> Explanation: </b>  
+  
+## Explanation   
  What the software is calculating is the work done on the gas inside the cylinder. From outside not only the mass of 5kg is standing on the piston, also the outside air with a pressure of 100kPa is “standing” on it. This is an isobaric part of the area under the graph, representing an amount of work of around 10030kPaml× = 3J (see Figure 2). The remaining 1J is delivered by the mass of 5kg. (The remaining .75J, to get 1.75J, is lost elsewhere.)    
 ```{figure} figures/figure_2.png  
 ---  
@@ -49,7 +56,8 @@ name: figures/figure_2.png
 caption  
 ``` 
    
-<b> Remarks: </b>  
+  
+## Remarks   
  
  *  The process is more or less quasi-static because we release the thumbscrew, holding the piston, very slowly.
   

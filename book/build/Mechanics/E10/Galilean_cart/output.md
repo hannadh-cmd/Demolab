@@ -1,10 +1,13 @@
-# Galilean cart 
+# E10 Galilean cart 
     
-<b> Aim: </b>  
+  
+## Aim   
  To show and discuss an example of Galilean transformations    
-<b> Subjects: </b>  
+  
+## Subjects   
  1E10 (Moving Reference Frames)   
-<b> Diagram: </b>  
+  
+## Diagram   
    
 ```{figure} figures/figure_0.png  
 ---  
@@ -14,7 +17,8 @@ name: figures/figure_0.png
 caption  
 ``` 
       
-<b> Equipment: </b>  
+  
+## Equipment   
  
  *  Two carts, easy rolling and able to carry a human being; construction as shown in Diagram. 
  *  Large funnel (outlet reduced to 4mm), suspended by three cords. 
@@ -22,7 +26,8 @@ caption
  *  1kg of salt. 
  *  Broom.
      
-<b> Presentation: </b>  
+  
+## Presentation   
  
  *  One person sits on the cart and fills the funnel with salt, keeping the outlet closed with a finger and gives the funnel-pendulum a deflection into the x'-direction. The demonstrator moves the cart with constant speed along the front of the lecture hall (y-direction). As soon as the speed is constant, the person on the cart makes the pendulum go. A salt-track is written on the floor of the lecturehall (see Figure2). This track shows the recording of the movement of the swinging funnel in the x-y plane.    
 ```{figure} figures/figure_1.png  
@@ -35,16 +40,19 @@ caption
  Figure 2 
  *  The same demonstration is performed but now with the funnel-pendulum swinging into the y'-direction. A second salt-track appears on the floor (see Figure1). Again the salttrack shows the recording of the movement of the swinging funnel in the x-y plane. The results are discussed.
     
-<b> Explanation: </b>  
+  
+## Explanation   
  
  *  The pendulum moves in the x'-y'-z'-frame according to: ()'sinxAtwj=+; y'=0; z'=0. The writing on the ground in salt is in the x-y-z-frame. The x'-y'-z'-frame moves with a speed V into the y-direction., so a point measured in the x'-y'-z'-frame will have an y-coordinate: yVt=. (see Figure2). 
  *  When the pendulum swings into the y'-direction, the movements in the x-y-z-frame will be: ()sinyVtAtwj=++; x=0 and z=0 (see Fig
 ure1).   
-<b> Remarks: </b>  
+  
+## Remarks   
  
  *  As Figure1 makes clear, the difference between much - and little salt is more pronounced when y=Vt is steeper; that is at higher speeds
  of the cart.   
-<b> Sources: </b>  
+  
+## Sources   
  
  *  Mansfield, M and O'Sullivan, C., Understanding physics, pag. 173-174 
  *  McComb,W.D., Dynamics and Relativity, pag. 24-25

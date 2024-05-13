@@ -1,10 +1,13 @@
-# Precessing orbit  1  
+# L20 Precessing orbit  1  
  Precessing orbit (1)   
-<b> Aim: </b>  
+  
+## Aim   
  To show that the orbit of a ball on a concave surface will precess in a predictable manner.   
-<b> Subjects: </b>  
+  
+## Subjects   
  1L20 (Orbits) 8A10 (Solar System Mechanics)   
-<b> Diagram: </b>  
+  
+## Diagram   
    
 ```{figure} figures/figure_0.png  
 ---  
@@ -14,15 +17,18 @@ name: figures/figure_0.png
 caption  
 ``` 
      
-<b> Equipment: </b>  
+  
+## Equipment   
  
  *  Bowl. 
  *  Steel ball, diam. around 2cm. 
  *  Overhead projector. Precessing orbit (1)
     
-<b> Presentation: </b>  
+  
+## Presentation   
  Use the ohp to show the two-dimensional image of the ball in the bowl (see also the demonstration "Force field" in this database). Shaking the bowl gently you should be able to achieve orbits that are either circular, linear or elliptical depending on the ball's speed and direction. Make an elliptical orbit. Observe that the orbit does not close, but precesses into the direction of the ball's rotation (see orbit drawn in Diagram). Also can be shown: -Zero precession for a straight line orbit; -stronger precession for ellipses that are less eccentric; -stronger precession for larger ellipses.    
-<b> Explanation: </b>  
+  
+## Explanation   
  Precession in this demonstration happens due to the bowl's shape. But be careful with this analogy! The bowl’s shape is NOT such that the potential energy corresponds to an 1r−variation! (see Sources).  The next is just an attempt to say something more about it:  For the concave bowl we can write for this type of potential: ()()()23'0''(0)'''(0)01!2!3!UUUUrUrrr=++++… (Maclaurin series). When U(0)=0 and U'(0)=0 (minimum at r=0, the center of the bowl) and when r is relatively small, so we can neglect the higher-order terms, then:()()212''0UrUr=. This is a harmonic potential, and when moving in a line with small amplitudes, we'll see a harmonic motion. This harmonic potential () is clearly NOT a -potential. 2r1r−   
 ```{figure} figures/figure_1.png  
 ---  
@@ -32,7 +38,8 @@ name: figures/figure_1.png
 caption  
 ``` 
  In case of an ellipse, the situation becomes even worse. Now one focus of the ellipse is off the center of the bowl (see Figure 1) and at r=0, U(0)=0, but U'(0) is not 0! So now: ()()()()231126'0''0'''0UrUrUrUr=++…, showing that expressing the potential with respect to a focal point, this potential is still farther away from a -potential. 1r−Conclusion is that the bowl only suggests planetary motion (but is in the same time a wrong example of such a motion). The only reason to show it, is to challenge the mind of the students with the question how the shape of the bowl ought to be for a real 1r−-potential.       Precessing orbit (1)    
-<b> Sources: </b>  
+  
+## Sources   
  
  *  Ehrlich, R., Why Toast Lands Jelly-Side Down: Zen and the Art of Physics Demonstrations, pag. 66-68 
  *  Ehrlich, Robert, Turning the World Inside Out and 174 Other Simple Physics Demonstrations, pag. 13-14 

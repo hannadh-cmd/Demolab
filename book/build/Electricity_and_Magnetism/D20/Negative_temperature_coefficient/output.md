@@ -1,10 +1,13 @@
-# Negative temperature coefficient 
+# D20 Negative temperature coefficient 
     
-<b> Aim: </b>  
+  
+## Aim   
  To show how the resistance of a semiconductor (P-Ge) depends on temperature.    
-<b> Subjects: </b>  
+  
+## Subjects   
  5D20 (Resistivity and Temperature)   
-<b> Diagram: </b>  
+  
+## Diagram   
    
 ```{figure} figures/figure_0.png  
 ---  
@@ -14,14 +17,17 @@ name: figures/figure_0.png
 caption  
 ``` 
       
-<b> Equipment: </b>  
+  
+## Equipment   
  
  *  Bar of P-Ge 
  *  Power supply 
  *  Current meter with large display 
  *  Gasflame
        
-<b> Presentation: </b>  
+  
+## Presentation   
  Set the Ammeter at a 1A-scale. The voltage of the power supply is raised until a current of about 0.05 A flows in the circuit. The bar of P-Ge is heated by the gasflame and soon the current rises to a much higher value. After a short time of heating the gasflame can be removed and the current continues to rise, faster and faster, only limited by the powersupply.    
-<b> Explanation: </b>  
+  
+## Explanation   
  The resistance of a semiconductor drops with temperature because at a higher temperature there are more free charge-carriers in it. The current flowing in the material heats it up:2elVPR= The heat leaving the piece of material is proportional to DT: outPT(cid:181)D (Newton cooling). When Pout=Pel. there will be thermal equilibrium and the temperature is constant. Reaching such an equilibrium takes some time. In this demonstration R lowers due to a rise in temperature and so Pel. rises due to a rise in temperature. When this rise is faster than the rise of Pout an ever faster rising of DT (like an avalanche) will result.   

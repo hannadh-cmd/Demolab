@@ -1,10 +1,13 @@
-# Irreversible process 
+# F10 Irreversible process 
     
-<b> Aim: </b>  
+  
+## Aim   
  To show that the likelihood of the ocurrence of a reverse process can be so small as to be completely negligible.    
-<b> Subjects: </b>  
+  
+## Subjects   
  4F10 (Entropy)    
-<b> Diagram: </b>  
+  
+## Diagram   
    
 ```{figure} figures/figure_0.png  
 ---  
@@ -14,16 +17,19 @@ name: figures/figure_0.png
 caption  
 ``` 
       
-<b> Equipment: </b>  
+  
+## Equipment   
  
  *  Glass basin; diam. 15cm. 
  *  Drop of ink. 
  *  Overheadprojector. 
  *  Ball (tennisball).
      
-<b> Presentation: </b>  
+  
+## Presentation   
  The glass basin is filled with a layer of water. This is projected (DiagramA). Then a drop of ink is carefully placed on the surface of the water. The drop slowly spreads itself in the water (DiagramB). During the explanation (see Explanation) the continuing spreading of the drop can be observed by the students and at the end of the lecture they see the almost homogeneous distribution of the inkdrop in the water (DiagramC). Seeing the continuing spreading of the inkdrop, we can also say that the homogeneous distribution of the inkdrop is the most probable state of the fluid in the glass basin.    
-<b> Explanation: </b>  
+  
+## Explanation   
  The irreversibility of this mixing process is well known to the students; it corresponds to their own experiences. New is the concept of probability linked to this proces. To illustrate this a tenisball is given to one student in the middle of a complete row of students sitting in the lecturehall and they are asked to pass this ball in that row, unseen to other students, arbitrary from left to right. After some time you ask the other students to tell where the ball is: is it on the left side of the lecturehall or on the right side? After short discussion their answer will be that the probability for either side is 50%. Then the same question is posed in case we suppose that two balls are in the row: What is the chance that both balls are on one side? 25% , that will be their answer. The general rule is that the chance of finding all balls on one side is (.5)n, n being the number of balls involved. So with 4 balls that chance is (.5)4=1/16. Figure1 shows the 16 possible states. With 10 balls the chance is 0.00098 (around .1%) and with 100 balls: 7.9x10-31, showing that the chance decreases very rapidly with the number n. A drop of ink (a sphere of "water" with a diameter of 1mm) contains around 2.5x1015 molecules. So the chance to find all these molecules on one side of the basin equals (.5)2.5x10E15. This is such an extremely small number, that it will never happen during any physically meaningful period of time. Finding the inkdrop just as "a drop" has a chance that is even lower. So that will never happen.    
 ```{figure} figures/figure_1.png  
 ---  
@@ -33,7 +39,8 @@ name: figures/figure_1.png
 caption  
 ``` 
  In the table of Figure 1 we see that the situation with 2 balls left and 2 balls right is the most probable state. This is also the most homogeneous distribution of the 4 balls. And this corresponds to the homogeneous distribution of the fluids in the glass basin; so this is the most proble state.    
-<b> Sources: </b>  
+  
+## Sources   
  
  *  PSSC, College Physics, pag. 394-396 
  *  Giancoli, D.G., Physics for scientists and engineers with modern physics, pag. 535-537

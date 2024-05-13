@@ -1,10 +1,13 @@
-# Throwing a basketball 
+# K10 Throwing a basketball 
     
-<b> Aim: </b>  
+  
+## Aim   
  To show how impulse changes the movement of a thrown basketball.    
-<b> Subjects: </b>  
+  
+## Subjects   
  1K10 (Dynamic Torque) 1K20 (Friction) 1N10 (Impulse and Thrust)   
-<b> Diagram: </b>  
+  
+## Diagram   
    
 ```{figure} figures/figure_0.png  
 ---  
@@ -14,11 +17,13 @@ name: figures/figure_0.png
 caption  
 ``` 
      
-<b> Equipment: </b>  
+  
+## Equipment   
  
  *  Basketball.
      
-<b> Presentation: </b>  
+  
+## Presentation   
  The lines on the basketball make it easy to see if the ball rotates yes or no. Throw the basketball and observe that before hitting the ground it does not rotate, but that after rebound it rotates (see Figure 1A). Also can be observed that after rebound the ball moves steeper than when it was in the throw (again: see Figure 1A).     
 ```{figure} figures/figure_1.png  
 ---  
@@ -28,9 +33,11 @@ name: figures/figure_1.png
 caption  
 ``` 
    
-<b> Explanation: </b>  
+  
+## Explanation   
  The ball has an impulse p, which can be looked at as consisting of a vertical component pv and a horizontal component ph. When the ball hits the ground, pv is reversed (supposing complete elasticity). But ph changes because the friction force FR, that acts during a short time (Δt), reduces the horizontal impulse by an amount of 0thRpFdtΔΔ=∫vv. The combination of unchanged pv and changed ph makes that the ball mounts steeper (Figure 1C). That it rotates as well is due to the torque during contact with the ground, changing its angular momentum by an amount of: 0tLrFdtΔΔ=×∫vvv.       
-<b> Sources: </b>  
+  
+## Sources   
  
  *  American Journal of Physics, 72-7(2004), pag. 875-883 
  *  Nederlands Tijdschrift voor Natuurkunde, 70-10(2004), pag. 347 

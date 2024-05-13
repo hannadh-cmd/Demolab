@@ -1,10 +1,13 @@
-# Brewster's angle  3  
+# A42 Brewster's angle  3  
  Brewster's angle (3)   
-<b> Aim: </b>  
+  
+## Aim   
  To investigate the reflection and transmission of p- and s-polarized light at different angles of incidence at the surface of an acrylic block. Also the critical angle is shown.    
-<b> Subjects: </b>  
+  
+## Subjects   
  6A42 (Refraction at Flat Surfaces) 6A44 (Total Internal Reflection) 6H20 (Polarization by Reflection)   
-<b> Diagram: </b>  
+  
+## Diagram   
    
 ```{figure} figures/figure_0.png  
 ---  
@@ -14,12 +17,23 @@ name: figures/figure_0.png
 caption  
 ``` 
      
-<b> Equipment: </b>  
-  Laser, 15mW (see Safety).  Lens f=+10mm.  Lens f=+50mm.  Short optical rail.  Rotatable Polaroid filter.  Graduated rotating disk.  Overhead sheet with a graph of the amplitude coefficients of reflection and transmission (Fig. 4.39 in "Optics" of E. Hecht).   
-<b> Safety: </b>  
-  Even relatively small amounts of laser light can lead to permanent eye Brewster's angle (3)  injuries. The laser we use is a class 3B laser. A Class 3B laser is hazardous if the eye is exposed directly, but diffuse reflections such as from paper or other rough surfaces are not harmful.  Protective eyewear is typically required where direct viewing of a class 3B laser beam may occur.  In our demonstration we always take measures such that no direct or reflected laser light is directed towards the audience. When needed we use black screens to block such light: all beams are stopped at the edge of the optical table. No watches or other jewelry are carried by the demonstrator. As an extra safety measure is our Class-3B laser equipped with a key switch, so unauthorized people cannot switch the laser on. Brewster's angle (3)
+  
+## Equipment   
+ 
+ *  Laser, 15mW (see Safety). 
+ *  Lens f=+10mm. 
+ *  Lens f=+50mm. 
+ *  Short optical rail. 
+ *  Rotatable Polaroid filter. 
+ *  Graduated rotating disk. 
+ *  Overhead sheet with a graph of the amplitude coefficients of reflection and transmission (Fig. 4.39 in "Optics" of E. Hecht).   
+  
+## Safety   
+ 
+ *  Even relatively small amounts of laser light can lead to permanent eye Brewster's angle (3)  injuries. The laser we use is a class 3B laser. A Class 3B laser is hazardous if the eye is exposed directly, but diffuse reflections such as from paper or other rough surfaces are not harmful.  Protective eyewear is typically required where direct viewing of a class 3B laser beam may occur.  In our demonstration we always take measures such that no direct or reflected laser light is directed towards the audience. When needed we use black screens to block such light: all beams are stopped at the edge of the optical table. No watches or other jewelry are carried by the demonstrator. As an extra safety measure is our Class-3B laser equipped with a key switch, so unauthorized people cannot switch the laser on. Brewster's angle (3)
     
-<b> Presentation: </b>  
+  
+## Presentation   
  Preparation. Position the laser and graduated rotating disk carefully in line. Then the two lenses are used to make a wider parallel laser beam. Using the +10mm and the +50mm lens, the distance between the two lenses should be 60mm. The spots, indicating the positions of the reflected and the refracted beam need to be clearly visible. Mention and show to the students the relevant parts of the demonstration: "air"; "acrylic block"; "boundary layer"; "normal". 1. ni<nt. -First the reflection and refraction at the boundary between air and the acrylic block is shown at different angles of incidence. The starting position is at 0o (coinciding with the normal to the flat surface of the acrylic block) and slowly the angle of incidence is increased up to 90o (see Figure 1A). Repeating this demo you can draw the attention to the difference in intensities of the reflected and refracted beam.   
 ```{figure} figures/figure_1.png  
 ---  
@@ -37,9 +51,18 @@ name: figures/figure_2.png
 caption  
 ``` 
  At this point the angle of incidence is called 'critical angle' and there is total internal reflection in the acrylic block. -The Polaroid filter is used to make the E-field p-polarized. The demo is repeated and a Brewster's angle appears at 34o. Also check the 90o angle between the refracted and disappeared reflected beam (see figure 2B). -Finally s-polarization is investigated: no Brewster's angle appears (see Figure 2C).  Brewster's angle (3)    
-<b> Explanation: </b>  
+  
+## Explanation   
  Calculating Brewster's angle we usearctantinn. n=air1 and n=acrylic block1.5. With these values we get in our first demonstration1.5arctan561b, and in our second demonstration1arctan341.5b. The critical angle observed in the second demo happens when the refracted beam is at 90o, so sin=1 and in Snell's law sinsintitinn yields1arcsin421.5i. Fresnel's formulas explain the observed intensities. Keep in mind that when the suggested graph of the amplitude coefficients is used that the values need to be squared in order to read them as intensities that are related to our visual observations. For more explanation see also the two other Brewster's angle demos in this database.   
-<b> Remarks: </b>  
-  We only demonstrate the intensity variation by eyesight. Using a light sensor this can also be registered. (see "Polarization of light by reflection and the Brewster angle" in the American Journal of Physics, issue 69 (11), nov. 2001, pg 1166-1168).  At showing the critical angle (or larger angles of incidence) the existence of the evanescent wave can be mentioned. To elucidate this, the relationship to the demonstration of "tunnelling" (in this database) can be shown. (Our students have see that demonstration some time before. During this critical angle demonstration, we have the "tunnelling" demonstration standing in the lecture hall, in order to refer to it.)   
-<b> Sources: </b>  
-  American Journal of Physics, pag. 1166-1168, issue 69 (nov. 2001)  Hecht, Eugene, Optics, pag. 111-115; 342-346; 658-659  
+  
+## Remarks   
+ 
+ *  We only demonstrate the intensity variation by eyesight. Using a light sensor this can also be registered. (see "Polarization of light by reflection and the Brewster angle" in the American Journal of Physics, issue 69 (11), nov. 2001, pg 1166-1168). 
+ *  At showing the critical angle (or larger angles of incidence) the existence of the evanescent wave can be mentioned. To elucidate this, the relationship to the demonstration of "tunnelling" (in this database) can be shown. (Our students have see that demonstration some time before. During this critical angle demonstration, we have the "tunnelling" demonstration standing in the lecture hall, in order to refer to it.)
+   
+  
+## Sources   
+ 
+ *  American Journal of Physics, pag. 1166-1168, issue 69 (nov. 2001) 
+ *  Hecht, Eugene, Optics, pag. 111-115; 342-346; 658-659
+  

@@ -1,10 +1,13 @@
-# Physical pendulum  1  - Compound pendulum 
+# A15 Physical pendulum  1  - Compound pendulum 
  Physical pendulum (1) Compound pendulum    
-<b> Aim: </b>  
+  
+## Aim   
  To show and discuss the characteristics of a physical pendulum: reduced length, reversion pendulum and minimal period.    
-<b> Subjects: </b>  
+  
+## Subjects   
  3A15 (Physical Pendula)   
-<b> Diagram: </b>  
+  
+## Diagram   
    
 ```{figure} figures/figure_0.png  
 ---  
@@ -14,16 +17,19 @@ name: figures/figure_0.png
 caption  
 ``` 
      
-<b> Equipment: </b>  
+  
+## Equipment   
  
  *  2 meter sticks; l=1 m, with holes for reversed pendulum and minimum pendulum. (One of the sticks has extra holes at s = 20 cm and s = 40 cm (see Presentation 3.) 
  *  2 axes in a ball-bearing. 
  *  1 mathematical pendulum (l=.667 m). 
  *  1 meter stick for measurements. Physical pendulum (1) Compound pendulum
     
-<b> Presentation: </b>  
+  
+## Presentation   
  1. The physical pendulum is suspended on an axis at hole A. A mathematical pendulum is swinging and given such a length that its period equals that of the physical pendulum. Its length is measured and it shows 67 cm. 2. Now the physical pendulum is suspended on the axis at hole B. Its period shows to be the same as both foregoing pendulums. The length of the pendulum below B is measured and it shows that this length equals the length of the mathematical pendulum! 3. The pendulum is suspended at hole D. Now T is shorter than in the foregoing demonstrations. Evidently there is a minimum between A and B. This can be demonstrated when both pendulums are suspended: one at D and the other in one of the extra holes on either side of D (between A and B). When both pendulums start together, after only a few oscillations it is clear that D is the faster pendulum.   
-<b> Explanation: </b>  
+  
+## Explanation   
  1. For a physical pendulum with mass m, oscillating around its suspension in point A, we can write for the period: 2AITmgsπ= (see Figure 1; IA being the moment of inertia, and s being the distance between the centreMl of mass and the axis of rotation).    
 ```{figure} figures/figure_1.png  
 ---  
@@ -41,7 +47,8 @@ name: figures/figure_2.png
 caption  
 ``` 
  12MFsll=− and with 23MFll=, and 16Fsl=, we find:22211112369BFFFImlmlml=+=. Then the period will be: 219231622FFFmllTmglgππ== So this pendulum has the same reduced length and the same period as the physical pendulum shown in the first presentation. 3. Between the suspension of A and B the presentation shows that a minimum period appears (suspension at D; see Diagram). Now: 2DITmgsπ= (D being some point at s away from C.) 2dcIIms=+and with 2112cFIml=we find: 2211222112FFmlmslTmgssgππ+==+ T  being a minimum for 0dTds=, we find: 12Fls=. Physical pendulum (1) Compound pendulum The length of the stick (Fl) is 1 meter, so s  equals10.28912=meters.   
-<b> Remarks: </b>  
+  
+## Remarks   
  
  *  In order to give the physical pendulum a length of 1 meter and yet have a hole at the ends of this stick, we have triangularly shaped the ends (see Figure 3).   
 ```{figure} figures/figure_3.png  
@@ -55,7 +62,8 @@ caption
  *  The differences in T are small. With lF = 1 meter, we find: TA (= TB) = 1.64 sec. And TD = 1.52 sec. To obtain larger T's a suspension closer to C is needed. Calculating: at s = 12.5 cm (1/8lF), T = 1.78 sec.; at s = 8.3 cm, (1/12lF), T = 2.09 sec; s = 2.0 cm, T = 4.1 sec; s = 1.0 cm, T = 5.8 sec. Of course at s = 0, T = infinitive. 
  *  2AITmgsπ=shows that physical pendulums of the same mass have different periods due to their I/s-ratio. Comparing different pendulums can be done when comparing that ratio. For a long uniform stick this reduces to comparing the lF/s-ratio
    
-<b> Sources: </b>  
+  
+## Sources   
  
  *  Mansfield, M and O'Sullivan, C., Understanding physics, pag. 154-156 and 161-162 
  *  Meiners, Harry F., Physics demonstration experiments, part I, pag. 277-278 

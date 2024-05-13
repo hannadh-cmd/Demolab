@@ -1,19 +1,25 @@
-# Transverse travelling wave  2  
+# B10 Transverse travelling wave  2  
  Transverse travelling wave (2)     
-<b> Aim: </b>  
+  
+## Aim   
  To show a traveling wave and the inverse relationship between frequency and wavelength.    
-<b> Subjects: </b>  
+  
+## Subjects   
  3B10 (Transverse Pulses and Waves)   
-<b> Diagram: </b>  
+  
+## Diagram   
  Diagram   
-<b> Equipment: </b>  
+  
+## Equipment   
  
  *  2 1-meter sections of the slow wave motion demonstrator. 
  *  1 dashpot filled with water
       
-<b> Presentation: </b>  
+  
+## Presentation   
  Couple the two sections of the wave motion demonstrator together. Connect the end of the complete demonstrator to the dashpot. Give, by hand, the beginning of the wave demonstrator a sharp up and down disturbance, so that one or two sine-waves travel along the demonstrator. (The dashpot minimizes reflections at the far end.) It can be observed that the speed of the travelling wave is independent of the frequency. Also the inverse relationship between frequency and wavelength can be shown.    
-<b> Sources: </b>  
+  
+## Sources   
  
  *  PASCO scientific, Instruction Manual for the PASCO scientific Model SE-9600, 9601, 9602, and 9603
   

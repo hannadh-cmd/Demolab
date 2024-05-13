@@ -1,10 +1,13 @@
-# Magnet symmetry 
+# N20 Magnet symmetry 
     
-<b> Aim: </b>  
+  
+## Aim   
  To confirm Newton's third law. To confirm conservation of angular momentum.    
-<b> Subjects: </b>  
+  
+## Subjects   
  1H10 (Action and Reaction) 1N20 (Conservation of Linear Momentum) 1Q40 (Conservation of Angular Momentum)   
-<b> Diagram: </b>  
+  
+## Diagram   
    
 ```{figure} figures/figure_0.png  
 ---  
@@ -14,20 +17,24 @@ name: figures/figure_0.png
 caption  
 ``` 
       
-<b> Equipment: </b>  
+  
+## Equipment   
  
  *  Two small horseshoemagnets. 
  *  Transparancy. 
  *  Overhead projector (ohp).
      
-<b> Presentation: </b>  
+  
+## Presentation   
  The axes of a rectangular coordinate system are drawn on the transparancy. The transparancy is placed on the ohp. The two horseshoe magnets are held together with like poles touching and positioned at the origin of the coordinate system. When releasing, the magnets travel a short distance. It can be observed that they always land in a symmetric pattern: symmetric in translation and in rotation. (Both magnets need not be equally "strong", usually, they are not equally "strong”. This can be shown by lifting a row of paperclips by both magnets: One magnet lifts more than the other.)    
-<b> Explanation: </b>  
+  
+## Explanation   
  
  *  The symmetric pattern shows evidence both of a mutual force as well as a mutual torque. Flying apart into a symmetric configuration confirms Newton's third law. That both magnets are not equally strong does not change the equality of action and reaction force magnitudes. 
  *  The observed equality in rotation can also be explained using conservation of angular momentum: There are no external forces acting, so angular momentum, being zero at the beginning of the demonstration, has to remain zero during the movement of the magnets: The identical magnets turn exactly the same angle in opposite directions.
    
-<b> Remarks: </b>  
+  
+## Remarks   
  
  *  Releasing the two magnets needs some practicing (see Figure1), both fingers need to move away from the magnets simultaneously.    
 ```{figure} figures/figure_1.png  
@@ -39,7 +46,8 @@ caption
   
 ``` 
    
-<b> Sources: </b>  
+  
+## Sources   
  
  *  Ehrlich, R., Why Toast Lands Jelly-Side Down: Zen and the Art of Physics Demonstrations, pag. 35-36 
  *  Mansfield, M and O'Sullivan, C., Understanding physics, pag. 102 

@@ -1,10 +1,13 @@
-# Doppler 
+# B40 Doppler 
     
-<b> Aim: </b>  
+  
+## Aim   
  To present the acoustic Doppler effect, using beats produced by a swinging speaker.    
-<b> Subjects: </b>  
+  
+## Subjects   
  3B40 (Doppler Effect)   
-<b> Diagram: </b>  
+  
+## Diagram   
    
 ```{figure} figures/figure_0.png  
 ---  
@@ -14,7 +17,8 @@ name: figures/figure_0.png
 caption  
 ``` 
       
-<b> Equipment: </b>  
+  
+## Equipment   
  
  *  Two loudspeakers, one standing, the other swinging (see Diagram). 
  *  Two signal generators, with high frequency stability. 
@@ -22,7 +26,8 @@ caption
  *  Camera. 
  *  Monitor with large screen.
      
-<b> Presentation: </b>  
+  
+## Presentation   
  The two speakers are mounted as shown in Diagram. One of the speakers is mounted as a pendulum with an arm of around 1.5 m. In the beginning the pendulum is not moving. Both signal generators are set at 1000 Hz (all four digits are significant!). Switching from one generator to the other (see the switches in Figure1), both amplitudes are set in such a way that both speakers produce the same loudness (switching from one to the other no difference is heard).    
 ```{figure} figures/figure_1.png  
 ---  
@@ -32,7 +37,8 @@ name: figures/figure_1.png
 caption  
 ``` 
  Beats. Then the phenomenon of beats is demonstrated, because this is used as a means of observing the Doppler effect:  One of the signal generators is set at 1001 Hz and a beat of 1 Hz is observed; The signal generator is set at 999 Hz and again a beat of 1 Hz is heard; The signal generator is set at 998 Hz and a beat of 2 Hz is heard; The signal generator is set at 1002 Hz and again a beat of 2 Hz is heard; Etc. Notice that it is not possible to distinguish between the two speakers which of the two has the higher (or lower) frequency, and whether the beat heard is caused by an increase or decrease in frequency of one of the generators. Same frequency. Both generators are set again at 1000 Hz. The speaker mounted as a pendulum is given an amplitude of around 1 meter. Beats are heard by the audience when the speaker moves towards the audience and also when it moves away from the audience. Both beats are the same, so it is not possible to say that the frequency coming from the moving speaker is increasing or lowering in relation to its forward or backward motion. We can only observe that the sound coming from the moving speaker has changed by a couple of Hz. Difference in frequency. The pendulum speaker is at rest. Its frequency is set at 1005 Hz. We hear a beat of 5 Hz. Then the pendulum is made swinging. The audience hears that the beatfrequency increases when the speaker swings towards them and that the beats almost disappear when the speaker moves away from them. While still swinging we change that frequency to 995 Hz and now almost no beats are heard when the pendulum swings towards the audience and a high beat frequency is heard when the pendulum moves backwards.      
-<b> Explanation: </b>  
+  
+## Explanation   
  Beats. The beat frequency is just the difference in frequency of the two waves: f1-f2. Doppler. The shift to fR in the observed frequency, of a wave send with a frequency fS as result of relative motion, is 11cosRssffvcq=- (see Figure2).     
 ```{figure} figures/figure_2.png  
 ---  
@@ -42,7 +48,16 @@ name: figures/figure_2.png
 caption  
 ``` 
  With q=0 (moving towards the audience) this reduces to: 11Rssffvc=-, showing an increase in frequency, and when moving away from the audience, q=p the formula reduces to11Rssffvc=+, showing a decrease in frequency. Same frequency. The pendulum, having a length of around 1.5 m and given an amplitude of around 1 m, will have an average speed of around 2 m/sec. When the speed of sound c equals 340 m/sec, a frequency of 1000 Hz changes to 1005.92 Hz when it approaches the audience and to 994.15 Hz when it moves away from the audience. In beatfrequency this gives in both cases the value of around 5.9 Hz. So no difference is heard between the two movements. Difference in frequency. When the swinging speaker has a frequency of 1005 Hz, it will be heard by an audience when it approaches them with 2m/sec, as 1011 Hz (producing a beat of 11 Hz) and when it moves away from them as 999.1 Hz (producing a beat of .9 Hz, so a very slow beat is heard). When the swinging speaker is set at 995 Hz the situation is just the opposite: slow beat when the speaker approaches the audience, and fast when it moves away. So, observing the beatfrequency we can in this way observe that the frequency increases as the speaker approaches you and lowers when the speaker moves away.    
-<b> Remarks: </b>  
- • Contrary to the picture in Diagram we mount the two speakers above each other. The same is done with the two signal generators (see Figure1). So, when the audience sees the two frequency displays of the two generators on the monitor screen, they know which frequency belongs to which speaker.    • Calculating the frequency by means of 11Rssffvc=-or11Rssffvc=+ can be done quicker by means of 1111Rssssfffvvcc==-+or 111sRsssvfffvcc==-+, because vS<<c.   
-<b> Sources: </b>  
- • Giancoli, D.G., Physics for scientists and engineers with modern physics, pag. 430-435 • McComb,W.D., Dynamics and Relativity, pag. 99-101 • Meiners, Harry F., Physics demonstration experiments, part I, pag. 513-514  
+  
+## Remarks   
+ 
+ *  Contrary to the picture in Diagram we mount the two speakers above each other. The same is done with the two signal generators (see Figure1). So, when the audience sees the two frequency displays of the two generators on the monitor screen, they know which frequency belongs to which speaker.    
+ *  Calculating the frequency by means of 11Rssffvc=-or11Rssffvc=+ can be done quicker by means of 1111Rssssfffvvcc==-+or 111sRsssvfffvcc==-+, because vS<<c.
+   
+  
+## Sources   
+ 
+ *  Giancoli, D.G., Physics for scientists and engineers with modern physics, pag. 430-435 
+ *  McComb,W.D., Dynamics and Relativity, pag. 99-101 
+ *  Meiners, Harry F., Physics demonstration experiments, part I, pag. 513-514
+  

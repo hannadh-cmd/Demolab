@@ -1,10 +1,13 @@
-# Rope on a table 
+# K20 Rope on a table 
     
-<b> Aim: </b>  
+  
+## Aim   
  To show that by means of the difference in friction forces, the behaviour of a rope with knots can be predicted.    
-<b> Subjects: </b>  
+  
+## Subjects   
  1K20 (Friction)   
-<b> Diagram: </b>  
+  
+## Diagram   
    
 ```{figure} figures/figure_0.png  
 ---  
@@ -14,10 +17,12 @@ name: figures/figure_0.png
 caption  
 ``` 
       
-<b> Equipment: </b>  
+  
+## Equipment   
  4 meter of (mountain climbing) rope.
       
-<b> Presentation: </b>  
+  
+## Presentation   
  1. The rope is laid on a table with loops and loose knots like shown in the diagram. The loops have different sizes. Ask the audience in what order the loops tighten to knots when pulling the ends of the rope. Then perform the experiment and carefully observe that the largest loop always moves first, ending in closing all together at the same moment (see fig.1).    
 ```{figure} figures/figure_1.png  
 ---  
@@ -27,9 +32,11 @@ name: figures/figure_1.png
 caption  
 ``` 
  2. The rope with loops of different sizes is hung horizontally. Again ask the audience in what order the loops will tighten to knots when pulling the ends of the rope. Then perform the experiment and observe that the small loops move first to knots and the largest loops last!    
-<b> Explanation: </b>  
+  
+## Explanation   
  1. In the small loops the parts of the rope forming the knot press stronger together. This makes that the friction force in the knots with the smaller loops is larger than the friction force in the knots with the larger loops. Sliding occurs first in those places where the opposing friction force is lowest, so the larger loops move first. 2. When the rope is hung horizontally, the larger loops are heavier than the smaller ones. This makes that the friction force in the knots of the larger loops is larger.    
-<b> Remarks: </b>  
+  
+## Remarks   
  
  *  The rope must be very flexible. 
  *  The knots in the rope should not be too small.

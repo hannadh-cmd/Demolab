@@ -1,23 +1,30 @@
-# Impedenance matching 
+# B25 Impedenance matching 
  Impedance matching     
-<b> Aim: </b>  
+  
+## Aim   
  To show the effect of impedance matching.    
-<b> Subjects: </b>  
+  
+## Subjects   
  3B25 (Impendance and Dispersion)   
-<b> Diagram: </b>  
+  
+## Diagram   
  Diagram   
-<b> Equipment: </b>  
+  
+## Equipment   
  
  *  1 section of slow wave demonstrator 
  *  1 section of fast wave demonstrator 
  *  1 tapered section of wave demonstrator 
  *  1 dashpot
       
-<b> Presentation: </b>  
+  
+## Presentation   
  The slow wave demonstrator is coupled to the fast wave demonstrator. The dashpot is fixed to the end of the fast wave demonstrator. At the beginning of the slow wave demonstrator a sharp up and down disturbance is given by hand and a crest travels along the wave demonstrator. At the point of coupling, it can be observed that a significant portion of the crest is reflected and another part is transmitted to the fast wave demonstrator. If the tapered section is coupled between the slow and fast wave demonstrator, it can be shown that there is almost no reflection at the boundary.    
-<b> Explanation: </b>  
+  
+## Explanation   
  The tapered section serves as an impedance matching transformer.    
-<b> Sources: </b>  
+  
+## Sources   
  
  *  PASCO scientific, Instruction Manual for the PASCO scientific Model SE-9600, 9601, 9602, and 9603
   

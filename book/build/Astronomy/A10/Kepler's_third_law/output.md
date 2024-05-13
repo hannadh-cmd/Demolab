@@ -1,10 +1,13 @@
-# Kepler's third law 
+# A10 Kepler's third law 
     
-<b> Aim: </b>  
+  
+## Aim   
  To show empirically that Kepler’s third law is true.    
-<b> Subjects: </b>  
+  
+## Subjects   
  1L20 (Orbits) 8A10 (Solar System Mechanics)   
-<b> Diagram: </b>  
+  
+## Diagram   
     
 ```{figure} figures/figure_0.png  
 ---  
@@ -14,18 +17,23 @@ name: figures/figure_0.png
 caption  
 ``` 
     
-<b> Equipment: </b>  
+  
+## Equipment   
  
  *  Graph on overhead sheet, T=f(a), T  and a both scaled logarithmically. 
  *  Table with data of the planetary system (see Sources). Kepler’s third law
      
-<b> Presentation: </b>  
+  
+## Presentation   
  The graph is projected by means of an overhead sheet. The relationship with the table of planetary data is elucidated. Clearly can be observed that the data fit on a straight line in such a double logarithmic graph. The slope of this line (p/q) equals 1.5. This is the relationship of the powers in Kepler's third law: . 23Ta∝  
-<b> Explanation: </b>  
+  
+## Explanation   
  Kepler's third law states . Taking logarithms on both sides, we can also 2.Tconsta=3write:  and: 2loglogTc=.3logonsta+3122loglog.logTconsta=+. So when T and a are graphed logarithmically (with x– and y-decades equally spaced), we see a line whose slope (32) is the power-relationship in the original function.   
-<b> Simulations: </b>  
+  
+## Simulations   
  On the internet you can find many simulations that are appropriate. For instance on: www.walter-fendt.de , www.physics.sjsu.edu/Tomley/demos.htm and www.astro.unl.edu/naap/pos/animations/kepler.swf .   
-<b> Sources: </b>  
+  
+## Sources   
  
  *  Mansfield, M and O'Sullivan, C., Understanding physics, edition 1998, pag. 106-107 and 741  (planetary data). 
  *  BINAS tabellenboek, vijfde druk, tabel 31. 

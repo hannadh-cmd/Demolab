@@ -4,81 +4,13 @@ parts:
   - caption: TU Delft DemoLab
     chapters:
       - file: template_files/introduction
-  - caption: Astronomy
-    numbered: True
-    chapters:
-      - file: build/Astronomy/A10/Kepler's_second_law/output
-      - file: build/Astronomy/A10/Kepler's_third_law/output
-      - file: build/Astronomy/A10/Precessing_orbit__1_/output
-  - caption: Electricity and Magnetism
-    numbered: True
-    chapters:
-      - file: build/Electricity_and_Magnetism/A10/Electric_soap_bubbles/output
-      - file: build/Electricity_and_Magnetism/A20/Coulomb's_law/output
-      - file: build/Electricity_and_Magnetism/A20/Coulomb's_law__2_/output
-      - file: build/Electricity_and_Magnetism/A40/Charging_by_induction/output
-      - file: build/Electricity_and_Magnetism/A40/Electric_soap_bubbles/output
-      - file: build/Electricity_and_Magnetism/A40/Polarizing_a_dielectric/output
-      - file: build/Electricity_and_Magnetism/A40/Water_dropper/output
-      - file: build/Electricity_and_Magnetism/A50/Water_dropper/output
-      - file: build/Electricity_and_Magnetism/B10/Charge_and_field_inside_and_or_outside/output
-      - file: build/Electricity_and_Magnetism/B10/Charge_is_on_the_outside/output
-      - file: build/Electricity_and_Magnetism/B10/E-field_direction/output
-      - file: build/Electricity_and_Magnetism/B20/Charge_and_field_inside_and_or_outside/output
-      - file: build/Electricity_and_Magnetism/B20/Charge_is_on_the_outside/output
-      - file: build/Electricity_and_Magnetism/B20/Gauss's_law/output
-      - file: build/Electricity_and_Magnetism/C10/Capacitor-_spacing_and_dielectric/output
-      - file: build/Electricity_and_Magnetism/C10/Capacitor__1_Spacing_between_the_plates/output
-      - file: build/Electricity_and_Magnetism/C10/Capacitor__1__Spacing_between_the_plates/output
-      - file: build/Electricity_and_Magnetism/C20/Capacitor-_spacing_and_dielectric/output
-      - file: build/Electricity_and_Magnetism/C20/Capacitor__2_Different_dielectrics/output
-      - file: build/Electricity_and_Magnetism/C20/Polarizing_a_dielectric/output
-      - file: build/Electricity_and_Magnetism/C30/Capacitor__2_Different_dielectrics/output
-      - file: build/Electricity_and_Magnetism/D20/Negative_temperature_coefficient/output
-      - file: build/Electricity_and_Magnetism/D20/Positive_temperature_coefficient/output
-      - file: build/Electricity_and_Magnetism/F15/Fuse-wires_parallel/output
-      - file: build/Electricity_and_Magnetism/F20/Fuse-wires_parallel/output
-      - file: build/Electricity_and_Magnetism/G20/Barkhausen_effect__1/output
-      - file: build/Electricity_and_Magnetism/G20/Barkhausen_effect__2/output
-      - file: build/Electricity_and_Magnetism/G40/Barkhausen_effect__1/output
-      - file: build/Electricity_and_Magnetism/G40/Barkhausen_effect__2/output
-      - file: build/Electricity_and_Magnetism/H10/Magnetic_fields/output
-      - file: build/Electricity_and_Magnetism/H20/force_between_magnets__1_/output
-      - file: build/Electricity_and_Magnetism/H20/force_between_magnets__2_/output
-      - file: build/Electricity_and_Magnetism/H30/Force_on_electrons_in_a_magnetic_field__1_/output
-      - file: build/Electricity_and_Magnetism/H30/Force_on_electrons_in_a_magnetic_field__2_/output
-      - file: build/Electricity_and_Magnetism/H40/Force_effect_of_current/output
-      - file: build/Electricity_and_Magnetism/H40/Lorentz_force__1_/output
-      - file: build/Electricity_and_Magnetism/H40/Lorentz_force__2_/output
-      - file: build/Electricity_and_Magnetism/H40/parallel_wires/output
-      - file: build/Electricity_and_Magnetism/H50/Current_loop_in_magnetic_field/output
-      - file: build/Electricity_and_Magnetism/J10/Selfinductance_in_AC-circuit/output
-      - file: build/Electricity_and_Magnetism/K10/Damped_galvanometer/output
-      - file: build/Electricity_and_Magnetism/K10/Skipping_rope/output
-      - file: build/Electricity_and_Magnetism/K20/Arago's_compass_needle/output
-      - file: build/Electricity_and_Magnetism/K20/Arago's_disk/output
-      - file: build/Electricity_and_Magnetism/K30/Electric_power_transmission_line/output
-      - file: build/Electricity_and_Magnetism/K30/Transformer/output
-      - file: build/Electricity_and_Magnetism/K40/Electric_motor__synchronous_motor_/output
-      - file: build/Electricity_and_Magnetism/L20/LRC_circuits/output
-      - file: build/Electricity_and_Magnetism/L20/Phase/output
-      - file: build/Electricity_and_Magnetism/L20/Selfinductance_in_AC-circuit/output
-      - file: build/Electricity_and_Magnetism/N10/electromagnetic_waves/output
-      - file: build/Electricity_and_Magnetism/N10/Microwave_oven/output
-  - caption: Fluid Mechanics
-    numbered: True
-    chapters:
-      - file: build/Fluid_Mechanics/B20/Rotating_liquid/output
-      - file: build/Fluid_Mechanics/C20/Magnus_effect__1_/output
-      - file: build/Fluid_Mechanics/C20/Magnus_effect__2_/output
-  - caption: Mechanics
-    numbered: True
+
+  - caption: 1 Mechanics
     chapters:
       - file: build/Mechanics/A20/Hooke's_law/output
       - file: build/Mechanics/A40/Cross_product/output
       - file: build/Mechanics/D40/Bungee_jumper/output
       - file: build/Mechanics/D40/Centre_of_mass/output
-      - file: build/Mechanics/D40/Centre_of_ratation/output
       - file: build/Mechanics/D40/Centre_of_rotation/output
       - file: build/Mechanics/D40/Explosion/output
       - file: build/Mechanics/D40/Students'_centre_of_mass/output
@@ -211,52 +143,16 @@ parts:
       - file: build/Mechanics/Q60/Stable_wheel/output
       - file: build/Mechanics/Q60/Tippe_top/output
       - file: build/Mechanics/R10/Hooke's_law/output
-  - caption: Miscellaneous
-    numbered: True
+  
+  - caption: 2 Fluid Mechanics
+     
     chapters:
-      - file: build/Miscellaneous/B62/Speckles/output
-  - caption: Modern Physics
-    numbered: True
-    chapters:
-      - file: build/Modern_Physics/A50/deBroglie_applied_to_Bohr/output
-      - file: build/Modern_Physics/A50/Tunneling/output
-      - file: build/Modern_Physics/A50/Tunneling_1_/output
-      - file: build/Modern_Physics/A60/Bragg-scattering/output
-      - file: build/Modern_Physics/A60/Discovering_Bragg/output
-      - file: build/Modern_Physics/B10/Balmer_series/output
-      - file: build/Modern_Physics/F10/E=mc-square/output
-  - caption: Optics
-    numbered: True
-    chapters:
-      - file: build/Optics/A01/Speed_of_light-Foucault-Michelson/output
-      - file: build/Optics/A10/Confusing_mirrors/output
-      - file: build/Optics/A10/Corner_cube/output
-      - file: build/Optics/A40/Chromatic_aberration/output
-      - file: build/Optics/A40/Curved_lightbeams/output
-      - file: build/Optics/A42/Brewster's_angle__3_/output
-      - file: build/Optics/A44/Brewster's_angle__3_/output
-      - file: build/Optics/A60/Chromatic_aberration/output
-      - file: build/Optics/A70/Magnifying_glass/output
-      - file: build/Optics/B30/Radiation_pressure/output
-      - file: build/Optics/C10/Resolution/output
-      - file: build/Optics/C20/Diffraction_1_,_introduction/output
-      - file: build/Optics/C20/Diffraction_2a_,_single_slit/output
-      - file: build/Optics/C20/Diffraction_2b_,_single_slit/output
-      - file: build/Optics/C20/Fraunhofer_-_and_Fresnel_diffraction/output
-      - file: build/Optics/D10/Fresnel_double_mirror/output
-      - file: build/Optics/D10/Fresnel_double_prism/output
-      - file: build/Optics/D10/Lloyds_mirror/output
-      - file: build/Optics/D10/Young's_double_slit/output
-      - file: build/Optics/D30/Newton's_rings__1_/output
-      - file: build/Optics/D30/Newton's_rings__2_/output
-      - file: build/Optics/D30/Oil_film/output
-      - file: build/Optics/D30/Soap_film/output
-      - file: build/Optics/D40/Michelson-Morley_interferometer/output
-      - file: build/Optics/H20/Brewster's_angle__1_/output
-      - file: build/Optics/H20/Brewster's_angle__2_/output
-      - file: build/Optics/H35/Brewster's_angle__1_/output
-  - caption: Oscillations and Waves
-    numbered: True
+      - file: build/Fluid_Mechanics/B20/Rotating_liquid/output
+      - file: build/Fluid_Mechanics/C20/Magnus_effect__1_/output
+      - file: build/Fluid_Mechanics/C20/Magnus_effect__2_/output
+
+  - caption: 3 Oscillations and Waves
+     
     chapters:
       - file: build/Oscillations_and_Waves/A10/Chaotic_pendulum/output
       - file: build/Oscillations_and_Waves/A10/Mathematical_pendulum__1__-_Simple_harmonic_motion/output
@@ -290,8 +186,8 @@ parts:
       - file: build/Oscillations_and_Waves/B25/Impedenance_matching/output
       - file: build/Oscillations_and_Waves/B40/Doppler/output
       - file: build/Oscillations_and_Waves/C50/Plucking_a_string/output
-  - caption: Thermodynamics
-    numbered: True
+  - caption: 4 Thermodynamics
+     
     chapters:
       - file: build/Thermodynamics/A10/Constant_volume_gas_thermometer/output
       - file: build/Thermodynamics/A10/Inverted_thermometer/output
@@ -318,3 +214,113 @@ parts:
       - file: build/Thermodynamics/F10/Violation_of_the_entropy_law/output
       - file: build/Thermodynamics/F30/Dippy_bird/output
       - file: build/Thermodynamics/F30/Stirling_engine/output
+
+  - caption: 5 Electricity and Magnetism
+     
+    chapters:
+      - file: build/Electricity_and_Magnetism/A10/Electric_soap_bubbles/output
+      - file: build/Electricity_and_Magnetism/A20/Coulomb's_law/output
+      - file: build/Electricity_and_Magnetism/A20/Coulomb's_law__2_/output
+      - file: build/Electricity_and_Magnetism/A40/Charging_by_induction/output
+      - file: build/Electricity_and_Magnetism/A40/Electric_soap_bubbles/output
+      - file: build/Electricity_and_Magnetism/A40/Polarizing_a_dielectric/output
+      - file: build/Electricity_and_Magnetism/A40/Water_dropper/output
+      - file: build/Electricity_and_Magnetism/A50/Water_dropper/output
+      - file: build/Electricity_and_Magnetism/B10/Charge_and_field_inside_and_or_outside/output
+      - file: build/Electricity_and_Magnetism/B10/Charge_is_on_the_outside/output
+      - file: build/Electricity_and_Magnetism/B10/E-field_direction/output
+      - file: build/Electricity_and_Magnetism/B20/Charge_and_field_inside_and_or_outside/output
+      - file: build/Electricity_and_Magnetism/B20/Charge_is_on_the_outside/output
+      - file: build/Electricity_and_Magnetism/B20/Gauss's_law/output
+      - file: build/Electricity_and_Magnetism/C10/Capacitor-_spacing_and_dielectric/output
+      - file: build/Electricity_and_Magnetism/C10/Capacitor__1_Spacing_between_the_plates/output
+      - file: build/Electricity_and_Magnetism/C10/Capacitor__1__Spacing_between_the_plates/output
+      - file: build/Electricity_and_Magnetism/C20/Capacitor-_spacing_and_dielectric/output
+      - file: build/Electricity_and_Magnetism/C20/Capacitor__2_Different_dielectrics/output
+      - file: build/Electricity_and_Magnetism/C20/Polarizing_a_dielectric/output
+      - file: build/Electricity_and_Magnetism/C30/Capacitor__2_Different_dielectrics/output
+      - file: build/Electricity_and_Magnetism/D20/Negative_temperature_coefficient/output
+      - file: build/Electricity_and_Magnetism/D20/Positive_temperature_coefficient/output
+      - file: build/Electricity_and_Magnetism/F15/Fuse-wires_parallel/output
+      - file: build/Electricity_and_Magnetism/F20/Fuse-wires_parallel/output
+      - file: build/Electricity_and_Magnetism/G20/Barkhausen_effect__1/output
+      - file: build/Electricity_and_Magnetism/G20/Barkhausen_effect__2/output
+      - file: build/Electricity_and_Magnetism/G40/Barkhausen_effect__1/output
+      - file: build/Electricity_and_Magnetism/G40/Barkhausen_effect__2/output
+      - file: build/Electricity_and_Magnetism/H10/Magnetic_fields/output
+      - file: build/Electricity_and_Magnetism/H20/force_between_magnets__1_/output
+      - file: build/Electricity_and_Magnetism/H20/force_between_magnets__2_/output
+      - file: build/Electricity_and_Magnetism/H30/Force_on_electrons_in_a_magnetic_field__1_/output
+      - file: build/Electricity_and_Magnetism/H30/Force_on_electrons_in_a_magnetic_field__2_/output
+      - file: build/Electricity_and_Magnetism/H40/Force_effect_of_current/output
+      - file: build/Electricity_and_Magnetism/H40/Lorentz_force__1_/output
+      - file: build/Electricity_and_Magnetism/H40/Lorentz_force__2_/output
+      - file: build/Electricity_and_Magnetism/H40/parallel_wires/output
+      - file: build/Electricity_and_Magnetism/H50/Current_loop_in_magnetic_field/output
+      - file: build/Electricity_and_Magnetism/J10/Selfinductance_in_AC-circuit/output
+      - file: build/Electricity_and_Magnetism/K10/Damped_galvanometer/output
+      - file: build/Electricity_and_Magnetism/K10/Skipping_rope/output
+      - file: build/Electricity_and_Magnetism/K20/Arago's_compass_needle/output
+      - file: build/Electricity_and_Magnetism/K20/Arago's_disk/output
+      - file: build/Electricity_and_Magnetism/K30/Electric_power_transmission_line/output
+      - file: build/Electricity_and_Magnetism/K30/Transformer/output
+      - file: build/Electricity_and_Magnetism/K40/Electric_motor__synchronous_motor_/output
+      - file: build/Electricity_and_Magnetism/L20/LRC_circuits/output
+      - file: build/Electricity_and_Magnetism/L20/Phase/output
+      - file: build/Electricity_and_Magnetism/L20/Selfinductance_in_AC-circuit/output
+      - file: build/Electricity_and_Magnetism/N10/electromagnetic_waves/output
+      - file: build/Electricity_and_Magnetism/N10/Microwave_oven/output
+  
+  - caption: 6 Optics
+     
+    chapters:
+      - file: build/Optics/A01/Speed_of_light-Foucault-Michelson/output
+      - file: build/Optics/A10/Confusing_mirrors/output
+      - file: build/Optics/A10/Corner_cube/output
+      - file: build/Optics/A40/Chromatic_aberration/output
+      - file: build/Optics/A40/Curved_lightbeams/output
+      - file: build/Optics/A42/Brewster's_angle__3_/output
+      - file: build/Optics/A44/Brewster's_angle__3_/output
+      - file: build/Optics/A60/Chromatic_aberration/output
+      - file: build/Optics/A70/Magnifying_glass/output
+      - file: build/Optics/B30/Radiation_pressure/output
+      - file: build/Optics/C10/Resolution/output
+      - file: build/Optics/C20/Diffraction_1_,_introduction/output
+      - file: build/Optics/C20/Diffraction_2a_,_single_slit/output
+      - file: build/Optics/C20/Diffraction_2b_,_single_slit/output
+      - file: build/Optics/C20/Fraunhofer_-_and_Fresnel_diffraction/output
+      - file: build/Optics/D10/Fresnel_double_mirror/output
+      - file: build/Optics/D10/Fresnel_double_prism/output
+      - file: build/Optics/D10/Lloyds_mirror/output
+      - file: build/Optics/D10/Young's_double_slit/output
+      - file: build/Optics/D30/Newton's_rings__1_/output
+      - file: build/Optics/D30/Newton's_rings__2_/output
+      - file: build/Optics/D30/Oil_film/output
+      - file: build/Optics/D30/Soap_film/output
+      - file: build/Optics/D40/Michelson-Morley_interferometer/output
+      - file: build/Optics/H20/Brewster's_angle__1_/output
+      - file: build/Optics/H20/Brewster's_angle__2_/output
+      - file: build/Optics/H35/Brewster's_angle__1_/output
+  
+  - caption: 7 Modern Physics
+     
+    chapters:
+      - file: build/Modern_Physics/A50/deBroglie_applied_to_Bohr/output
+      - file: build/Modern_Physics/A50/Tunneling/output
+      - file: build/Modern_Physics/A50/Tunneling_1_/output
+      - file: build/Modern_Physics/A60/Bragg-scattering/output
+      - file: build/Modern_Physics/A60/Discovering_Bragg/output
+      - file: build/Modern_Physics/B10/Balmer_series/output
+      - file: build/Modern_Physics/F10/E=mc-square/output
+  
+  - caption: 8 Astronomy
+     
+    chapters:
+      - file: build/Astronomy/A10/Kepler's_second_law/output
+      - file: build/Astronomy/A10/Kepler's_third_law/output
+      - file: build/Astronomy/A10/Precessing_orbit__1_/output
+  
+  - caption: 9 Miscellaneous
+    chapters:
+      - file: build/Miscellaneous/B62/Speckles/output
+  

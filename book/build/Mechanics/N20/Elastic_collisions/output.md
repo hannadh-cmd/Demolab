@@ -1,10 +1,13 @@
-# Elastic collisions 
+# N20 Elastic collisions 
     
-<b> Aim: </b>  
+  
+## Aim   
  To explore the conservation of momentum in elastic collisions.    
-<b> Subjects: </b>  
+  
+## Subjects   
  1N20 (Conservation of Linear Momentum)   
-<b> Diagram: </b>  
+  
+## Diagram   
    
 ```{figure} figures/figure_0.png  
 ---  
@@ -14,20 +17,23 @@ name: figures/figure_0.png
 caption  
 ``` 
      
-<b> Equipment: </b>  
+  
+## Equipment   
  
  *  Two collision carts with magnetic bumpers on both ends. 
  *  Masses for carts. 
  *  Cart track, 2.2 m, with end-stops. 
  *  Mass balance.
       
-<b> Presentation: </b>  
+  
+## Presentation   
  The cart track is carefully leveled (by setting a cart on the track to see which way it rolls). 
  *  One cart is placed in the middle of the track. Give the other cart an initial speed towards the cart at rest. Observe that after the collision the second cart moves with the speed of the first and that the first cart stops. When the second cart rebounds elastically at the end-stop this phenomenon repeats. 
  *  Both carts are given a certain speed towards the middle of the track; Equal speeds: Then after collision they recede with equal speeds. Different speeds: Then after collision they have interchanged their speeds. 
  *  By means of the extra masses, one of the carts (mass=m) is given a mass of 2m or 3m. Now the next demonstrations can be performed: (Let students predict what will happen before showing the concerned demonstration.) 1. The 2m-cart stands at rest in the middle of the track. The 1m-cart approaches at a certain speed. Observe that after the collision the 1m-cart reverses its direction of movement and is slowed down and that the 2m-cart is launched and has a higher speed then the 1m-cart after the collision (actually the 2m-cart is two times as fast as the 1m-cart). as can be observed rather convincingly. 2. The 3m-cart stands at rest in the middle of the track. The 1m-cart approaches at a certain speed. Observe that after the collision, the 1m-cart reverses its direction of movement and is slowed down and that the 3m-cart is launched. It can also be observed that both carts have the same speed. 3. The 1m-cart stands at rest at one third of the track. The 2m-cart approaches at a certain speed. Observe that after the collision the 2m-cart continues moving in the same direction but is slowed down substantially and that the 1m-cart is launched with very high speed (actually, after the collision the 1m-cart is 4 times as fast as the 2m-cart). 4. a. The 1m-cart stands at rest at one third of the track. The 3m-cart approaches at a certain speed. Observe that after the collision the 3m-cart continues moving in the same direction but is slowed down and that the 1m-cart is launched with a very high speed. (The difference in speed between the two carts is less than in situation 3.) b. A nice extra demonstration is the following: Place the 1m-cart close to the end of the track. The 3m-cart approaches at a certain speed (not so high). After the collision, the 1m-cart bounces four times between the end-stops of the track and the still moving 3m-cart, but after that sequence the 1m-cart stands still and the 3m-cart moves with the same speed (opposite direction) it had before the collision.
      
-<b> Explanation: </b>  
+  
+## Explanation   
  In explaining the situations demonstrated, a rule introduced by Huygens can be used: 'If in an elastic collision the sum of the impulses equals zero, then both objects reverse and have the same speed after the collision as before the collision.' (CM coordinate system.)    
 ```{figure} figures/figure_1.png  
 ---  
@@ -37,7 +43,8 @@ name: figures/figure_1.png
 caption  
 ``` 
      
-<b> Explanation: </b>  
+  
+## Explanation   
  In explaining the situations demonstrated, a rule introduced by Huygens can be used: 'If in an elastic collision the sum of the impulses equals zero, then both objects reverse and have the same speed after the collision as before the collision.' (CM coordinate system.)  Figure 1  This rule can easily be verified in applying conservation of momentum and conservation of kinetic energy. This method is shown here for situation 1 only, for the other situations the result is shown (see Figure 1 and -2). Figure 2 showes the observed –v1 and v2 after the collision.     
 ```{figure} figures/figure_2.png  
 ---  
@@ -47,13 +54,15 @@ name: figures/figure_2.png
 caption  
 ``` 
       
-<b> Remarks: </b>  
+  
+## Remarks   
  
  *  Run each demonstration a couple of times to get agreement with your students on the observations. 
  *  The cart launched by hand should not be given too much speed, otherwise both carts touch each other and the collision is not completely elastic anymore. The carts might even derail.  
  *  121122'mvvmm⎛⎞=⎜⎟ means  that when 21mm(cid:19) then 21'2vv+⎝⎠≈. In our demonstration sequence we approach 2'vup
  to11.5v    
-<b> Sources: </b>  
+  
+## Sources   
  
  *  Biezeveld, H. and Mathot, L., Scoop, Natuurkunde voor de bovenbouw, part 4/5 vwo, pag. 148. 
  *  Mansfield, M and O'Sullivan, C., Understanding physics, 1998, pag. 126-128 and 135-136. 

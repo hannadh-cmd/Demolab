@@ -1,10 +1,13 @@
-# Brewster's angle  2  
+# H20 Brewster's angle  2  
  Brewster's angle (2)   
-<b> Aim: </b>  
+  
+## Aim   
  To show when unpolarized light is reflected by a surface at Brewster's angle, the component polarized parallel to the incident plane (normal to the reflecting surface) will not be reflected.    
-<b> Subjects: </b>  
+  
+## Subjects   
  6H20 (Polarization by Reflection)   
-<b> Diagram: </b>  
+  
+## Diagram   
    
 ```{figure} figures/figure_0.png  
 ---  
@@ -14,12 +17,22 @@ name: figures/figure_0.png
 caption  
 ``` 
      
-<b> Equipment: </b>  
-  Lamp, 12V, halogen, with condenser.  Transformer, 2-12V.  Acrylic sheet.  30-60-90otriangle.  Polaroid filter.  Black screen.   
-<b> Safety: </b>  
-   Brewster's angle (2)
+  
+## Equipment   
+ 
+ *  Lamp, 12V, halogen, with condenser. 
+ *  Transformer, 2-12V. 
+ *  Acrylic sheet. 
+ *  30-60-90otriangle. 
+ *  Polaroid filter. 
+ *  Black screen.   
+  
+## Safety   
+ 
+ *   Brewster's angle (2)
     
-<b> Presentation: </b>  
+  
+## Presentation   
  The demonstration is presented as shown in Diagram. The angle of incidence is about 60o. In this lay-out the plane of incidence is horizontal. Switching on the lamp and shifting the condenser, a parallel beam of light is made. On the blackboard the transmitted beam through the acrylic sheet is observed and the black screen shows that there is also a (weaker) reflected beam (see Diagram). When the Polaroid filter is placed in the beam of light, having its direction of polarization parallel to the plane of incidence, the reflected wave disappears (see Figure 1A): there is only transmission.    
 ```{figure} figures/figure_1.png  
 ---  
@@ -29,9 +42,11 @@ name: figures/figure_1.png
 caption  
 ``` 
  Brewster's angle (2)    
-<b> Presentation: </b>  
+  
+## Presentation   
  The demonstration is presented as shown in Diagram. The angle of incidence is about 60o. In this lay-out the plane of incidence is horizontal. Switching on the lamp and shifting the condenser, a parallel beam of light is made. On the blackboard the transmitted beam through the acrylic sheet is observed and the black screen shows that there is also a (weaker) reflected beam (see Diagram). When the Polaroid filter is placed in the beam of light, having its direction of polarization parallel to the plane of incidence, the reflected wave disappears (see Figure 1A): there is only transmission.   Figure 1 When the Polaroid is rotated there is again reflection. Figure 1B shows the situation when the direction of polarization is perpendicular to the plane of incidence.    
-<b> Explanation: </b>  
+  
+## Explanation   
  The refracted wave entering the acrylic sheet drives the bound electrons and they in turn reradiate.    
 ```{figure} figures/figure_2.png  
 ---  
@@ -41,7 +56,14 @@ name: figures/figure_2.png
 caption  
 ``` 
  Figure 2A shows such a dipole radiation pattern (green line is the envelope) of such an oscillating charge. If the situation is arranged such that 90rt, there is no reradiation into the direction of reflection (see Figure 2B): the reflected wave vanishes. (In a simple way you can say that in the direction of reflection an observer “sees” no oscillation). The angle at which this situation happens is called Brewster's angle (p).  Brewster's angle (2)     
-<b> Remarks: </b>  
-  Also see the demonstration Brewster's angle (1) in this database.  The pictures in Diagram, Figure 1A and -1B show that in this demonstration you can also say something about the intensities of the reflected and transmitted beams. Figure 2 in the demonstration "Brewster's angle (1)" in this database can be used to elucidate the observed differences in intensities.   
-<b> Sources: </b>  
-  Hecht, Eugene, Optics, pag. 111-115; 342-346  
+  
+## Remarks   
+ 
+ *  Also see the demonstration Brewster's angle (1) in this database. 
+ *  The pictures in Diagram, Figure 1A and -1B show that in this demonstration you can also say something about the intensities of the reflected and transmitted beams. Figure 2 in the demonstration "Brewster's angle (1)" in this database can be used to elucidate the observed differences in intensities.
+   
+  
+## Sources   
+ 
+ *  Hecht, Eugene, Optics, pag. 111-115; 342-346
+  

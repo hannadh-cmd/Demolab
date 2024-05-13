@@ -1,10 +1,13 @@
-# Force on electrons in a magnetic field  1  
+# H30 Force on electrons in a magnetic field  1  
  Force on electrons in a magnetic field (1)    
-<b> Aim: </b>  
+  
+## Aim   
  To show the effect of a magnetic field on a sweeping beam of electrons (oscilloscope).    
-<b> Subjects: </b>  
+  
+## Subjects   
  5H30 (Force on Moving Charges)   
-<b> Diagram: </b>  
+  
+## Diagram   
    
 ```{figure} figures/figure_0.png  
 ---  
@@ -14,14 +17,23 @@ name: figures/figure_0.png
 caption  
 ``` 
      
-<b> Equipment: </b>  
-  Oscilloscope, cover removed (see Diagram).  2 Signal generators.  Small bar magnet.  Video camera and beamer to present the screen of the oscilloscope to a large audience.   
-<b> Safety: </b>  
-  The power supply of the oscilloscope tube has a dangerous high tension. So, take care when the cover is removed. The parts with the high tension are clearly labelled. Nevertheless, take care when doing this demonstration! Force on electrons in a magnetic field (1)
+  
+## Equipment   
+ 
+ *  Oscilloscope, cover removed (see Diagram). 
+ *  2 Signal generators. 
+ *  Small bar magnet. 
+ *  Video camera and beamer to present the screen of the oscilloscope to a large audience.   
+  
+## Safety   
+ 
+ *  The power supply of the oscilloscope tube has a dangerous high tension. So, take care when the cover is removed. The parts with the high tension are clearly labelled. Nevertheless, take care when doing this demonstration! Force on electrons in a magnetic field (1)
     
-<b> Presentation: </b>  
+  
+## Presentation   
   Preparation: Remove the cover of the oscilloscope and notice the high tension labels (see: Safety).   
-<b> Presentation: </b>  
+  
+## Presentation   
  Switch on the oscilloscope and set its time-base so a stable horizontal line appears on the screen (see Diagram). Explain to the students that a beam of electrons is moving from the back to the front side (fluorescent screen) of the oscilloscope, where it appears as a line.  1. Ask the students what will happen to that line when you approach the oscilloscope tube with a North pole coming from the left side of the oscilloscope. As a comment to their answers, show that the end of the line goes downward (see Figure 1).    
 ```{figure} figures/figure_1.png  
 ---  
@@ -63,7 +75,8 @@ name: figures/figure_5.png
 caption  
 ``` 
    a focus (Figure 5F and 5G): the magnetic field can act on a beam of electrons in a way like an optical lens acts on light beams: the magnetic field acts as a lens on the electron-beam. Force on electrons in a magnetic field (1)   
-<b> Explanation: </b>  
+  
+## Explanation   
  The force (F) on a moving (v) charge (q) in a magnetic field (B) is expressed as FqvB (Lorentz force). 1. In order to find the right direction of the take into account that the charge q is negative! (In this introductive demonstration and its explanation it is just enough to talk about the magnetic field going into one direction, perpendicular to the electron-beam.) 2. and 3. Considering the direction of the force in the Figure 2 and Figure 3, again keep in mind that charge q is negative! Key to the force in these drawings is that the angle between v and B is not 0o (see Figure 6).    
 ```{figure} figures/figure_6.png  
 ---  
@@ -73,7 +86,9 @@ name: figures/figure_6.png
 caption  
 ``` 
  In Figure 2 it can be observed also that the central electrons are not deflected. This is right, because for these electrons (and only for these electrons)0vB. 4. Figure 5B and 5C show clearly a rotation to the right. This is the same rotation that is already observed in the demonstration of Figure 2: there it was only a line; now the whole square (electron beam) can be seen rotating. (During the whole demonstration the rotations remains clearly visible.) The rotation becomes a spiral, because close to the magnet the magnetic field is so much stronger than farther away from the magnet. (Many books show these spirals, e.g. Giancoli, pag. 694; see Sources.) That focussing occurs illustrates that with electron beams we can create a microscope (electron microscope).   
-<b> Remarks: </b>  
+  
+## Remarks   
   Also the picture on a TV- or monitor screen can be distorted by using magnets, but take care, the distortion might be irreparable!  Also see the demonstration “Force on electrons in a magnetic field (2)” in this database.   
-<b> Sources: </b>  
+  
+## Sources   
   Biezeveld, H. and Mathot, L., Scoop, Natuurkunde voor de bovenbouw, part 4/5 vwo, pag. 211  Mansfield, M and O'Sullivan, C., Understanding physics, pag. 497-498  Young, H.D. and Freeman, R.A., University Physics, pag. 867-868  Giancoli, D.G., Physics for scientists and engineers with modern physics, pag. 692  

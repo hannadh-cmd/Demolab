@@ -1,10 +1,13 @@
-# Pulling a thread 
+# G10 Pulling a thread 
     
-<b> Aim: </b>  
+  
+## Aim   
  To use Newton's second law in order to explain a surprising demonstration.    
-<b> Subjects: </b>  
+  
+## Subjects   
  1G10 (Force, Mass, and Acceleration)   
-<b> Diagram: </b>  
+  
+## Diagram   
    
 ```{figure} figures/figure_0.png  
 ---  
@@ -14,14 +17,23 @@ name: figures/figure_0.png
 caption  
 ``` 
      
-<b> Equipment: </b>  
-  Mass of 5kg.  4 identical masses, 1kg each (see Remarks).  Thin cotton thread.  A bar to hang the masses.   
-<b> Safety: </b>  
-  Mind the falling weights! You can put a foam cushion under the weights.
+  
+## Equipment   
+ 
+ *  Mass of 5kg. 
+ *  4 identical masses, 1kg each (see Remarks). 
+ *  Thin cotton thread. 
+ *  A bar to hang the masses.   
+  
+## Safety   
+ 
+ *  Mind the falling weights! You can put a foam cushion under the weights.
      
-<b> Presentation: </b>  
+  
+## Presentation   
  1. The mass of 5kg is suspended at a strong thread. By means of a thin cotton thread it can be displaced horizontally. Slowly pulling shows this. But when a jerk is given, the thin cotton thread breaks. 2. By means of thin thread, the two masses of 1kg are hung on to the bar. On the bottom-side of each mass a free hanging thread is tied. Ask the students which thread will break, the upper or the lower, when we increase slowly the pulling force on the bottom thread. Slowly pull the lower thread of one mass. This will cause the upper thread to break. Then ask the students which thread will break when we increase the pulling force on the lower thread very fast. Pull the lower thread on the second mass rapidly. This time the lower thread will break.   
-<b> Explanation: </b>  
+  
+## Explanation   
  1. The tension (T) in the thin thread equals the force applied to the thread: F=T. This force accelerates m (see Figure 1). A jerk means that a is high; a high F (=ma) is needed for that. So the tension in the thread will be high and the thread can break.    
 ```{figure} figures/figure_1.png  
 ---  
@@ -39,7 +51,21 @@ name: figures/figure_2.png
 caption  
 ``` 
  As long as a < g, then T2 < T1 and the top-thread will break. But when a > g, then T2 > T1 and the bottom-thread will break. This last explanation shows the power of Newton’s second law: Now it is possible to say something about the acceleration a, that determines what will happen (which thread will break). (A student asked: what will happen when a=g?)   
-<b> Remarks: </b>  
-  We suspend 4 masses in order to perform the demonstration twice (without tedious knotting).  Presentation 1 can directly be referred to the common experience that when pulling a damaged car by another car, the pulling car should start slowly otherwise the pulling rope will break.  A variation to presentation 1 is attaching a thread to a mass and slowly pulling upward, lifting the mass. Repeating this with a jerk will break the thread.  In a more sophisticated analysis, also the elasticity and lenth of both cords should be taken in account (see AJP- and PT-articles mentioned in Remarks).   
-<b> Sources: </b>  
-  Ehrlich, Robert, Turning the World Inside Out and 174 Other Simple Physics Demonstrations, pag. 30.  Friedrich, Artur, Handbuch der experimentellen Schulphysik, part 2, Mechanik der festen Körper, pag. 85.  Freier, George D. and Anderson, Frances J., A demonstration handbook for physics, pag. M16.  Sutton, Richard Manliffe, Demonstration experiments in Physics, pag. 46-47.  American Journal of Physics, pag. 860-862 (Vol. 72-7; 2004).  The Physics Teacher, pag.504-507 (Vol. 34; Nov. 1996).  
+  
+## Remarks   
+ 
+ *  We suspend 4 masses in order to perform the demonstration twice (without tedious knotting). 
+ *  Presentation 1 can directly be referred to the common experience that when pulling a damaged car by another car, the pulling car should start slowly otherwise the pulling rope will break. 
+ *  A variation to presentation 1 is attaching a thread to a mass and slowly pulling upward, lifting the mass. Repeating this with a jerk will break the thread. 
+ *  In a more sophisticated analysis, also the elasticity and lenth of both cords should be taken in account (see AJP- and PT-articles mentioned in Remarks).
+   
+  
+## Sources   
+ 
+ *  Ehrlich, Robert, Turning the World Inside Out and 174 Other Simple Physics Demonstrations, pag. 30. 
+ *  Friedrich, Artur, Handbuch der experimentellen Schulphysik, part 2, Mechanik der festen Körper, pag. 85. 
+ *  Freier, George D. and Anderson, Frances J., A demonstration handbook for physics, pag. M16. 
+ *  Sutton, Richard Manliffe, Demonstration experiments in Physics, pag. 46-47. 
+ *  American Journal of Physics, pag. 860-862 (Vol. 72-7; 2004). 
+ *  The Physics Teacher, pag.504-507 (Vol. 34; Nov. 1996).
+  

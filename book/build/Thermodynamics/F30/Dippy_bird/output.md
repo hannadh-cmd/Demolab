@@ -1,10 +1,13 @@
-# Dippy bird 
+# F30 Dippy bird 
     
-<b> Aim: </b>  
+  
+## Aim   
  To show the pressure-volume behaviour of a vapour.    
-<b> Subjects: </b>  
+  
+## Subjects   
  4C33 (Vapor Pressure) 4F30 (Heat Cycles)   
-<b> Diagram: </b>  
+  
+## Diagram   
    
 ```{figure} figures/figure_0.png  
 ---  
@@ -14,14 +17,24 @@ name: figures/figure_0.png
 caption  
 ``` 
      
-<b> Equipment: </b>  
-  Dippy bird.  Small beaker, filled with distilled water.  (Second dippy bird and lamp; see at the end of 'Explanation'.)   
-<b> Safety: </b>  
-  Despite the drinking bird's appearance and classification as a toy, some safety considerations apply. The liquid inside the dippy bird is dichloromethane. Dichloromethane can irritate the skin on contact, and the lungs if inhaled; it is a mutagen and teratogen, and potentially a carcinogen. The intact toy is leakage proof and completely safe, but if broken hazardous dichloromethane is released. Dichloromethane evaporates quickly; good ventilation after a spill will dilute and disperse the vapour.  Always keep a beaker in front of the bird. The beaker stops the forward movement of the bird. When there is no beaker to stop the forward movement of the bird, the glass bird will fall down and the glass breaks.  (Early models of the dippy bird were often filled with highly flammable substances. The fluid in later versions is nonflammable.)
+  
+## Equipment   
+ 
+ *  Dippy bird. 
+ *  Small beaker, filled with distilled water. 
+ *  (Second dippy bird and lamp; see at the end of 'Explanation'.)   
+  
+## Safety   
+ 
+ *  Despite the drinking bird's appearance and classification as a toy, some safety considerations apply. The liquid inside the dippy bird is dichloromethane. Dichloromethane can irritate the skin on contact, and the lungs if inhaled; it is a mutagen and teratogen, and potentially a carcinogen. The intact toy is leakage proof and completely safe, but if broken hazardous dichloromethane is released. Dichloromethane evaporates quickly; good ventilation after a spill will dilute and disperse the vapour. 
+ *  Always keep a beaker in front of the bird. The beaker stops the forward movement of the bird. When there is no beaker to stop the forward movement of the bird, the glass bird will fall down and the glass breaks. 
+ *  (Early models of the dippy bird were often filled with highly flammable substances. The fluid in later versions is nonflammable.)
      
-<b> Presentation: </b>  
+  
+## Presentation   
  Set up the dippy bird and the beaker as shown in the Diagram. Fill the beaker with distilled water and dip the beak of the dippy bird in it. Then let the bird go. While the bird is swinging, the blue liquid rises from the belly through the central tube to the head. The bird topples, and dips its beak into the water again, the blue liquid runs down the straight tube and the bird rises again to its vertical, swinging position. This goes on and on, repeating its chain of events. To the teacher it is very instructive to have the students explain what is happening. So just put the bird in your lecture room and let the students break their brains.    
-<b> Explanation: </b>  
+  
+## Explanation   
  Figure 1 shows the system. The bird is filled with a liquid (dichloromethane) having low latent heat of evaporation. Only this liquid and its vapour are inside the bird.     
 ```{figure} figures/figure_1.png  
 ---  
@@ -39,7 +52,20 @@ name: figures/figure_2.png
 caption  
 ``` 
  Figure 2 shows the behaviour of the dippy bird as a heat-engine. Heat flows into the bird at the abdomen and is discarded at the head/beak-side.   A second bird! Considering the dippy bird as a heat-engine (see Figure 2) induces the idea that it will work as well when, instead of cooling the head, you heat up the abdomen. We tried this by shining light on the dippy's bottom and indeed, the bird dipped! Demonstrating also this version of the dippy bird will once more make clear that the factor that makes heat-engines work is the temperature gradient.   
-<b> Remarks: </b>  
-  We use distilled water instead of tap water, because in our city tap water is hard water and in due time the lime would thermally isolate the beak of the bird.  When the bird dips his beak into the water, sometimes it is stuck there due to surface tension. This can be prevented by changing the set up such that it dips its beak less deep into the water.  Take care not to make the head so wet that it drips down the tube: it will change the balance of the bird and it will also cool down the bottom too much. Both effects will stop the swinging of the dipping bird.  The pivot of the bird is bent, to unbalance the bird always into the forward direction.  As a heat engine the dippy bird can produce work, but this is very low, with a low efficiency (see Sources).   
-<b> Sources: </b>  
-  Mansfield, M and O'Sullivan, C., Understanding physics, pag. 276-277.  The Physics Teacher, R. Mentzer, pag. 126-127, Vol 31 (1993).  The American Journal of Physics, J. Guemez e.o., pag. 1257-1263, Vol 71 (2003).  The American Journal of Physics, R. Lorenz, pag. 677-682, Vol 74 (2006).  
+  
+## Remarks   
+ 
+ *  We use distilled water instead of tap water, because in our city tap water is hard water and in due time the lime would thermally isolate the beak of the bird. 
+ *  When the bird dips his beak into the water, sometimes it is stuck there due to surface tension. This can be prevented by changing the set up such that it dips its beak less deep into the water. 
+ *  Take care not to make the head so wet that it drips down the tube: it will change the balance of the bird and it will also cool down the bottom too much. Both effects will stop the swinging of the dipping bird. 
+ *  The pivot of the bird is bent, to unbalance the bird always into the forward direction. 
+ *  As a heat engine the dippy bird can produce work, but this is very low, with a low efficiency (see
+ Sources).   
+  
+## Sources   
+ 
+ *  Mansfield, M and O'Sullivan, C., Understanding physics, pag. 276-277. 
+ *  The Physics Teacher, R. Mentzer, pag. 126-127, Vol 31 (1993). 
+ *  The American Journal of Physics, J. Guemez e.o., pag. 1257-1263, Vol 71 (2003). 
+ *  The American Journal of Physics, R. Lorenz, pag. 677-682, Vol 74 (2006).
+  

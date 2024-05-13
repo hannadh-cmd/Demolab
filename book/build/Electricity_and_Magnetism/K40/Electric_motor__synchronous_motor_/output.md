@@ -1,10 +1,13 @@
-# Electric motor  synchronous motor  
+# K40 Electric motor  synchronous motor  
  Electric motor (synchronous motor) Title: Electric motor (synchronous motor)    
-<b> Aim: </b>  
+  
+## Aim   
  To show the basic principle of an electric motor    
-<b> Subjects: </b>  
+  
+## Subjects   
  5K40 (Motors and Generators)   
-<b> Diagram: </b>  
+  
+## Diagram   
    
 ```{figure} figures/figure_0.png  
 ---  
@@ -14,15 +17,18 @@ name: figures/figure_0.png
 caption  
 ``` 
       
-<b> Equipment: </b>  
+  
+## Equipment   
  
  *  Bicycle with 6V ac dynamo. 
  *  Transformer, 6V ac output. 
  *  Disassembled dynamo. Electric motor (synchronous motor)
     
-<b> Presentation: </b>  
+  
+## Presentation   
  The bicycle has his frontwheel lifted from the ground (see Diagram). The dynamo is pressed against the rim of the frontwheel-tire. The 6V ac output of the transformer is connected to the dynamo and switched on. Now the dynamo is shaking and makes a humming sound. When the frontwheel is given a turn by hand, the wheel will continue turning, driven by the dynamo. The dynamo is working as an electric motor now. When the wheel is loaded (braking it lightly by means of your hand on the tire) then the wheel stops abruptly and the dynamo shakes and hums again. When you give the wheel a push into the other direction the dynamo will also drive the wheel into that direction.    
-<b> Explanation: </b>  
+  
+## Explanation   
  Inside the dynamo we find a static coil and a rotating permanent ceramic magnet. The ceramic magnet has 8 poles and turns inside the coil (see Figure1 and a disassembled dynamo).      
 ```{figure} figures/figure_1.png  
 ---  
@@ -40,7 +46,8 @@ name: figures/figure_2.png
 caption  
 ``` 
  When the magnet is too slow just a little bit the driving impuls, FDt on the magnet becomes smaller and smaller, because Dt becomes smaller and smaller and the magnet will stop (see Figure2b). The magnet cannot start turning by itself because its rotational inertia is too high to pick up the right speed within 0,01sec. When standing still the magnet is repelled and then attracted and so on, so it will make a vibrating movement. The rotational speed of the magnet is directly related to the ac frequency of the power supply. (This is why this type of motor is called a synchronous motor.) We have f=50Hz, so every 0,01sec. the claws switch polarity. With 8 poles in the magnet, the magnet will make a full turn in 0,08sec. This is in 4 cycles of the ac-current. So the magnet will turn round with a frequency of 50/4=12,5Hz. The diameter of the dynamo's wheel will determine how fast the frontwheel of the bicycle will go round.    
-<b> Sources: </b>  
+  
+## Sources   
  
  *  Mansfield, M and O'Sullivan, C., Understanding physics, pag. 495-496 
  *  Sutton, Richard Manliffe, Demonstration experiments in Physics, pag. 348

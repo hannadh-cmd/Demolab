@@ -1,10 +1,13 @@
-# Chromatic aberration 
+# A60 Chromatic aberration 
     
-<b> Aim: </b>  
+  
+## Aim   
  To show that different "colored" rays traverse a lens along different paths.    
-<b> Subjects: </b>  
+  
+## Subjects   
  6A40 (Refractive Index) 6A60 (Thin Lens) 6F30 (Dispersion)   
-<b> Diagram: </b>  
+  
+## Diagram   
    
 ```{figure} figures/figure_0.png  
 ---  
@@ -14,7 +17,8 @@ name: figures/figure_0.png
 caption  
 ``` 
       
-<b> Equipment: </b>  
+  
+## Equipment   
  
  *  Optical rail, 1.5m. 
  *  Lamp 6V/5A, fitted with a condensorlens +50mm. 
@@ -29,9 +33,11 @@ caption
  *  Collimator (made of black paper, see Diagram). 
  *  Beamer, to project image of camera.
      
-<b> Presentation: </b>  
+  
+## Presentation   
  The lamp and camera are positioned each at the end of the rail. The camera has its lens removed; a .01 greyfilter is placed on it. The other components are placed and carefully aligned; see Diagram (use the white screen at the position of the camera). Using the red interferencefilter the .3mm-diafragm is pictured on the camera at the end of the optical rail. To get a sharp picture the diafragm is shifted. The beamer projects this image to the students. The red filter is turned away and the yellow filter is now in position. Clearly can be seen that this picture is not sharp. To get it sharp we need to shift the camera towards the lens. The same happens when next we apply the green - and then the blue filter. Going from red to blue we need to shift the camera about 20cm in total. This is clearly observable to the students. And the conclusion can be that the lens has a smaller focal distance for shorter wavelength. When the 150mm single lens is replaced by the doublet of 150mm, changing filters will result in sharp images all at the same position of the camera on the rail: no shifting is needed. There is no chromatic aberration.    
-<b> Explanation: </b>  
+  
+## Explanation   
  Since the thin-lens equation ()121111tnfRR=--is wavelength-dependent via nl(l) (dispersion), the focal length must also vary with l (Figure1 shows the graph of nl versus l of crown-glass.).   
 ```{figure} figures/figure_1.png  
 ---  
@@ -41,13 +47,15 @@ name: figures/figure_1.png
 caption  
 ``` 
  In general nl(l) decreases with wavelength over the visible region, and thus f(l) increases with l. And when f(l) increases with l, then also the image-distance increases with l (object-distance is constant). The demonstration shows this: the red image being sharp at a larger distance than the blue image. A negative lens would generate "negative" chromatic abberation. This suggests that a combination of a positive - and a negative lens could result in an overlapping of fred and fblue. This is the way an achromatic doublet functions.    
-<b> Remarks: </b>  
+  
+## Remarks   
  
  *  Careful alignment is essential to this demonstration: The optical axis needs to be in good parallelism with the optical rail, so that when shifting the camera the lightspot stays on the center of the screen. 
  *  The demonstration can also be done without using filters; Then the diafragm is imaged at the camera as good as possible. When now we shift the camera towards the single lens we will get a concentration of blue near the optical axis and red in a circle around it. Shifting the camera away from the lens the opposite happens: we see red near the optical axis and a blue circle around it.    Going from one position to the other also yellow and green near the axis can be observed. 
  *  The demonstration can also be done using a Hg-lamp in stead of an incandescent lamp. However, in that way the demonstration is more complicated due to the high differences between the intensities of the separate spectral lines: Every spectral line will need its own grey-filter in order not to saturate the light sensitive layer of the camera.
    
-<b> Sources: </b>  
+  
+## Sources   
  
  *  Hecht, Eugene, Optics, pag. 66-73, 157-159 and 271-277 
  *  Sutton, Richard Manliffe, Demonstration experiments in Physics, pag. 389-390 

@@ -1,10 +1,13 @@
-# Coriolis  2  
+# E20 Coriolis  2  
  Coriolis (2)   
-<b> Aim: </b>  
+  
+## Aim   
  To show a rather complicated rotation and how Coriolis force and centripetal (or centrifugal) forces can explain the situation.    
-<b> Subjects: </b>  
+  
+## Subjects   
  1E20 (Rotating Reference Frames) 1E30 (Coriolis Effect)   
-<b> Diagram: </b>  
+  
+## Diagram   
    
 ```{figure} figures/figure_0.png  
 ---  
@@ -14,7 +17,8 @@ name: figures/figure_0.png
 caption  
 ``` 
     
-<b> Equipment: </b>  
+  
+## Equipment   
  
  *  Hand drilling machine 
  *  Sheet of thick paper, cut circularly; diameter=50cm. 
@@ -22,9 +26,11 @@ caption
  *  Double sided adhesive tape. Safety 
  *  Sometimes in this demonstration we use a drilling machine connected to the 220V mains. When turning round as demonstrator, mind that you do not get entangled in the cord. Coriolis (2)
     
-<b> Presentation: </b>  
+  
+## Presentation   
  The sheet of paper is stuck to the round metal plate with pieces of double sided adhesive tape. Then this combination is fixed in the chuck of the hand drilling machine (see Diagram A). The demonstrator holds the drilling machine with its spindle horizontal and starts it. First, the demonstrator stands still and the circular sheet of paper turns in a plane. Then the demonstrator turns around his body-axis and clearly can be seen that the circular plane is distorted: the upper and lower part bend in opposite directions, one part towards the demonstrator, the other away from him (see Diagram B). When the demonstrator turns the other way round, the upper - and lower distortions also change direction. The same happens when he makes the drilling machine rotate into the other direction.  We use this demonstration to challenge the students to explain the observed deformation of the paper sheet.   
-<b> Explanation: </b>  
+  
+## Explanation   
  1. Explaining it from within the rotating frame of reference of the demonstrator: The demonstrator turns round, so he is in a rotating reference frame. In this rotating reference frame every part of the sheet of paper has a specific velocity (see the four 'v(cid:75)’s drawn in Figure 1). In a rotating reference frame every object moving with a certain velocity has to deal with Coriolis-force: ()2'corFmvω=−×(cid:75)(cid:75)(cid:75)and with centrifugal force: ()cfFmrωω=−××(cid:75)(cid:75)(cid:75),         (r  being the radius from the axis of the demonstrator to the piece of paper considered). We consider the four indicated parts of the rotating paper disk (see Figure1):   
 ```{figure} figures/figure_1.png  
 ---  
@@ -74,11 +80,13 @@ name: figures/figure_6.png
 caption  
 ``` 
  (In stead of using ω(cid:75)-vectors in this explanation you can also use L(cid:75)-vectors.)   
-<b> Remarks: </b>  
+  
+## Remarks   
  
  *  When preparing the demonstration, find the right speeds for the drilling machine and your own rotation to get the effect you want.
    
-<b> Sources: </b>  
+  
+## Sources   
  
  *  Magnus, K., Kreisel, pag. 239-240. 
  *  Mansfield, M and O'Sullivan, C., Understanding physics, pag. 182. 

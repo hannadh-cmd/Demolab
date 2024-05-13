@@ -1,10 +1,13 @@
-# Reflected sound pulses 
+# B20 Reflected sound pulses 
    Reflected sound pulses   
-<b> Aim: </b>  
+  
+## Aim   
  To show how a pulse in a column of air (in a long tube) reflects.    
-<b> Subjects: </b>  
+  
+## Subjects   
  3B20 (Longitudinal Pulses and Waves)   
-<b> Diagram: </b>  
+  
+## Diagram   
   speaker powersupply and switch cap microphone   
 ```{figure} figures/figure_0.png  
 ---  
@@ -14,7 +17,8 @@ name: figures/figure_0.png
 caption  
 ``` 
      
-<b> Equipment: </b>  
+  
+## Equipment   
  
  *  Pipe, pvc. L=4m; diam.=70mm; a small hole at 2m. 
  *  Miniature microphone, positioned in the small hole in the middle of the pipe. 
@@ -24,9 +28,11 @@ caption
  *  Storage oscilloscope. 
  *  Video-camera and beamer to project oscilloscope image.   Reflected sound pulses
     
-<b> Presentation: </b>  
+  
+## Presentation   
  Preparation: The equipment is set up as shown in Diagram. The power supply is set at around 1V dc and connected to the speaker by way of a switch. The oscilloscope is set at 2msec/DIV and prepared for storage mode, single sweep. Delay time is set such that a suitable display of pulses is obtained (see further on).   
-<b> Presentation: </b>  
+  
+## Presentation   
  Just to explain the operation of the set-up, the pipe is hit by hand and the oscilloscope displays the noise registered by the microphone and oscilloscope. Also the pulsing of the speaker is made audible to the students by switching the power supply to the speaker on and off a couple of times. Next, the speaker is placed in front of the pipe and the cap is placed on the end of the pipe. The switch to the speaker is operated and after the pulse, the oscilloscope shows what is happening (see Figure 1). ‘A’ occurs after the sound pulse has left the speaker and has travelled halfway down the pipe. The second pulse (B) is the microphone’s registration of the sound pulse after reflection at the end cap. This reflection mirrors the original pulse quite well. A                         B   
 ```{figure} figures/figure_1.png  
 ---  
@@ -47,7 +53,8 @@ caption
 ``` 
    Reflected sound pulses  Figure 2  Again the reflected pulse mirrors the first pulse, but, as can be seen, its phase is inverted now! A reference is made to the demonstrations "Reflections of transverse pulses (1) and -(2)" in this database (see
  Explanation).    
-<b> Explanation: </b>  
+  
+## Explanation   
  One way to explain the mechanism of reflection is by means of a very simplified 1D-billiardball model of the air column (see Figure 3A and 3B): Five balls in a row represent the air column in the pipe; the separation between the balls indicates the pressure (the microphone has an output proportional to pressure-increase/decrease).     
 ```{figure} figures/figure_3.png  
 ---  
@@ -65,11 +72,13 @@ name: figures/figure_4.png
 caption  
 ``` 
        
-<b> Remarks: </b>  
+  
+## Remarks   
         
  *  To compare longitudinal displacement of matter and longitudinal pressure differences see also the demonstration "Kundt's tube" in this dat
 abase.   
-<b> Sources: </b>  
+  
+## Sources   
  
  *  Jewett, J.W. and Serway, R.A., Physics for Scientists and Engineers with Modern Physics, seventh edition, pg 512. 
  *  Young, H.D. and Freeman, R.A., University Physics, pag. 631-632.

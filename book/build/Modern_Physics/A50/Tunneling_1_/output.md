@@ -1,10 +1,13 @@
-# Tunneling 1  
+# A50 Tunneling 1  
  Tunneling   
-<b> Aim: </b>  
+  
+## Aim   
  To show tunneling of a wave through a barrier.    
-<b> Subjects: </b>  
+  
+## Subjects   
  7A50 (Wave Mechanics)   
-<b> Diagram: </b>  
+  
+## Diagram   
     
 ```{figure} figures/figure_0.png  
 ---  
@@ -14,7 +17,8 @@ name: figures/figure_0.png
 caption  
 ``` 
      
-<b> Equipment: </b>  
+  
+## Equipment   
  
  *  Microwave transmitter (f=10 GHz; l=3cm) ( S in Diagram). 
  *  2 Microwave receivers ( R1 and R2 in Diagram). 
@@ -27,7 +31,8 @@ caption
  *  Large monitor 
  *  (Laser, two rectangualr prisms,a square block of glass and a beamsplitter). Tunneling
     
-<b> Presentation: </b>  
+  
+## Presentation   
  Preparation The demonstration is set up as shown in Diagram A and B. The camera and monitor are placed in order to make the gap between the paraffin wax blocks visible to the audience. The slideway is needed in order to shift one of the paraffin wax triangles along a straight line. When you prepare the demonstration, use the set ups as shown in Figure1B and -C: In Figure1B, the meter, indicating the signal received by R1, should be equal to the signal that will be received by R2 in the situation of Figure1C. To achieve this, careful positioning is needed for sender S, the paraffin wax blocks and both receivers.     
 ```{figure} figures/figure_1.png  
 ---  
@@ -45,13 +50,16 @@ name: figures/figure_2.png
 caption  
 ``` 
  Figure D-E The second triangular paraffin block is placed close to the reciever as Figure D shows. Then this block slides along the slideway slowly towards the other paraffin block. In the beginning nothing is different from the foregoing situation: R2 has still full deflection and R1 has no deflection. But when the blocks come within a distance smaller than the wavelength of the microwaves, R1 starts receiving signal and R2 receives less. Clearly there is barrier penetration! Making the separation still smaller this take-over continues until situation B is there again.  The weirdness of this phenomenon should be stressed, by mentioning that if in situation E part of the signal clearly passes the airgap, this means that also in situation C and D the signal from S also passes the wall between wax and air to a certain depth, but when the signal "feels" no wax at that depth it "chooses" deflection towards R2. Between D and E the "penetration depth" can be determined. (Optional: Show that laserlight that enters a beamsplitter is partially transmitted and partially deflected)    
-<b> Explanation: </b>  
+  
+## Explanation   
  Apparently, the transition from wax to air into the straight on direction towards R1, as in Figure1C, is a barrier to the microwaves, but not completely (as in Figure2D and -E). Tunneling   Solving the Schroedinger wave equation provides a satisfying solution, because this shows that within a barrier the solution to the wave equation is decaying exponential, dying away to zero, and so, if that barrier ends before this zero is reached, then there is again a sinusoidal wave function. (See the many textbooks on this subject.)    
-<b> Remarks: </b>  
+  
+## Remarks   
  
  *  While shifting it might seem to the audience that there are situations that the total deflection of R1 and R2 is every now and then more than the original value. For example, when we start without the block (situation A), the deflection of R1 is 10 units (fsd). While shifting (situation D) a possible situation is R1 = 8 units, and R2 = 6 units, adding to 14 in total! But we read voltage, so in order to compare intensities we need to square these readings, giving 82+62=100=102. So nothing strange is happening. Actually we show this specific 6-8-10 situation as an extra to the students to explain these peculiar meter readings.
    
-<b> Sources: </b>  
+  
+## Sources   
  
  *  Giancoli, D.G., Physics for scientists and engineers with modern physics, pag. 996-998
   

@@ -1,10 +1,13 @@
-# parallel wires 
+# H40 parallel wires 
  Parallel wires   
-<b> Aim: </b>  
+  
+## Aim   
  To show that parallel wires attract or repel depending on the current direction.    
-<b> Subjects: </b>  
+  
+## Subjects   
  5H40 (Force on Current Wires)   
-<b> Diagram: </b>  
+  
+## Diagram   
    
 ```{figure} figures/figure_0.png  
 ---  
@@ -14,14 +17,16 @@ name: figures/figure_0.png
 caption  
 ``` 
       
-<b> Equipment: </b>  
+  
+## Equipment   
  
  *  Two long wires, 1.5m each 
  *  Power supply (we use 20 Amp.) 
  *  Ammeter 
  *  White screen Parallel wires
     
-<b> Presentation: </b>  
+  
+## Presentation   
  The two long wires are suspended from one clamp, close to the rigid white screen. One of the wires is also clamped at the lower end of the white screen and stretched. The second wire is hanging freely in such a way that at the lower end it is about 2 cm seperated from the fixed wire (see Diagram and Figure1).      
 ```{figure} figures/figure_1.png  
 ---  
@@ -31,9 +36,11 @@ name: figures/figure_1.png
 caption  
 ``` 
  Parallel wires    
-<b> Presentation: </b>  
+  
+## Presentation   
  The two long wires are suspended from one clamp, close to the rigid white screen. One of the wires is also clamped at the lower end of the white screen and stretched. The second wire is hanging freely in such a way that at the lower end it is about 2 cm seperated from the fixed wire (see Diagram and Figure1).     Figure 1 Figure 2  The wiring is set up in such a way that both wires conduct the current in the same direction (Figure1). When switching on the current we see that the "loose" wire moves closer to the fixed wire. Then the wiring is changed so that the two wires conduct the current in opposite directions (Figure2). Switching on the current now shows that the "loose" wire is moving away from the fixed wire.    
-<b> Explanation: </b>  
+  
+## Explanation   
  The magnetic induction around a current-carrying wire equals:()012IBrrmp= and is directed circularly around that wire (corkscrew). The force on a current in a magnetic field equals ()2FIlBr=and is directed perpendicular to I2 and B. uo being 4p.10-7 Hm-1 leads to 7122.10IIlFr-=. Applying the rigth-hand rule shows the direction of this force between current I1 (B) and I2 (see Figure3).      
 ```{figure} figures/figure_2.png  
 ---  
@@ -47,13 +54,15 @@ caption
  *  at the bottom where the wires are separated about 2 cm: F=4.10-5 N/cm 
  *  and for the total length of wire: F=23mN. So, in this demonstration the force on the wires is very small.
     
-<b> Remarks: </b>  
+  
+## Remarks   
  
  *  When the effect in this demonstration is not visible enough, a video-camera with projection can be used. 
  *  A higher current is advisable for this demonstration; the current shows itself squared in F. 
  *  This demonstration can be used in combination with the current-balance demon
 stration.   
-<b> Sources: </b>  
+  
+## Sources   
  
  *  Biezeveld, H. and Mathot, L., Scoop, Natuurkunde voor de bovenbouw, part 4/5 vwo, pag. 223 
  *  Mansfield, M and O'Sullivan, C., Understanding physics, pag. 409-410 and 486-487

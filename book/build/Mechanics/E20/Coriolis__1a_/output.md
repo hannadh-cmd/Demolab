@@ -1,10 +1,13 @@
-# Coriolis  1a  
+# E20 Coriolis  1a  
  Coriolis (1a)   
-<b> Aim: </b>  
+  
+## Aim   
  To show the effect on an object moving with constant velocity in a rotating reference frame.    
-<b> Subjects: </b>  
+  
+## Subjects   
  1E20 (Rotating Reference Frames) 1E30 (Coriolis Effect)   
-<b> Diagram: </b>  
+  
+## Diagram   
    
 ```{figure} figures/figure_0.png  
 ---  
@@ -14,12 +17,23 @@ name: figures/figure_0.png
 caption  
 ``` 
      
-<b> Equipment: </b>  
-  Rotating platform.  Board, with square grid (21010cm).  Ramp (made of a curved curtain rail).  Steel ball, diam.=3cm.  Clamping material.  Two overhead sheets (see Figure 2A, 2B).  Graduated arc (360o).   
-<b> Safety: </b>  
-  No remarks. Coriolis (1a)
+  
+## Equipment   
+ 
+ *  Rotating platform. 
+ *  Board, with square grid (21010cm). 
+ *  Ramp (made of a curved curtain rail). 
+ *  Steel ball, diam.=3cm. 
+ *  Clamping material. 
+ *  Two overhead sheets (see Figure 2A, 2B). 
+ *  Graduated arc (360o).   
+  
+## Safety   
+ 
+ *  No remarks. Coriolis (1a)
     
-<b> Presentation: </b>  
+  
+## Presentation   
  The board with the square grid is carefully centred on the rotating platform. The ramp is standing on the ground. While the platform is standing still, the steel ball is launched by hand from the ramp. The ball will travel in a straight line across the board and after that on the ground of the lecture-hall (see Diagram A). By hand the board is given a slow clockwise rotation and again the ball is launched from the ramp. When the students fix their eyes on the board, they will see that the ball is following a different path now (see Diagram B): on the board the ball is constantly curving counter clockwise. But when the ball hits the ground and moves on it will be observed that in the lecture-hall's frame of reference the ball still moves in the same straight line as in the first demonstration. "Living" on the rotating platform the cause for the counter clockwise curvature of the ball is called "Coriolis force". (Probably you'll have to repeat this part of the demonstration to make your students clearly see it all.) When the board is rotating counter clockwise the curvature of the ball on the platform will be clockwise. Next the ramp is fixed to the rotating platform. Several directions of launching the steel ball can be shown then (see Figure 1).   
 ```{figure} figures/figure_1.png  
 ---  
@@ -29,7 +43,8 @@ name: figures/figure_1.png
 caption  
 ``` 
  But no matter what the direction of launching will be, the curvature on the clockwise rotating board is always counter clockwise. (It will take some practice to launch the ball by hand on the rotating ramp.) Trying several speeds and directions, it will not be difficult to have the ball make a complete loop on the rotating platform. The launching platform can also be placed on the rotating board to demonstrate a launch from its centre. Also then the same curvature occurs.  Coriolis (1a)   
-<b> Explanation: </b>  
+  
+## Explanation   
  1. Take a transparent sheet and place this on an overhead projector. One demonstrator draws a straight line on the sheet across the ohp, while the other demonstrator turns the sheet round in the clockwise direction. Clearly can be seen that on the sheet a counter clockwise curving path is drawn.    
 ```{figure} figures/figure_2.png  
 ---  
@@ -47,5 +62,10 @@ name: figures/figure_3.png
 caption  
 ``` 
  the direction of the resulting Fcor . So Fcor points as seen from continuously to the left, vgiving m a counter clockwise path.   
-<b> Sources: </b>  
-  Mansfield, M and O'Sullivan, C., Understanding physics, pag. 182  McComb,W.D., Dynamics and Relativity, pag. 137-145  Roest, R., Inleiding Mechanica, pag. 197-202, 205-210  
+  
+## Sources   
+ 
+ *  Mansfield, M and O'Sullivan, C., Understanding physics, pag. 182 
+ *  McComb,W.D., Dynamics and Relativity, pag. 137-145 
+ *  Roest, R., Inleiding Mechanica, pag. 197-202, 205-210
+  

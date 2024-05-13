@@ -1,10 +1,13 @@
-# Balmer series 
+# B10 Balmer series 
     
-<b> Aim: </b>  
+  
+## Aim   
  To show the visible hydrogen spectrum and its regularity.   
-<b> Subjects: </b>  
+  
+## Subjects   
  7B10 (Spectra)   
-<b> Diagram: </b>  
+  
+## Diagram   
   lamp                  f=+50     slit            f=+150             grating       camera   X H      +50mm                                  +150mm CCD screen A         B     C grating   
 ```{figure} figures/figure_0.png  
 ---  
@@ -14,12 +17,27 @@ name: figures/figure_0.png
 caption  
 ``` 
     
-<b> Equipment: </b>  
-  Gas discharge lamp, filled with water vapor (Leybold Didactic 45113).  High voltage power supply,3.5rmskV (Leybold didactic 45114). (see Safety)  Lens, f = +50 mm (used as condenser lens).  Lens, +150 mm (to focus the slit on the camera-screen).  Adjustable slit.  Grating 100 lines/mm (Leybold Didactic 47151).  Camera, lens removed.  Linear positioner.  Optical rail.  Beamer.  Large sheet of black paper, rolled as a tube (see Diagram B).   
-<b> Safety: </b>  
-  The high voltage power supply is operated from the AC mains outlet. Always disconnect the mains plug from the wall outlet before making any changes to the demonstration setup (e.g. changing the Balmer lamp or changing the fuse). See the Leybold Didactic instruction sheet.
+  
+## Equipment   
+ 
+ *  Gas discharge lamp, filled with water vapor (Leybold Didactic 45113). 
+ *  High voltage power supply,3.5rmskV (Leybold didactic 45114). (see Safety) 
+ *  Lens, f = +50 mm (used as condenser lens). 
+ *  Lens, +150 mm (to focus the slit on the camera-screen). 
+ *  Adjustable slit. 
+ *  Grating 100 lines/mm (Leybold Didactic 47151). 
+ *  Camera, lens removed. 
+ *  Linear positioner. 
+ *  Optical rail. 
+ *  Beamer. 
+ *  Large sheet of black paper, rolled as a tube (see Diagram B).   
+  
+## Safety   
+ 
+ *  The high voltage power supply is operated from the AC mains outlet. Always disconnect the mains plug from the wall outlet before making any changes to the demonstration setup (e.g. changing the Balmer lamp or changing the fuse). See the Leybold Didactic instruction sheet.
      
-<b> Presentation: </b>  
+  
+## Presentation   
  Preparation The gas discharge lamp and the two lenses are placed on the optical rail. The power supply of the lamp is switched on. Steady discharge is reached after approx. 15 minutes (see "notes on operation" of Leybold Didactic). The +50 mm lens is shifted close to the lamp to focus as much light as possible through the +150 mm lens. Both lenses are fixed. Then the variable slit and camera (mounted on the linear positioner and connected to the beamer; see Figure1) are positioned on the optical rail. The slit is shifted to image it sharply on the camera CCD-screen. The linear positioner is shifted also, until the slit can be seen on the middle of the projected image.  linear positioner grating   
 ```{figure} figures/figure_1.png  
 ---  
@@ -45,7 +63,8 @@ name: figures/figure_3.png
 caption  
 ``` 
    The image is partly projected on the blackboard and we indicate with chalk the horizontal positions of: Central maximum (Cm), violet(v) -, blue(b) - and red(r) line. With a measuring tape we found: Cm-v=170cm Cm-b=188cm Cm-r=256cm An explanation of what is observed now follows.       
-<b> Explanation: </b>  
+  
+## Explanation   
  Calibration is performed by using sind (first order maximum of a diffraction pattern created by a grating, dbeing the distance between the slits of the grating.), see Figure2.                    Figure 2   
 ```{figure} figures/figure_4.png  
 ---  
@@ -55,7 +74,12 @@ name: figures/figure_4.png
 caption  
 ``` 
  shows: 22sinxxs. Rewriting we get:22xsd. Whend thenx is directly proportional to. Since we do not know s exactly we cannot calibrate our spectroscope. But we can compare the different first order colors like Balmer did. Using our tape measurements we find: 2561,36188CmrCmb; 2561,51170CmrCmv; 1881,11170CmbCmv The empirical formula as stated in 1885 by Balmer (while studying the experimental results of Ångström) says:5, n = 3, 4,…  Using the right numbers forn gives us:  n=3:    22311152336RR  n=4:    22411132416RR  n=5:     2251112125100RR Now calculating: 431,35; 531,51;541,12. The conformity with the results obtained in our simple demonstration is striking, and   we identify3 as the red line, 4 as the blue line and 5 as the violet line. The measurements are easy; the excellence of Balmer is in the mathematical formulation. He really did a terrific job.   
-<b> Remarks: </b>  
+  
+## Remarks   
     
-<b> Sources: </b>  
-  Giancoli, D.G., Physics for scientists and engineers with modern physics, Third edition, pag. 900-901 and 963-965.  Wolfson, R., Essential University Physics, First edition, pag. 616.  
+  
+## Sources   
+ 
+ *  Giancoli, D.G., Physics for scientists and engineers with modern physics, Third edition, pag. 900-901 and 963-965. 
+ *  Wolfson, R., Essential University Physics, First edition, pag. 616.
+  

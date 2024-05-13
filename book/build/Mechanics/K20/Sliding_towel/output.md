@@ -1,10 +1,13 @@
-# Sliding towel 
+# K20 Sliding towel 
     
-<b> Aim: </b>  
+  
+## Aim   
  Showing the difference between static and dynamic coefficient of friction.    
-<b> Subjects: </b>  
+  
+## Subjects   
  1K20 (Friction)   
-<b> Diagram: </b>  
+  
+## Diagram   
    
 ```{figure} figures/figure_0.png  
 ---  
@@ -14,16 +17,20 @@ name: figures/figure_0.png
 caption  
 ``` 
       
-<b> Equipment: </b>  
+  
+## Equipment   
  
  *  Smooth round tube or stick.(We use a pvc-tube, ˘=32mm.) 
  *  Soft cloth or soft towel.
       
-<b> Presentation: </b>  
+  
+## Presentation   
  A towel hangs across the horizontal round stick. One end hangs lower than the other, such that the towel just does not slip away radially. Slowly tilt the stick. At a certain angle, the towel starts sliding along the stick and at the same time slips away radially. It is advisable to repeat the experiment and stress to the students that in this demonstration the radial movement of the towel is the important one to look at.    
-<b> Explanation: </b>  
+  
+## Explanation   
  When the towel is not moving, it does not slip away radially. Static friction holds it where it is. When it moves along the stick it also slips away radially, so now the friction force is not high enough to prevent radial movement. This means that the friction force in the second part of the demonstration (the kinetic situation) is lower than in the beginning of the demonstration (the static situation): mk < ms .    
-<b> Sources: </b>  
+  
+## Sources   
  
  *  Friedrich, Artur, Handbuch der experimentellen Schulphysik, part 2, Mechanik der festen Körper, pag. 136 
  *  Mansfield, M and O'Sullivan, C., Understanding physics, pag. 66-67

@@ -1,10 +1,13 @@
-# How an astronaut can turn around in free space 
+# Q40 How an astronaut can turn around in free space 
       
-<b> Aim: </b>  
+  
+## Aim   
  To explain a phenomenon using conservation of angular momentum.    
-<b> Subjects: </b>  
+  
+## Subjects   
  1Q40 (Conservation of Angular Momentum)   
-<b> Diagram: </b>  
+  
+## Diagram   
    
 ```{figure} figures/figure_0.png  
 ---  
@@ -14,22 +17,27 @@ name: figures/figure_0.png
 caption  
 ``` 
       
-<b> Equipment: </b>  
+  
+## Equipment   
  
  *  Swivel chair 
  *  (mass of 1- or 2kg)
         
-<b> Presentation: </b>  
+  
+## Presentation   
  The demonstrator, holding the heavy mass in his hand sits on the swivel chair and, while stretching his arm, moves the mass in a horizontal plane from right to left and vice versa. The swivel chair always displaces itself in the opposite direction. The demonstrator can also rotate the mass in a circle in the horizontal plane, continuously making complete turns. Then the swivel chair turns round continuously in the opposite sense    
-<b> Explanation: </b>  
+  
+## Explanation   
  During this demonstration no external forces are applied. In the beginning the total amount of angular momentum is zero and conservation of angular momentum tells us that this remains so. So as the mass is given angular momentum in one direction, something else must acquire equal angular momentum in the opposite direction: that is you and the swivel chair. This can be observed at any instant. Also the moment the demonstrator stops his arm movement, the movement of the swivel chair stops.    
-<b> Remarks: </b>  
+  
+## Remarks   
  
  *  The demonstration can also be performed without holding a mass (no astronaut will hold one), but then the bearing of the swivel chair needs to be of a high quality (very low friction; that is true for an astronaut) and you will need to make more turns by hand to make the swivel chair go round one time. 
  *  This demonstration also "explains" how a cat can turn around in midair and land on his paws. 
  *  Also Newton's third law can be observed in this demonstration.
    
-<b> Sources: </b>  
+  
+## Sources   
  
  *  Mansfield, M and O'Sullivan, C., Understanding physics, pag. 103-104 
  *  Leybold Didactic GmbH, Gerätekarte, pag. 33166/-69, 33166 

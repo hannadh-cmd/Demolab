@@ -1,10 +1,13 @@
-# Throwing eggs 
+# G10 Throwing eggs 
     
-<b> Aim: </b>  
+  
+## Aim   
  To show that the force on an object is low as long as the acceleration/deceleration is low.    
-<b> Subjects: </b>  
+  
+## Subjects   
  1G10 (Force, Mass, and Acceleration)   
-<b> Diagram: </b>  
+  
+## Diagram   
    
 ```{figure} figures/figure_0.png  
 ---  
@@ -14,22 +17,27 @@ name: figures/figure_0.png
 caption  
 ``` 
       
-<b> Equipment: </b>  
+  
+## Equipment   
  
  *  Raw eggs. 
  *  Blanket (see Diagram). 
  *  Clamping material.
      
-<b> Presentation: </b>  
+  
+## Presentation   
  Mount the blanket in such a way that the bottom part is folded upward. Throw the egg at full speed in the blanket. On touching, the egg will not break! Invite the students to discuss why it doesn't break. Then the explanation is given. Finally it is shown that when Dt is small, F will be high. This is done by throwing the same egg against the wall and the consequences of the resulting high force are clearly visible to all.    
-<b> Explanation: </b>  
+  
+## Explanation   
  According to Newton's second law the force on the egg is not too large as long as it is not brought to rest too abruptly (in FDt=mDv, Dt must be high). The blanket makes it slow down quietly.    
-<b> Remarks: </b>  
+  
+## Remarks   
  
  *  Don't hesitate to throw the eggs with a real high speed, because that is just the surprising part of this demonstration. 
  *  Be sure that the bottom side of the sheet is free from the table.
    
-<b> Sources: </b>  
+  
+## Sources   
  
  *  Ehrlich, Robert, Turning the World Inside Out and 174 Other Simple Physics Demonstrations, pag. 32-33 
  *  Mansfield, M and O'Sullivan, C., Understanding physics, pag. 42

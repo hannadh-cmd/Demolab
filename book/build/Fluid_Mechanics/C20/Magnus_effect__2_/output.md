@@ -1,10 +1,13 @@
-# Magnus effect  2  
+# C20 Magnus effect  2  
  Magnus effect (2)   
-<b> Aim: </b>  
+  
+## Aim   
  To show, qualitively, the liftforce on a translating and rotating cylinder.    
-<b> Subjects: </b>  
+  
+## Subjects   
  2C20 (Bernoulli Force)   
-<b> Diagram: </b>  
+  
+## Diagram   
    
 ```{figure} figures/figure_0.png  
 ---  
@@ -14,12 +17,14 @@ name: figures/figure_0.png
 caption  
 ``` 
       
-<b> Equipment: </b>  
+  
+## Equipment   
  
  *  light cylinder, constructed of paper (see diagram) 
  *  1 meter of wide cloth tape, fixed to a stick Magnus effect (2)
     
-<b> Presentation: </b>  
+  
+## Presentation   
  The cloth tape is wrapped around the middle of the cylinder. The cylinder is laid on a table or on the ground, so that the tape will unwind from the bottom. The stick is pulled giving the cylinder linear and spin velocity. The cylinder lifts itself and describes a loop (see Figure 1).     
 ```{figure} figures/figure_1.png  
 ---  
@@ -29,11 +34,14 @@ name: figures/figure_1.png
 caption  
 ``` 
  Magnus effect (2)    
-<b> Presentation: </b>  
+  
+## Presentation   
  The cloth tape is wrapped around the middle of the cylinder. The cylinder is laid on a table or on the ground, so that the tape will unwind from the bottom. The stick is pulled giving the cylinder linear and spin velocity. The cylinder lifts itself and describes a loop (see Figure 1).   Figure 1    
-<b> Explanation: </b>  
+  
+## Explanation   
  The rotating cylinder drags the air round with it. The air flows in the opposite direction of translation of the cylinder. On the topside of the cylinder, the rotation causes the air to flow faster, while on the bottomside the air flows slower. This difference in speed causes a pressuredifference; according to Bernoulli's equation: Dp=1/2r(v2top-v2bottom). Since vtop>vbottom, the net liftforce is pointing upward and proportional to 2rwrvtr (see 'Magnus effect (1)). Since vtr slows down in the beginning of the movement, the cylinder climbs more and more in a vertical trajectory; then it falls down and thus speeding up it moves more and more horizontal: a looplike trajectory is made by the moving cylinder.    
-<b> Remarks: </b>  
+  
+## Remarks   
  
  *  In the middle of the cylinder a light piece of wood is stuck to it. Under this piece of wood the cloth tape can be fixed when wrapping it around the cylinder (see Figure 2). When the tape is pulled, the end loosens itself easily from the cylinder.     
 ```{figure} figures/figure_2.png  
@@ -45,7 +53,8 @@ caption
 ```
  
    
-<b> Sources: </b>  
+  
+## Sources   
  
  *  Edge, String & sticky tape experiments, pag. 3.12 
  *  Freier, George D. and Anderson, Frances J., A demonstration handbook for physics, pag. F15; F17 

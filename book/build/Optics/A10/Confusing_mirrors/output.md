@@ -1,10 +1,13 @@
-# Confusing mirrors 
+# A10 Confusing mirrors 
  .   
-<b> Aim: </b>  
+  
+## Aim   
  To show just plane mirrors in which the images are rather complicated.    
-<b> Subjects: </b>  
+  
+## Subjects   
  6A10 (Reflection From Flat Surfaces)   
-<b> Diagram: </b>  
+  
+## Diagram   
    
 ```{figure} figures/figure_0.png  
 ---  
@@ -14,14 +17,16 @@ name: figures/figure_0.png
 caption  
 ``` 
       
-<b> Equipment: </b>  
+  
+## Equipment   
  
  *  Planar mirror. 
  *  Two hinged planar mirrors. 
  *  Revolving double mirror; the mirrors stand perpemdicular to each other. 
  *  Three planar mirrors arranged as a corner cube. .
     
-<b> Presentation: </b>  
+  
+## Presentation   
  1. Look into the planar mirror. As is known very well,the image of the left hand is a right hand. But why are top and down not interchanged?. 2. Look into the hinged double mirror (see Figure1), the angle between the two mirrors (a is larger than 90o. Moving your eyes you see left and right an image of your head (Figure 1A). Left/right is interchanged in the images.    
 ```{figure} figures/figure_1.png  
 ---  
@@ -47,9 +52,11 @@ name: figures/figure_3.png
 caption  
 ``` 
  Observe: -left remains left and up becomes down; -your eye remains caught in the middle of the arrangement; it won't help moving your head up-down/right-left.    
-<b> Explanation: </b>  
+  
+## Explanation   
  For explanation see the demonstration "Corner cube" in this database.    
-<b> Sources: </b>  
+  
+## Sources   
  
  *  Hecht, Eugene, Optics, pag. 178-180 and 195 
  *  Stewart, J, Calculus, pag. 791 and 796

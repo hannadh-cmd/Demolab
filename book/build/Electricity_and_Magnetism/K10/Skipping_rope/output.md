@@ -1,10 +1,13 @@
-# Skipping rope 
+# K10 Skipping rope 
     
-<b> Aim: </b>  
+  
+## Aim   
  To show that in a skipping rope an electric voltage is induced. (The strength of the Earth's magnetic field can be determined.)    
-<b> Subjects: </b>  
+  
+## Subjects   
  5K10 (Induced Currents and Forces)   
-<b> Diagram: </b>  
+  
+## Diagram   
    
 ```{figure} figures/figure_0.png  
 ---  
@@ -14,7 +17,8 @@ name: figures/figure_0.png
 caption  
 ``` 
       
-<b> Equipment: </b>  
+  
+## Equipment   
  
  *  Compass needle. 
  *  Skipping rope; 10m of a heavy flexible insulated copper wire. 
@@ -24,7 +28,8 @@ caption
  *  Data-acquisition system (we use PASCO "ScienceWorkshop"). 
  *  Beamer to project monitor image.
      
-<b> Presentation: </b>  
+  
+## Presentation   
  The compass needle is placed on the overheadprojector to indicate the North-South direction in the lecturehall.   
 ```{figure} figures/figure_1.png  
 ---  
@@ -42,9 +47,20 @@ name: figures/figure_2.png
 caption  
 ``` 
  Finally, a part of the graph with a full cycle is selected and by means of the graph features in the statistics software the integration of a selected one half of a sine is determined (see Figure 2B). We read 0.155Vs. Applying Faraday's induction law and estimating the area of the skipping rope (use the overheadsheet), we find for the Earth's magnetic field Bo=28uT (see Explanation). This is good enough (good enough for a demonstration) when compared with values given in literature.   
-<b> Explanation: </b>  
+  
+## Explanation   
  The induced voltage (E) is given by Faraday's induction law as 0()dAEtBdt=-. Bo is the magnetic flux density; A is the area spanned by the skipping rope and its rotational axis. The plane of the skipping rope changes as0cosAAtw= (see Figure1C), so 0sindAAtdtw=-, and 00()sinEtBAtww=: the induced voltage (E) changes sinusoidally as the registered graph shows convincingly. An interesting quantity is()Etdt∫ (voltage surge, or voltage impulse, in units [Vs]). We will use this quantity to determine the Earth's magnetic field. From Faraday's induction law: 0()EtdtBdA=- and 0sindAAtdtww=-, we get: 00()sinEtdtBAtdtww=-∫∫. When we look at one half of a full cycle, we have: ()00000()cos2EtdtBAtBApw=-=∫. From Figure2B we read ()Etdt∫ equals 0,155Vs. Figure 1B is used to estimate the area Ao of the catenary of the suspended    skipping rope. With the dimensions given, we estimate a little less than 3m2, so let us say 2.8m2. With these numbers we find for the Earth's magnetic field: Bo=28uT.    
-<b> Remarks: </b>  
- • In the operational amplifier circuit the 100nF capacitor is needed to reduce the noise of the mains. The 2,2uF capacitor is applied to block the dc-offset that is usually present at the output of such amplifiers. • The table with amplifier and oscilloscope has to stand firmly on the ground (see DiagramB), because rotating the rope gives forcefull jerks to that table. • The registered induced voltage is not really symmetrical (see figure2) this is due to the way of turning such a skipping rope: at each cycle you give a kind of jerk when swinging the rope upwards, so in its cycle the angular speed is not really constant. • During the first run, when registering the voltage-time graph, we make the statistics software indicate the mean y-value (voltage). In that way it is seen that the first and last not so beautiful movement of the skipping rope has not really a significant influence on our further measurements.   
-<b> Sources: </b>  
- • Mansfield, M and O'Sullivan, C., Understanding physics, pag. 514-515 and 524-525 • The Physics Teacher, pag. Vol.41, nr.5, pp295-297  
+  
+## Remarks   
+ 
+ *  In the operational amplifier circuit the 100nF capacitor is needed to reduce the noise of the mains. The 2,2uF capacitor is applied to block the dc-offset that is usually present at the output of such amplifiers. 
+ *  The table with amplifier and oscilloscope has to stand firmly on the ground (see DiagramB), because rotating the rope gives forcefull jerks to that table. 
+ *  The registered induced voltage is not really symmetrical (see figure2) this is due to the way of turning such a skipping rope: at each cycle you give a kind of jerk when swinging the rope upwards, so in its cycle the angular speed is not really constant. 
+ *  During the first run, when registering the voltage-time graph, we make the statistics software indicate the mean y-value (voltage). In that way it is seen that the first and last not so beautiful movement of the skipping rope has not really a significant influence on our further measurements.
+   
+  
+## Sources   
+ 
+ *  Mansfield, M and O'Sullivan, C., Understanding physics, pag. 514-515 and 524-525 
+ *  The Physics Teacher, pag. Vol.41, nr.5, pp295-297
+  

@@ -1,10 +1,13 @@
-# Resolution 
+# C10 Resolution 
     
-<b> Aim: </b>  
+  
+## Aim   
  To show how diffraction limits the resolution of an optical system.    
-<b> Subjects: </b>  
+  
+## Subjects   
  6C10 (Diffraction From Two Sources)   
-<b> Diagram: </b>  
+  
+## Diagram   
  Diaphragm Aluminum foil Lamp   
 ```{figure} figures/figure_0.png  
 ---  
@@ -14,14 +17,24 @@ name: figures/figure_0.png
 caption  
 ``` 
     
-<b> Equipment: </b>  
-  Rotatable disc with 8 holes: 3.0, 2.5, 2.0, 1.5, 1.0, 0.5, 0.4 and 0.3 mm (see Figure1).  Aluminium foil with 2 pair of holes fitted on a stand (see Diagram and Figure2).  Lamp, 220V/200W.  Variable transformer on the 220V line voltage.  Camera with zoom lens.   
-<b> Safety: </b>  
-  No remarks.
+  
+## Equipment   
+ 
+ *  Rotatable disc with 8 holes: 3.0, 2.5, 2.0, 1.5, 1.0, 0.5, 0.4 and 0.3 mm (see Figure1). 
+ *  Aluminium foil with 2 pair of holes fitted on a stand (see Diagram and Figure2). 
+ *  Lamp, 220V/200W. 
+ *  Variable transformer on the 220V line voltage. 
+ *  Camera with zoom lens.   
+  
+## Safety   
+ 
+ *  No remarks.
      
-<b> Presentation: </b>  
+  
+## Presentation   
  Preparation Built the demonstration as shown in the   
-<b> Diagram: </b>  
+  
+## Diagram   
  -Focus the camera on the Aluminium foil. -The rotatable disc is placed as close as possible to the camera. -The lamp should not be too close to the Aluminum foil, because we need parallel light beams     from the holes in the Aluminium foil. To avoid scattered light a cardboard tube is placed    between lamp and the Aluminium foil. -Adjust the vertical and horizontal position of the lamp and also its intensity to get a satisfying     illumination of the small holes in the foil.   
 ```{figure} figures/figure_1.png  
 ---  
@@ -31,9 +44,11 @@ name: figures/figure_1.png
 caption  
 ``` 
      
-<b> Presentation: </b>  
+  
+## Presentation   
  Preparation Built the demonstration as shown in the   
-<b> Diagram: </b>  
+  
+## Diagram   
  -Focus the camera on the Aluminium foil. -The rotatable disc is placed as close as possible to the camera. -The lamp should not be too close to the Aluminum foil, because we need parallel light beams     from the holes in the Aluminium foil. To avoid scattered light a cardboard tube is placed    between lamp and the Aluminium foil. -Adjust the vertical and horizontal position of the lamp and also its intensity to get a satisfying     illumination of the small holes in the foil.  Figure 1  The lamp is switched on. The rotatable disc has its largest hole in position. The camera is focussed at the pairs of holes in the aluminium foil. The holes of both pairs in the aluminium foil are observed as separate images.   
 ```{figure} figures/figure_2.png  
 ---  
@@ -51,7 +66,8 @@ name: figures/figure_3.png
 caption  
 ``` 
    Figure 3  (In demonstrating we also go again backwards to smaller holes in the diaphragm.)     
-<b> Explanation: </b>  
+  
+## Explanation   
  If two point objects are very close, the diffraction patterns of their images will overlap. As the objects are moved closer, a separation is reached where you can't tell if there are two overlapping images or a single image. The separation at which this happens is stated by Lord Rayleigh: two images are just resolvable when the centre of the diffraction disk of one image is directly over the first minimum in the diffraction disc of the other. A circular hole shows a diffraction pattern with a central maximum of half width: 1.22D, where D is the diameter of the circular opening. Calculating with  = 500nm we get for the smallest hole on the rotatable disc D = .3mm,  = 2x10-3.  Two faint spots Diaphragm (mm)           .3                   .4                   .5                   1.0                 1.5    1.22D                 .002               .0015             .0012            .00061           .00041   
 ```{figure} figures/figure_4.png  
 ---  
@@ -61,7 +77,13 @@ name: figures/figure_4.png
 caption  
 ``` 
    In our demonstration: lf (see Figure 4). The distance f =2meter, and calculating   for both pair of holes, we get  = .75x10-3 for the pair of holes with a separation of 1.5mm and  = 2x10-3 for the pair of holes with a separation of 4 mm.  These calculations compared with the Rayleigh criterion (that is expressed as 1.22D and is calculated and listed in the bottom row of Figure 3), shows that the two holes with a separation of 4mm will be resolved when the diaphragm is larger than .3 mm and that the holes with a separation of 1.5 mm will be resolved when the diaphragm is larger than .5 mm. The observed light spots in Figure 3 show that this is more or less right!    
-<b> Remarks: </b>  
+  
+## Remarks   
  Since 1.22D , it is useful to do this demonstration in different colours. (We didn’t try this yet.)   
-<b> Sources: </b>  
-  Giancoli, D.G., Physics for scientists and engineers with modern physics, pag. 896-899  Hecht, Eugene, Optics, pag. 416 and 461-465  PSSC, College Physics, pag. Laboratory Guide, Experiment 22  
+  
+## Sources   
+ 
+ *  Giancoli, D.G., Physics for scientists and engineers with modern physics, pag. 896-899 
+ *  Hecht, Eugene, Optics, pag. 416 and 461-465 
+ *  PSSC, College Physics, pag. Laboratory Guide, Experiment 22
+  

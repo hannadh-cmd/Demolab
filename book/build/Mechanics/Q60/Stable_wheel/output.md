@@ -1,10 +1,13 @@
-# Stable wheel 
+# Q60 Stable wheel 
     
-<b> Aim: </b>  
+  
+## Aim   
  To show how a rolling bicycle wheel "organizes" its stability.    
-<b> Subjects: </b>  
+  
+## Subjects   
  1Q60 (Rotational Stability)   
-<b> Diagram: </b>  
+  
+## Diagram   
    
 ```{figure} figures/figure_0.png  
 ---  
@@ -14,11 +17,13 @@ name: figures/figure_0.png
 caption  
 ``` 
       
-<b> Equipment: </b>  
+  
+## Equipment   
  
  *  Small bicycle wheel; diam. = 40cm (or any other wheel or disc).
      
-<b> Presentation: </b>  
+  
+## Presentation   
  • Place the wheel upright on the floor. On release it falls down immediately. • Then the wheel is released while turning. It rolls over the floor and remains upright for a much longer time. The second observation made is that it will follow a curve when it starts falling down. Also notice that the curve it makes, is into the direction of the "falling-down" (see Figure1).   
 ```{figure} figures/figure_1.png  
 ---  
@@ -28,9 +33,11 @@ name: figures/figure_1.png
 caption  
 ``` 
      
-<b> Presentation: </b>  
+  
+## Presentation   
  • Place the wheel upright on the floor. On release it falls down immediately. • Then the wheel is released while turning. It rolls over the floor and remains upright for a much longer time. The second observation made is that it will follow a curve when it starts falling down. Also notice that the curve it makes, is into the direction of the "falling-down" (see Figure1).  Figure 1   
-<b> Explanation: </b>  
+  
+## Explanation   
  Figure2A shows the wheel turning. The rotation is indicated by means of the vector w. Due to some disturbance, the wheel inclines due to gravity: a torque (t) is acting on the wheel (see Figure2B).    
 ```{figure} figures/figure_2.png  
 ---  
