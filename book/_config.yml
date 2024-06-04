@@ -129,7 +129,6 @@ sphinx:
 #  preprocessors:  # rph 18Jan2024 stats histogram page
 #    - _preprocess.anchor_base_url_preprocessor # rph 18Jan2024 stats histogram page
   extra_extensions          :   # A list of extra extensions to load by Sphinx (added to those already used by JB).
-    - sphinx_proof
     - sphinxcontrib.bibtex
 #    - sphinx_exercise
     - sphinx_togglebutton
