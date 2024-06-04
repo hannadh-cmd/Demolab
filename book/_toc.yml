@@ -1,326 +1,444 @@
 format: jb-book
-root: template_files/index # this is the landing page i.e. index.md
+root: book/index
+
 parts:
   - caption: TU Delft DemoLab
     chapters:
-      - file: template_files/introduction
-
-  - caption: 1 Mechanics
+    - file: book/introduction/introduction.md
+  - caption:
+    maxdepth: 2
     chapters:
-      - file: build/Mechanics/A20/Hooke's_law/output
-      - file: build/Mechanics/A40/Cross_product/output
-      - file: build/Mechanics/D40/Bungee_jumper/output
-      - file: build/Mechanics/D40/Centre_of_mass/output
-      - file: build/Mechanics/D40/Centre_of_rotation/output
-      - file: build/Mechanics/D40/Explosion/output
-      - file: build/Mechanics/D40/Students'_centre_of_mass/output
-      - file: build/Mechanics/D50/Centripetal_force/output
-      - file: build/Mechanics/D50/Conical_pendulum/output
-      - file: build/Mechanics/D50/Force_field/output
-      - file: build/Mechanics/D50/Going_round_in_circles/output
-      - file: build/Mechanics/D50/xxxxxxxxxxx_Going_round_in_circles/output
-      - file: build/Mechanics/E10/Galilean_cart/output
-      - file: build/Mechanics/E10/Shoot_and_catch/output
-      - file: build/Mechanics/E10/Superballs/output
-      - file: build/Mechanics/E20/Coriolis_merry-go-round/output
-      - file: build/Mechanics/E20/Coriolis__1a_/output
-      - file: build/Mechanics/E20/Coriolis__1b_/output
-      - file: build/Mechanics/E20/Coriolis__1_/output
-      - file: build/Mechanics/E20/Coriolis__2_/output
-      - file: build/Mechanics/E20/Coriolis__3_/output
-      - file: build/Mechanics/E20/Rotating_liquid/output
-      - file: build/Mechanics/E30/Coriolis_merry-go-round/output
-      - file: build/Mechanics/E30/Coriolis__1a_/output
-      - file: build/Mechanics/E30/Coriolis__1b_/output
-      - file: build/Mechanics/E30/Coriolis__1_/output
-      - file: build/Mechanics/E30/Coriolis__2_/output
-      - file: build/Mechanics/E30/Coriolis__3_/output
-      - file: build/Mechanics/E30/Cross_product/output
-      - file: build/Mechanics/F20/Newton's_hammer/output
-      - file: build/Mechanics/F20/Not_breaking_a_wine_glass/output
-      - file: build/Mechanics/F20/Tablecloth_pull/output
-      - file: build/Mechanics/F30/Galileo's_thoughts/output
-      - file: build/Mechanics/F30/Walk_and_ball/output
-      - file: build/Mechanics/G10/Bungee_jumper/output
-      - file: build/Mechanics/G10/Pulling_a_thread/output
-      - file: build/Mechanics/G10/Throwing_eggs/output
-      - file: build/Mechanics/H10/Bottle_rocket/output
-      - file: build/Mechanics/H10/Magnet_symmetry/output
-      - file: build/Mechanics/H10/Recoil_of_a_water-jet/output
-      - file: build/Mechanics/H10/Strong_magnet,_weak_paperclip/output
-      - file: build/Mechanics/H10/Train_and_track/output
-      - file: build/Mechanics/H10/trying_hard_to_pull_differntly/output
-      - file: build/Mechanics/H10/Who_is_pulling/output
-      - file: build/Mechanics/H10/Who_is_the_strongest_in_a_collision/output
-      - file: build/Mechanics/J20/Equilibrium_and_potential_energy/output
-      - file: build/Mechanics/J20/Train_and_track/output
-      - file: build/Mechanics/J30/Strong_professor__weak_students_/output
-      - file: build/Mechanics/K10/Boomerang_ball__1_/output
-      - file: build/Mechanics/K10/Boomerang_ball__2_/output
-      - file: build/Mechanics/K10/Falling_stick/output
-      - file: build/Mechanics/K10/Pulling_a_spool/output
-      - file: build/Mechanics/K10/Throwing_a_basketball/output
-      - file: build/Mechanics/K20/Braking/output
-      - file: build/Mechanics/K20/Chain_friction/output
-      - file: build/Mechanics/K20/Falling_stick/output
-      - file: build/Mechanics/K20/Moving_two_fingers_under_a_meterstick/output
-      - file: build/Mechanics/K20/No_tipping_allowed/output
-      - file: build/Mechanics/K20/Phonebook_friction/output
-      - file: build/Mechanics/K20/Pulling_a_sliding_block/output
-      - file: build/Mechanics/K20/Rolling_up-and-down,_again_and_again/output
-      - file: build/Mechanics/K20/Rope_on_a_table/output
-      - file: build/Mechanics/K20/Sliding_towel/output
-      - file: build/Mechanics/K20/Throwing_a_basketball/output
-      - file: build/Mechanics/L10/Weighing_the_earth/output
-      - file: build/Mechanics/L20/Kepler's_second_law/output
-      - file: build/Mechanics/L20/Kepler's_third_law/output
-      - file: build/Mechanics/L20/Precessing_orbit__1_/output
-      - file: build/Mechanics/M10/How_much_work_to_break_a_soup-tureen/output
-      - file: build/Mechanics/M40/Dropping_rolls_of_toilet_paper/output
-      - file: build/Mechanics/M40/Galileo's_pendulum/output
-      - file: build/Mechanics/M40/Gauss's_rifle/output
-      - file: build/Mechanics/M40/Kinetic_energy_in_an_elastic_collision/output
-      - file: build/Mechanics/M40/Mortar/output
-      - file: build/Mechanics/M40/Pendulum_of_death/output
-      - file: build/Mechanics/M40/Sweet_spot/output
-      - file: build/Mechanics/N10/Boomerang_ball__1_/output
-      - file: build/Mechanics/N10/Boomerang_ball__2_/output
-      - file: build/Mechanics/N10/Bottle_rocket/output
-      - file: build/Mechanics/N10/Sliding_ladder/output
-      - file: build/Mechanics/N20/Colliding_balls__1_/output
-      - file: build/Mechanics/N20/Demonstrator_and_cart/output
-      - file: build/Mechanics/N20/Elastic_collisions/output
-      - file: build/Mechanics/N20/Explosion/output
-      - file: build/Mechanics/N20/Inelastic_collisions/output
-      - file: build/Mechanics/N20/Knock-out/output
-      - file: build/Mechanics/N20/Magnet_symmetry/output
-      - file: build/Mechanics/N20/Pulling_a_slackened_rope/output
-      - file: build/Mechanics/N20/Spinning_bouncing_ball/output
-      - file: build/Mechanics/N20/Superballs/output
-      - file: build/Mechanics/N22/Recoil_of_a_water-jet/output
-      - file: build/Mechanics/N30/Knock-out/output
-      - file: build/Mechanics/Q10/Bicycle-wheel_pendulum/output
-      - file: build/Mechanics/Q10/Matchbox_and_wineglass/output
-      - file: build/Mechanics/Q10/Maximum_rotational_inertia/output
-      - file: build/Mechanics/Q10/Physical_pendulum__2_/output
-      - file: build/Mechanics/Q10/Pirouette/output
-      - file: build/Mechanics/Q10/Rolling_downhill/output
-      - file: build/Mechanics/Q10/Rolling_down_a_wide_gutter/output
-      - file: build/Mechanics/Q20/Dropping_rolls_of_toilet_paper/output
-      - file: build/Mechanics/Q20/Maxwheel/output
-      - file: build/Mechanics/Q20/Rolling_downhill/output
-      - file: build/Mechanics/Q20/Rolling_down_a_wide_gutter/output
-      - file: build/Mechanics/Q20/Yo-yo/output
-      - file: build/Mechanics/Q40/Balls_on_a_rotating_ramp/output
-      - file: build/Mechanics/Q40/Bicycle_wheel_and_swivel_chair/output
-      - file: build/Mechanics/Q40/Colliding_magnets/output
-      - file: build/Mechanics/Q40/Counter-rotating_disks/output
-      - file: build/Mechanics/Q40/Dumb-bell/output
-      - file: build/Mechanics/Q40/How_an_astronaut_can_turn_around_in_free_space/output
-      - file: build/Mechanics/Q40/Matchbox_and_wineglass/output
-      - file: build/Mechanics/Q40/Pirouette/output
-      - file: build/Mechanics/Q40/Playing_tennis/output
-      - file: build/Mechanics/Q40/Pulling_the_rug/output
-      - file: build/Mechanics/Q40/Spinning_bouncing_ball/output
-      - file: build/Mechanics/Q40/Sweet_spot/output
-      - file: build/Mechanics/Q40/Tippe_top/output
-      - file: build/Mechanics/Q40/Vibrating_stopwatch/output
-      - file: build/Mechanics/Q50/Nutation__1_/output
-      - file: build/Mechanics/Q50/Nutation__2_/output
-      - file: build/Mechanics/Q50/Precession__1_/output
-      - file: build/Mechanics/Q50/Precession__2_/output
-      - file: build/Mechanics/Q50/Precession__3a_/output
-      - file: build/Mechanics/Q50/Precession__3b_/output
-      - file: build/Mechanics/Q50/Precession__4__AND_Nutation__3_/output
-      - file: build/Mechanics/Q60/Centre_of_ratation/output
-      - file: build/Mechanics/Q60/Centre_of_rotation/output
-      - file: build/Mechanics/Q60/Dumb-bell/output
-      - file: build/Mechanics/Q60/Maximum_rotational_inertia/output
-      - file: build/Mechanics/Q60/Percussionpoint__1_/output
-      - file: build/Mechanics/Q60/Percussionpoint__2_/output
-      - file: build/Mechanics/Q60/rugbyball/output
-      - file: build/Mechanics/Q60/Sleeper/output
-      - file: build/Mechanics/Q60/Stable_wheel/output
-      - file: build/Mechanics/Q60/Tippe_top/output
-      - file: build/Mechanics/R10/Hooke's_law/output
-  
-  - caption: 2 Fluid Mechanics
-     
+    # - file: book/1 mechanics/1 mechanics.md
+    #   sections: 
+    #   - file: book/1 mechanics/1A measurement/1A measurement.md
+    #     sections: 
+    #     - file: book/1 mechanics/1A measurement/1A20.01 Hooke's Law/1A20.01 Hooke's Law.md
+    #     - file: book/1 mechanics/1A measurement/1A40.01 Cross Product/1A40.01 Cross Product.md
+    # - file: book/1 mechanics/1 mechanics.md
+    #   sections: 
+    #   - file: book/1 mechanics/1A measurement/1A measurement.md
+    #     sections: 
+    #     - file: book/1 mechanics/1A measurement/1A20.01 Hooke's Law/1A20.01 Hooke's Law.md
+    #     - file: book/1 mechanics/1A measurement/1A40.01 Cross Product/1A40.01 Cross Product.md
+      
+    - file: book/1 mechanics/1 mechanics.md
+      sections: 
+      - file: book/1 mechanics/1A measurement/1A measurement.md
+        sections: 
+        - file: book/1 mechanics/1A measurement/1A20.01 Hooke's Law/1A20.01 Hooke's Law.md
+        - file: book/1 mechanics/1A measurement/1A40.01 Cross Product/1A40.01 Cross Product.md
+      - file: book/1 mechanics/1C motion in one dimension/1C motion in one dimension.md
+      - file: book/1 mechanics/1D motion in two dimensions/1D motion in two dimensions.md
+        sections: 
+        - file: book/1 mechanics/1D motion in two dimensions/1D40.01 Centre of Mass/1D40.01 Centre of Mass.md
+        - file: book/1 mechanics/1D motion in two dimensions/1D40.02 Centre of Rotation/1D40.02 Centre of Rotation.md
+        - file: book/1 mechanics/1D motion in two dimensions/1D40.03 Student's Centre of Mass/1D40.03 Student's Centre of Mass.md
+        - file: book/1 mechanics/1D motion in two dimensions/1D50.01 Going Round in Circles/1D50.01 Going Round in Circles.md
+        - file: book/1 mechanics/1D motion in two dimensions/1D50.02 Conical Pendulum/1D50.02 Conical Pendulum.md
+        - file: book/1 mechanics/1D motion in two dimensions/1D50.03 Centripetal Force/1D50.03 Centripetal Force.md
+        - file: book/1 mechanics/1D motion in two dimensions/1D50.04 Force Field/1D50.04 Force Field.md
+      - file: book/1 mechanics/1E relative motion/1E relative motion.md
+        sections: 
+        - file: book/1 mechanics/1E relative motion/1E10.01 Super Balls, Double Ball Drop/1E10.01 Super Balls, Double Ball Drop.md
+        - file: book/1 mechanics/1E relative motion/1E10.02 Galilean Cart/1E10.02 Galilean Cart.md
+        - file: book/1 mechanics/1E relative motion/1E10.03 Shoot and Catch/1E10.03 Shoot and Catch.md
+        - file: book/1 mechanics/1E relative motion/1E20.01 Coriolis (2)/1E20.01 Coriolis (2).md
+        - file: book/1 mechanics/1E relative motion/1E20.02 Coriolis (1a)/1E20.02 Coriolis (1a).md
+        - file: book/1 mechanics/1E relative motion/1E20.03 Coriolis (1b)/1E20.03 Coriolis (1b).md
+        - file: book/1 mechanics/1E relative motion/1E20.04 Coriolis Merry-go-Round/1E20.04 Coriolis Merry-go-Round.md
+        - file: book/1 mechanics/1E relative motion/1E20.05 Coriolis (3)/1E20.05 Coriolis (3).md
+        - file: book/1 mechanics/1E relative motion/1E20.06 Rotating Liquid/1E20.06 Rotating Liquid.md
+        - file: book/1 mechanics/1E relative motion/1E30.01 Coriolis (3)/1E30.01 Coriolis (3).md
+        - file: book/1 mechanics/1E relative motion/1E30.01 Cross Product/1E30.01 Cross Product.md
+      - file: book/1 mechanics/1F newton's first law/1F newton's first law.md
+        sections: 
+        - file: book/1 mechanics/1F newton's first law/1F20.01 Tablecloth Pull/1F20.01 Tablecloth Pull.md
+        - file: book/1 mechanics/1F newton's first law/1F20.02 Newton's Hammer/1F20.02 Newton's Hammer.md
+        - file: book/1 mechanics/1F newton's first law/1F20.03 Not Breaking a Wineglass/1F20.03 Not Breaking a Wineglass.md
+        - file: book/1 mechanics/1F newton's first law/1F30.01 Galileo's Thoughts/1F30.01 Galileo's Thoughts.md
+        - file: book/1 mechanics/1F newton's first law/1F30.02 Walk and Ball/1F30.02 Walk and Ball.md
+      - file: book/1 mechanics/1G newton's second law/1G newton's second law.md
+        sections: 
+        - file: book/1 mechanics/1G newton's second law/1G10.01 Throwing Eggs/1G10.01 Throwing Eggs.md
+        - file: book/1 mechanics/1G newton's second law/1G10.02 Bungee Jumper/1G10.02 Bungee Jumper.md
+        - file: book/1 mechanics/1G newton's second law/1G10.03 Pulling a Thread/1G10.03 Pulling a Thread.md
+      - file: book/1 mechanics/1H newton's third law/1H newton's third law.md
+        sections: 
+        - file: book/1 mechanics/1H newton's third law/1H10.01 Who is the Strongest in a Collision/1H10.01 Who is the Strongest in a Collision.md
+        - file: book/1 mechanics/1H newton's third law/1H10.02 Who is Pulling/1H10.02 Who is Pulling.md
+        - file: book/1 mechanics/1H newton's third law/1H10.03 Trying Hard to Pull Differently/1H10.03 Trying Hard to Pull Differently.md
+        - file: book/1 mechanics/1H newton's third law/1H10.04 Bottle Rocket/1H10.04 Bottle Rocket.md
+        - file: book/1 mechanics/1H newton's third law/1H10.05 Magnet Symmetry/1H10.05 Magnet Symmetry.md
+        - file: book/1 mechanics/1H newton's third law/1H10.06 Recoil of a Water Jet/1H10.06 Recoil of a Water Jet.md
+        - file: book/1 mechanics/1H newton's third law/1H10.07 Strong Magnet, Weak Paperclip/1H10.07 Strong Magnet, Weak Paperclip.md
+      - file: book/1 mechanics/1J statics of rigid bodies/1J statics of rigid bodies.md
+        sections: 
+        - file: book/1 mechanics/1J statics of rigid bodies/1J20.01 Equilibrium and Potential Energy/1J20.01 Equilibrium and Potential Energy.md
+        - file: book/1 mechanics/1J statics of rigid bodies/1J30.01 Strong Professor (Weak Students)/1J30.01 Strong Professor (Weak Students).md
+      - file: book/1 mechanics/1K applications of newton's laws/1K applications of newton's laws.md
+        sections: 
+        - file: book/1 mechanics/1K applications of newton's laws/1K10.01 Pulling a Spool (a.k.a. Oma's Garenklosje)/1K10.01 Pulling a Spool (a.k.a. Oma's Garenklosje).md
+        - file: book/1 mechanics/1K applications of newton's laws/1K10.01 Throwing a Basketball/1K10.01 Throwing a Basketball.md
+        - file: book/1 mechanics/1K applications of newton's laws/1K10.02 Boomerang Ball (1)/1K10.02 Boomerang Ball (1).md
+        - file: book/1 mechanics/1K applications of newton's laws/1K10.03 Boomerang Ball (2)/1K10.03 Boomerang Ball (2).md
+        - file: book/1 mechanics/1K applications of newton's laws/1K10.04 Falling Stick/1K10.04 Falling Stick.md
+        - file: book/1 mechanics/1K applications of newton's laws/1K20.01 Braking/1K20.01 Braking.md
+        - file: book/1 mechanics/1K applications of newton's laws/1K20.02 Phonebook Friction/1K20.02 Phonebook Friction.md
+        - file: book/1 mechanics/1K applications of newton's laws/1K20.04 Falling Stick/1K20.04 Falling Stick.md
+        - file: book/1 mechanics/1K applications of newton's laws/1K20.05 Throwing a Basketball/1K20.05 Throwing a Basketball.md
+        - file: book/1 mechanics/1K applications of newton's laws/1K20.06 Chain Friction/1K20.06 Chain Friction.md
+        - file: book/1 mechanics/1K applications of newton's laws/1K20.07 Moving Two Fingers under a Meterstick/1K20.07 Moving Two Fingers under a Meterstick.md
+        - file: book/1 mechanics/1K applications of newton's laws/1K20.08 No Tipping Allowed/1K20.08 No Tipping Allowed.md
+        - file: book/1 mechanics/1K applications of newton's laws/1K20.09 Pulling a Sliding Block/1K20.09 Pulling a Sliding Block.md
+        - file: book/1 mechanics/1K applications of newton's laws/1K20.10 Rolling Up-and-Down, Again and Again/1K20.10 Rolling Up-and-Down, Again and Again.md
+        - file: book/1 mechanics/1K applications of newton's laws/1K20.11 Rope on a Table/1K20.11 Rope on a Table.md
+        - file: book/1 mechanics/1K applications of newton's laws/1K20.12 Sliding Towel/1K20.12 Sliding Towel.md
+      - file: book/1 mechanics/1L gravity/1L gravity.md
+        sections: 
+        - file: book/1 mechanics/1L gravity/1L10.01 Weighing the Earth/1L10.01 Weighing the Earth.md
+        - file: book/1 mechanics/1L gravity/1L20.01 Kepler's Second Law/1L20.01 Kepler's Second Law.md
+        - file: book/1 mechanics/1L gravity/1L20.02 Kepler's Third Law/1L20.02 Kepler's Third Law.md
+        - file: book/1 mechanics/1L gravity/1L20.17 Precessing Orbit (1)/1L20.17 Precessing Orbit (1).md
+      - file: book/1 mechanics/1M work and energy/1M work and energy.md
+        sections: 
+        - file: book/1 mechanics/1M work and energy/1M10.01 How much Work to Break a Soup Tureen/1M10.01 How much Work to Break a Soup Tureen.md
+        - file: book/1 mechanics/1M work and energy/1M40.01 Gauss' Rifle/1M40.01 Gauss' Rifle.md
+        - file: book/1 mechanics/1M work and energy/1M40.02 Kinetic Energy in an Elastic Collision/1M40.02 Kinetic Energy in an Elastic Collision.md
+        - file: book/1 mechanics/1M work and energy/1M40.03 Mortar/1M40.03 Mortar.md
+        - file: book/1 mechanics/1M work and energy/1M40.04 Galileo's Pendulum/1M40.04 Galileo's Pendulum.md
+        - file: book/1 mechanics/1M work and energy/1M40.10 Pendulum of Death/1M40.10 Pendulum of Death.md
+      - file: book/1 mechanics/1N linear momentum and collisions/1N linear momentum and collisions.md
+        sections: 
+        - file: book/1 mechanics/1N linear momentum and collisions/1N10.01 Bottle Rocket/1N10.01 Bottle Rocket.md
+        - file: book/1 mechanics/1N linear momentum and collisions/1N10.01 Sliding Ladder/1N10.01 Sliding Ladder.md
+        - file: book/1 mechanics/1N linear momentum and collisions/1N10.01 Throwing a Basketball/1N10.01 Throwing a Basketball.md
+        - file: book/1 mechanics/1N linear momentum and collisions/1N10.02 Boomerang Ball (1)/1N10.02 Boomerang Ball (1).md
+        - file: book/1 mechanics/1N linear momentum and collisions/1N10.03 Boomerang Ball (2)/1N10.03 Boomerang Ball (2).md
+        - file: book/1 mechanics/1N linear momentum and collisions/1N20.01 Elastic Collisions/1N20.01 Elastic Collisions.md
+        - file: book/1 mechanics/1N linear momentum and collisions/1N20.01 Magnet Symmetry/1N20.01 Magnet Symmetry.md
+        - file: book/1 mechanics/1N linear momentum and collisions/1N20.02 Inelastic Collisions/1N20.02 Inelastic Collisions.md
+        - file: book/1 mechanics/1N linear momentum and collisions/1N20.03 Explosion/1N20.03 Explosion.md
+        - file: book/1 mechanics/1N linear momentum and collisions/1N20.04 Colliding Balls (1)/1N20.04 Colliding Balls (1).md
+        - file: book/1 mechanics/1N linear momentum and collisions/1N20.05 Demonstrator and Cart/1N20.05 Demonstrator and Cart.md
+        - file: book/1 mechanics/1N linear momentum and collisions/1N20.06 Knock-Out/1N20.06 Knock-Out.md
+        - file: book/1 mechanics/1N linear momentum and collisions/1N20.07 Pulling a Slackened Rope/1N20.07 Pulling a Slackened Rope.md
+        - file: book/1 mechanics/1N linear momentum and collisions/1N20.08 Spinning Bouncing Ball/1N20.08 Spinning Bouncing Ball.md
+        - file: book/1 mechanics/1N linear momentum and collisions/1N20.09 Super Balls, Double Ball Drop/1N20.09 Super Balls, Double Ball Drop.md
+        - file: book/1 mechanics/1N linear momentum and collisions/1N22.01 Bottle Rocket/1N22.01 Bottle Rocket.md
+        - file: book/1 mechanics/1N linear momentum and collisions/1N22.02 Recoil of a Water Jet/1N22.02 Recoil of a Water Jet.md
+        - file: book/1 mechanics/1N linear momentum and collisions/1N30.01 Knock-Out/1N30.01 Knock-Out.md
+        - file: book/1 mechanics/1N linear momentum and collisions/1N30.60 Super Balls, Double Ball Drop/1N30.60 Super Balls, Double Ball Drop.md
+      - file: book/1 mechanics/1Q rotational dynamics/1Q rotational dynamics.md
+        sections: 
+        - file: book/1 mechanics/1Q rotational dynamics/1Q10.01 Bicycle Wheel Pendulum/1Q10.01 Bicycle Wheel Pendulum.md
+        - file: book/1 mechanics/1Q rotational dynamics/1Q10.01 Pirouette/1Q10.01 Pirouette.md
+        - file: book/1 mechanics/1Q rotational dynamics/1Q10.02 Physical Pendulum (2)/1Q10.02 Physical Pendulum (2).md
+        - file: book/1 mechanics/1Q rotational dynamics/1Q10.02 Rolling Downhill/1Q10.02 Rolling Downhill.md
+        - file: book/1 mechanics/1Q rotational dynamics/1Q10.03 Maximum Rotational Inertia/1Q10.03 Maximum Rotational Inertia.md
+        - file: book/1 mechanics/1Q rotational dynamics/1Q10.04 Rolling Down a Wide Gutter/1Q10.04 Rolling Down a Wide Gutter.md
+        - file: book/1 mechanics/1Q rotational dynamics/1Q10.XX Matchbox and Wineglass/1Q10.XX Matchbox and Wineglass.md
+        - file: book/1 mechanics/1Q rotational dynamics/1Q20.01 Dropping Rolls of Toilet Paper/1Q20.01 Dropping Rolls of Toilet Paper.md
+        - file: book/1 mechanics/1Q rotational dynamics/1Q20.01 Rolling Down a Wide Gutter/1Q20.01 Rolling Down a Wide Gutter.md
+        - file: book/1 mechanics/1Q rotational dynamics/1Q20.02 Yo-Yo/1Q20.02 Yo-Yo.md
+        - file: book/1 mechanics/1Q rotational dynamics/1Q20.03 Maxwheel/1Q20.03 Maxwheel.md
+        - file: book/1 mechanics/1Q rotational dynamics/1Q20.04 Rolling Downhill/1Q20.04 Rolling Downhill.md
+        - file: book/1 mechanics/1Q rotational dynamics/1Q30.10 Bicycle Wheel and Swivel Chair/1Q30.10 Bicycle Wheel and Swivel Chair.md
+        - file: book/1 mechanics/1Q rotational dynamics/1Q40.01 Magnet Symmetry/1Q40.01 Magnet Symmetry.md
+        - file: book/1 mechanics/1Q rotational dynamics/1Q40.01 Pulling a Spool (a.k.a. Oma's Garenklosje)/1Q40.01 Pulling a Spool (a.k.a. Oma's Garenklosje).md
+        - file: book/1 mechanics/1Q rotational dynamics/1Q40.01 Spinning Bouncing Ball/1Q40.01 Spinning Bouncing Ball.md
+        - file: book/1 mechanics/1Q rotational dynamics/1Q40.02 Colliding Magnets/1Q40.02 Colliding Magnets.md
+        - file: book/1 mechanics/1Q rotational dynamics/1Q40.03 Matchbox and Wineglass/1Q40.03 Matchbox and Wineglass.md
+        - file: book/1 mechanics/1Q rotational dynamics/1Q40.04 Sweet Spot/1Q40.04 Sweet Spot.md
+        - file: book/1 mechanics/1Q rotational dynamics/1Q40.05 Balls on a Rotating Ramp/1Q40.05 Balls on a Rotating Ramp.md
+        - file: book/1 mechanics/1Q rotational dynamics/1Q40.06 Counter Rotating Disks/1Q40.06 Counter Rotating Disks.md
+        - file: book/1 mechanics/1Q rotational dynamics/1Q40.07 Dumb-Bell/1Q40.07 Dumb-Bell.md
+        - file: book/1 mechanics/1Q rotational dynamics/1Q40.08 How an Astronaut can Turn Around in Free Space/1Q40.08 How an Astronaut can Turn Around in Free Space.md
+        - file: book/1 mechanics/1Q rotational dynamics/1Q40.09 Playing Tennis/1Q40.09 Playing Tennis.md
+        - file: book/1 mechanics/1Q rotational dynamics/1Q40.10 Pirouette/1Q40.10 Pirouette.md
+        - file: book/1 mechanics/1Q rotational dynamics/1Q40.11 Pulling the Rug/1Q40.11 Pulling the Rug.md
+        - file: book/1 mechanics/1Q rotational dynamics/1Q40.12 Tippe Top/1Q40.12 Tippe Top.md
+        - file: book/1 mechanics/1Q rotational dynamics/1Q40.13 Vibrating Stopwatch/1Q40.13 Vibrating Stopwatch.md
+        - file: book/1 mechanics/1Q rotational dynamics/1Q40.30 Bicycle Wheel and Swivel Chair/1Q40.30 Bicycle Wheel and Swivel Chair.md
+        - file: book/1 mechanics/1Q rotational dynamics/1Q40.40 Train and Track/1Q40.40 Train and Track.md
+        - file: book/1 mechanics/1Q rotational dynamics/1Q50.01 Precession (1)/1Q50.01 Precession (1).md
+        - file: book/1 mechanics/1Q rotational dynamics/1Q50.02 Precessing Orbit (1)/1Q50.02 Precessing Orbit (1).md
+        - file: book/1 mechanics/1Q rotational dynamics/1Q50.03 Precession (4) AND Nutation (3)/1Q50.03 Precession (4) AND Nutation (3).md
+        - file: book/1 mechanics/1Q rotational dynamics/1Q50.04 Precession (2)/1Q50.04 Precession (2).md
+        - file: book/1 mechanics/1Q rotational dynamics/1Q50.06 Nutation (1)/1Q50.06 Nutation (1).md
+        - file: book/1 mechanics/1Q rotational dynamics/1Q50.07 Nutation (2)/1Q50.07 Nutation (2).md
+        - file: book/1 mechanics/1Q rotational dynamics/1Q50.08 Precession (3a)/1Q50.08 Precession (3a).md
+        - file: book/1 mechanics/1Q rotational dynamics/1Q50.09 Precession (3b)/1Q50.09 Precession (3b).md
+        - file: book/1 mechanics/1Q rotational dynamics/1Q60.01 Maximum Rotational Inertia/1Q60.01 Maximum Rotational Inertia.md
+        - file: book/1 mechanics/1Q rotational dynamics/1Q60.01 Stable Wheel/1Q60.01 Stable Wheel.md
+        - file: book/1 mechanics/1Q rotational dynamics/1Q60.02 Dumb-Bell/1Q60.02 Dumb-Bell.md
+        - file: book/1 mechanics/1Q rotational dynamics/1Q60.04 Percussionpoint (1)/1Q60.04 Percussionpoint (1).md
+        - file: book/1 mechanics/1Q rotational dynamics/1Q60.05 Percussionpoint (2)/1Q60.05 Percussionpoint (2).md
+        - file: book/1 mechanics/1Q rotational dynamics/1Q60.06 Sleeper/1Q60.06 Sleeper.md
+        - file: book/1 mechanics/1Q rotational dynamics/1Q60.30 Tippe Top/1Q60.30 Tippe Top.md
+        - file: book/1 mechanics/1Q rotational dynamics/1Q60.35 Rugbyball/1Q60.35 Rugbyball.md
+      - file: book/1 mechanics/1R properties of matter/1R properties of matter.md
+        sections: 
+        - file: book/1 mechanics/1R properties of matter/1R10.01 Hooke's Law/1R10.01 Hooke's Law.md
+  - caption:
     chapters:
-      - file: build/Fluid_Mechanics/B20/Rotating_liquid/output
-      - file: build/Fluid_Mechanics/C20/Magnus_effect__1_/output
-      - file: build/Fluid_Mechanics/C20/Magnus_effect__2_/output
-
-  - caption: 3 Oscillations and Waves
-     
+    - file: book/2 fluid mechanics/2 fluid mechanics.md
+      sections: 
+      - file: book/2 fluid mechanics/2A surface tension/2A surface tension.md
+      - file: book/2 fluid mechanics/2B statics of fluids/2B statics of fluids.md
+        sections: 
+        - file: book/2 fluid mechanics/2B statics of fluids/2B20.01 Rotating Liquid/2B20.01 Rotating Liquid.md
+      - file: book/2 fluid mechanics/2C dynamics of fluids/2C dynamics of fluids.md
+        sections: 
+        - file: book/2 fluid mechanics/2C dynamics of fluids/2C20.01 Magnus Effect (2)/2C20.01 Magnus Effect (2).md
+        - file: book/2 fluid mechanics/2C dynamics of fluids/2C20.02 Magnus Effect (1)/2C20.02 Magnus Effect (1).md
+        - file: book/2 fluid mechanics/2C dynamics of fluids/2C50.35 Rotating Liquid/2C50.35 Rotating Liquid.md
+  - caption:
+    chapters:    
+    - file: book/3 oscillations and waves/3 oscillations and waves.md
+      sections: 
+      - file: book/3 oscillations and waves/3A oscillations/3A oscillations.md
+        sections: 
+        - file: book/3 oscillations and waves/3A oscillations/3A10.01 Chaotic Pendulum/3A10.01 Chaotic Pendulum.md
+        - file: book/3 oscillations and waves/3A oscillations/3A10.01 Mathematical Pendulum (1) Simple Harmonic Motion/3A10.01 Mathematical Pendulum (1) Simple Harmonic Motion.md
+        - file: book/3 oscillations and waves/3A oscillations/3A10.02 Mathematical Pendulum (2) Large Angle/3A10.02 Mathematical Pendulum (2) Large Angle.md
+        - file: book/3 oscillations and waves/3A oscillations/3A10.03 Mathematical Pendulum (3) Determining g/3A10.03 Mathematical Pendulum (3) Determining g.md
+        - file: book/3 oscillations and waves/3A oscillations/3A15.01 Physical Pendulum (1) Compound Pendulum/3A15.01 Physical Pendulum (1) Compound Pendulum.md
+        - file: book/3 oscillations and waves/3A oscillations/3A15.01 Physical Pendulum (2)/3A15.01 Physical Pendulum (2).md
+        - file: book/3 oscillations and waves/3A oscillations/3A15.02 Physical Pendulum (3) Oscillating Ring/3A15.02 Physical Pendulum (3) Oscillating Ring.md
+        - file: book/3 oscillations and waves/3A oscillations/3A40.01 Mathematical Pendulum (1) Simple Harmonic Motion/3A40.01 Mathematical Pendulum (1) Simple Harmonic Motion.md
+        - file: book/3 oscillations and waves/3A oscillations/3A40.01 Simple Harmonic Motion (SHM) (3)/3A40.01 Simple Harmonic Motion (SHM) (3).md
+        - file: book/3 oscillations and waves/3A oscillations/3A40.02 Mathematical Pendulum (3) Determining g/3A40.02 Mathematical Pendulum (3) Determining g.md
+        - file: book/3 oscillations and waves/3A oscillations/3A40.02 Simple Harmonic Motion (SHM) (1)/3A40.02 Simple Harmonic Motion (SHM) (1).md
+        - file: book/3 oscillations and waves/3A oscillations/3A40.03 Simple Harmonic Motion (SHM) (2)/3A40.03 Simple Harmonic Motion (SHM) (2).md
+        - file: book/3 oscillations and waves/3A oscillations/3A50.01 Damped Harmonic Motion/3A50.01 Damped Harmonic Motion.md
+        - file: book/3 oscillations and waves/3A oscillations/3A50.03 Damped Galvanometer/3A50.03 Damped Galvanometer.md
+        - file: book/3 oscillations and waves/3A oscillations/3A95.01 Fakir/3A95.01 Fakir.md
+        - file: book/3 oscillations and waves/3A oscillations/3A95.52 Chaotic Pendulum/3A95.52 Chaotic Pendulum.md
+      - file: book/3 oscillations and waves/3B wave motion/3B wave motion.md
+        sections: 
+        - file: book/3 oscillations and waves/3B wave motion/3B10.01 Reflections of Transverse Pulses (2)/3B10.01 Reflections of Transverse Pulses (2).md
+        - file: book/3 oscillations and waves/3B wave motion/3B10.02 Speed of a Single Pulse on Different Strings (2)/3B10.02 Speed of a Single Pulse on Different Strings (2).md
+        - file: book/3 oscillations and waves/3B wave motion/3B10.03 Reflections of Transverse Pulses (1)/3B10.03 Reflections of Transverse Pulses (1).md
+        - file: book/3 oscillations and waves/3B wave motion/3B10.04 Speed of a Single Pulse on Different Strings (1)/3B10.04 Speed of a Single Pulse on Different Strings (1).md
+        - file: book/3 oscillations and waves/3B wave motion/3B10.05 Transverse Traveling Wave (1)/3B10.05 Transverse Traveling Wave (1).md
+        - file: book/3 oscillations and waves/3B wave motion/3B10.06 Transverse Traveling Wave (2)/3B10.06 Transverse Traveling Wave (2).md
+        - file: book/3 oscillations and waves/3B wave motion/3B20.01 Reflected Sound Pulses/3B20.01 Reflected Sound Pulses.md
+        - file: book/3 oscillations and waves/3B wave motion/3B22.01 deBroglie Applied to Bohr/3B22.01 deBroglie Applied to Bohr.md
+        - file: book/3 oscillations and waves/3B wave motion/3B22.02 Handheld Standing Waves/3B22.02 Handheld Standing Waves.md
+        - file: book/3 oscillations and waves/3B wave motion/3B22.03 Kundt's Tube/3B22.03 Kundt's Tube.md
+        - file: book/3 oscillations and waves/3B wave motion/3B22.04 Sonometer by Hand/3B22.04 Sonometer by Hand.md
+        - file: book/3 oscillations and waves/3B wave motion/3B22.05 Plucking a String/3B22.05 Plucking a String.md
+        - file: book/3 oscillations and waves/3B wave motion/3B22.09 Microwave Oven Standing Waves/3B22.09 Microwave Oven Standing Waves.md
+        - file: book/3 oscillations and waves/3B wave motion/3B25.01 Impedance Matching/3B25.01 Impedance Matching.md
+        - file: book/3 oscillations and waves/3B wave motion/3B40.01 Doppler/3B40.01 Doppler.md
+        - file: book/3 oscillations and waves/3B wave motion/3B60.10 Doppler/3B60.10 Doppler.md
+      - file: book/3 oscillations and waves/3C acoustics/3C acoustics.md
+        sections: 
+        - file: book/3 oscillations and waves/3C acoustics/3C50.01 Plucking a String/3C50.01 Plucking a String.md
+      - file: book/3 oscillations and waves/3D instruments/3D instruments.md
+      - file: book/3 oscillations and waves/3E sound reproduction/3E sound reproduction.md
+  - caption:
+    chapters:    
+    - file: book/4 thermodynamics/4 thermodynamics.md
+      sections: 
+      - file: book/4 thermodynamics/4A thermal properties of matter/4A thermal properties of matter.md
+        sections: 
+        - file: book/4 thermodynamics/4A thermal properties of matter/4A10.01 Constant Volume Gas Thermometer/4A10.01 Constant Volume Gas Thermometer.md
+        - file: book/4 thermodynamics/4A thermal properties of matter/4A10.02 Inverted Thermometer/4A10.02 Inverted Thermometer.md
+      - file: book/4 thermodynamics/4B heat and the first law/4B heat and the first law.md
+        sections: 
+        - file: book/4 thermodynamics/4B heat and the first law/4B10.01 Joule's Experiment/4B10.01 Joule's Experiment.md
+        - file: book/4 thermodynamics/4B heat and the first law/4B20.01 Cooling by Insulation/4B20.01 Cooling by Insulation.md
+        - file: book/4 thermodynamics/4B heat and the first law/4B30.01 Cooling by Insulation/4B30.01 Cooling by Insulation.md
+        - file: book/4 thermodynamics/4B heat and the first law/4B40.01 Cooling by Insulation/4B40.01 Cooling by Insulation.md
+        - file: book/4 thermodynamics/4B heat and the first law/4B40.01 Stefan-Boltzmann Law for Radiation/4B40.01 Stefan-Boltzmann Law for Radiation.md
+        - file: book/4 thermodynamics/4B heat and the first law/4B60.01 Joule's Experiment/4B60.01 Joule's Experiment.md
+        - file: book/4 thermodynamics/4B heat and the first law/4B60.01 Smashing/4B60.01 Smashing.md
+        - file: book/4 thermodynamics/4B heat and the first law/4B70.01 Clement's and Desormes' Experiment/4B70.01 Clement's and Desormes' Experiment.md
+        - file: book/4 thermodynamics/4B heat and the first law/4B70.02 Fire-Pump/4B70.02 Fire-Pump.md
+      - file: book/4 thermodynamics/4C change of state/4C change of state.md
+        sections: 
+        - file: book/4 thermodynamics/4C change of state/4C10.01 Compressing a Gas/4C10.01 Compressing a Gas.md
+        - file: book/4 thermodynamics/4C change of state/4C10.02 Work = int(PdV)/4C10.02 Work = int(PdV).md
+        - file: book/4 thermodynamics/4C change of state/4C30.01 Boiling to Freeze/4C30.01 Boiling to Freeze.md
+        - file: book/4 thermodynamics/4C change of state/4C31.01 Evaporating Ether/4C31.01 Evaporating Ether.md
+        - file: book/4 thermodynamics/4C change of state/4C33.01 Dippy Bird/4C33.01 Dippy Bird.md
+        - file: book/4 thermodynamics/4C change of state/4C33.02 Boiling Water at Reduced Pressure/4C33.02 Boiling Water at Reduced Pressure.md
+      - file: book/4 thermodynamics/4D kinetic theory/4D kinetic theory.md
+        sections: 
+        - file: book/4 thermodynamics/4D kinetic theory/4D10.01 Brownian Motion/4D10.01 Brownian Motion.md
+        - file: book/4 thermodynamics/4D kinetic theory/4D30.01 Radiometer of Crooks/4D30.01 Radiometer of Crooks.md
+        - file: book/4 thermodynamics/4D kinetic theory/4D30.02 Rain of Balls/4D30.02 Rain of Balls.md
+      - file: book/4 thermodynamics/4E gas law/4E gas law.md
+      - file: book/4 thermodynamics/4F entropy and the second law/4F entropy and the second law.md
+        sections: 
+        - file: book/4 thermodynamics/4F entropy and the second law/4F10.01 Falling Down or Falling Up/4F10.01 Falling Down or Falling Up.md
+        - file: book/4 thermodynamics/4F entropy and the second law/4F10.02 Irreversible Process/4F10.02 Irreversible Process.md
+        - file: book/4 thermodynamics/4F entropy and the second law/4F10.03 Violation of the Entropy Law/4F10.03 Violation of the Entropy Law.md
+        - file: book/4 thermodynamics/4F entropy and the second law/4F30.01 Dippy Bird/4F30.01 Dippy Bird.md
+        - file: book/4 thermodynamics/4F entropy and the second law/4F30.01 Stirling Engine/4F30.01 Stirling Engine.md
+  - caption:
     chapters:
-      - file: build/Oscillations_and_Waves/A10/Chaotic_pendulum/output
-      - file: build/Oscillations_and_Waves/A10/Mathematical_pendulum__1__-_Simple_harmonic_motion/output
-      - file: build/Oscillations_and_Waves/A10/Mathematical_pendulum__2__-_Large_angle/output
-      - file: build/Oscillations_and_Waves/A10/Mathematical_pendulum__3__-_Determing_g/output
-      - file: build/Oscillations_and_Waves/A15/Physical_pendulum__1__-_Compound_pendulum/output
-      - file: build/Oscillations_and_Waves/A15/Physical_pendulum__2_/output
-      - file: build/Oscillations_and_Waves/A15/Physical_pendulum__3__Oscillating_ring/output
-      - file: build/Oscillations_and_Waves/A40/Mathematical_pendulum__1__-_Simple_harmonic_motion/output
-      - file: build/Oscillations_and_Waves/A40/Mathematical_pendulum__3__-_Determing_g/output
-      - file: build/Oscillations_and_Waves/A40/Simple_harmonic_motion__SHM___1_/output
-      - file: build/Oscillations_and_Waves/A40/Simple_harmonic_motion__SHM___2_/output
-      - file: build/Oscillations_and_Waves/A40/Simple_harmonic_motion__SHM___3_/output
-      - file: build/Oscillations_and_Waves/A50/Damped_galvanometer/output
-      - file: build/Oscillations_and_Waves/A50/Damped_harmonic_motion/output
-      - file: build/Oscillations_and_Waves/A95/Chaotic_pendulum/output
-      - file: build/Oscillations_and_Waves/A95/Fakir/output
-      - file: build/Oscillations_and_Waves/B10/Reflections_of_transverse_pulses__1_/output
-      - file: build/Oscillations_and_Waves/B10/Reflections_of_transverse_pulses__2_/output
-      - file: build/Oscillations_and_Waves/B10/Speed_of_a_single_pulse_on_different_strings__1_/output
-      - file: build/Oscillations_and_Waves/B10/Speed_of_a_single_pulse_on_different_strings__2_/output
-      - file: build/Oscillations_and_Waves/B10/Transverse_travelling_wave__1_/output
-      - file: build/Oscillations_and_Waves/B10/Transverse_travelling_wave__2_/output
-      - file: build/Oscillations_and_Waves/B20/Reflected_sound_pulses/output
-      - file: build/Oscillations_and_Waves/B22/deBroglie_applied_to_Bohr/output
-      - file: build/Oscillations_and_Waves/B22/Handheld_standing_waves/output
-      - file: build/Oscillations_and_Waves/B22/Kundt's_tube/output
-      - file: build/Oscillations_and_Waves/B22/Microwave_oven/output
-      - file: build/Oscillations_and_Waves/B22/Plucking_a_string/output
-      - file: build/Oscillations_and_Waves/B22/Sonometer_by_hand/output
-      - file: build/Oscillations_and_Waves/B25/Impedenance_matching/output
-      - file: build/Oscillations_and_Waves/B40/Doppler/output
-      - file: build/Oscillations_and_Waves/C50/Plucking_a_string/output
-  - caption: 4 Thermodynamics
-     
-    chapters:
-      - file: build/Thermodynamics/A10/Constant_volume_gas_thermometer/output
-      - file: build/Thermodynamics/A10/Inverted_thermometer/output
-      - file: build/Thermodynamics/B10/Joule's_experiment/output
-      - file: build/Thermodynamics/B20/Cooling_by_insulation/output
-      - file: build/Thermodynamics/B30/Cooling_by_insulation/output
-      - file: build/Thermodynamics/B40/Stefan-Boltzmann_law_for_radiation/output
-      - file: build/Thermodynamics/B60/Joule's_experiment/output
-      - file: build/Thermodynamics/B60/Smashing/output
-      - file: build/Thermodynamics/B70/Clement's_and_Desormes'_experiment/output
-      - file: build/Thermodynamics/B70/Fire-pump/output
-      - file: build/Thermodynamics/C10/Compressing_a_gas/output
-      - file: build/Thermodynamics/C10/pdV/output
-      - file: build/Thermodynamics/C30/Boiling_to_freeze/output
-      - file: build/Thermodynamics/C31/Evaporating_ether/output
-      - file: build/Thermodynamics/C33/Boiling_water_at_reduced_pressure/output
-      - file: build/Thermodynamics/C33/Dippy_bird/output
-      - file: build/Thermodynamics/C50/Critical_point/output
-      - file: build/Thermodynamics/D10/Brownian_motion/output
-      - file: build/Thermodynamics/D30/Radiometer_of_Crooks/output
-      - file: build/Thermodynamics/D30/Rain_of_balls/output
-      - file: build/Thermodynamics/F10/Falling_down_or_falling_up/output
-      - file: build/Thermodynamics/F10/Irreversible_process/output
-      - file: build/Thermodynamics/F10/Violation_of_the_entropy_law/output
-      - file: build/Thermodynamics/F30/Dippy_bird/output
-      - file: build/Thermodynamics/F30/Stirling_engine/output
-
-  - caption: 5 Electricity and Magnetism
-     
-    chapters:
-      - file: build/Electricity_and_Magnetism/A10/Electric_soap_bubbles/output
-      - file: build/Electricity_and_Magnetism/A20/Coulomb's_law/output
-      - file: build/Electricity_and_Magnetism/A20/Coulomb's_law__2_/output
-      - file: build/Electricity_and_Magnetism/A40/Charging_by_induction/output
-      - file: build/Electricity_and_Magnetism/A40/Electric_soap_bubbles/output
-      - file: build/Electricity_and_Magnetism/A40/Polarizing_a_dielectric/output
-      - file: build/Electricity_and_Magnetism/A40/Water_dropper/output
-      - file: build/Electricity_and_Magnetism/A50/Water_dropper/output
-      - file: build/Electricity_and_Magnetism/B10/Charge_and_field_inside_and_or_outside/output
-      - file: build/Electricity_and_Magnetism/B10/Charge_is_on_the_outside/output
-      - file: build/Electricity_and_Magnetism/B10/E-field_direction/output
-      - file: build/Electricity_and_Magnetism/B20/Charge_and_field_inside_and_or_outside/output
-      - file: build/Electricity_and_Magnetism/B20/Charge_is_on_the_outside/output
-      - file: build/Electricity_and_Magnetism/B20/Gauss's_law/output
-      - file: build/Electricity_and_Magnetism/C10/Capacitor-_spacing_and_dielectric/output
-      - file: build/Electricity_and_Magnetism/C10/Capacitor__1_Spacing_between_the_plates/output
-      - file: build/Electricity_and_Magnetism/C10/Capacitor__1__Spacing_between_the_plates/output
-      - file: build/Electricity_and_Magnetism/C20/Capacitor-_spacing_and_dielectric/output
-      - file: build/Electricity_and_Magnetism/C20/Capacitor__2_Different_dielectrics/output
-      - file: build/Electricity_and_Magnetism/C20/Polarizing_a_dielectric/output
-      - file: build/Electricity_and_Magnetism/C30/Capacitor__2_Different_dielectrics/output
-      - file: build/Electricity_and_Magnetism/D20/Negative_temperature_coefficient/output
-      - file: build/Electricity_and_Magnetism/D20/Positive_temperature_coefficient/output
-      - file: build/Electricity_and_Magnetism/F15/Fuse-wires_parallel/output
-      - file: build/Electricity_and_Magnetism/F20/Fuse-wires_parallel/output
-      - file: build/Electricity_and_Magnetism/G20/Barkhausen_effect__1/output
-      - file: build/Electricity_and_Magnetism/G20/Barkhausen_effect__2/output
-      - file: build/Electricity_and_Magnetism/G40/Barkhausen_effect__1/output
-      - file: build/Electricity_and_Magnetism/G40/Barkhausen_effect__2/output
-      - file: build/Electricity_and_Magnetism/H10/Magnetic_fields/output
-      - file: build/Electricity_and_Magnetism/H20/force_between_magnets__1_/output
-      - file: build/Electricity_and_Magnetism/H20/force_between_magnets__2_/output
-      - file: build/Electricity_and_Magnetism/H30/Force_on_electrons_in_a_magnetic_field__1_/output
-      - file: build/Electricity_and_Magnetism/H30/Force_on_electrons_in_a_magnetic_field__2_/output
-      - file: build/Electricity_and_Magnetism/H40/Force_effect_of_current/output
-      - file: build/Electricity_and_Magnetism/H40/Lorentz_force__1_/output
-      - file: build/Electricity_and_Magnetism/H40/Lorentz_force__2_/output
-      - file: build/Electricity_and_Magnetism/H40/parallel_wires/output
-      - file: build/Electricity_and_Magnetism/H50/Current_loop_in_magnetic_field/output
-      - file: build/Electricity_and_Magnetism/J10/Selfinductance_in_AC-circuit/output
-      - file: build/Electricity_and_Magnetism/K10/Damped_galvanometer/output
-      - file: build/Electricity_and_Magnetism/K10/Skipping_rope/output
-      - file: build/Electricity_and_Magnetism/K20/Arago's_compass_needle/output
-      - file: build/Electricity_and_Magnetism/K20/Arago's_disk/output
-      - file: build/Electricity_and_Magnetism/K30/Electric_power_transmission_line/output
-      - file: build/Electricity_and_Magnetism/K30/Transformer/output
-      - file: build/Electricity_and_Magnetism/K40/Electric_motor__synchronous_motor_/output
-      - file: build/Electricity_and_Magnetism/L20/LRC_circuits/output
-      - file: build/Electricity_and_Magnetism/L20/Phase/output
-      - file: build/Electricity_and_Magnetism/L20/Selfinductance_in_AC-circuit/output
-      - file: build/Electricity_and_Magnetism/N10/electromagnetic_waves/output
-      - file: build/Electricity_and_Magnetism/N10/Microwave_oven/output
-  
-  - caption: 6 Optics
-     
-    chapters:
-      - file: build/Optics/A01/Speed_of_light-Foucault-Michelson/output
-      - file: build/Optics/A10/Confusing_mirrors/output
-      - file: build/Optics/A10/Corner_cube/output
-      - file: build/Optics/A40/Chromatic_aberration/output
-      - file: build/Optics/A40/Curved_lightbeams/output
-      - file: build/Optics/A42/Brewster's_angle__3_/output
-      - file: build/Optics/A44/Brewster's_angle__3_/output
-      - file: build/Optics/A60/Chromatic_aberration/output
-      - file: build/Optics/A70/Magnifying_glass/output
-      - file: build/Optics/B30/Radiation_pressure/output
-      - file: build/Optics/C10/Resolution/output
-      - file: build/Optics/C20/Diffraction_1_,_introduction/output
-      - file: build/Optics/C20/Diffraction_2a_,_single_slit/output
-      - file: build/Optics/C20/Diffraction_2b_,_single_slit/output
-      - file: build/Optics/C20/Fraunhofer_-_and_Fresnel_diffraction/output
-      - file: build/Optics/D10/Fresnel_double_mirror/output
-      - file: build/Optics/D10/Fresnel_double_prism/output
-      - file: build/Optics/D10/Lloyds_mirror/output
-      - file: build/Optics/D10/Young's_double_slit/output
-      - file: build/Optics/D30/Newton's_rings__1_/output
-      - file: build/Optics/D30/Newton's_rings__2_/output
-      - file: build/Optics/D30/Oil_film/output
-      - file: build/Optics/D30/Soap_film/output
-      - file: build/Optics/D40/Michelson-Morley_interferometer/output
-      - file: build/Optics/H20/Brewster's_angle__1_/output
-      - file: build/Optics/H20/Brewster's_angle__2_/output
-      - file: build/Optics/H35/Brewster's_angle__1_/output
-  
-  - caption: 7 Modern Physics
-     
-    chapters:
-      - file: build/Modern_Physics/A50/deBroglie_applied_to_Bohr/output
-      - file: build/Modern_Physics/A50/Tunneling/output
-      - file: build/Modern_Physics/A50/Tunneling_1_/output
-      - file: build/Modern_Physics/A60/Bragg-scattering/output
-      - file: build/Modern_Physics/A60/Discovering_Bragg/output
-      - file: build/Modern_Physics/B10/Balmer_series/output
-      - file: build/Modern_Physics/F10/E=mc-square/output
-  
-  - caption: 8 Astronomy
-     
-    chapters:
-      - file: build/Astronomy/A10/Kepler's_second_law/output
-      - file: build/Astronomy/A10/Kepler's_third_law/output
-      - file: build/Astronomy/A10/Precessing_orbit__1_/output
-  
-  - caption: 9 Miscellaneous
-    chapters:
-      - file: build/Miscellaneous/B62/Speckles/output
-  
+    - file: book/5 electricity and magnetism/5 electricity and magnetism.md
+      sections: 
+      - file: book/5 electricity and magnetism/5A electrostatics/5A electrostatics.md
+        sections: 
+        - file: book/5 electricity and magnetism/5A electrostatics/5A10.01 E-Field in Material (Electric Soap Bubbles)/5A10.01 E-Field in Material (Electric Soap Bubbles).md
+        - file: book/5 electricity and magnetism/5A electrostatics/5A20.21 Coulomb's Law (2)/5A20.21 Coulomb's Law (2).md
+        - file: book/5 electricity and magnetism/5A electrostatics/5A20.24 E-Field in Material (Electric Soap Bubbles)/5A20.24 E-Field in Material (Electric Soap Bubbles).md
+        - file: book/5 electricity and magnetism/5A electrostatics/5A40.01 Charging by Induction/5A40.01 Charging by Induction.md
+        - file: book/5 electricity and magnetism/5A electrostatics/5A40.02 Polarising a Dielectric/5A40.02 Polarising a Dielectric.md
+        - file: book/5 electricity and magnetism/5A electrostatics/5A40.24 E-Field in Material (Electric Soap Bubbles)/5A40.24 E-Field in Material (Electric Soap Bubbles).md
+        - file: book/5 electricity and magnetism/5A electrostatics/5A40.73 Water Dropper (almost Kelvin water dropper)/5A40.73 Water Dropper (almost Kelvin water dropper).md
+        - file: book/5 electricity and magnetism/5A electrostatics/5A50.01 Water Dropper (almost Kelvin water dropper)/5A50.01 Water Dropper (almost Kelvin water dropper).md
+      - file: book/5 electricity and magnetism/5B electric fields and potential/5B electric fields and potential.md
+        sections: 
+        - file: book/5 electricity and magnetism/5B electric fields and potential/5B10.03 Charge and Field; inside and/5B10.03 Charge and Field; inside and.md
+          sections: 
+          - file: book/5 electricity and magnetism/5B electric fields and potential/5B10.03 Charge and Field; inside and/or outside/or outside.md
+        - file: book/5 electricity and magnetism/5B electric fields and potential/5B10.04 Charge is on the Outside/5B10.04 Charge is on the Outside.md
+        - file: book/5 electricity and magnetism/5B electric fields and potential/5B20.01 Gauss' Law/5B20.01 Gauss' Law.md
+        - file: book/5 electricity and magnetism/5B electric fields and potential/5B20.03 Charge is on the Outside/5B20.03 Charge is on the Outside.md
+        - file: book/5 electricity and magnetism/5B electric fields and potential/5B20.10 Charge and Field; inside and/5B20.10 Charge and Field; inside and.md
+          sections: 
+          - file: book/5 electricity and magnetism/5B electric fields and potential/5B20.10 Charge and Field; inside and/or outside/or outside.md
+      - file: book/5 electricity and magnetism/5C capacitance/5C capacitance.md
+        sections: 
+        - file: book/5 electricity and magnetism/5C capacitance/5C10.20 Capacitor (1) Spacing between the Plates/5C10.20 Capacitor (1) Spacing between the Plates.md
+        - file: book/5 electricity and magnetism/5C capacitance/5C20.01 Polarising a Dielectric/5C20.01 Polarising a Dielectric.md
+        - file: book/5 electricity and magnetism/5C capacitance/5C20.10 Capacitor (2) Different Dielectrics/5C20.10 Capacitor (2) Different Dielectrics.md
+        - file: book/5 electricity and magnetism/5C capacitance/5C30.01 Capacitor (2) Different Dielectrics/5C30.01 Capacitor (2) Different Dielectrics.md
+      - file: book/5 electricity and magnetism/5D resistance/5D resistance.md
+        sections: 
+        - file: book/5 electricity and magnetism/5D resistance/5D20.01 Positive Temperature Coefficient/5D20.01 Positive Temperature Coefficient.md
+        - file: book/5 electricity and magnetism/5D resistance/5D20.02 Negative Temperature Coefficient/5D20.02 Negative Temperature Coefficient.md
+      - file: book/5 electricity and magnetism/5E electromotive force and current/5E electromotive force and current.md
+      - file: book/5 electricity and magnetism/5F DC circuits/5F DC circuits.md
+        sections: 
+        - file: book/5 electricity and magnetism/5F DC circuits/5F15.31 Fuse-Wires Parallel/5F15.31 Fuse-Wires Parallel.md
+        - file: book/5 electricity and magnetism/5F DC circuits/5F20.01 Fuse-Wires Parallel/5F20.01 Fuse-Wires Parallel.md
+      - file: book/5 electricity and magnetism/5G magnetic materials/5G magnetic materials.md
+        sections: 
+        - file: book/5 electricity and magnetism/5G magnetic materials/5G10.80 Gauss' Rifle/5G10.80 Gauss' Rifle.md
+        - file: book/5 electricity and magnetism/5G magnetic materials/5G20.01 Barkhausen Effect (1)/5G20.01 Barkhausen Effect (1).md
+        - file: book/5 electricity and magnetism/5G magnetic materials/5G20.01 Barkhausen Effect (2)/5G20.01 Barkhausen Effect (2).md
+        - file: book/5 electricity and magnetism/5G magnetic materials/5G20.02 Barkhausen Effect (2)/5G20.02 Barkhausen Effect (2).md
+        - file: book/5 electricity and magnetism/5G magnetic materials/5G40.01 Barkhausen Effect (1)/5G40.01 Barkhausen Effect (1).md
+        - file: book/5 electricity and magnetism/5G magnetic materials/5G40.01 Barkhausen Effect (2)/5G40.01 Barkhausen Effect (2).md
+        - file: book/5 electricity and magnetism/5G magnetic materials/5G40.02 Barkhausen Effect (2)/5G40.02 Barkhausen Effect (2).md
+      - file: book/5 electricity and magnetism/5H magnetic fields and forces/5H magnetic fields and forces.md
+        sections: 
+        - file: book/5 electricity and magnetism/5H magnetic fields and forces/5H10.31 Magnetic Fields/5H10.31 Magnetic Fields.md
+        - file: book/5 electricity and magnetism/5H magnetic fields and forces/5H20.01 Force between Magnets (1)/5H20.01 Force between Magnets (1).md
+        - file: book/5 electricity and magnetism/5H magnetic fields and forces/5H20.02 Force between Magnets (2)/5H20.02 Force between Magnets (2).md
+        - file: book/5 electricity and magnetism/5H magnetic fields and forces/5H30.10 Force on Electrons in a Magnetic Field (2)/5H30.10 Force on Electrons in a Magnetic Field (2).md
+        - file: book/5 electricity and magnetism/5H magnetic fields and forces/5H30.12 Force on Electrons in a Magnetic Field (1)/5H30.12 Force on Electrons in a Magnetic Field (1).md
+        - file: book/5 electricity and magnetism/5H magnetic fields and forces/5H40.01 Force Effect of Current/5H40.01 Force Effect of Current.md
+        - file: book/5 electricity and magnetism/5H magnetic fields and forces/5H40.02 Lorentz Force (1)/5H40.02 Lorentz Force (1).md
+        - file: book/5 electricity and magnetism/5H magnetic fields and forces/5H40.10 Parallel Wires/5H40.10 Parallel Wires.md
+        - file: book/5 electricity and magnetism/5H magnetic fields and forces/5H40.30 Lorentz Force (2)/5H40.30 Lorentz Force (2).md
+        - file: book/5 electricity and magnetism/5H magnetic fields and forces/5H50.01 Current Loop in Magnetic Field/5H50.01 Current Loop in Magnetic Field.md
+      - file: book/5 electricity and magnetism/5J inductance/5J inductance.md
+        sections: 
+        - file: book/5 electricity and magnetism/5J inductance/5J10.01 Self-Inductance in AC Circuit/5J10.01 Self-Inductance in AC Circuit.md
+      - file: book/5 electricity and magnetism/5K electromagnetic induction/5K electromagnetic induction.md
+        sections: 
+        - file: book/5 electricity and magnetism/5K electromagnetic induction/5K10.01 Damped Galvanometer/5K10.01 Damped Galvanometer.md
+        - file: book/5 electricity and magnetism/5K electromagnetic induction/5K10.65 Skipping Rope/5K10.65 Skipping Rope.md
+        - file: book/5 electricity and magnetism/5K electromagnetic induction/5K20.01 Arago's Compass Needle/5K20.01 Arago's Compass Needle.md
+        - file: book/5 electricity and magnetism/5K electromagnetic induction/5K20.02 Arago's Disk/5K20.02 Arago's Disk.md
+        - file: book/5 electricity and magnetism/5K electromagnetic induction/5K30.01 Electric Power Transmission Line/5K30.01 Electric Power Transmission Line.md
+        - file: book/5 electricity and magnetism/5K electromagnetic induction/5K30.02 Transformer/5K30.02 Transformer.md
+        - file: book/5 electricity and magnetism/5K electromagnetic induction/5K40.01 Electric Motor (Synchronous Motor)/5K40.01 Electric Motor (Synchronous Motor).md
+      - file: book/5 electricity and magnetism/5L AC circuits/5L AC circuits.md
+        sections: 
+        - file: book/5 electricity and magnetism/5L AC circuits/5L20.01 Self-Inductance in AC Circuit/5L20.01 Self-Inductance in AC Circuit.md
+        - file: book/5 electricity and magnetism/5L AC circuits/5L20.02 Phase/5L20.02 Phase.md
+        - file: book/5 electricity and magnetism/5L AC circuits/5L20.19 LRC Circuits/5L20.19 LRC Circuits.md
+      - file: book/5 electricity and magnetism/5M semiconductors and tubes/5M semiconductors and tubes.md
+      - file: book/5 electricity and magnetism/5N electromagnetic radiation/5N electromagnetic radiation.md
+        sections: 
+        - file: book/5 electricity and magnetism/5N electromagnetic radiation/5N10.50 Electromagnetic Waves (Lecher Lines)/5N10.50 Electromagnetic Waves (Lecher Lines).md
+        - file: book/5 electricity and magnetism/5N electromagnetic radiation/5N10.57 Microwave Oven Standing Waves/5N10.57 Microwave Oven Standing Waves.md
+  - caption:
+    chapters:    
+    - file: book/6 optics/6 optics.md
+      sections: 
+      - file: book/6 optics/6A geometrical optics/6A geometrical optics.md
+        sections: 
+        - file: book/6 optics/6A geometrical optics/6A01.30 Speed of Light; Foucault-Michelson/6A01.30 Speed of Light; Foucault-Michelson.md
+        - file: book/6 optics/6A geometrical optics/6A10.02 Corner Cube/6A10.02 Corner Cube.md
+        - file: book/6 optics/6A geometrical optics/6A10.40 Confusing Mirrors (mirrors at 90 degrees)/6A10.40 Confusing Mirrors (mirrors at 90 degrees).md
+        - file: book/6 optics/6A geometrical optics/6A40.01 Chromatic Aberration/6A40.01 Chromatic Aberration.md
+        - file: book/6 optics/6A geometrical optics/6A40.40 Curved Lightbeams/6A40.40 Curved Lightbeams.md
+        - file: book/6 optics/6A geometrical optics/6A40.47 Curved Lightbeams/6A40.47 Curved Lightbeams.md
+        - file: book/6 optics/6A geometrical optics/6A42.01 Brewser's Angle (3)/6A42.01 Brewser's Angle (3).md
+        - file: book/6 optics/6A geometrical optics/6A44.01 Brewser's Angle (3)/6A44.01 Brewser's Angle (3).md
+        - file: book/6 optics/6A geometrical optics/6A44.42 Tunneling/6A44.42 Tunneling.md
+        - file: book/6 optics/6A geometrical optics/6A44.42 Tunneling (1)/6A44.42 Tunneling (1).md
+        - file: book/6 optics/6A geometrical optics/6A60.01 Chromatic Aberration/6A60.01 Chromatic Aberration.md
+        - file: book/6 optics/6A geometrical optics/6A70.01 Magnifying Glass/6A70.01 Magnifying Glass.md
+      - file: book/6 optics/6B photometry/6B photometry.md
+        sections: 
+        - file: book/6 optics/6B photometry/6B30.01 Radiation Pressure/6B30.01 Radiation Pressure.md
+      - file: book/6 optics/6C diffraction/6C diffraction.md
+        sections: 
+        - file: book/6 optics/6C diffraction/6C10.01 Resolution/6C10.01 Resolution.md
+        - file: book/6 optics/6C diffraction/6C10.10 Fraunhofer and Fresnel Diffraction/6C10.10 Fraunhofer and Fresnel Diffraction.md
+        - file: book/6 optics/6C diffraction/6C10.26 Young's Double Slit/6C10.26 Young's Double Slit.md
+        - file: book/6 optics/6C diffraction/6C20.01 Diffraction (1), introduction/6C20.01 Diffraction (1), introduction.md
+        - file: book/6 optics/6C diffraction/6C20.02 Diffraction (2a), Single Slit/6C20.02 Diffraction (2a), Single Slit.md
+        - file: book/6 optics/6C diffraction/6C20.03 Diffraction (2b), Single Slit/6C20.03 Diffraction (2b), Single Slit.md
+        - file: book/6 optics/6C diffraction/6C20.18 Fraunhofer and Fresnel Diffraction/6C20.18 Fraunhofer and Fresnel Diffraction.md
+      - file: book/6 optics/6D interference/6D interference.md
+        sections: 
+        - file: book/6 optics/6D interference/6D10.01 Fresnel Double Mirror/6D10.01 Fresnel Double Mirror.md
+        - file: book/6 optics/6D interference/6D10.02 Fresnel Double Prism/6D10.02 Fresnel Double Prism.md
+        - file: book/6 optics/6D interference/6D10.03 Lloyds Mirror/6D10.03 Lloyds Mirror.md
+        - file: book/6 optics/6D interference/6D10.10 Young's Double Slit/6D10.10 Young's Double Slit.md
+        - file: book/6 optics/6D interference/6D20.75 Speckle Spots and random Diffraction/6D20.75 Speckle Spots and random Diffraction.md
+        - file: book/6 optics/6D interference/6D30.01 Newton's Rings (1)/6D30.01 Newton's Rings (1).md
+        - file: book/6 optics/6D interference/6D30.02 Newton's Rings (2)/6D30.02 Newton's Rings (2).md
+        - file: book/6 optics/6D interference/6D30.03 Oil Film/6D30.03 Oil Film.md
+        - file: book/6 optics/6D interference/6D30.04 Soap Film/6D30.04 Soap Film.md
+        - file: book/6 optics/6D interference/6D40.10 Michelson-Morley Interferometer/6D40.10 Michelson-Morley Interferometer.md
+      - file: book/6 optics/6F color/6F color.md
+        sections: 
+        - file: book/6 optics/6F color/6F30.01 Chromatic Aberration/6F30.01 Chromatic Aberration.md
+      - file: book/6 optics/6H polarisation/6H polarisation.md
+        sections: 
+        - file: book/6 optics/6H polarisation/6H20.01 Brewser's Angle (2)/6H20.01 Brewser's Angle (2).md
+        - file: book/6 optics/6H polarisation/6H20.01 Brewser's Angle (3)/6H20.01 Brewser's Angle (3).md
+        - file: book/6 optics/6H polarisation/6H20.10 Brewser's Angle (1)/6H20.10 Brewser's Angle (1).md
+        - file: book/6 optics/6H polarisation/6H35.01 Brewser's Angle (1)/6H35.01 Brewser's Angle (1).md
+      - file: book/6 optics/6J the eye/6J the eye.md
+      - file: book/6 optics/6Q modern optics/6Q modern optics.md
+        sections: 
+        - file: book/6 optics/6Q modern optics/6Q20.21 Fraunhofer and Fresnel Diffraction/6Q20.21 Fraunhofer and Fresnel Diffraction.md
+  - caption:
+    chapters:    
+    - file: book/7 modern physics/7 modern physics.md
+      sections: 
+      - file: book/7 modern physics/7A quantum effects/7A quantum effects.md
+        sections: 
+        - file: book/7 modern physics/7A quantum effects/7A50.01 deBroglie Applied to Bohr/7A50.01 deBroglie Applied to Bohr.md
+        - file: book/7 modern physics/7A quantum effects/7A50.01 Tunneling/7A50.01 Tunneling.md
+        - file: book/7 modern physics/7A quantum effects/7A50.02 Tunneling/7A50.02 Tunneling.md
+        - file: book/7 modern physics/7A quantum effects/7A50.02 Tunneling (1)/7A50.02 Tunneling (1).md
+        - file: book/7 modern physics/7A quantum effects/7A60.01 Bragg Scattering/7A60.01 Bragg Scattering.md
+      - file: book/7 modern physics/7B atomic physics/7B atomic physics.md
+        sections: 
+        - file: book/7 modern physics/7B atomic physics/7B10.01 Balmer Series/7B10.01 Balmer Series.md
+        - file: book/7 modern physics/7B atomic physics/7B50.01 deBroglie Applied to Bohr/7B50.01 deBroglie Applied to Bohr.md
+      - file: book/7 modern physics/7D nuclear physics/7D nuclear physics.md
+      - file: book/7 modern physics/7E elementary particles/7E elementary particles.md
+      - file: book/7 modern physics/7F relativity/7F relativity.md
+        sections: 
+        - file: book/7 modern physics/7F relativity/7F10.01 E = mc^2 (Einstein)/7F10.01 E = mc^2 (Einstein).md
+  - caption:
+    chapters:  
+    - file: book/8 astronomy/8 astronomy.md
+  - caption:
+    chapters:    
+    - file: book/9 miscellaneous/9 miscellaneous.md
+ 
