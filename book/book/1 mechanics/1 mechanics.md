@@ -1,4 +1,3 @@
-
 ```{figure} /figures/busy.png
 ---
 width: 35%
