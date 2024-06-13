@@ -4,9 +4,9 @@ root: book/index
 parts:
   - caption: TU Delft DemoLab
     chapters:
-    - file: book/introduction/introduction.md
+    - file: book/0 introduction/introduction.md
       sections:
-      - file: book/introduction/Workflow.md
+      - file: book/0 introduction/Workflow.md
         title: Contribute to the book
   - caption:
     maxdepth: 2
