@@ -1,9 +1,3 @@
-
-```{figure} /figures/busy.png
----
-width: 35%
-align: right
-```
 ---
 jupytext:
   formats: md:myst
@@ -35,7 +29,6 @@ Please note that this resource is still work in progress. However, all documente
 <!-- And here is a code block: -->
 
 (how-we-work)=
-
 ## How we Work
 
 We consider our ***Demonstration Room*** as a shop and we sell demonstrations. We seduce professors to use our facilities and expertise. We need to seduce them because professors are not familiar with all the ideas available and they certainly have no time to investigate all the possibilities that exist.
@@ -49,7 +42,6 @@ We consider our ***Demonstration Room*** as a shop and we sell demonstrations. W
 7. we know what is commercially available
 
 (how-to-demonstrate)=
-
 ## How to Demonstrate
 
 :::{note}
