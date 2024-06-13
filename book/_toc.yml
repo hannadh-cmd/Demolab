@@ -544,400 +544,399 @@ parts:
           - file: book/4 thermodynamics/4F entropy and the second law/4F30 Heat Cycles/4F30.01 Dippy Bird/4F30.01 Dippy Bird.md
           - file: book/4 thermodynamics/4F entropy and the second law/4F30 Heat Cycles/4F30.01 Stirling Engine/4F30.01 Stirling Engine.md
 
-    #   # files related to section '5 electricity and magnetism'
-    # - file: book/5 electricity and magnetism/5 electricity and magnetism.md
-    #   sections: 
-
-    #     # files related to section '5A electrostatics'
-    #   - file: book/5 electricity and magnetism/5A electrostatics/5A electrostatics.md
-    #     sections: 
-
-    #       # files related to section '5A10 Producing Static Charge'
-    #     - file: book/5 electricity and magnetism/5A electrostatics/5A10 Producing Static Charge/5A10 Producing Static Charge.md
-    #       sections: 
-    #       - file: book/5 electricity and magnetism/5A electrostatics/5A10 Producing Static Charge/5A10.01 E-Field in Material (Electric Soap Bubbles)/5A10.01 E-Field in Material (Electric Soap Bubbles).md
-
-    #       # files related to section '5A20 Coulomb's Law'
-    #     - file: book/5 electricity and magnetism/5A electrostatics/5A20 Coulomb's Law/5A20 Coulomb's Law.md
-    #       sections: 
-    #       - file: book/5 electricity and magnetism/5A electrostatics/5A20 Coulomb's Law/5A20.21 Coulomb's Law (2)/5A20.21 Coulomb's Law (2).md
-    #       - file: book/5 electricity and magnetism/5A electrostatics/5A20 Coulomb's Law/5A20.24 E-Field in Material (Electric Soap Bubbles)/5A20.24 E-Field in Material (Electric Soap Bubbles).md
-
-    #       # files related to section '5A40 Induced Charge'
-    #     - file: book/5 electricity and magnetism/5A electrostatics/5A40 Induced Charge/5A40 Induced Charge.md
-    #       sections: 
-    #       - file: book/5 electricity and magnetism/5A electrostatics/5A40 Induced Charge/5A40.01 Charging by Induction/5A40.01 Charging by Induction.md
-    #       - file: book/5 electricity and magnetism/5A electrostatics/5A40 Induced Charge/5A40.02 Polarising a Dielectric/5A40.02 Polarising a Dielectric.md
-    #       - file: book/5 electricity and magnetism/5A electrostatics/5A40 Induced Charge/5A40.24 E-Field in Material (Electric Soap Bubbles)/5A40.24 E-Field in Material (Electric Soap Bubbles).md
-    #       - file: book/5 electricity and magnetism/5A electrostatics/5A40 Induced Charge/5A40.73 Water Dropper (almost Kelvin water dropper)/5A40.73 Water Dropper (almost Kelvin water dropper).md
-
-    #       # files related to section '5A50 Electrostatic Machines'
-    #     - file: book/5 electricity and magnetism/5A electrostatics/5A50 Electrostatic Machines/5A50 Electrostatic Machines.md
-    #       sections: 
-    #       - file: book/5 electricity and magnetism/5A electrostatics/5A50 Electrostatic Machines/5A50.01 Water Dropper (almost Kelvin water dropper)/5A50.01 Water Dropper (almost Kelvin water dropper).md
-
-    #     # files related to section '5B electric fields and potential'
-    #   - file: book/5 electricity and magnetism/5B electric fields and potential/5B electric fields and potential.md
-    #     sections: 
-
-    #       # files related to section '5B10 Electric Fields'
-    #     - file: book/5 electricity and magnetism/5B electric fields and potential/5B10 Electric Fields/5B10 Electric Fields.md
-    #       sections: 
-
-    #         # files related to section '5B10.03 Charge and Field; inside and'
-    #       - file: book/5 electricity and magnetism/5B electric fields and potential/5B10 Electric Fields/5B10.03 Charge and Field; inside and/5B10.03 Charge and Field; inside and.md
-    #         sections: 
-    #         - file: book/5 electricity and magnetism/5B electric fields and potential/5B10 Electric Fields/5B10.03 Charge and Field; inside and/or outside/or outside.md
-    #       - file: book/5 electricity and magnetism/5B electric fields and potential/5B10 Electric Fields/5B10.04 Charge is on the Outside/5B10.04 Charge is on the Outside.md
-
-    #       # files related to section '5B20 Gauss' Law'
-    #     - file: book/5 electricity and magnetism/5B electric fields and potential/5B20 Gauss' Law/5B20 Gauss' Law.md
-    #       sections: 
-    #       - file: book/5 electricity and magnetism/5B electric fields and potential/5B20 Gauss' Law/5B20.01 Gauss' Law/5B20.01 Gauss' Law.md
-    #       - file: book/5 electricity and magnetism/5B electric fields and potential/5B20 Gauss' Law/5B20.03 Charge is on the Outside/5B20.03 Charge is on the Outside.md
-    #       - file: book/5 electricity and magnetism/5B electric fields and potential/5B20 Gauss' Law/5B20.10 Charge and Field; inside outside/5B20.10 Charge and Field; inside outside.md
-
-    #     # files related to section '5C capacitance'
-    #   - file: book/5 electricity and magnetism/5C capacitance/5C capacitance.md
-    #     sections: 
-
-    #       # files related to section '5C10 Capacitors'
-    #     - file: book/5 electricity and magnetism/5C capacitance/5C10 Capacitors/5C10 Capacitors.md
-    #       sections: 
-    #       - file: book/5 electricity and magnetism/5C capacitance/5C10 Capacitors/5C10.20 Capacitor (1) Spacing between the Plates/5C10.20 Capacitor (1) Spacing between the Plates.md
-
-    #       # files related to section '5C20 Dielectric'
-    #     - file: book/5 electricity and magnetism/5C capacitance/5C20 Dielectric/5C20 Dielectric.md
-    #       sections: 
-    #       - file: book/5 electricity and magnetism/5C capacitance/5C20 Dielectric/5C20.01 Polarising a Dielectric/5C20.01 Polarising a Dielectric.md
-    #       - file: book/5 electricity and magnetism/5C capacitance/5C20 Dielectric/5C20.10 Capacitor (2) Different Dielectrics/5C20.10 Capacitor (2) Different Dielectrics.md
-
-    #       # files related to section '5C30 Energy stored in a capacitor'
-    #     - file: book/5 electricity and magnetism/5C capacitance/5C30 Energy stored in a capacitor/5C30 Energy stored in a capacitor.md
-    #       sections: 
-    #       - file: book/5 electricity and magnetism/5C capacitance/5C30 Energy stored in a capacitor/5C30.01 Capacitor (2) Different Dielectrics/5C30.01 Capacitor (2) Different Dielectrics.md
-
-    #     # files related to section '5D resistance'
-    #   - file: book/5 electricity and magnetism/5D resistance/5D resistance.md
-    #     sections: 
-
-    #       # files related to section '5D20 Resistivity and Temperature'
-    #     - file: book/5 electricity and magnetism/5D resistance/5D20 Resistivity and Temperature/5D20 Resistivity and Temperature.md
-    #       sections: 
-    #       - file: book/5 electricity and magnetism/5D resistance/5D20 Resistivity and Temperature/5D20.01 Positive Temperature Coefficient/5D20.01 Positive Temperature Coefficient.md
-    #       - file: book/5 electricity and magnetism/5D resistance/5D20 Resistivity and Temperature/5D20.02 Negative Temperature Coefficient/5D20.02 Negative Temperature Coefficient.md
-
-    #   # This section does currently not have any experiments 
-    #   - file: book/5 electricity and magnetism/5E electromotive force and current/5E electromotive force and current.md
-
-    #     # files related to section '5F DC circuits'
-    #   - file: book/5 electricity and magnetism/5F DC circuits/5F DC circuits.md
-    #     sections: 
-
-    #       # files related to section '5F15 Power and Energy'
-    #     - file: book/5 electricity and magnetism/5F DC circuits/5F15 Power and Energy/5F15 Power and Energy.md
-    #       sections: 
-    #       - file: book/5 electricity and magnetism/5F DC circuits/5F15 Power and Energy/5F15.31 Fuse-Wires Parallel/5F15.31 Fuse-Wires Parallel.md
-
-    #       # files related to section '5F20 Circuit Analysis'
-    #     - file: book/5 electricity and magnetism/5F DC circuits/5F20 Circuit Analysis/5F20 Circuit Analysis.md
-    #       sections: 
-    #       - file: book/5 electricity and magnetism/5F DC circuits/5F20 Circuit Analysis/5F20.01 Fuse-Wires Parallel/5F20.01 Fuse-Wires Parallel.md
-
-    #     # files related to section '5G magnetic materials'
-    #   - file: book/5 electricity and magnetism/5G magnetic materials/5G magnetic materials.md
-    #     sections: 
-
-    #       # files related to section '5G20 Magnet Domains and Magnetization'
-    #     - file: book/5 electricity and magnetism/5G magnetic materials/5G20 Magnet Domains and Magnetization/5G20 Magnet Domains and Magnetization.md
-    #       sections: 
-    #       - file: book/5 electricity and magnetism/5G magnetic materials/5G20 Magnet Domains and Magnetization/5G20.01 Barkhausen Effect (1)/5G20.01 Barkhausen Effect (1).md
-    #       - file: book/5 electricity and magnetism/5G magnetic materials/5G20 Magnet Domains and Magnetization/5G20.01 Barkhausen Effect (2)/5G20.01 Barkhausen Effect (2).md
-    #       - file: book/5 electricity and magnetism/5G magnetic materials/5G20 Magnet Domains and Magnetization/5G20.02 Barkhausen Effect (2)/5G20.02 Barkhausen Effect (2).md
-
-    #       # files related to section '5G40 Hysteresis'
-    #     - file: book/5 electricity and magnetism/5G magnetic materials/5G40 Hysteresis/5G40 Hysteresis.md
-    #       sections: 
-    #       - file: book/5 electricity and magnetism/5G magnetic materials/5G40 Hysteresis/5G40.01 Barkhausen Effect (1)/5G40.01 Barkhausen Effect (1).md
-    #       - file: book/5 electricity and magnetism/5G magnetic materials/5G40 Hysteresis/5G40.01 Barkhausen Effect (2)/5G40.01 Barkhausen Effect (2).md
-    #       - file: book/5 electricity and magnetism/5G magnetic materials/5G40 Hysteresis/5G40.02 Barkhausen Effect (2)/5G40.02 Barkhausen Effect (2).md
-
-    #     # files related to section '5H magnetic fields and forces'
-    #   - file: book/5 electricity and magnetism/5H magnetic fields and forces/5H magnetic fields and forces.md
-    #     sections: 
-
-    #       # files related to section '5H10 Magnetic Fields'
-    #     - file: book/5 electricity and magnetism/5H magnetic fields and forces/5H10 Magnetic Fields/5H10 Magnetic Fields.md
-    #       sections: 
-    #       - file: book/5 electricity and magnetism/5H magnetic fields and forces/5H10 Magnetic Fields/5H10.31 Magnetic Fields/5H10.31 Magnetic Fields.md
-
-    #       # files related to section '5H20 Forces on Magnets'
-    #     - file: book/5 electricity and magnetism/5H magnetic fields and forces/5H20 Forces on Magnets/5H20 Forces on Magnets.md
-    #       sections: 
-    #       - file: book/5 electricity and magnetism/5H magnetic fields and forces/5H20 Forces on Magnets/5H20.01 Force between Magnets (1)/5H20.01 Force between Magnets (1).md
-    #       - file: book/5 electricity and magnetism/5H magnetic fields and forces/5H20 Forces on Magnets/5H20.02 Force between Magnets (2)/5H20.02 Force between Magnets (2).md
-
-    #       # files related to section '5H30 Force on Moving Charges'
-    #     - file: book/5 electricity and magnetism/5H magnetic fields and forces/5H30 Force on Moving Charges/5H30 Force on Moving Charges.md
-    #       sections: 
-
-    #       # files related to section '5H40 Force on Current Wires'
-    #     - file: book/5 electricity and magnetism/5H magnetic fields and forces/5H40 Force on Current Wires/5H40 Force on Current Wires.md
-    #       sections: 
-    #       - file: book/5 electricity and magnetism/5H magnetic fields and forces/5H40 Force on Current Wires/5H40.01 Force Effect of Current/5H40.01 Force Effect of Current.md
-    #       - file: book/5 electricity and magnetism/5H magnetic fields and forces/5H40 Force on Current Wires/5H40.02 Lorentz Force (1)/5H40.02 Lorentz Force (1).md
-    #       - file: book/5 electricity and magnetism/5H magnetic fields and forces/5H40 Force on Current Wires/5H40.10 Parallel Wires/5H40.10 Parallel Wires.md
-    #       - file: book/5 electricity and magnetism/5H magnetic fields and forces/5H40 Force on Current Wires/5H40.30 Lorentz Force (2)/5H40.30 Lorentz Force (2).md
-
-    #       # files related to section '5H50 Torques on Coils'
-    #     - file: book/5 electricity and magnetism/5H magnetic fields and forces/5H50 Torques on Coils/5H50 Torques on Coils.md
-    #       sections: 
-    #       - file: book/5 electricity and magnetism/5H magnetic fields and forces/5H50 Torques on Coils/5H50.01 Current Loop in Magnetic Field/5H50.01 Current Loop in Magnetic Field.md
-
-    #     # files related to section '5J inductance'
-    #   - file: book/5 electricity and magnetism/5J inductance/5J inductance.md
-    #     sections: 
-
-    #       # files related to section '5J10 Self Inductance'
-    #     - file: book/5 electricity and magnetism/5J inductance/5J10 Self Inductance/5J10 Self Inductance.md
-    #       sections: 
-    #       - file: book/5 electricity and magnetism/5J inductance/5J10 Self Inductance/5J10.01 Self-Inductance in AC Circuit/5J10.01 Self-Inductance in AC Circuit.md
-
-    #     # files related to section '5K electromagnetic induction'
-    #   - file: book/5 electricity and magnetism/5K electromagnetic induction/5K electromagnetic induction.md
-    #     sections: 
-
-    #       # files related to section '5K10 Induced Currents and Forces'
-    #     - file: book/5 electricity and magnetism/5K electromagnetic induction/5K10 Induced Currents and Forces/5K10 Induced Currents and Forces.md
-    #       sections: 
-    #       - file: book/5 electricity and magnetism/5K electromagnetic induction/5K10 Induced Currents and Forces/5K10.01 Damped Galvanometer/5K10.01 Damped Galvanometer.md
-    #       - file: book/5 electricity and magnetism/5K electromagnetic induction/5K10 Induced Currents and Forces/5K10.65 Skipping Rope/5K10.65 Skipping Rope.md
-
-    #       # files related to section '5K20 Eddy Currents'
-    #     - file: book/5 electricity and magnetism/5K electromagnetic induction/5K20 Eddy Currents/5K20 Eddy Currents.md
-    #       sections: 
-    #       - file: book/5 electricity and magnetism/5K electromagnetic induction/5K20 Eddy Currents/5K20.01 Arago's Compass Needle/5K20.01 Arago's Compass Needle.md
-    #       - file: book/5 electricity and magnetism/5K electromagnetic induction/5K20 Eddy Currents/5K20.02 Arago's Disk/5K20.02 Arago's Disk.md
-
-    #       # files related to section '5K30 Transformers'
-    #     - file: book/5 electricity and magnetism/5K electromagnetic induction/5K30 Transformers/5K30 Transformers.md
-    #       sections: 
-    #       - file: book/5 electricity and magnetism/5K electromagnetic induction/5K30 Transformers/5K30.01 Electric Power Transmission Line/5K30.01 Electric Power Transmission Line.md
-    #       - file: book/5 electricity and magnetism/5K electromagnetic induction/5K30 Transformers/5K30.02 Transformer/5K30.02 Transformer.md
-
-    #       # files related to section '5K40 Motors and Generators'
-    #     - file: book/5 electricity and magnetism/5K electromagnetic induction/5K40 Motors and Generators/5K40 Motors and Generators.md
-    #       sections: 
-    #       - file: book/5 electricity and magnetism/5K electromagnetic induction/5K40 Motors and Generators/5K40.01 Electric Motor (Synchronous Motor)/5K40.01 Electric Motor (Synchronous Motor).md
-
-    #     # files related to section '5L AC circuits'
-    #   - file: book/5 electricity and magnetism/5L AC circuits/5L AC circuits.md
-    #     sections: 
-
-    #       # files related to section '5L20 LCR Circuits - AC'
-    #     - file: book/5 electricity and magnetism/5L AC circuits/5L20 LCR Circuits - AC/5L20 LCR Circuits - AC.md
-    #       sections: 
-    #       - file: book/5 electricity and magnetism/5L AC circuits/5L20 LCR Circuits - AC/5L20.01 Self-Inductance in AC Circuit/5L20.01 Self-Inductance in AC Circuit.md
-    #       - file: book/5 electricity and magnetism/5L AC circuits/5L20 LCR Circuits - AC/5L20.02 Phase/5L20.02 Phase.md
-    #       - file: book/5 electricity and magnetism/5L AC circuits/5L20 LCR Circuits - AC/5L20.19 LRC Circuits/5L20.19 LRC Circuits.md
-
-    #   # This section does currently not have any experiments 
-    #   - file: book/5 electricity and magnetism/5M semiconductors and tubes/5M semiconductors and tubes.md
-
-    #     # files related to section '5N electromagnetic radiation'
-    #   - file: book/5 electricity and magnetism/5N electromagnetic radiation/5N electromagnetic radiation.md
-    #     sections: 
-
-    #       # files related to section '5N10 Transmission Lines and Antennas'
-    #     - file: book/5 electricity and magnetism/5N electromagnetic radiation/5N10 Transmission Lines and Antennas/5N10 Transmission Lines and Antennas.md
-
-    #   # files related to section '6 optics'
-    # - file: book/6 optics/6 optics.md
-    #   sections: 
-
-    #     # files related to section '6A geometrical optics'
-    #   - file: book/6 optics/6A geometrical optics/6A geometrical optics.md
-    #     sections: 
-
-    #       # files related to section '6A01 Speed of Light'
-    #     - file: book/6 optics/6A geometrical optics/6A01 Speed of Light/6A01 Speed of Light.md
-    #       sections: 
-    #       - file: book/6 optics/6A geometrical optics/6A01 Speed of Light/6A01.30 Speed of Light; Foucault-Michelson/6A01.30 Speed of Light; Foucault-Michelson.md
-
-    #       # files related to section '6A10 Reflection From Flat Surfaces'
-    #     - file: book/6 optics/6A geometrical optics/6A10 Reflection From Flat Surfaces/6A10 Reflection From Flat Surfaces.md
-    #       sections: 
-    #       - file: book/6 optics/6A geometrical optics/6A10 Reflection From Flat Surfaces/6A10.02 Corner Cube/6A10.02 Corner Cube.md
-    #       - file: book/6 optics/6A geometrical optics/6A10 Reflection From Flat Surfaces/6A10.40 Confusing Mirrors (mirrors at 90 degrees)/6A10.40 Confusing Mirrors (mirrors at 90 degrees).md
-
-    #       # files related to section '6A40 Refractive Index'
-    #     - file: book/6 optics/6A geometrical optics/6A40 Refractive Index/6A40 Refractive Index.md
-    #       sections: 
-    #       - file: book/6 optics/6A geometrical optics/6A40 Refractive Index/6A40.01 Chromatic Aberration/6A40.01 Chromatic Aberration.md
-    #       - file: book/6 optics/6A geometrical optics/6A40 Refractive Index/6A40.40 Curved Lightbeams/6A40.40 Curved Lightbeams.md
-    #       - file: book/6 optics/6A geometrical optics/6A40 Refractive Index/6A40.47 Curved Lightbeams/6A40.47 Curved Lightbeams.md
-
-    #       # files related to section '6A42 Refraction at Flat Surfaces'
-    #     - file: book/6 optics/6A geometrical optics/6A42 Refraction at Flat Surfaces/6A42 Refraction at Flat Surfaces.md
-    #       sections: 
-    #       - file: book/6 optics/6A geometrical optics/6A42 Refraction at Flat Surfaces/6A42.01 Brewser's Angle (3)/6A42.01 Brewser's Angle (3).md
-
-    #       # files related to section '6A44 Total Internal Reflection'
-    #     - file: book/6 optics/6A geometrical optics/6A44 Total Internal Reflection/6A44 Total Internal Reflection.md
-    #       sections: 
-    #       - file: book/6 optics/6A geometrical optics/6A44 Total Internal Reflection/6A44.01 Brewser's Angle (3)/6A44.01 Brewser's Angle (3).md
-    #       - file: book/6 optics/6A geometrical optics/6A44 Total Internal Reflection/6A44.42 Tunneling/6A44.42 Tunneling.md
-    #       - file: book/6 optics/6A geometrical optics/6A44 Total Internal Reflection/6A44.42 Tunneling (1)/6A44.42 Tunneling (1).md
-
-    #       # files related to section '6A60 Thin Lens'
-    #     - file: book/6 optics/6A geometrical optics/6A60 Thin Lens/6A60 Thin Lens.md
-    #       sections: 
-    #       - file: book/6 optics/6A geometrical optics/6A60 Thin Lens/6A60.01 Chromatic Aberration/6A60.01 Chromatic Aberration.md
-
-    #       # files related to section '6A70 Optical Instruments'
-    #     - file: book/6 optics/6A geometrical optics/6A70 Optical Instruments/6A70 Optical Instruments.md
-    #       sections: 
-    #       - file: book/6 optics/6A geometrical optics/6A70 Optical Instruments/6A70.01 Magnifying Glass/6A70.01 Magnifying Glass.md
-
-    #     # files related to section '6B photometry'
-    #   - file: book/6 optics/6B photometry/6B photometry.md
-    #     sections: 
-
-    #       # files related to section '6B30 Radiation Pressure'
-    #     - file: book/6 optics/6B photometry/6B30 Radiation Pressure/6B30 Radiation Pressure.md
-    #       sections: 
-    #       - file: book/6 optics/6B photometry/6B30 Radiation Pressure/6B30.01 Radiation Pressure/6B30.01 Radiation Pressure.md
-
-    #     # files related to section '6C diffraction'
-    #   - file: book/6 optics/6C diffraction/6C diffraction.md
-    #     sections: 
-
-    #       # files related to section '6C10 Diffraction From Two Sources'
-    #     - file: book/6 optics/6C diffraction/6C10 Diffraction From Two Sources/6C10 Diffraction From Two Sources.md
-    #       sections: 
-    #       - file: book/6 optics/6C diffraction/6C10 Diffraction From Two Sources/6C10.01 Resolution/6C10.01 Resolution.md
-    #       - file: book/6 optics/6C diffraction/6C10 Diffraction From Two Sources/6C10.10 Fraunhofer and Fresnel Diffraction/6C10.10 Fraunhofer and Fresnel Diffraction.md
-    #       - file: book/6 optics/6C diffraction/6C10 Diffraction From Two Sources/6C10.26 Young's Double Slit/6C10.26 Young's Double Slit.md
-
-    #       # files related to section '6C20 Diffraction Around Objects'
-    #     - file: book/6 optics/6C diffraction/6C20 Diffraction Around Objects/6C20 Diffraction Around Objects.md
-    #       sections: 
-    #       - file: book/6 optics/6C diffraction/6C20 Diffraction Around Objects/6C20.01 Diffraction (1), introduction/6C20.01 Diffraction (1), introduction.md
-    #       - file: book/6 optics/6C diffraction/6C20 Diffraction Around Objects/6C20.02 Diffraction (2a), Single Slit/6C20.02 Diffraction (2a), Single Slit.md
-    #       - file: book/6 optics/6C diffraction/6C20 Diffraction Around Objects/6C20.03 Diffraction (2b), Single Slit/6C20.03 Diffraction (2b), Single Slit.md
-    #       - file: book/6 optics/6C diffraction/6C20 Diffraction Around Objects/6C20.18 Fraunhofer and Fresnel Diffraction/6C20.18 Fraunhofer and Fresnel Diffraction.md
-
-    #     # files related to section '6D interference'
-    #   - file: book/6 optics/6D interference/6D interference.md
-    #     sections: 
-
-    #       # files related to section '6D10 Interference From Two Sources'
-    #     - file: book/6 optics/6D interference/6D10 Interference From Two Sources/6D10 Interference From Two Sources.md
-    #       sections: 
-    #       - file: book/6 optics/6D interference/6D10 Interference From Two Sources/6D10.01 Fresnel Double Mirror/6D10.01 Fresnel Double Mirror.md
-    #       - file: book/6 optics/6D interference/6D10 Interference From Two Sources/6D10.02 Fresnel Double Prism/6D10.02 Fresnel Double Prism.md
-    #       - file: book/6 optics/6D interference/6D10 Interference From Two Sources/6D10.03 Lloyds Mirror/6D10.03 Lloyds Mirror.md
-    #       - file: book/6 optics/6D interference/6D10 Interference From Two Sources/6D10.10 Young's Double Slit/6D10.10 Young's Double Slit.md
-
-    #       # files related to section '6D20 Lasers'
-    #     - file: book/6 optics/6D interference/6D20 Lasers/6D20 Lasers.md
-    #       sections: 
-    #       - file: book/6 optics/6D interference/6D20 Lasers/6D20.75 Speckle Spots and random Diffraction/6D20.75 Speckle Spots and random Diffraction.md
-
-    #       # files related to section '6D30 Thin Films'
-    #     - file: book/6 optics/6D interference/6D30 Thin Films/6D30 Thin Films.md
-    #       sections: 
-    #       - file: book/6 optics/6D interference/6D30 Thin Films/6D30.01 Newton's Rings (1)/6D30.01 Newton's Rings (1).md
-    #       - file: book/6 optics/6D interference/6D30 Thin Films/6D30.02 Newton's Rings (2)/6D30.02 Newton's Rings (2).md
-    #       - file: book/6 optics/6D interference/6D30 Thin Films/6D30.03 Oil Film/6D30.03 Oil Film.md
-    #       - file: book/6 optics/6D interference/6D30 Thin Films/6D30.04 Soap Film/6D30.04 Soap Film.md
-
-    #     # files related to section '6F color'
-    #   - file: book/6 optics/6F color/6F color.md
-    #     sections: 
-
-    #       # files related to section '6F30 Dispersion'
-    #     - file: book/6 optics/6F color/6F30 Dispersion/6F30 Dispersion.md
-    #       sections: 
-    #       - file: book/6 optics/6F color/6F30 Dispersion/6F30.01 Chromatic Aberration/6F30.01 Chromatic Aberration.md
-
-    #     # files related to section '6H polarisation'
-    #   - file: book/6 optics/6H polarisation/6H polarisation.md
-    #     sections: 
-
-    #       # files related to section '6H20 Polarization by Reflection'
-    #     - file: book/6 optics/6H polarisation/6H20 Polarization by Reflection/6H20 Polarization by Reflection.md
-    #       sections: 
-    #       - file: book/6 optics/6H polarisation/6H20 Polarization by Reflection/6H20.01 Brewser's Angle (2)/6H20.01 Brewser's Angle (2).md
-    #       - file: book/6 optics/6H polarisation/6H20 Polarization by Reflection/6H20.01 Brewser's Angle (3)/6H20.01 Brewser's Angle (3).md
-    #       - file: book/6 optics/6H polarisation/6H20 Polarization by Reflection/6H20.10 Brewser's Angle (1)/6H20.10 Brewser's Angle (1).md
-
-    #       # files related to section '6H35 Birefringence'
-    #     - file: book/6 optics/6H polarisation/6H35 Birefringence/6H35 Birefringence.md
-    #       sections: 
-    #       - file: book/6 optics/6H polarisation/6H35 Birefringence/6H35.01 Brewser's Angle (1)/6H35.01 Brewser's Angle (1).md
-
-    #   # This section does currently not have any experiments 
-    #   - file: book/6 optics/6J the eye/6J the eye.md
-
-    #   # This section does currently not have any experiments 
-    #   - file: book/6 optics/6Q modern optics/6Q modern optics.md
-
-    #   # files related to section '7 modern physics'
-    # - file: book/7 modern physics/7 modern physics.md
-    #   sections: 
-
-    #     # files related to section '7A quantum effects'
-    #   - file: book/7 modern physics/7A quantum effects/7A quantum effects.md
-    #     sections: 
-
-    #       # files related to section '7A50 Wave Mechanics'
-    #     - file: book/7 modern physics/7A quantum effects/7A50 Wave Mechanics/7A50 Wave Mechanics.md
-    #       sections: 
-    #       - file: book/7 modern physics/7A quantum effects/7A50 Wave Mechanics/7A50.01 deBroglie Applied to Bohr/7A50.01 deBroglie Applied to Bohr.md
-    #       - file: book/7 modern physics/7A quantum effects/7A50 Wave Mechanics/7A50.01 Tunneling/7A50.01 Tunneling.md
-    #       - file: book/7 modern physics/7A quantum effects/7A50 Wave Mechanics/7A50.02 Tunneling/7A50.02 Tunneling.md
-    #       - file: book/7 modern physics/7A quantum effects/7A50 Wave Mechanics/7A50.02 Tunneling (1)/7A50.02 Tunneling (1).md
-
-    #       # files related to section '7A60 X-ray and Electron Diffraction'
-    #     - file: book/7 modern physics/7A quantum effects/7A60 X-ray and Electron Diffraction/7A60 X-ray and Electron Diffraction.md
-    #       sections: 
-    #       - file: book/7 modern physics/7A quantum effects/7A60 X-ray and Electron Diffraction/7A60.01 Bragg Scattering/7A60.01 Bragg Scattering.md
-
-    #     # files related to section '7B atomic physics'
-    #   - file: book/7 modern physics/7B atomic physics/7B atomic physics.md
-    #     sections: 
-
-    #       # files related to section '7B10 Spectra'
-    #     - file: book/7 modern physics/7B atomic physics/7B10 Spectra/7B10 Spectra.md
-    #       sections: 
-    #       - file: book/7 modern physics/7B atomic physics/7B10 Spectra/7B10.01 Balmer Series/7B10.01 Balmer Series.md
-
-    #       # files related to section '7B50 Atomic Models'
-    #     - file: book/7 modern physics/7B atomic physics/7B50 Atomic Models/7B50 Atomic Models.md
-    #       sections: 
-    #       - file: book/7 modern physics/7B atomic physics/7B50 Atomic Models/7B50.01 deBroglie Applied to Bohr/7B50.01 deBroglie Applied to Bohr.md
-
-    #   # This section does currently not have any experiments 
-    #   - file: book/7 modern physics/7D nuclear physics/7D nuclear physics.md
-
-    #   # This section does currently not have any experiments 
-    #   - file: book/7 modern physics/7E elementary particles/7E elementary particles.md
-
-    #     # files related to section '7F relativity'
-    #   - file: book/7 modern physics/7F relativity/7F relativity.md
-    #     sections: 
-
-    #       # files related to section '7F10 Relativity'
-    #     - file: book/7 modern physics/7F relativity/7F10 Relativity/7F10 Relativity.md
-    #       sections: 
-    #       - file: book/7 modern physics/7F relativity/7F10 Relativity/7F10.01 E = mc^2 (Einstein)/7F10.01 E = mc^2 (Einstein).md
-
-    # # This section does currently not have any experiments 
-    # - file: book/8 astronomy/8 astronomy.md
-
-    # # This section does currently not have any experiments 
-    # - file: book/9 miscellaneous/9 miscellaneous.md
-
-    # # This section does currently not have any experiments 
-    # - file: book/introduction/introduction.md
+      # files related to section '5 electricity and magnetism'
+    - file: book/5 electricity and magnetism/5 electricity and magnetism.md
+      sections: 
+
+        # files related to section '5A electrostatics'
+      - file: book/5 electricity and magnetism/5A electrostatics/5A electrostatics.md
+        sections: 
+
+          # files related to section '5A10 Producing Static Charge'
+        - file: book/5 electricity and magnetism/5A electrostatics/5A10 Producing Static Charge/5A10 Producing Static Charge.md
+          sections: 
+          - file: book/5 electricity and magnetism/5A electrostatics/5A10 Producing Static Charge/5A10.01 E-Field in Material (Electric Soap Bubbles)/5A10.01 E-Field in Material (Electric Soap Bubbles).md
+
+          # files related to section '5A20 Coulomb's Law'
+        - file: book/5 electricity and magnetism/5A electrostatics/5A20 Coulomb's Law/5A20 Coulomb's Law.md
+          sections: 
+          - file: book/5 electricity and magnetism/5A electrostatics/5A20 Coulomb's Law/5A20.21 Coulomb's Law (2)/5A20.21 Coulomb's Law (2).md
+          - file: book/5 electricity and magnetism/5A electrostatics/5A20 Coulomb's Law/5A20.24 E-Field in Material (Electric Soap Bubbles)/5A20.24 E-Field in Material (Electric Soap Bubbles).md
+
+          # files related to section '5A40 Induced Charge'
+        - file: book/5 electricity and magnetism/5A electrostatics/5A40 Induced Charge/5A40 Induced Charge.md
+          sections: 
+          - file: book/5 electricity and magnetism/5A electrostatics/5A40 Induced Charge/5A40.01 Charging by Induction/5A40.01 Charging by Induction.md
+          - file: book/5 electricity and magnetism/5A electrostatics/5A40 Induced Charge/5A40.02 Polarising a Dielectric/5A40.02 Polarising a Dielectric.md
+          - file: book/5 electricity and magnetism/5A electrostatics/5A40 Induced Charge/5A40.24 E-Field in Material (Electric Soap Bubbles)/5A40.24 E-Field in Material (Electric Soap Bubbles).md
+          - file: book/5 electricity and magnetism/5A electrostatics/5A40 Induced Charge/5A40.73 Water Dropper (almost Kelvin water dropper)/5A40.73 Water Dropper (almost Kelvin water dropper).md
+
+          # files related to section '5A50 Electrostatic Machines'
+        - file: book/5 electricity and magnetism/5A electrostatics/5A50 Electrostatic Machines/5A50 Electrostatic Machines.md
+          sections: 
+          - file: book/5 electricity and magnetism/5A electrostatics/5A50 Electrostatic Machines/5A50.01 Water Dropper (almost Kelvin water dropper)/5A50.01 Water Dropper (almost Kelvin water dropper).md
+
+        # files related to section '5B electric fields and potential'
+      - file: book/5 electricity and magnetism/5B electric fields and potential/5B electric fields and potential.md
+        sections: 
+
+          # files related to section '5B10 Electric Fields'
+        - file: book/5 electricity and magnetism/5B electric fields and potential/5B10 Electric Fields/5B10 Electric Fields.md
+          sections: 
+
+            # files related to section '5B10.03 Charge and Field; inside and'
+          - file: book/5 electricity and magnetism/5B electric fields and potential/5B10 Electric Fields/5B10.03 Charge and Field; inside and/5B10.03 Charge and Field; inside and.md
+            sections: 
+            - file: book/5 electricity and magnetism/5B electric fields and potential/5B10 Electric Fields/5B10.03 Charge and Field; inside and/or outside/or outside.md
+          - file: book/5 electricity and magnetism/5B electric fields and potential/5B10 Electric Fields/5B10.04 Charge is on the Outside/5B10.04 Charge is on the Outside.md
+
+          # files related to section '5B20 Gauss' Law'
+        - file: book/5 electricity and magnetism/5B electric fields and potential/5B20 Gauss' Law/5B20 Gauss' Law.md
+          sections: 
+          - file: book/5 electricity and magnetism/5B electric fields and potential/5B20 Gauss' Law/5B20.01 Gauss' Law/5B20.01 Gauss' Law.md
+          - file: book/5 electricity and magnetism/5B electric fields and potential/5B20 Gauss' Law/5B20.03 Charge is on the Outside/5B20.03 Charge is on the Outside.md
+          - file: book/5 electricity and magnetism/5B electric fields and potential/5B20 Gauss' Law/5B20.10 Charge and Field; inside outside/5B20.10 Charge and Field; inside outside.md
+
+        # files related to section '5C capacitance'
+      - file: book/5 electricity and magnetism/5C capacitance/5C capacitance.md
+        sections: 
+
+          # files related to section '5C10 Capacitors'
+        - file: book/5 electricity and magnetism/5C capacitance/5C10 Capacitors/5C10 Capacitors.md
+          sections: 
+          - file: book/5 electricity and magnetism/5C capacitance/5C10 Capacitors/5C10.20 Capacitor (1) Spacing between the Plates/5C10.20 Capacitor (1) Spacing between the Plates.md
+
+          # files related to section '5C20 Dielectric'
+        - file: book/5 electricity and magnetism/5C capacitance/5C20 Dielectric/5C20 Dielectric.md
+          sections: 
+          - file: book/5 electricity and magnetism/5C capacitance/5C20 Dielectric/5C20.01 Polarising a Dielectric/5C20.01 Polarising a Dielectric.md
+          - file: book/5 electricity and magnetism/5C capacitance/5C20 Dielectric/5C20.10 Capacitor (2) Different Dielectrics/5C20.10 Capacitor (2) Different Dielectrics.md
+
+          # files related to section '5C30 Energy stored in a capacitor'
+        - file: book/5 electricity and magnetism/5C capacitance/5C30 Energy stored in a capacitor/5C30 Energy stored in a capacitor.md
+          sections: 
+          - file: book/5 electricity and magnetism/5C capacitance/5C30 Energy stored in a capacitor/5C30.01 Capacitor (2) Different Dielectrics/5C30.01 Capacitor (2) Different Dielectrics.md
+
+        # files related to section '5D resistance'
+      - file: book/5 electricity and magnetism/5D resistance/5D resistance.md
+        sections: 
+
+          # files related to section '5D20 Resistivity and Temperature'
+        - file: book/5 electricity and magnetism/5D resistance/5D20 Resistivity and Temperature/5D20 Resistivity and Temperature.md
+          sections: 
+          - file: book/5 electricity and magnetism/5D resistance/5D20 Resistivity and Temperature/5D20.01 Positive Temperature Coefficient/5D20.01 Positive Temperature Coefficient.md
+          - file: book/5 electricity and magnetism/5D resistance/5D20 Resistivity and Temperature/5D20.02 Negative Temperature Coefficient/5D20.02 Negative Temperature Coefficient.md
+
+      # This section does currently not have any experiments 
+      - file: book/5 electricity and magnetism/5E electromotive force and current/5E electromotive force and current.md
+
+        # files related to section '5F DC circuits'
+      - file: book/5 electricity and magnetism/5F DC circuits/5F DC circuits.md
+        sections: 
+
+          # files related to section '5F15 Power and Energy'
+        - file: book/5 electricity and magnetism/5F DC circuits/5F15 Power and Energy/5F15 Power and Energy.md
+          sections: 
+          - file: book/5 electricity and magnetism/5F DC circuits/5F15 Power and Energy/5F15.31 Fuse-Wires Parallel/5F15.31 Fuse-Wires Parallel.md
+
+          # files related to section '5F20 Circuit Analysis'
+        - file: book/5 electricity and magnetism/5F DC circuits/5F20 Circuit Analysis/5F20 Circuit Analysis.md
+          sections: 
+          - file: book/5 electricity and magnetism/5F DC circuits/5F20 Circuit Analysis/5F20.01 Fuse-Wires Parallel/5F20.01 Fuse-Wires Parallel.md
+
+        # files related to section '5G magnetic materials'
+      - file: book/5 electricity and magnetism/5G magnetic materials/5G magnetic materials.md
+        sections: 
+
+          # files related to section '5G20 Magnet Domains and Magnetization'
+        - file: book/5 electricity and magnetism/5G magnetic materials/5G20 Magnet Domains and Magnetization/5G20 Magnet Domains and Magnetization.md
+          sections: 
+          - file: book/5 electricity and magnetism/5G magnetic materials/5G20 Magnet Domains and Magnetization/5G20.01 Barkhausen Effect (1)/5G20.01 Barkhausen Effect (1).md
+          - file: book/5 electricity and magnetism/5G magnetic materials/5G20 Magnet Domains and Magnetization/5G20.01 Barkhausen Effect (2)/5G20.01 Barkhausen Effect (2).md
+          - file: book/5 electricity and magnetism/5G magnetic materials/5G20 Magnet Domains and Magnetization/5G20.02 Barkhausen Effect (2)/5G20.02 Barkhausen Effect (2).md
+
+          # files related to section '5G40 Hysteresis'
+        - file: book/5 electricity and magnetism/5G magnetic materials/5G40 Hysteresis/5G40 Hysteresis.md
+          sections: 
+          - file: book/5 electricity and magnetism/5G magnetic materials/5G40 Hysteresis/5G40.01 Barkhausen Effect (1)/5G40.01 Barkhausen Effect (1).md
+          - file: book/5 electricity and magnetism/5G magnetic materials/5G40 Hysteresis/5G40.01 Barkhausen Effect (2)/5G40.01 Barkhausen Effect (2).md
+          - file: book/5 electricity and magnetism/5G magnetic materials/5G40 Hysteresis/5G40.02 Barkhausen Effect (2)/5G40.02 Barkhausen Effect (2).md
+
+        # files related to section '5H magnetic fields and forces'
+      - file: book/5 electricity and magnetism/5H magnetic fields and forces/5H magnetic fields and forces.md
+        sections: 
+
+          # files related to section '5H10 Magnetic Fields'
+        - file: book/5 electricity and magnetism/5H magnetic fields and forces/5H10 Magnetic Fields/5H10 Magnetic Fields.md
+          sections: 
+          - file: book/5 electricity and magnetism/5H magnetic fields and forces/5H10 Magnetic Fields/5H10.31 Magnetic Fields/5H10.31 Magnetic Fields.md
+
+          # files related to section '5H20 Forces on Magnets'
+        - file: book/5 electricity and magnetism/5H magnetic fields and forces/5H20 Forces on Magnets/5H20 Forces on Magnets.md
+          sections: 
+          - file: book/5 electricity and magnetism/5H magnetic fields and forces/5H20 Forces on Magnets/5H20.01 Force between Magnets (1)/5H20.01 Force between Magnets (1).md
+          - file: book/5 electricity and magnetism/5H magnetic fields and forces/5H20 Forces on Magnets/5H20.02 Force between Magnets (2)/5H20.02 Force between Magnets (2).md
+
+          # files related to section '5H30 Force on Moving Charges'
+        - file: book/5 electricity and magnetism/5H magnetic fields and forces/5H30 Force on Moving Charges/5H30 Force on Moving Charges.md
+
+          # files related to section '5H40 Force on Current Wires'
+        - file: book/5 electricity and magnetism/5H magnetic fields and forces/5H40 Force on Current Wires/5H40 Force on Current Wires.md
+          sections: 
+          - file: book/5 electricity and magnetism/5H magnetic fields and forces/5H40 Force on Current Wires/5H40.01 Force Effect of Current/5H40.01 Force Effect of Current.md
+          - file: book/5 electricity and magnetism/5H magnetic fields and forces/5H40 Force on Current Wires/5H40.02 Lorentz Force (1)/5H40.02 Lorentz Force (1).md
+          - file: book/5 electricity and magnetism/5H magnetic fields and forces/5H40 Force on Current Wires/5H40.10 Parallel Wires/5H40.10 Parallel Wires.md
+          - file: book/5 electricity and magnetism/5H magnetic fields and forces/5H40 Force on Current Wires/5H40.30 Lorentz Force (2)/5H40.30 Lorentz Force (2).md
+
+          # files related to section '5H50 Torques on Coils'
+        - file: book/5 electricity and magnetism/5H magnetic fields and forces/5H50 Torques on Coils/5H50 Torques on Coils.md
+          sections: 
+          - file: book/5 electricity and magnetism/5H magnetic fields and forces/5H50 Torques on Coils/5H50.01 Current Loop in Magnetic Field/5H50.01 Current Loop in Magnetic Field.md
+
+        # files related to section '5J inductance'
+      - file: book/5 electricity and magnetism/5J inductance/5J inductance.md
+        sections: 
+
+          # files related to section '5J10 Self Inductance'
+        - file: book/5 electricity and magnetism/5J inductance/5J10 Self Inductance/5J10 Self Inductance.md
+          sections: 
+          - file: book/5 electricity and magnetism/5J inductance/5J10 Self Inductance/5J10.01 Self-Inductance in AC Circuit/5J10.01 Self-Inductance in AC Circuit.md
+
+        # files related to section '5K electromagnetic induction'
+      - file: book/5 electricity and magnetism/5K electromagnetic induction/5K electromagnetic induction.md
+        sections: 
+
+          # files related to section '5K10 Induced Currents and Forces'
+        - file: book/5 electricity and magnetism/5K electromagnetic induction/5K10 Induced Currents and Forces/5K10 Induced Currents and Forces.md
+          sections: 
+          - file: book/5 electricity and magnetism/5K electromagnetic induction/5K10 Induced Currents and Forces/5K10.01 Damped Galvanometer/5K10.01 Damped Galvanometer.md
+          - file: book/5 electricity and magnetism/5K electromagnetic induction/5K10 Induced Currents and Forces/5K10.65 Skipping Rope/5K10.65 Skipping Rope.md
+
+          # files related to section '5K20 Eddy Currents'
+        - file: book/5 electricity and magnetism/5K electromagnetic induction/5K20 Eddy Currents/5K20 Eddy Currents.md
+          sections: 
+          - file: book/5 electricity and magnetism/5K electromagnetic induction/5K20 Eddy Currents/5K20.01 Arago's Compass Needle/5K20.01 Arago's Compass Needle.md
+          - file: book/5 electricity and magnetism/5K electromagnetic induction/5K20 Eddy Currents/5K20.02 Arago's Disk/5K20.02 Arago's Disk.md
+
+          # files related to section '5K30 Transformers'
+        - file: book/5 electricity and magnetism/5K electromagnetic induction/5K30 Transformers/5K30 Transformers.md
+          sections: 
+          - file: book/5 electricity and magnetism/5K electromagnetic induction/5K30 Transformers/5K30.01 Electric Power Transmission Line/5K30.01 Electric Power Transmission Line.md
+          - file: book/5 electricity and magnetism/5K electromagnetic induction/5K30 Transformers/5K30.02 Transformer/5K30.02 Transformer.md
+
+          # files related to section '5K40 Motors and Generators'
+        - file: book/5 electricity and magnetism/5K electromagnetic induction/5K40 Motors and Generators/5K40 Motors and Generators.md
+          sections: 
+          - file: book/5 electricity and magnetism/5K electromagnetic induction/5K40 Motors and Generators/5K40.01 Electric Motor (Synchronous Motor)/5K40.01 Electric Motor (Synchronous Motor).md
+
+        # files related to section '5L AC circuits'
+      - file: book/5 electricity and magnetism/5L AC circuits/5L AC circuits.md
+        sections: 
+
+          # files related to section '5L20 LCR Circuits - AC'
+        - file: book/5 electricity and magnetism/5L AC circuits/5L20 LCR Circuits - AC/5L20 LCR Circuits - AC.md
+          sections: 
+          - file: book/5 electricity and magnetism/5L AC circuits/5L20 LCR Circuits - AC/5L20.01 Self-Inductance in AC Circuit/5L20.01 Self-Inductance in AC Circuit.md
+          - file: book/5 electricity and magnetism/5L AC circuits/5L20 LCR Circuits - AC/5L20.02 Phase/5L20.02 Phase.md
+          - file: book/5 electricity and magnetism/5L AC circuits/5L20 LCR Circuits - AC/5L20.19 LRC Circuits/5L20.19 LRC Circuits.md
+
+      # This section does currently not have any experiments 
+      - file: book/5 electricity and magnetism/5M semiconductors and tubes/5M semiconductors and tubes.md
+
+        # files related to section '5N electromagnetic radiation'
+      - file: book/5 electricity and magnetism/5N electromagnetic radiation/5N electromagnetic radiation.md
+        sections: 
+
+          # files related to section '5N10 Transmission Lines and Antennas'
+        - file: book/5 electricity and magnetism/5N electromagnetic radiation/5N10 Transmission Lines and Antennas/5N10 Transmission Lines and Antennas.md
+
+      # files related to section '6 optics'
+    - file: book/6 optics/6 optics.md
+      sections: 
+
+        # files related to section '6A geometrical optics'
+      - file: book/6 optics/6A geometrical optics/6A geometrical optics.md
+        sections: 
+
+          # files related to section '6A01 Speed of Light'
+        - file: book/6 optics/6A geometrical optics/6A01 Speed of Light/6A01 Speed of Light.md
+          sections: 
+          - file: book/6 optics/6A geometrical optics/6A01 Speed of Light/6A01.30 Speed of Light; Foucault-Michelson/6A01.30 Speed of Light; Foucault-Michelson.md
+
+          # files related to section '6A10 Reflection From Flat Surfaces'
+        - file: book/6 optics/6A geometrical optics/6A10 Reflection From Flat Surfaces/6A10 Reflection From Flat Surfaces.md
+          sections: 
+          - file: book/6 optics/6A geometrical optics/6A10 Reflection From Flat Surfaces/6A10.02 Corner Cube/6A10.02 Corner Cube.md
+          - file: book/6 optics/6A geometrical optics/6A10 Reflection From Flat Surfaces/6A10.40 Confusing Mirrors (mirrors at 90 degrees)/6A10.40 Confusing Mirrors (mirrors at 90 degrees).md
+
+          # files related to section '6A40 Refractive Index'
+        - file: book/6 optics/6A geometrical optics/6A40 Refractive Index/6A40 Refractive Index.md
+          sections: 
+          - file: book/6 optics/6A geometrical optics/6A40 Refractive Index/6A40.01 Chromatic Aberration/6A40.01 Chromatic Aberration.md
+          - file: book/6 optics/6A geometrical optics/6A40 Refractive Index/6A40.40 Curved Lightbeams/6A40.40 Curved Lightbeams.md
+          - file: book/6 optics/6A geometrical optics/6A40 Refractive Index/6A40.47 Curved Lightbeams/6A40.47 Curved Lightbeams.md
+
+          # files related to section '6A42 Refraction at Flat Surfaces'
+        - file: book/6 optics/6A geometrical optics/6A42 Refraction at Flat Surfaces/6A42 Refraction at Flat Surfaces.md
+          sections: 
+          - file: book/6 optics/6A geometrical optics/6A42 Refraction at Flat Surfaces/6A42.01 Brewser's Angle (3)/6A42.01 Brewser's Angle (3).md
+
+          # files related to section '6A44 Total Internal Reflection'
+        - file: book/6 optics/6A geometrical optics/6A44 Total Internal Reflection/6A44 Total Internal Reflection.md
+          sections: 
+          - file: book/6 optics/6A geometrical optics/6A44 Total Internal Reflection/6A44.01 Brewser's Angle (3)/6A44.01 Brewser's Angle (3).md
+          - file: book/6 optics/6A geometrical optics/6A44 Total Internal Reflection/6A44.42 Tunneling/6A44.42 Tunneling.md
+          - file: book/6 optics/6A geometrical optics/6A44 Total Internal Reflection/6A44.42 Tunneling (1)/6A44.42 Tunneling (1).md
+
+          # files related to section '6A60 Thin Lens'
+        - file: book/6 optics/6A geometrical optics/6A60 Thin Lens/6A60 Thin Lens.md
+          sections: 
+          - file: book/6 optics/6A geometrical optics/6A60 Thin Lens/6A60.01 Chromatic Aberration/6A60.01 Chromatic Aberration.md
+
+          # files related to section '6A70 Optical Instruments'
+        - file: book/6 optics/6A geometrical optics/6A70 Optical Instruments/6A70 Optical Instruments.md
+          sections: 
+          - file: book/6 optics/6A geometrical optics/6A70 Optical Instruments/6A70.01 Magnifying Glass/6A70.01 Magnifying Glass.md
+
+        # files related to section '6B photometry'
+      - file: book/6 optics/6B photometry/6B photometry.md
+        sections: 
+
+          # files related to section '6B30 Radiation Pressure'
+        - file: book/6 optics/6B photometry/6B30 Radiation Pressure/6B30 Radiation Pressure.md
+          sections: 
+          - file: book/6 optics/6B photometry/6B30 Radiation Pressure/6B30.01 Radiation Pressure/6B30.01 Radiation Pressure.md
+
+        # files related to section '6C diffraction'
+      - file: book/6 optics/6C diffraction/6C diffraction.md
+        sections: 
+
+          # files related to section '6C10 Diffraction From Two Sources'
+        - file: book/6 optics/6C diffraction/6C10 Diffraction From Two Sources/6C10 Diffraction From Two Sources.md
+          sections: 
+          - file: book/6 optics/6C diffraction/6C10 Diffraction From Two Sources/6C10.01 Resolution/6C10.01 Resolution.md
+          - file: book/6 optics/6C diffraction/6C10 Diffraction From Two Sources/6C10.10 Fraunhofer and Fresnel Diffraction/6C10.10 Fraunhofer and Fresnel Diffraction.md
+          - file: book/6 optics/6C diffraction/6C10 Diffraction From Two Sources/6C10.26 Young's Double Slit/6C10.26 Young's Double Slit.md
+
+          # files related to section '6C20 Diffraction Around Objects'
+        - file: book/6 optics/6C diffraction/6C20 Diffraction Around Objects/6C20 Diffraction Around Objects.md
+          sections: 
+          - file: book/6 optics/6C diffraction/6C20 Diffraction Around Objects/6C20.01 Diffraction (1), introduction/6C20.01 Diffraction (1), introduction.md
+          - file: book/6 optics/6C diffraction/6C20 Diffraction Around Objects/6C20.02 Diffraction (2a), Single Slit/6C20.02 Diffraction (2a), Single Slit.md
+          - file: book/6 optics/6C diffraction/6C20 Diffraction Around Objects/6C20.03 Diffraction (2b), Single Slit/6C20.03 Diffraction (2b), Single Slit.md
+          - file: book/6 optics/6C diffraction/6C20 Diffraction Around Objects/6C20.18 Fraunhofer and Fresnel Diffraction/6C20.18 Fraunhofer and Fresnel Diffraction.md
+
+        # files related to section '6D interference'
+      - file: book/6 optics/6D interference/6D interference.md
+        sections: 
+
+          # files related to section '6D10 Interference From Two Sources'
+        - file: book/6 optics/6D interference/6D10 Interference From Two Sources/6D10 Interference From Two Sources.md
+          sections: 
+          - file: book/6 optics/6D interference/6D10 Interference From Two Sources/6D10.01 Fresnel Double Mirror/6D10.01 Fresnel Double Mirror.md
+          - file: book/6 optics/6D interference/6D10 Interference From Two Sources/6D10.02 Fresnel Double Prism/6D10.02 Fresnel Double Prism.md
+          - file: book/6 optics/6D interference/6D10 Interference From Two Sources/6D10.03 Lloyds Mirror/6D10.03 Lloyds Mirror.md
+          - file: book/6 optics/6D interference/6D10 Interference From Two Sources/6D10.10 Young's Double Slit/6D10.10 Young's Double Slit.md
+
+          # files related to section '6D20 Lasers'
+        - file: book/6 optics/6D interference/6D20 Lasers/6D20 Lasers.md
+          sections: 
+          - file: book/6 optics/6D interference/6D20 Lasers/6D20.75 Speckle Spots and random Diffraction/6D20.75 Speckle Spots and random Diffraction.md
+
+          # files related to section '6D30 Thin Films'
+        - file: book/6 optics/6D interference/6D30 Thin Films/6D30 Thin Films.md
+          sections: 
+          - file: book/6 optics/6D interference/6D30 Thin Films/6D30.01 Newton's Rings (1)/6D30.01 Newton's Rings (1).md
+          - file: book/6 optics/6D interference/6D30 Thin Films/6D30.02 Newton's Rings (2)/6D30.02 Newton's Rings (2).md
+          - file: book/6 optics/6D interference/6D30 Thin Films/6D30.03 Oil Film/6D30.03 Oil Film.md
+          - file: book/6 optics/6D interference/6D30 Thin Films/6D30.04 Soap Film/6D30.04 Soap Film.md
+
+        # files related to section '6F color'
+      - file: book/6 optics/6F color/6F color.md
+        sections: 
+
+          # files related to section '6F30 Dispersion'
+        - file: book/6 optics/6F color/6F30 Dispersion/6F30 Dispersion.md
+          sections: 
+          - file: book/6 optics/6F color/6F30 Dispersion/6F30.01 Chromatic Aberration/6F30.01 Chromatic Aberration.md
+
+        # files related to section '6H polarisation'
+      - file: book/6 optics/6H polarisation/6H polarisation.md
+        sections: 
+
+          # files related to section '6H20 Polarization by Reflection'
+        - file: book/6 optics/6H polarisation/6H20 Polarization by Reflection/6H20 Polarization by Reflection.md
+          sections: 
+          - file: book/6 optics/6H polarisation/6H20 Polarization by Reflection/6H20.01 Brewser's Angle (2)/6H20.01 Brewser's Angle (2).md
+          - file: book/6 optics/6H polarisation/6H20 Polarization by Reflection/6H20.01 Brewser's Angle (3)/6H20.01 Brewser's Angle (3).md
+          - file: book/6 optics/6H polarisation/6H20 Polarization by Reflection/6H20.10 Brewser's Angle (1)/6H20.10 Brewser's Angle (1).md
+
+          # files related to section '6H35 Birefringence'
+        - file: book/6 optics/6H polarisation/6H35 Birefringence/6H35 Birefringence.md
+          sections: 
+          - file: book/6 optics/6H polarisation/6H35 Birefringence/6H35.01 Brewser's Angle (1)/6H35.01 Brewser's Angle (1).md
+
+      # This section does currently not have any experiments 
+      - file: book/6 optics/6J the eye/6J the eye.md
+
+      # This section does currently not have any experiments 
+      - file: book/6 optics/6Q modern optics/6Q modern optics.md
+
+      # files related to section '7 modern physics'
+    - file: book/7 modern physics/7 modern physics.md
+      sections: 
+
+        # files related to section '7A quantum effects'
+      - file: book/7 modern physics/7A quantum effects/7A quantum effects.md
+        sections: 
+
+          # files related to section '7A50 Wave Mechanics'
+        - file: book/7 modern physics/7A quantum effects/7A50 Wave Mechanics/7A50 Wave Mechanics.md
+          sections: 
+          - file: book/7 modern physics/7A quantum effects/7A50 Wave Mechanics/7A50.01 deBroglie Applied to Bohr/7A50.01 deBroglie Applied to Bohr.md
+          - file: book/7 modern physics/7A quantum effects/7A50 Wave Mechanics/7A50.01 Tunneling/7A50.01 Tunneling.md
+          - file: book/7 modern physics/7A quantum effects/7A50 Wave Mechanics/7A50.02 Tunneling/7A50.02 Tunneling.md
+          - file: book/7 modern physics/7A quantum effects/7A50 Wave Mechanics/7A50.02 Tunneling (1)/7A50.02 Tunneling (1).md
+
+          # files related to section '7A60 X-ray and Electron Diffraction'
+        - file: book/7 modern physics/7A quantum effects/7A60 X-ray and Electron Diffraction/7A60 X-ray and Electron Diffraction.md
+          sections: 
+          - file: book/7 modern physics/7A quantum effects/7A60 X-ray and Electron Diffraction/7A60.01 Bragg Scattering/7A60.01 Bragg Scattering.md
+
+        # files related to section '7B atomic physics'
+      - file: book/7 modern physics/7B atomic physics/7B atomic physics.md
+        sections: 
+
+          # files related to section '7B10 Spectra'
+        - file: book/7 modern physics/7B atomic physics/7B10 Spectra/7B10 Spectra.md
+          sections: 
+          - file: book/7 modern physics/7B atomic physics/7B10 Spectra/7B10.01 Balmer Series/7B10.01 Balmer Series.md
+
+          # files related to section '7B50 Atomic Models'
+        - file: book/7 modern physics/7B atomic physics/7B50 Atomic Models/7B50 Atomic Models.md
+          sections: 
+          - file: book/7 modern physics/7B atomic physics/7B50 Atomic Models/7B50.01 deBroglie Applied to Bohr/7B50.01 deBroglie Applied to Bohr.md
+
+      # This section does currently not have any experiments 
+      - file: book/7 modern physics/7D nuclear physics/7D nuclear physics.md
+
+      # This section does currently not have any experiments 
+      - file: book/7 modern physics/7E elementary particles/7E elementary particles.md
+
+        # files related to section '7F relativity'
+      - file: book/7 modern physics/7F relativity/7F relativity.md
+        sections: 
+
+          # files related to section '7F10 Relativity'
+        - file: book/7 modern physics/7F relativity/7F10 Relativity/7F10 Relativity.md
+          sections: 
+          - file: book/7 modern physics/7F relativity/7F10 Relativity/7F10.01 E = mc^2 (Einstein)/7F10.01 E = mc^2 (Einstein).md
+
+    # This section does currently not have any experiments 
+    - file: book/8 astronomy/8 astronomy.md
+
+    # This section does currently not have any experiments 
+    - file: book/9 miscellaneous/9 miscellaneous.md
+
+    # This section does currently not have any experiments 
+    - file: book/introduction/introduction.md
