@@ -933,10 +933,10 @@ parts:
           - file: book/7 modern physics/7F relativity/7F10 Relativity/7F10.01 E = mc^2 (Einstein)/7F10.01 E = mc^2 (Einstein).md
 
     # # This section does currently not have any experiments 
-    # - file: book/8 astronomy/8 astronomy.md
+    - file: book/8 astronomy/8 astronomy.md
 
     # # This section does currently not have any experiments 
-    # - file: book/9 miscellaneous/9 miscellaneous.md
+    - file: book/9 miscellaneous/9 miscellaneous.md
 
     # # This section does currently not have any experiments 
-    # - file: book/introduction/introduction.md
+    - file: book/introduction/introduction.md
