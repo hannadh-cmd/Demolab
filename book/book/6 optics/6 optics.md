@@ -4,6 +4,6 @@
 width: 35%
 align: right
 ```
-# 6 optics
+# 6 Optics
 
 This chapter covers many demonstrations in the field of optics
