@@ -1,9 +1,3 @@
-
-```{figure} /figures/busy.png
----
-width: 35%
-align: right
-```
 ---
 jupytext:
   formats: md:myst
@@ -18,8 +12,14 @@ kernelspec:
   name: python3
 ---
 
-(introduction)=
 
+```{figure} /figures/busy.png
+---
+width: 35%
+align: right
+```
+
+(introduction)=
 # Introduction
 
 :::{index} how to demonstrate

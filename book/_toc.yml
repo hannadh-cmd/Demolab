@@ -5,9 +5,10 @@ parts:
   - caption: TU Delft DemoLab
     chapters:
     - file: book/introduction/introduction.md
+      title: Introduction
       sections:
       - file: book/introduction/Workflow.md
-      title: Contribute to the book
+        title: Contribute to the book
   - caption:
     maxdepth: 2
     chapters:    
