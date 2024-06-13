@@ -27,290 +27,290 @@ parts:
           sections: 
           - file: book/1 mechanics/1A measurement/1A40 Vectors/1A40.01 Cross Product/1A40.01 Cross Product.md
 
-    #   # This section does currently not have any experiments 
-    #   - file: book/1 mechanics/1C motion in one dimension/1C motion in one dimension.md
+      # This section does currently not have any experiments 
+      - file: book/1 mechanics/1C motion in one dimension/1C motion in one dimension.md
 
-    #     # files related to section '1D motion in two dimensions'
-    #   - file: book/1 mechanics/1D motion in two dimensions/1D motion in two dimensions.md
-    #     sections: 
+        # files related to section '1D motion in two dimensions'
+      - file: book/1 mechanics/1D motion in two dimensions/1D motion in two dimensions.md
+        sections: 
 
-    #       # files related to section '1D40 Motion of the Center of Mass'
-    #     - file: book/1 mechanics/1D motion in two dimensions/1D40 Motion of the Center of Mass/1D40 Motion of the Center of Mass.md
-    #       sections: 
-    #       - file: book/1 mechanics/1D motion in two dimensions/1D40 Motion of the Center of Mass/1D40.01 Centre of Mass/1D40.01 Centre of Mass.md
-    #       - file: book/1 mechanics/1D motion in two dimensions/1D40 Motion of the Center of Mass/1D40.02 Centre of Rotation/1D40.02 Centre of Rotation.md
-    #       - file: book/1 mechanics/1D motion in two dimensions/1D40 Motion of the Center of Mass/1D40.03 Student's Centre of Mass/1D40.03 Student's Centre of Mass.md
+          # files related to section '1D40 Motion of the Center of Mass'
+        - file: book/1 mechanics/1D motion in two dimensions/1D40 Motion of the Center of Mass/1D40 Motion of the Center of Mass.md
+          sections: 
+          - file: book/1 mechanics/1D motion in two dimensions/1D40 Motion of the Center of Mass/1D40.01 Centre of Mass/1D40.01 Centre of Mass.md
+          - file: book/1 mechanics/1D motion in two dimensions/1D40 Motion of the Center of Mass/1D40.02 Centre of Rotation/1D40.02 Centre of Rotation.md
+          - file: book/1 mechanics/1D motion in two dimensions/1D40 Motion of the Center of Mass/1D40.03 Student's Centre of Mass/1D40.03 Student's Centre of Mass.md
 
-    #       # files related to section '1D50 Central Forces'
-    #     - file: book/1 mechanics/1D motion in two dimensions/1D50 Central Forces/1D50 Central Forces.md
-    #       sections: 
-    #       - file: book/1 mechanics/1D motion in two dimensions/1D50 Central Forces/1D50.01 Going Round in Circles/1D50.01 Going Round in Circles.md
-    #       - file: book/1 mechanics/1D motion in two dimensions/1D50 Central Forces/1D50.02 Conical Pendulum/1D50.02 Conical Pendulum.md
-    #       - file: book/1 mechanics/1D motion in two dimensions/1D50 Central Forces/1D50.03 Centripetal Force/1D50.03 Centripetal Force.md
-    #       - file: book/1 mechanics/1D motion in two dimensions/1D50 Central Forces/1D50.04 Force Field/1D50.04 Force Field.md
+          # files related to section '1D50 Central Forces'
+        - file: book/1 mechanics/1D motion in two dimensions/1D50 Central Forces/1D50 Central Forces.md
+          sections: 
+          - file: book/1 mechanics/1D motion in two dimensions/1D50 Central Forces/1D50.01 Going Round in Circles/1D50.01 Going Round in Circles.md
+          - file: book/1 mechanics/1D motion in two dimensions/1D50 Central Forces/1D50.02 Conical Pendulum/1D50.02 Conical Pendulum.md
+          - file: book/1 mechanics/1D motion in two dimensions/1D50 Central Forces/1D50.03 Centripetal Force/1D50.03 Centripetal Force.md
+          - file: book/1 mechanics/1D motion in two dimensions/1D50 Central Forces/1D50.04 Force Field/1D50.04 Force Field.md
 
-    #     # files related to section '1E relative motion'
-    #   - file: book/1 mechanics/1E relative motion/1E relative motion.md
-    #     sections: 
+        # files related to section '1E relative motion'
+      - file: book/1 mechanics/1E relative motion/1E relative motion.md
+        sections: 
 
-    #       # files related to section '1E10 Moving Reference Frames'
-    #     - file: book/1 mechanics/1E relative motion/1E10 Moving Reference Frames/1E10 Moving Reference Frames.md
-    #       sections: 
-    #       - file: book/1 mechanics/1E relative motion/1E10 Moving Reference Frames/1E10.01 Super Balls, Double Ball Drop/1E10.01 Super Balls, Double Ball Drop.md
-    #       - file: book/1 mechanics/1E relative motion/1E10 Moving Reference Frames/1E10.02 Galilean Cart/1E10.02 Galilean Cart.md
-    #       - file: book/1 mechanics/1E relative motion/1E10 Moving Reference Frames/1E10.03 Shoot and Catch/1E10.03 Shoot and Catch.md
+          # files related to section '1E10 Moving Reference Frames'
+        - file: book/1 mechanics/1E relative motion/1E10 Moving Reference Frames/1E10 Moving Reference Frames.md
+          sections: 
+          - file: book/1 mechanics/1E relative motion/1E10 Moving Reference Frames/1E10.01 Super Balls, Double Ball Drop/1E10.01 Super Balls, Double Ball Drop.md
+          - file: book/1 mechanics/1E relative motion/1E10 Moving Reference Frames/1E10.02 Galilean Cart/1E10.02 Galilean Cart.md
+          - file: book/1 mechanics/1E relative motion/1E10 Moving Reference Frames/1E10.03 Shoot and Catch/1E10.03 Shoot and Catch.md
 
-    #       # files related to section '1E20 Rotating Reference Frames'
-    #     - file: book/1 mechanics/1E relative motion/1E20 Rotating Reference Frames/1E20 Rotating Reference Frames.md
-    #       sections: 
-    #       - file: book/1 mechanics/1E relative motion/1E20 Rotating Reference Frames/1E20.01 Coriolis (2)/1E20.01 Coriolis (2).md
-    #       - file: book/1 mechanics/1E relative motion/1E20 Rotating Reference Frames/1E20.02 Coriolis (1a)/1E20.02 Coriolis (1a).md
-    #       - file: book/1 mechanics/1E relative motion/1E20 Rotating Reference Frames/1E20.03 Coriolis (1b)/1E20.03 Coriolis (1b).md
-    #       - file: book/1 mechanics/1E relative motion/1E20 Rotating Reference Frames/1E20.04 Coriolis Merry-go-Round/1E20.04 Coriolis Merry-go-Round.md
-    #       - file: book/1 mechanics/1E relative motion/1E20 Rotating Reference Frames/1E20.05 Coriolis (3)/1E20.05 Coriolis (3).md
-    #       - file: book/1 mechanics/1E relative motion/1E20 Rotating Reference Frames/1E20.06 Rotating Liquid/1E20.06 Rotating Liquid.md
+          # files related to section '1E20 Rotating Reference Frames'
+        - file: book/1 mechanics/1E relative motion/1E20 Rotating Reference Frames/1E20 Rotating Reference Frames.md
+          sections: 
+          - file: book/1 mechanics/1E relative motion/1E20 Rotating Reference Frames/1E20.01 Coriolis (2)/1E20.01 Coriolis (2).md
+          - file: book/1 mechanics/1E relative motion/1E20 Rotating Reference Frames/1E20.02 Coriolis (1a)/1E20.02 Coriolis (1a).md
+          - file: book/1 mechanics/1E relative motion/1E20 Rotating Reference Frames/1E20.03 Coriolis (1b)/1E20.03 Coriolis (1b).md
+          - file: book/1 mechanics/1E relative motion/1E20 Rotating Reference Frames/1E20.04 Coriolis Merry-go-Round/1E20.04 Coriolis Merry-go-Round.md
+          - file: book/1 mechanics/1E relative motion/1E20 Rotating Reference Frames/1E20.05 Coriolis (3)/1E20.05 Coriolis (3).md
+          - file: book/1 mechanics/1E relative motion/1E20 Rotating Reference Frames/1E20.06 Rotating Liquid/1E20.06 Rotating Liquid.md
 
-    #       # files related to section '1E30 Coriolis Effect'
-    #     - file: book/1 mechanics/1E relative motion/1E30 Coriolis Effect/1E30 Coriolis Effect.md
-    #       sections: 
-    #       - file: book/1 mechanics/1E relative motion/1E30 Coriolis Effect/1E30.01 Coriolis (3)/1E30.01 Coriolis (3).md
-    #       - file: book/1 mechanics/1E relative motion/1E30 Coriolis Effect/1E30.01 Cross Product/1E30.01 Cross Product.md
+          # files related to section '1E30 Coriolis Effect'
+        - file: book/1 mechanics/1E relative motion/1E30 Coriolis Effect/1E30 Coriolis Effect.md
+          sections: 
+          - file: book/1 mechanics/1E relative motion/1E30 Coriolis Effect/1E30.01 Coriolis (3)/1E30.01 Coriolis (3).md
+          - file: book/1 mechanics/1E relative motion/1E30 Coriolis Effect/1E30.01 Cross Product/1E30.01 Cross Product.md
 
-    #     # files related to section '1F newton's first law'
-    #   - file: book/1 mechanics/1F newton's first law/1F newton's first law.md
-    #     sections: 
+        # files related to section '1F newton's first law'
+      - file: book/1 mechanics/1F newton's first law/1F newton's first law.md
+        sections: 
 
-    #       # files related to section '1F20 Inertia of Rest'
-    #     - file: book/1 mechanics/1F newton's first law/1F20 Inertia of Rest/1F20 Inertia of Rest.md
-    #       sections: 
-    #       - file: book/1 mechanics/1F newton's first law/1F20 Inertia of Rest/1F20.01 Tablecloth Pull/1F20.01 Tablecloth Pull.md
-    #       - file: book/1 mechanics/1F newton's first law/1F20 Inertia of Rest/1F20.02 Newton's Hammer/1F20.02 Newton's Hammer.md
-    #       - file: book/1 mechanics/1F newton's first law/1F20 Inertia of Rest/1F20.03 Not Breaking a Wineglass/1F20.03 Not Breaking a Wineglass.md
+          # files related to section '1F20 Inertia of Rest'
+        - file: book/1 mechanics/1F newton's first law/1F20 Inertia of Rest/1F20 Inertia of Rest.md
+          sections: 
+          - file: book/1 mechanics/1F newton's first law/1F20 Inertia of Rest/1F20.01 Tablecloth Pull/1F20.01 Tablecloth Pull.md
+          - file: book/1 mechanics/1F newton's first law/1F20 Inertia of Rest/1F20.02 Newton's Hammer/1F20.02 Newton's Hammer.md
+          - file: book/1 mechanics/1F newton's first law/1F20 Inertia of Rest/1F20.03 Not Breaking a Wineglass/1F20.03 Not Breaking a Wineglass.md
 
-    #       # files related to section '1F30 Inertia of Motion'
-    #     - file: book/1 mechanics/1F newton's first law/1F30 Inertia of Motion/1F30 Inertia of Motion.md
-    #       sections: 
-    #       - file: book/1 mechanics/1F newton's first law/1F30 Inertia of Motion/1F30.01 Galileo's Thoughts/1F30.01 Galileo's Thoughts.md
-    #       - file: book/1 mechanics/1F newton's first law/1F30 Inertia of Motion/1F30.02 Walk and Ball/1F30.02 Walk and Ball.md
+          # files related to section '1F30 Inertia of Motion'
+        - file: book/1 mechanics/1F newton's first law/1F30 Inertia of Motion/1F30 Inertia of Motion.md
+          sections: 
+          - file: book/1 mechanics/1F newton's first law/1F30 Inertia of Motion/1F30.01 Galileo's Thoughts/1F30.01 Galileo's Thoughts.md
+          - file: book/1 mechanics/1F newton's first law/1F30 Inertia of Motion/1F30.02 Walk and Ball/1F30.02 Walk and Ball.md
 
-    #     # files related to section '1G newton's second law'
-    #   - file: book/1 mechanics/1G newton's second law/1G newton's second law.md
-    #     sections: 
+        # files related to section '1G newton's second law'
+      - file: book/1 mechanics/1G newton's second law/1G newton's second law.md
+        sections: 
 
-    #       # files related to section '1G10 Force, Mass, and Acceleration'
-    #     - file: book/1 mechanics/1G newton's second law/1G10 Force, Mass, and Acceleration/1G10 Force, Mass, and Acceleration.md
-    #       sections: 
-    #       - file: book/1 mechanics/1G newton's second law/1G10 Force, Mass, and Acceleration/1G10.01 Throwing Eggs/1G10.01 Throwing Eggs.md
-    #       - file: book/1 mechanics/1G newton's second law/1G10 Force, Mass, and Acceleration/1G10.02 Bungee Jumper/1G10.02 Bungee Jumper.md
-    #       - file: book/1 mechanics/1G newton's second law/1G10 Force, Mass, and Acceleration/1G10.03 Pulling a Thread/1G10.03 Pulling a Thread.md
+          # files related to section '1G10 Force, Mass, and Acceleration'
+        - file: book/1 mechanics/1G newton's second law/1G10 Force, Mass, and Acceleration/1G10 Force, Mass, and Acceleration.md
+          sections: 
+          - file: book/1 mechanics/1G newton's second law/1G10 Force, Mass, and Acceleration/1G10.01 Throwing Eggs/1G10.01 Throwing Eggs.md
+          - file: book/1 mechanics/1G newton's second law/1G10 Force, Mass, and Acceleration/1G10.02 Bungee Jumper/1G10.02 Bungee Jumper.md
+          - file: book/1 mechanics/1G newton's second law/1G10 Force, Mass, and Acceleration/1G10.03 Pulling a Thread/1G10.03 Pulling a Thread.md
 
-    #     # files related to section '1H newton's third law'
-    #   - file: book/1 mechanics/1H newton's third law/1H newton's third law.md
-    #     sections: 
+        # files related to section '1H newton's third law'
+      - file: book/1 mechanics/1H newton's third law/1H newton's third law.md
+        sections: 
 
-    #       # files related to section '1H10 Action and Reaction'
-    #     - file: book/1 mechanics/1H newton's third law/1H10 Action and Reaction/1H10 Action and Reaction.md
-    #       sections: 
-    #       - file: book/1 mechanics/1H newton's third law/1H10 Action and Reaction/1H10.01 Who is the Strongest in a Collision/1H10.01 Who is the Strongest in a Collision.md
-    #       - file: book/1 mechanics/1H newton's third law/1H10 Action and Reaction/1H10.02 Who is Pulling/1H10.02 Who is Pulling.md
-    #       - file: book/1 mechanics/1H newton's third law/1H10 Action and Reaction/1H10.03 Trying Hard to Pull Differently/1H10.03 Trying Hard to Pull Differently.md
-    #       - file: book/1 mechanics/1H newton's third law/1H10 Action and Reaction/1H10.04 Bottle Rocket/1H10.04 Bottle Rocket.md
-    #       - file: book/1 mechanics/1H newton's third law/1H10 Action and Reaction/1H10.05 Magnet Symmetry/1H10.05 Magnet Symmetry.md
-    #       - file: book/1 mechanics/1H newton's third law/1H10 Action and Reaction/1H10.06 Recoil of a Water Jet/1H10.06 Recoil of a Water Jet.md
-    #       - file: book/1 mechanics/1H newton's third law/1H10 Action and Reaction/1H10.07 Strong Magnet, Weak Paperclip/1H10.07 Strong Magnet, Weak Paperclip.md
+          # files related to section '1H10 Action and Reaction'
+        - file: book/1 mechanics/1H newton's third law/1H10 Action and Reaction/1H10 Action and Reaction.md
+          sections: 
+          - file: book/1 mechanics/1H newton's third law/1H10 Action and Reaction/1H10.01 Who is the Strongest in a Collision/1H10.01 Who is the Strongest in a Collision.md
+          - file: book/1 mechanics/1H newton's third law/1H10 Action and Reaction/1H10.02 Who is Pulling/1H10.02 Who is Pulling.md
+          - file: book/1 mechanics/1H newton's third law/1H10 Action and Reaction/1H10.03 Trying Hard to Pull Differently/1H10.03 Trying Hard to Pull Differently.md
+          - file: book/1 mechanics/1H newton's third law/1H10 Action and Reaction/1H10.04 Bottle Rocket/1H10.04 Bottle Rocket.md
+          - file: book/1 mechanics/1H newton's third law/1H10 Action and Reaction/1H10.05 Magnet Symmetry/1H10.05 Magnet Symmetry.md
+          - file: book/1 mechanics/1H newton's third law/1H10 Action and Reaction/1H10.06 Recoil of a Water Jet/1H10.06 Recoil of a Water Jet.md
+          - file: book/1 mechanics/1H newton's third law/1H10 Action and Reaction/1H10.07 Strong Magnet, Weak Paperclip/1H10.07 Strong Magnet, Weak Paperclip.md
 
-    #     # files related to section '1J statics of rigid bodies'
-    #   - file: book/1 mechanics/1J statics of rigid bodies/1J statics of rigid bodies.md
-    #     sections: 
+        # files related to section '1J statics of rigid bodies'
+      - file: book/1 mechanics/1J statics of rigid bodies/1J statics of rigid bodies.md
+        sections: 
 
-    #       # files related to section '1J20 Stable, Unstable and Neut. Equilibrium'
-    #     - file: book/1 mechanics/1J statics of rigid bodies/1J20 Stable, Unstable and Neut. Equilibrium/1J20 Stable, Unstable and Neut. Equilibrium.md
-    #       sections: 
-    #       - file: book/1 mechanics/1J statics of rigid bodies/1J20 Stable, Unstable and Neut. Equilibrium/1J20.01 Equilibrium and Potential Energy/1J20.01 Equilibrium and Potential Energy.md
+          # files related to section '1J20 Stable, Unstable and Neut. Equilibrium'
+        - file: book/1 mechanics/1J statics of rigid bodies/1J20 Stable, Unstable and Neut. Equilibrium/1J20 Stable, Unstable and Neut. Equilibrium.md
+          sections: 
+          - file: book/1 mechanics/1J statics of rigid bodies/1J20 Stable, Unstable and Neut. Equilibrium/1J20.01 Equilibrium and Potential Energy/1J20.01 Equilibrium and Potential Energy.md
 
-    #       # files related to section '1J30 Resolution of Forces'
-    #     - file: book/1 mechanics/1J statics of rigid bodies/1J30 Resolution of Forces/1J30 Resolution of Forces.md
-    #       sections: 
-    #       - file: book/1 mechanics/1J statics of rigid bodies/1J30 Resolution of Forces/1J30.01 Strong Professor (Weak Students)/1J30.01 Strong Professor (Weak Students).md
+          # files related to section '1J30 Resolution of Forces'
+        - file: book/1 mechanics/1J statics of rigid bodies/1J30 Resolution of Forces/1J30 Resolution of Forces.md
+          sections: 
+          - file: book/1 mechanics/1J statics of rigid bodies/1J30 Resolution of Forces/1J30.01 Strong Professor (Weak Students)/1J30.01 Strong Professor (Weak Students).md
 
-    #     # files related to section '1K applications of newton's laws'
-    #   - file: book/1 mechanics/1K applications of newton's laws/1K applications of newton's laws.md
-    #     sections: 
+        # files related to section '1K applications of newton's laws'
+      - file: book/1 mechanics/1K applications of newton's laws/1K applications of newton's laws.md
+        sections: 
 
-    #       # files related to section '1K10 Dynamic Torque'
-    #     - file: book/1 mechanics/1K applications of newton's laws/1K10 Dynamic Torque/1K10 Dynamic Torque.md
-    #       sections: 
-    #       - file: book/1 mechanics/1K applications of newton's laws/1K10 Dynamic Torque/1K10.01 Pulling a Spool (a.k.a. Oma's Garenklosje)/1K10.01 Pulling a Spool (a.k.a. Oma's Garenklosje).md
-    #       - file: book/1 mechanics/1K applications of newton's laws/1K10 Dynamic Torque/1K10.01 Throwing a Basketball/1K10.01 Throwing a Basketball.md
-    #       - file: book/1 mechanics/1K applications of newton's laws/1K10 Dynamic Torque/1K10.02 Boomerang Ball (1)/1K10.02 Boomerang Ball (1).md
-    #       - file: book/1 mechanics/1K applications of newton's laws/1K10 Dynamic Torque/1K10.03 Boomerang Ball (2)/1K10.03 Boomerang Ball (2).md
-    #       - file: book/1 mechanics/1K applications of newton's laws/1K10 Dynamic Torque/1K10.04 Falling Stick/1K10.04 Falling Stick.md
+          # files related to section '1K10 Dynamic Torque'
+        - file: book/1 mechanics/1K applications of newton's laws/1K10 Dynamic Torque/1K10 Dynamic Torque.md
+          sections: 
+          - file: book/1 mechanics/1K applications of newton's laws/1K10 Dynamic Torque/1K10.01 Pulling a Spool (a.k.a. Oma's Garenklosje)/1K10.01 Pulling a Spool (a.k.a. Oma's Garenklosje).md
+          - file: book/1 mechanics/1K applications of newton's laws/1K10 Dynamic Torque/1K10.01 Throwing a Basketball/1K10.01 Throwing a Basketball.md
+          - file: book/1 mechanics/1K applications of newton's laws/1K10 Dynamic Torque/1K10.02 Boomerang Ball (1)/1K10.02 Boomerang Ball (1).md
+          - file: book/1 mechanics/1K applications of newton's laws/1K10 Dynamic Torque/1K10.03 Boomerang Ball (2)/1K10.03 Boomerang Ball (2).md
+          - file: book/1 mechanics/1K applications of newton's laws/1K10 Dynamic Torque/1K10.04 Falling Stick/1K10.04 Falling Stick.md
 
-    #       # files related to section '1K20 Friction'
-    #     - file: book/1 mechanics/1K applications of newton's laws/1K20 Friction/1K20 Friction.md
-    #       sections: 
-    #       - file: book/1 mechanics/1K applications of newton's laws/1K20 Friction/1K20.01 Braking/1K20.01 Braking.md
-    #       - file: book/1 mechanics/1K applications of newton's laws/1K20 Friction/1K20.02 Phonebook Friction/1K20.02 Phonebook Friction.md
-    #       - file: book/1 mechanics/1K applications of newton's laws/1K20 Friction/1K20.04 Falling Stick/1K20.04 Falling Stick.md
-    #       - file: book/1 mechanics/1K applications of newton's laws/1K20 Friction/1K20.05 Throwing a Basketball/1K20.05 Throwing a Basketball.md
-    #       - file: book/1 mechanics/1K applications of newton's laws/1K20 Friction/1K20.06 Chain Friction/1K20.06 Chain Friction.md
-    #       - file: book/1 mechanics/1K applications of newton's laws/1K20 Friction/1K20.07 Moving Two Fingers under a Meterstick/1K20.07 Moving Two Fingers under a Meterstick.md
-    #       - file: book/1 mechanics/1K applications of newton's laws/1K20 Friction/1K20.08 No Tipping Allowed/1K20.08 No Tipping Allowed.md
-    #       - file: book/1 mechanics/1K applications of newton's laws/1K20 Friction/1K20.09 Pulling a Sliding Block/1K20.09 Pulling a Sliding Block.md
-    #       - file: book/1 mechanics/1K applications of newton's laws/1K20 Friction/1K20.10 Rolling Up-and-Down, Again and Again/1K20.10 Rolling Up-and-Down, Again and Again.md
-    #       - file: book/1 mechanics/1K applications of newton's laws/1K20 Friction/1K20.11 Rope on a Table/1K20.11 Rope on a Table.md
-    #       - file: book/1 mechanics/1K applications of newton's laws/1K20 Friction/1K20.12 Sliding Towel/1K20.12 Sliding Towel.md
+          # files related to section '1K20 Friction'
+        - file: book/1 mechanics/1K applications of newton's laws/1K20 Friction/1K20 Friction.md
+          sections: 
+          - file: book/1 mechanics/1K applications of newton's laws/1K20 Friction/1K20.01 Braking/1K20.01 Braking.md
+          - file: book/1 mechanics/1K applications of newton's laws/1K20 Friction/1K20.02 Phonebook Friction/1K20.02 Phonebook Friction.md
+          - file: book/1 mechanics/1K applications of newton's laws/1K20 Friction/1K20.04 Falling Stick/1K20.04 Falling Stick.md
+          - file: book/1 mechanics/1K applications of newton's laws/1K20 Friction/1K20.05 Throwing a Basketball/1K20.05 Throwing a Basketball.md
+          - file: book/1 mechanics/1K applications of newton's laws/1K20 Friction/1K20.06 Chain Friction/1K20.06 Chain Friction.md
+          - file: book/1 mechanics/1K applications of newton's laws/1K20 Friction/1K20.07 Moving Two Fingers under a Meterstick/1K20.07 Moving Two Fingers under a Meterstick.md
+          - file: book/1 mechanics/1K applications of newton's laws/1K20 Friction/1K20.08 No Tipping Allowed/1K20.08 No Tipping Allowed.md
+          - file: book/1 mechanics/1K applications of newton's laws/1K20 Friction/1K20.09 Pulling a Sliding Block/1K20.09 Pulling a Sliding Block.md
+          - file: book/1 mechanics/1K applications of newton's laws/1K20 Friction/1K20.10 Rolling Up-and-Down, Again and Again/1K20.10 Rolling Up-and-Down, Again and Again.md
+          - file: book/1 mechanics/1K applications of newton's laws/1K20 Friction/1K20.11 Rope on a Table/1K20.11 Rope on a Table.md
+          - file: book/1 mechanics/1K applications of newton's laws/1K20 Friction/1K20.12 Sliding Towel/1K20.12 Sliding Towel.md
 
-    #     # files related to section '1L gravity'
-    #   - file: book/1 mechanics/1L gravity/1L gravity.md
-    #     sections: 
+        # files related to section '1L gravity'
+      - file: book/1 mechanics/1L gravity/1L gravity.md
+        sections: 
 
-    #       # files related to section '1L10 Universal Gravitational Constant'
-    #     - file: book/1 mechanics/1L gravity/1L10 Universal Gravitational Constant/1L10 Universal Gravitational Constant.md
-    #       sections: 
-    #       - file: book/1 mechanics/1L gravity/1L10 Universal Gravitational Constant/1L10.01 Weighing the Earth/1L10.01 Weighing the Earth.md
+          # files related to section '1L10 Universal Gravitational Constant'
+        - file: book/1 mechanics/1L gravity/1L10 Universal Gravitational Constant/1L10 Universal Gravitational Constant.md
+          sections: 
+          - file: book/1 mechanics/1L gravity/1L10 Universal Gravitational Constant/1L10.01 Weighing the Earth/1L10.01 Weighing the Earth.md
 
-    #       # files related to section '1L20 Orbits'
-    #     - file: book/1 mechanics/1L gravity/1L20 Orbits/1L20 Orbits.md
-    #       sections: 
-    #       - file: book/1 mechanics/1L gravity/1L20 Orbits/1L20.01 Kepler's Second Law/1L20.01 Kepler's Second Law.md
-    #       - file: book/1 mechanics/1L gravity/1L20 Orbits/1L20.02 Kepler's Third Law/1L20.02 Kepler's Third Law.md
-    #       - file: book/1 mechanics/1L gravity/1L20 Orbits/1L20.17 Precessing Orbit (1)/1L20.17 Precessing Orbit (1).md
+          # files related to section '1L20 Orbits'
+        - file: book/1 mechanics/1L gravity/1L20 Orbits/1L20 Orbits.md
+          sections: 
+          - file: book/1 mechanics/1L gravity/1L20 Orbits/1L20.01 Kepler's Second Law/1L20.01 Kepler's Second Law.md
+          - file: book/1 mechanics/1L gravity/1L20 Orbits/1L20.02 Kepler's Third Law/1L20.02 Kepler's Third Law.md
+          - file: book/1 mechanics/1L gravity/1L20 Orbits/1L20.17 Precessing Orbit (1)/1L20.17 Precessing Orbit (1).md
 
-    #     # files related to section '1M work and energy'
-    #   - file: book/1 mechanics/1M work and energy/1M work and energy.md
-    #     sections: 
+        # files related to section '1M work and energy'
+      - file: book/1 mechanics/1M work and energy/1M work and energy.md
+        sections: 
 
-    #       # files related to section '1M10 Work'
-    #     - file: book/1 mechanics/1M work and energy/1M10 Work/1M10 Work.md
-    #       sections: 
-    #       - file: book/1 mechanics/1M work and energy/1M10 Work/1M10.01 How much Work to Break a Soup Tureen/1M10.01 How much Work to Break a Soup Tureen.md
+          # files related to section '1M10 Work'
+        - file: book/1 mechanics/1M work and energy/1M10 Work/1M10 Work.md
+          sections: 
+          - file: book/1 mechanics/1M work and energy/1M10 Work/1M10.01 How much Work to Break a Soup Tureen/1M10.01 How much Work to Break a Soup Tureen.md
 
-    #       # files related to section '1M40 Conservation of Energy'
-    #     - file: book/1 mechanics/1M work and energy/1M40 Conservation of Energy/1M40 Conservation of Energy.md
-    #       sections: 
-    #       - file: book/1 mechanics/1M work and energy/1M40 Conservation of Energy/1M40.01 Gauss' Rifle/1M40.01 Gauss' Rifle.md
-    #       - file: book/1 mechanics/1M work and energy/1M40 Conservation of Energy/1M40.02 Kinetic Energy in an Elastic Collision/1M40.02 Kinetic Energy in an Elastic Collision.md
-    #       - file: book/1 mechanics/1M work and energy/1M40 Conservation of Energy/1M40.03 Mortar/1M40.03 Mortar.md
-    #       - file: book/1 mechanics/1M work and energy/1M40 Conservation of Energy/1M40.04 Galileo's Pendulum/1M40.04 Galileo's Pendulum.md
-    #       - file: book/1 mechanics/1M work and energy/1M40 Conservation of Energy/1M40.10 Pendulum of Death/1M40.10 Pendulum of Death.md
+          # files related to section '1M40 Conservation of Energy'
+        - file: book/1 mechanics/1M work and energy/1M40 Conservation of Energy/1M40 Conservation of Energy.md
+          sections: 
+          - file: book/1 mechanics/1M work and energy/1M40 Conservation of Energy/1M40.01 Gauss' Rifle/1M40.01 Gauss' Rifle.md
+          - file: book/1 mechanics/1M work and energy/1M40 Conservation of Energy/1M40.02 Kinetic Energy in an Elastic Collision/1M40.02 Kinetic Energy in an Elastic Collision.md
+          - file: book/1 mechanics/1M work and energy/1M40 Conservation of Energy/1M40.03 Mortar/1M40.03 Mortar.md
+          - file: book/1 mechanics/1M work and energy/1M40 Conservation of Energy/1M40.04 Galileo's Pendulum/1M40.04 Galileo's Pendulum.md
+          - file: book/1 mechanics/1M work and energy/1M40 Conservation of Energy/1M40.10 Pendulum of Death/1M40.10 Pendulum of Death.md
 
-    #     # files related to section '1N linear momentum and collisions'
-    #   - file: book/1 mechanics/1N linear momentum and collisions/1N linear momentum and collisions.md
-    #     sections: 
+        # files related to section '1N linear momentum and collisions'
+      - file: book/1 mechanics/1N linear momentum and collisions/1N linear momentum and collisions.md
+        sections: 
 
-    #       # files related to section '1N10 Impulse and Thrust'
-    #     - file: book/1 mechanics/1N linear momentum and collisions/1N10 Impulse and Thrust/1N10 Impulse and Thrust.md
-    #       sections: 
-    #       - file: book/1 mechanics/1N linear momentum and collisions/1N10 Impulse and Thrust/1N10.01 Bottle Rocket/1N10.01 Bottle Rocket.md
-    #       - file: book/1 mechanics/1N linear momentum and collisions/1N10 Impulse and Thrust/1N10.01 Sliding Ladder/1N10.01 Sliding Ladder.md
-    #       - file: book/1 mechanics/1N linear momentum and collisions/1N10 Impulse and Thrust/1N10.01 Throwing a Basketball/1N10.01 Throwing a Basketball.md
-    #       - file: book/1 mechanics/1N linear momentum and collisions/1N10 Impulse and Thrust/1N10.02 Boomerang Ball (1)/1N10.02 Boomerang Ball (1).md
-    #       - file: book/1 mechanics/1N linear momentum and collisions/1N10 Impulse and Thrust/1N10.03 Boomerang Ball (2)/1N10.03 Boomerang Ball (2).md
+          # files related to section '1N10 Impulse and Thrust'
+        - file: book/1 mechanics/1N linear momentum and collisions/1N10 Impulse and Thrust/1N10 Impulse and Thrust.md
+          sections: 
+          - file: book/1 mechanics/1N linear momentum and collisions/1N10 Impulse and Thrust/1N10.01 Bottle Rocket/1N10.01 Bottle Rocket.md
+          - file: book/1 mechanics/1N linear momentum and collisions/1N10 Impulse and Thrust/1N10.01 Sliding Ladder/1N10.01 Sliding Ladder.md
+          - file: book/1 mechanics/1N linear momentum and collisions/1N10 Impulse and Thrust/1N10.01 Throwing a Basketball/1N10.01 Throwing a Basketball.md
+          - file: book/1 mechanics/1N linear momentum and collisions/1N10 Impulse and Thrust/1N10.02 Boomerang Ball (1)/1N10.02 Boomerang Ball (1).md
+          - file: book/1 mechanics/1N linear momentum and collisions/1N10 Impulse and Thrust/1N10.03 Boomerang Ball (2)/1N10.03 Boomerang Ball (2).md
 
-    #       # files related to section '1N20 Conservation of Linear Momentum'
-    #     - file: book/1 mechanics/1N linear momentum and collisions/1N20 Conservation of Linear Momentum/1N20 Conservation of Linear Momentum.md
-    #       sections: 
-    #       - file: book/1 mechanics/1N linear momentum and collisions/1N20 Conservation of Linear Momentum/1N20.01 Elastic Collisions/1N20.01 Elastic Collisions.md
-    #       - file: book/1 mechanics/1N linear momentum and collisions/1N20 Conservation of Linear Momentum/1N20.01 Magnet Symmetry/1N20.01 Magnet Symmetry.md
-    #       - file: book/1 mechanics/1N linear momentum and collisions/1N20 Conservation of Linear Momentum/1N20.02 Inelastic Collisions/1N20.02 Inelastic Collisions.md
-    #       - file: book/1 mechanics/1N linear momentum and collisions/1N20 Conservation of Linear Momentum/1N20.03 Explosion/1N20.03 Explosion.md
-    #       - file: book/1 mechanics/1N linear momentum and collisions/1N20 Conservation of Linear Momentum/1N20.04 Colliding Balls (1)/1N20.04 Colliding Balls (1).md
-    #       - file: book/1 mechanics/1N linear momentum and collisions/1N20 Conservation of Linear Momentum/1N20.05 Demonstrator and Cart/1N20.05 Demonstrator and Cart.md
-    #       - file: book/1 mechanics/1N linear momentum and collisions/1N20 Conservation of Linear Momentum/1N20.06 Knock-Out/1N20.06 Knock-Out.md
-    #       - file: book/1 mechanics/1N linear momentum and collisions/1N20 Conservation of Linear Momentum/1N20.07 Pulling a Slackened Rope/1N20.07 Pulling a Slackened Rope.md
-    #       - file: book/1 mechanics/1N linear momentum and collisions/1N20 Conservation of Linear Momentum/1N20.08 Spinning Bouncing Ball/1N20.08 Spinning Bouncing Ball.md
-    #       - file: book/1 mechanics/1N linear momentum and collisions/1N20 Conservation of Linear Momentum/1N20.09 Super Balls, Double Ball Drop/1N20.09 Super Balls, Double Ball Drop.md
+          # files related to section '1N20 Conservation of Linear Momentum'
+        - file: book/1 mechanics/1N linear momentum and collisions/1N20 Conservation of Linear Momentum/1N20 Conservation of Linear Momentum.md
+          sections: 
+          - file: book/1 mechanics/1N linear momentum and collisions/1N20 Conservation of Linear Momentum/1N20.01 Elastic Collisions/1N20.01 Elastic Collisions.md
+          - file: book/1 mechanics/1N linear momentum and collisions/1N20 Conservation of Linear Momentum/1N20.01 Magnet Symmetry/1N20.01 Magnet Symmetry.md
+          - file: book/1 mechanics/1N linear momentum and collisions/1N20 Conservation of Linear Momentum/1N20.02 Inelastic Collisions/1N20.02 Inelastic Collisions.md
+          - file: book/1 mechanics/1N linear momentum and collisions/1N20 Conservation of Linear Momentum/1N20.03 Explosion/1N20.03 Explosion.md
+          - file: book/1 mechanics/1N linear momentum and collisions/1N20 Conservation of Linear Momentum/1N20.04 Colliding Balls (1)/1N20.04 Colliding Balls (1).md
+          - file: book/1 mechanics/1N linear momentum and collisions/1N20 Conservation of Linear Momentum/1N20.05 Demonstrator and Cart/1N20.05 Demonstrator and Cart.md
+          - file: book/1 mechanics/1N linear momentum and collisions/1N20 Conservation of Linear Momentum/1N20.06 Knock-Out/1N20.06 Knock-Out.md
+          - file: book/1 mechanics/1N linear momentum and collisions/1N20 Conservation of Linear Momentum/1N20.07 Pulling a Slackened Rope/1N20.07 Pulling a Slackened Rope.md
+          - file: book/1 mechanics/1N linear momentum and collisions/1N20 Conservation of Linear Momentum/1N20.08 Spinning Bouncing Ball/1N20.08 Spinning Bouncing Ball.md
+          - file: book/1 mechanics/1N linear momentum and collisions/1N20 Conservation of Linear Momentum/1N20.09 Super Balls, Double Ball Drop/1N20.09 Super Balls, Double Ball Drop.md
 
-    #       # files related to section '1N22 Rockets'
-    #     - file: book/1 mechanics/1N linear momentum and collisions/1N22 Rockets/1N22 Rockets.md
-    #       sections: 
-    #       - file: book/1 mechanics/1N linear momentum and collisions/1N22 Rockets/1N22.01 Bottle Rocket/1N22.01 Bottle Rocket.md
-    #       - file: book/1 mechanics/1N linear momentum and collisions/1N22 Rockets/1N22.02 Recoil of a Water Jet/1N22.02 Recoil of a Water Jet.md
+          # files related to section '1N22 Rockets'
+        - file: book/1 mechanics/1N linear momentum and collisions/1N22 Rockets/1N22 Rockets.md
+          sections: 
+          - file: book/1 mechanics/1N linear momentum and collisions/1N22 Rockets/1N22.01 Bottle Rocket/1N22.01 Bottle Rocket.md
+          - file: book/1 mechanics/1N linear momentum and collisions/1N22 Rockets/1N22.02 Recoil of a Water Jet/1N22.02 Recoil of a Water Jet.md
 
-    #       # files related to section '1N30 Collisions in One Dimension'
-    #     - file: book/1 mechanics/1N linear momentum and collisions/1N30 Collisions in One Dimension/1N30 Collisions in One Dimension.md
-    #       sections: 
-    #       - file: book/1 mechanics/1N linear momentum and collisions/1N30 Collisions in One Dimension/1N30.01 Knock-Out/1N30.01 Knock-Out.md
-    #       - file: book/1 mechanics/1N linear momentum and collisions/1N30 Collisions in One Dimension/1N30.60 Super Balls, Double Ball Drop/1N30.60 Super Balls, Double Ball Drop.md
+          # files related to section '1N30 Collisions in One Dimension'
+        - file: book/1 mechanics/1N linear momentum and collisions/1N30 Collisions in One Dimension/1N30 Collisions in One Dimension.md
+          sections: 
+          - file: book/1 mechanics/1N linear momentum and collisions/1N30 Collisions in One Dimension/1N30.01 Knock-Out/1N30.01 Knock-Out.md
+          - file: book/1 mechanics/1N linear momentum and collisions/1N30 Collisions in One Dimension/1N30.60 Super Balls, Double Ball Drop/1N30.60 Super Balls, Double Ball Drop.md
 
-    #     # files related to section '1Q rotational dynamics'
-    #   - file: book/1 mechanics/1Q rotational dynamics/1Q rotational dynamics.md
-    #     sections: 
+        # files related to section '1Q rotational dynamics'
+      - file: book/1 mechanics/1Q rotational dynamics/1Q rotational dynamics.md
+        sections: 
 
-    #       # files related to section '1Q10 Momentum of Inertia'
-    #     - file: book/1 mechanics/1Q rotational dynamics/1Q10 Momentum of Inertia/1Q10 Momentum of Inertia.md
-    #       sections: 
-    #       - file: book/1 mechanics/1Q rotational dynamics/1Q10 Momentum of Inertia/1Q10.01 Bicycle Wheel Pendulum/1Q10.01 Bicycle Wheel Pendulum.md
-    #       - file: book/1 mechanics/1Q rotational dynamics/1Q10 Momentum of Inertia/1Q10.01 Pirouette/1Q10.01 Pirouette.md
-    #       - file: book/1 mechanics/1Q rotational dynamics/1Q10 Momentum of Inertia/1Q10.02 Physical Pendulum (2)/1Q10.02 Physical Pendulum (2).md
-    #       - file: book/1 mechanics/1Q rotational dynamics/1Q10 Momentum of Inertia/1Q10.02 Rolling Downhill/1Q10.02 Rolling Downhill.md
-    #       - file: book/1 mechanics/1Q rotational dynamics/1Q10 Momentum of Inertia/1Q10.03 Maximum Rotational Inertia/1Q10.03 Maximum Rotational Inertia.md
-    #       - file: book/1 mechanics/1Q rotational dynamics/1Q10 Momentum of Inertia/1Q10.04 Rolling Down a Wide Gutter/1Q10.04 Rolling Down a Wide Gutter.md
-    #       - file: book/1 mechanics/1Q rotational dynamics/1Q10 Momentum of Inertia/1Q10.XX Matchbox and Wineglass/1Q10.XX Matchbox and Wineglass.md
+          # files related to section '1Q10 Momentum of Inertia'
+        - file: book/1 mechanics/1Q rotational dynamics/1Q10 Momentum of Inertia/1Q10 Momentum of Inertia.md
+          sections: 
+          - file: book/1 mechanics/1Q rotational dynamics/1Q10 Momentum of Inertia/1Q10.01 Bicycle Wheel Pendulum/1Q10.01 Bicycle Wheel Pendulum.md
+          - file: book/1 mechanics/1Q rotational dynamics/1Q10 Momentum of Inertia/1Q10.01 Pirouette/1Q10.01 Pirouette.md
+          - file: book/1 mechanics/1Q rotational dynamics/1Q10 Momentum of Inertia/1Q10.02 Physical Pendulum (2)/1Q10.02 Physical Pendulum (2).md
+          - file: book/1 mechanics/1Q rotational dynamics/1Q10 Momentum of Inertia/1Q10.02 Rolling Downhill/1Q10.02 Rolling Downhill.md
+          - file: book/1 mechanics/1Q rotational dynamics/1Q10 Momentum of Inertia/1Q10.03 Maximum Rotational Inertia/1Q10.03 Maximum Rotational Inertia.md
+          - file: book/1 mechanics/1Q rotational dynamics/1Q10 Momentum of Inertia/1Q10.04 Rolling Down a Wide Gutter/1Q10.04 Rolling Down a Wide Gutter.md
+          - file: book/1 mechanics/1Q rotational dynamics/1Q10 Momentum of Inertia/1Q10.XX Matchbox and Wineglass/1Q10.XX Matchbox and Wineglass.md
 
-    #       # files related to section '1Q20 Rotational Energy'
-    #     - file: book/1 mechanics/1Q rotational dynamics/1Q20 Rotational Energy/1Q20 Rotational Energy.md
-    #       sections: 
-    #       - file: book/1 mechanics/1Q rotational dynamics/1Q20 Rotational Energy/1Q20.01 Dropping Rolls of Toilet Paper/1Q20.01 Dropping Rolls of Toilet Paper.md
-    #       - file: book/1 mechanics/1Q rotational dynamics/1Q20 Rotational Energy/1Q20.01 Rolling Down a Wide Gutter/1Q20.01 Rolling Down a Wide Gutter.md
-    #       - file: book/1 mechanics/1Q rotational dynamics/1Q20 Rotational Energy/1Q20.02 Yo-Yo/1Q20.02 Yo-Yo.md
-    #       - file: book/1 mechanics/1Q rotational dynamics/1Q20 Rotational Energy/1Q20.03 Maxwheel/1Q20.03 Maxwheel.md
-    #       - file: book/1 mechanics/1Q rotational dynamics/1Q20 Rotational Energy/1Q20.04 Rolling Downhill/1Q20.04 Rolling Downhill.md
+          # files related to section '1Q20 Rotational Energy'
+        - file: book/1 mechanics/1Q rotational dynamics/1Q20 Rotational Energy/1Q20 Rotational Energy.md
+          sections: 
+          - file: book/1 mechanics/1Q rotational dynamics/1Q20 Rotational Energy/1Q20.01 Dropping Rolls of Toilet Paper/1Q20.01 Dropping Rolls of Toilet Paper.md
+          - file: book/1 mechanics/1Q rotational dynamics/1Q20 Rotational Energy/1Q20.01 Rolling Down a Wide Gutter/1Q20.01 Rolling Down a Wide Gutter.md
+          - file: book/1 mechanics/1Q rotational dynamics/1Q20 Rotational Energy/1Q20.02 Yo-Yo/1Q20.02 Yo-Yo.md
+          - file: book/1 mechanics/1Q rotational dynamics/1Q20 Rotational Energy/1Q20.03 Maxwheel/1Q20.03 Maxwheel.md
+          - file: book/1 mechanics/1Q rotational dynamics/1Q20 Rotational Energy/1Q20.04 Rolling Downhill/1Q20.04 Rolling Downhill.md
 
-    #       # files related to section '1Q40 Conservation of Angular Momentum'
-    #     - file: book/1 mechanics/1Q rotational dynamics/1Q40 Conservation of Angular Momentum/1Q40 Conservation of Angular Momentum.md
-    #       sections: 
-    #       - file: book/1 mechanics/1Q rotational dynamics/1Q40 Conservation of Angular Momentum/1Q40.01 Magnet Symmetry/1Q40.01 Magnet Symmetry.md
-    #       - file: book/1 mechanics/1Q rotational dynamics/1Q40 Conservation of Angular Momentum/1Q40.01 Pulling a Spool (a.k.a. Oma's Garenklosje)/1Q40.01 Pulling a Spool (a.k.a. Oma's Garenklosje).md
-    #       - file: book/1 mechanics/1Q rotational dynamics/1Q40 Conservation of Angular Momentum/1Q40.01 Spinning Bouncing Ball/1Q40.01 Spinning Bouncing Ball.md
-    #       - file: book/1 mechanics/1Q rotational dynamics/1Q40 Conservation of Angular Momentum/1Q40.02 Colliding Magnets/1Q40.02 Colliding Magnets.md
-    #       - file: book/1 mechanics/1Q rotational dynamics/1Q40 Conservation of Angular Momentum/1Q40.03 Matchbox and Wineglass/1Q40.03 Matchbox and Wineglass.md
-    #       - file: book/1 mechanics/1Q rotational dynamics/1Q40 Conservation of Angular Momentum/1Q40.04 Sweet Spot/1Q40.04 Sweet Spot.md
-    #       - file: book/1 mechanics/1Q rotational dynamics/1Q40 Conservation of Angular Momentum/1Q40.05 Balls on a Rotating Ramp/1Q40.05 Balls on a Rotating Ramp.md
-    #       - file: book/1 mechanics/1Q rotational dynamics/1Q40 Conservation of Angular Momentum/1Q40.06 Counter Rotating Disks/1Q40.06 Counter Rotating Disks.md
-    #       - file: book/1 mechanics/1Q rotational dynamics/1Q40 Conservation of Angular Momentum/1Q40.07 Dumb-Bell/1Q40.07 Dumb-Bell.md
-    #       - file: book/1 mechanics/1Q rotational dynamics/1Q40 Conservation of Angular Momentum/1Q40.08 How an Astronaut can Turn Around in Free Space/1Q40.08 How an Astronaut can Turn Around in Free Space.md
-    #       - file: book/1 mechanics/1Q rotational dynamics/1Q40 Conservation of Angular Momentum/1Q40.09 Playing Tennis/1Q40.09 Playing Tennis.md
-    #       - file: book/1 mechanics/1Q rotational dynamics/1Q40 Conservation of Angular Momentum/1Q40.10 Pirouette/1Q40.10 Pirouette.md
-    #       - file: book/1 mechanics/1Q rotational dynamics/1Q40 Conservation of Angular Momentum/1Q40.11 Pulling the Rug/1Q40.11 Pulling the Rug.md
-    #       - file: book/1 mechanics/1Q rotational dynamics/1Q40 Conservation of Angular Momentum/1Q40.12 Tippe Top/1Q40.12 Tippe Top.md
-    #       - file: book/1 mechanics/1Q rotational dynamics/1Q40 Conservation of Angular Momentum/1Q40.13 Vibrating Stopwatch/1Q40.13 Vibrating Stopwatch.md
-    #       - file: book/1 mechanics/1Q rotational dynamics/1Q40 Conservation of Angular Momentum/1Q40.30 Bicycle Wheel and Swivel Chair/1Q40.30 Bicycle Wheel and Swivel Chair.md
-    #       - file: book/1 mechanics/1Q rotational dynamics/1Q40 Conservation of Angular Momentum/1Q40.40 Train and Track/1Q40.40 Train and Track.md
+          # files related to section '1Q40 Conservation of Angular Momentum'
+        - file: book/1 mechanics/1Q rotational dynamics/1Q40 Conservation of Angular Momentum/1Q40 Conservation of Angular Momentum.md
+          sections: 
+          - file: book/1 mechanics/1Q rotational dynamics/1Q40 Conservation of Angular Momentum/1Q40.01 Magnet Symmetry/1Q40.01 Magnet Symmetry.md
+          - file: book/1 mechanics/1Q rotational dynamics/1Q40 Conservation of Angular Momentum/1Q40.01 Pulling a Spool (a.k.a. Oma's Garenklosje)/1Q40.01 Pulling a Spool (a.k.a. Oma's Garenklosje).md
+          - file: book/1 mechanics/1Q rotational dynamics/1Q40 Conservation of Angular Momentum/1Q40.01 Spinning Bouncing Ball/1Q40.01 Spinning Bouncing Ball.md
+          - file: book/1 mechanics/1Q rotational dynamics/1Q40 Conservation of Angular Momentum/1Q40.02 Colliding Magnets/1Q40.02 Colliding Magnets.md
+          - file: book/1 mechanics/1Q rotational dynamics/1Q40 Conservation of Angular Momentum/1Q40.03 Matchbox and Wineglass/1Q40.03 Matchbox and Wineglass.md
+          - file: book/1 mechanics/1Q rotational dynamics/1Q40 Conservation of Angular Momentum/1Q40.04 Sweet Spot/1Q40.04 Sweet Spot.md
+          - file: book/1 mechanics/1Q rotational dynamics/1Q40 Conservation of Angular Momentum/1Q40.05 Balls on a Rotating Ramp/1Q40.05 Balls on a Rotating Ramp.md
+          - file: book/1 mechanics/1Q rotational dynamics/1Q40 Conservation of Angular Momentum/1Q40.06 Counter Rotating Disks/1Q40.06 Counter Rotating Disks.md
+          - file: book/1 mechanics/1Q rotational dynamics/1Q40 Conservation of Angular Momentum/1Q40.07 Dumb-Bell/1Q40.07 Dumb-Bell.md
+          - file: book/1 mechanics/1Q rotational dynamics/1Q40 Conservation of Angular Momentum/1Q40.08 How an Astronaut can Turn Around in Free Space/1Q40.08 How an Astronaut can Turn Around in Free Space.md
+          - file: book/1 mechanics/1Q rotational dynamics/1Q40 Conservation of Angular Momentum/1Q40.09 Playing Tennis/1Q40.09 Playing Tennis.md
+          - file: book/1 mechanics/1Q rotational dynamics/1Q40 Conservation of Angular Momentum/1Q40.10 Pirouette/1Q40.10 Pirouette.md
+          - file: book/1 mechanics/1Q rotational dynamics/1Q40 Conservation of Angular Momentum/1Q40.11 Pulling the Rug/1Q40.11 Pulling the Rug.md
+          - file: book/1 mechanics/1Q rotational dynamics/1Q40 Conservation of Angular Momentum/1Q40.12 Tippe Top/1Q40.12 Tippe Top.md
+          - file: book/1 mechanics/1Q rotational dynamics/1Q40 Conservation of Angular Momentum/1Q40.13 Vibrating Stopwatch/1Q40.13 Vibrating Stopwatch.md
+          - file: book/1 mechanics/1Q rotational dynamics/1Q40 Conservation of Angular Momentum/1Q40.30 Bicycle Wheel and Swivel Chair/1Q40.30 Bicycle Wheel and Swivel Chair.md
+          - file: book/1 mechanics/1Q rotational dynamics/1Q40 Conservation of Angular Momentum/1Q40.40 Train and Track/1Q40.40 Train and Track.md
 
-    #       # files related to section '1Q50 Gyros'
-    #     - file: book/1 mechanics/1Q rotational dynamics/1Q50 Gyros/1Q50 Gyros.md
-    #       sections: 
-    #       - file: book/1 mechanics/1Q rotational dynamics/1Q50 Gyros/1Q50.01 Precession (1)/1Q50.01 Precession (1).md
-    #       - file: book/1 mechanics/1Q rotational dynamics/1Q50 Gyros/1Q50.02 Precessing Orbit (1)/1Q50.02 Precessing Orbit (1).md
-    #       - file: book/1 mechanics/1Q rotational dynamics/1Q50 Gyros/1Q50.03 Precession (4) AND Nutation (3)/1Q50.03 Precession (4) AND Nutation (3).md
-    #       - file: book/1 mechanics/1Q rotational dynamics/1Q50 Gyros/1Q50.04 Precession (2)/1Q50.04 Precession (2).md
-    #       - file: book/1 mechanics/1Q rotational dynamics/1Q50 Gyros/1Q50.06 Nutation (1)/1Q50.06 Nutation (1).md
-    #       - file: book/1 mechanics/1Q rotational dynamics/1Q50 Gyros/1Q50.07 Nutation (2)/1Q50.07 Nutation (2).md
-    #       - file: book/1 mechanics/1Q rotational dynamics/1Q50 Gyros/1Q50.08 Precession (3a)/1Q50.08 Precession (3a).md
-    #       - file: book/1 mechanics/1Q rotational dynamics/1Q50 Gyros/1Q50.09 Precession (3b)/1Q50.09 Precession (3b).md
+          # files related to section '1Q50 Gyros'
+        - file: book/1 mechanics/1Q rotational dynamics/1Q50 Gyros/1Q50 Gyros.md
+          sections: 
+          - file: book/1 mechanics/1Q rotational dynamics/1Q50 Gyros/1Q50.01 Precession (1)/1Q50.01 Precession (1).md
+          - file: book/1 mechanics/1Q rotational dynamics/1Q50 Gyros/1Q50.02 Precessing Orbit (1)/1Q50.02 Precessing Orbit (1).md
+          - file: book/1 mechanics/1Q rotational dynamics/1Q50 Gyros/1Q50.03 Precession (4) AND Nutation (3)/1Q50.03 Precession (4) AND Nutation (3).md
+          - file: book/1 mechanics/1Q rotational dynamics/1Q50 Gyros/1Q50.04 Precession (2)/1Q50.04 Precession (2).md
+          - file: book/1 mechanics/1Q rotational dynamics/1Q50 Gyros/1Q50.06 Nutation (1)/1Q50.06 Nutation (1).md
+          - file: book/1 mechanics/1Q rotational dynamics/1Q50 Gyros/1Q50.07 Nutation (2)/1Q50.07 Nutation (2).md
+          - file: book/1 mechanics/1Q rotational dynamics/1Q50 Gyros/1Q50.08 Precession (3a)/1Q50.08 Precession (3a).md
+          - file: book/1 mechanics/1Q rotational dynamics/1Q50 Gyros/1Q50.09 Precession (3b)/1Q50.09 Precession (3b).md
 
-    #       # files related to section '1Q60 Rotational Stability'
-    #     - file: book/1 mechanics/1Q rotational dynamics/1Q60 Rotational Stability/1Q60 Rotational Stability.md
-    #       sections: 
-    #       - file: book/1 mechanics/1Q rotational dynamics/1Q60 Rotational Stability/1Q60.01 Maximum Rotational Inertia/1Q60.01 Maximum Rotational Inertia.md
-    #       - file: book/1 mechanics/1Q rotational dynamics/1Q60 Rotational Stability/1Q60.01 Stable Wheel/1Q60.01 Stable Wheel.md
-    #       - file: book/1 mechanics/1Q rotational dynamics/1Q60 Rotational Stability/1Q60.02 Dumb-Bell/1Q60.02 Dumb-Bell.md
-    #       - file: book/1 mechanics/1Q rotational dynamics/1Q60 Rotational Stability/1Q60.04 Percussionpoint (1)/1Q60.04 Percussionpoint (1).md
-    #       - file: book/1 mechanics/1Q rotational dynamics/1Q60 Rotational Stability/1Q60.05 Percussionpoint (2)/1Q60.05 Percussionpoint (2).md
-    #       - file: book/1 mechanics/1Q rotational dynamics/1Q60 Rotational Stability/1Q60.06 Sleeper/1Q60.06 Sleeper.md
-    #       - file: book/1 mechanics/1Q rotational dynamics/1Q60 Rotational Stability/1Q60.30 Tippe Top/1Q60.30 Tippe Top.md
-    #       - file: book/1 mechanics/1Q rotational dynamics/1Q60 Rotational Stability/1Q60.35 Rugbyball/1Q60.35 Rugbyball.md
+          # files related to section '1Q60 Rotational Stability'
+        - file: book/1 mechanics/1Q rotational dynamics/1Q60 Rotational Stability/1Q60 Rotational Stability.md
+          sections: 
+          - file: book/1 mechanics/1Q rotational dynamics/1Q60 Rotational Stability/1Q60.01 Maximum Rotational Inertia/1Q60.01 Maximum Rotational Inertia.md
+          - file: book/1 mechanics/1Q rotational dynamics/1Q60 Rotational Stability/1Q60.01 Stable Wheel/1Q60.01 Stable Wheel.md
+          - file: book/1 mechanics/1Q rotational dynamics/1Q60 Rotational Stability/1Q60.02 Dumb-Bell/1Q60.02 Dumb-Bell.md
+          - file: book/1 mechanics/1Q rotational dynamics/1Q60 Rotational Stability/1Q60.04 Percussionpoint (1)/1Q60.04 Percussionpoint (1).md
+          - file: book/1 mechanics/1Q rotational dynamics/1Q60 Rotational Stability/1Q60.05 Percussionpoint (2)/1Q60.05 Percussionpoint (2).md
+          - file: book/1 mechanics/1Q rotational dynamics/1Q60 Rotational Stability/1Q60.06 Sleeper/1Q60.06 Sleeper.md
+          - file: book/1 mechanics/1Q rotational dynamics/1Q60 Rotational Stability/1Q60.30 Tippe Top/1Q60.30 Tippe Top.md
+          - file: book/1 mechanics/1Q rotational dynamics/1Q60 Rotational Stability/1Q60.35 Rugbyball/1Q60.35 Rugbyball.md
 
-    #     # files related to section '1R properties of matter'
-    #   - file: book/1 mechanics/1R properties of matter/1R properties of matter.md
-    #     sections: 
+        # files related to section '1R properties of matter'
+      - file: book/1 mechanics/1R properties of matter/1R properties of matter.md
+        sections: 
 
-    #       # files related to section '1R10 Hooke's Law'
-    #     - file: book/1 mechanics/1R properties of matter/1R10 Hooke's Law/1R10 Hooke's Law.md
-    #       sections: 
-    #       - file: book/1 mechanics/1R properties of matter/1R10 Hooke's Law/1R10.01 Hooke's Law/1R10.01 Hooke's Law.md
+          # files related to section '1R10 Hooke's Law'
+        - file: book/1 mechanics/1R properties of matter/1R10 Hooke's Law/1R10 Hooke's Law.md
+          sections: 
+          - file: book/1 mechanics/1R properties of matter/1R10 Hooke's Law/1R10.01 Hooke's Law/1R10.01 Hooke's Law.md
 
     #   # files related to section '2 fluid mechanics'
     # - file: book/2 fluid mechanics/2 fluid mechanics.md
