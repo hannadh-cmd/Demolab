@@ -1,3 +1,9 @@
+
+```{figure} /figures/busy.png
+---
+width: 35%
+align: right
+```
 ---
 jupytext:
   formats: md:myst
