@@ -2,12 +2,12 @@ format: jb-book
 root: book/index
 
 parts:
- - caption: TU Delft DemoLab
-    chapters:
-    - file: book/introduction/introduction.md
-      setions:
-      - file: book/introduction/Workflow.md
-      title: Contribute to the book
+  - caption: TU Delft DemoLab
+  chapters:
+  - file: book/introduction/introduction.md
+    setions:
+    - file: book/introduction/Workflow.md
+    title: Contribute to the book
   - caption:
     maxdepth: 2
     chapters:    
