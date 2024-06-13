@@ -1,6 +1,5 @@
 
 ```{figure} https://github.com/Contemporary-Physicslab/Demolab/blob/main/figures/busy.png
----
 width: 35%
 align: right
 ```
