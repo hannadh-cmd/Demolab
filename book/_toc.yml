@@ -312,237 +312,237 @@ parts:
           sections: 
           - file: book/1 mechanics/1R properties of matter/1R10 Hooke's Law/1R10.01 Hooke's Law/1R10.01 Hooke's Law.md
 
-    #   # files related to section '2 fluid mechanics'
-    # - file: book/2 fluid mechanics/2 fluid mechanics.md
-    #   sections: 
+      # files related to section '2 fluid mechanics'
+    - file: book/2 fluid mechanics/2 fluid mechanics.md
+      sections: 
 
-    #   # This section does currently not have any experiments 
-    #   - file: book/2 fluid mechanics/2A surface tension/2A surface tension.md
+      # This section does currently not have any experiments 
+      - file: book/2 fluid mechanics/2A surface tension/2A surface tension.md
 
-    #     # files related to section '2B statics of fluids'
-    #   - file: book/2 fluid mechanics/2B statics of fluids/2B statics of fluids.md
-    #     sections: 
+        # files related to section '2B statics of fluids'
+      - file: book/2 fluid mechanics/2B statics of fluids/2B statics of fluids.md
+        sections: 
 
-    #       # files related to section '2B20 Static Pressure'
-    #     - file: book/2 fluid mechanics/2B statics of fluids/2B20 Static Pressure/2B20 Static Pressure.md
-    #       sections: 
-    #       - file: book/2 fluid mechanics/2B statics of fluids/2B20 Static Pressure/2B20.01 Rotating Liquid/2B20.01 Rotating Liquid.md
+          # files related to section '2B20 Static Pressure'
+        - file: book/2 fluid mechanics/2B statics of fluids/2B20 Static Pressure/2B20 Static Pressure.md
+          sections: 
+          - file: book/2 fluid mechanics/2B statics of fluids/2B20 Static Pressure/2B20.01 Rotating Liquid/2B20.01 Rotating Liquid.md
 
-    #     # files related to section '2C dynamics of fluids'
-    #   - file: book/2 fluid mechanics/2C dynamics of fluids/2C dynamics of fluids.md
-    #     sections: 
+        # files related to section '2C dynamics of fluids'
+      - file: book/2 fluid mechanics/2C dynamics of fluids/2C dynamics of fluids.md
+        sections: 
 
-    #       # files related to section '2C20 Bernoulli Force'
-    #     - file: book/2 fluid mechanics/2C dynamics of fluids/2C20 Bernoulli Force/2C20 Bernoulli Force.md
-    #       sections: 
-    #       - file: book/2 fluid mechanics/2C dynamics of fluids/2C20 Bernoulli Force/2C20.01 Magnus Effect (2)/2C20.01 Magnus Effect (2).md
-    #       - file: book/2 fluid mechanics/2C dynamics of fluids/2C20 Bernoulli Force/2C20.02 Magnus Effect (1)/2C20.02 Magnus Effect (1).md
+          # files related to section '2C20 Bernoulli Force'
+        - file: book/2 fluid mechanics/2C dynamics of fluids/2C20 Bernoulli Force/2C20 Bernoulli Force.md
+          sections: 
+          - file: book/2 fluid mechanics/2C dynamics of fluids/2C20 Bernoulli Force/2C20.01 Magnus Effect (2)/2C20.01 Magnus Effect (2).md
+          - file: book/2 fluid mechanics/2C dynamics of fluids/2C20 Bernoulli Force/2C20.02 Magnus Effect (1)/2C20.02 Magnus Effect (1).md
 
-    #   # files related to section '3 oscillations and waves'
-    # - file: book/3 oscillations and waves/3 oscillations and waves.md
-    #   sections: 
+      # files related to section '3 oscillations and waves'
+    - file: book/3 oscillations and waves/3 oscillations and waves.md
+      sections: 
 
-    #     # files related to section '3A oscillations'
-    #   - file: book/3 oscillations and waves/3A oscillations/3A oscillations.md
-    #     sections: 
+        # files related to section '3A oscillations'
+      - file: book/3 oscillations and waves/3A oscillations/3A oscillations.md
+        sections: 
 
-    #       # files related to section '3A10 Pendula'
-    #     - file: book/3 oscillations and waves/3A oscillations/3A10 Pendula/3A10 Pendula.md
-    #       sections: 
-    #       - file: book/3 oscillations and waves/3A oscillations/3A10 Pendula/3A10.01 Chaotic Pendulum/3A10.01 Chaotic Pendulum.md
-    #       - file: book/3 oscillations and waves/3A oscillations/3A10 Pendula/3A10.01 Mathematical Pendulum (1) Simple Harmonic Motion/3A10.01 Mathematical Pendulum (1) Simple Harmonic Motion.md
-    #       - file: book/3 oscillations and waves/3A oscillations/3A10 Pendula/3A10.02 Mathematical Pendulum (2) Large Angle/3A10.02 Mathematical Pendulum (2) Large Angle.md
-    #       - file: book/3 oscillations and waves/3A oscillations/3A10 Pendula/3A10.03 Mathematical Pendulum (3) Determining g/3A10.03 Mathematical Pendulum (3) Determining g.md
+          # files related to section '3A10 Pendula'
+        - file: book/3 oscillations and waves/3A oscillations/3A10 Pendula/3A10 Pendula.md
+          sections: 
+          - file: book/3 oscillations and waves/3A oscillations/3A10 Pendula/3A10.01 Chaotic Pendulum/3A10.01 Chaotic Pendulum.md
+          - file: book/3 oscillations and waves/3A oscillations/3A10 Pendula/3A10.01 Mathematical Pendulum (1) Simple Harmonic Motion/3A10.01 Mathematical Pendulum (1) Simple Harmonic Motion.md
+          - file: book/3 oscillations and waves/3A oscillations/3A10 Pendula/3A10.02 Mathematical Pendulum (2) Large Angle/3A10.02 Mathematical Pendulum (2) Large Angle.md
+          - file: book/3 oscillations and waves/3A oscillations/3A10 Pendula/3A10.03 Mathematical Pendulum (3) Determining g/3A10.03 Mathematical Pendulum (3) Determining g.md
 
-    #       # files related to section '3A15 Physical Pendula'
-    #     - file: book/3 oscillations and waves/3A oscillations/3A15 Physical Pendula/3A15 Physical Pendula.md
-    #       sections: 
-    #       - file: book/3 oscillations and waves/3A oscillations/3A15 Physical Pendula/3A15.01 Physical Pendulum (1) Compound Pendulum/3A15.01 Physical Pendulum (1) Compound Pendulum.md
-    #       - file: book/3 oscillations and waves/3A oscillations/3A15 Physical Pendula/3A15.01 Physical Pendulum (2)/3A15.01 Physical Pendulum (2).md
-    #       - file: book/3 oscillations and waves/3A oscillations/3A15 Physical Pendula/3A15.02 Physical Pendulum (3) Oscillating Ring/3A15.02 Physical Pendulum (3) Oscillating Ring.md
+          # files related to section '3A15 Physical Pendula'
+        - file: book/3 oscillations and waves/3A oscillations/3A15 Physical Pendula/3A15 Physical Pendula.md
+          sections: 
+          - file: book/3 oscillations and waves/3A oscillations/3A15 Physical Pendula/3A15.01 Physical Pendulum (1) Compound Pendulum/3A15.01 Physical Pendulum (1) Compound Pendulum.md
+          - file: book/3 oscillations and waves/3A oscillations/3A15 Physical Pendula/3A15.01 Physical Pendulum (2)/3A15.01 Physical Pendulum (2).md
+          - file: book/3 oscillations and waves/3A oscillations/3A15 Physical Pendula/3A15.02 Physical Pendulum (3) Oscillating Ring/3A15.02 Physical Pendulum (3) Oscillating Ring.md
 
-    #       # files related to section '3A40 Simple Harmonic Motions'
-    #     - file: book/3 oscillations and waves/3A oscillations/3A40 Simple Harmonic Motions/3A40 Simple Harmonic Motions.md
-    #       sections: 
-    #       - file: book/3 oscillations and waves/3A oscillations/3A40 Simple Harmonic Motions/3A40.01 Simple Harmonic Motion (SHM) (3)/3A40.01 Simple Harmonic Motion (SHM) (3).md
-    #       - file: book/3 oscillations and waves/3A oscillations/3A40 Simple Harmonic Motions/3A40.02 Mathematical Pendulum (3) Determining g/3A40.02 Mathematical Pendulum (3) Determining g.md
-    #       - file: book/3 oscillations and waves/3A oscillations/3A40 Simple Harmonic Motions/3A40.02 Simple Harmonic Motion (SHM) (1)/3A40.02 Simple Harmonic Motion (SHM) (1).md
-    #       - file: book/3 oscillations and waves/3A oscillations/3A40 Simple Harmonic Motions/3A40.03 Simple Harmonic Motion (SHM) (2)/3A40.03 Simple Harmonic Motion (SHM) (2).md
+          # files related to section '3A40 Simple Harmonic Motions'
+        - file: book/3 oscillations and waves/3A oscillations/3A40 Simple Harmonic Motions/3A40 Simple Harmonic Motions.md
+          sections: 
+          - file: book/3 oscillations and waves/3A oscillations/3A40 Simple Harmonic Motions/3A40.01 Simple Harmonic Motion (SHM) (3)/3A40.01 Simple Harmonic Motion (SHM) (3).md
+          - file: book/3 oscillations and waves/3A oscillations/3A40 Simple Harmonic Motions/3A40.02 Mathematical Pendulum (3) Determining g/3A40.02 Mathematical Pendulum (3) Determining g.md
+          - file: book/3 oscillations and waves/3A oscillations/3A40 Simple Harmonic Motions/3A40.02 Simple Harmonic Motion (SHM) (1)/3A40.02 Simple Harmonic Motion (SHM) (1).md
+          - file: book/3 oscillations and waves/3A oscillations/3A40 Simple Harmonic Motions/3A40.03 Simple Harmonic Motion (SHM) (2)/3A40.03 Simple Harmonic Motion (SHM) (2).md
 
-    #       # files related to section '3A50 Damped Oscillators'
-    #     - file: book/3 oscillations and waves/3A oscillations/3A50 Damped Oscillators/3A50 Damped Oscillators.md
-    #       sections: 
-    #       - file: book/3 oscillations and waves/3A oscillations/3A50 Damped Oscillators/3A50.01 Damped Harmonic Motion/3A50.01 Damped Harmonic Motion.md
-    #       - file: book/3 oscillations and waves/3A oscillations/3A50 Damped Oscillators/3A50.03 Damped Galvanometer/3A50.03 Damped Galvanometer.md
+          # files related to section '3A50 Damped Oscillators'
+        - file: book/3 oscillations and waves/3A oscillations/3A50 Damped Oscillators/3A50 Damped Oscillators.md
+          sections: 
+          - file: book/3 oscillations and waves/3A oscillations/3A50 Damped Oscillators/3A50.01 Damped Harmonic Motion/3A50.01 Damped Harmonic Motion.md
+          - file: book/3 oscillations and waves/3A oscillations/3A50 Damped Oscillators/3A50.03 Damped Galvanometer/3A50.03 Damped Galvanometer.md
 
-    #       # files related to section '3A95 Non-Linear Systems'
-    #     - file: book/3 oscillations and waves/3A oscillations/3A95 Non-Linear Systems/3A95 Non-Linear Systems.md
-    #       sections: 
-    #       - file: book/3 oscillations and waves/3A oscillations/3A95 Non-Linear Systems/3A95.01 Fakir/3A95.01 Fakir.md
-    #       - file: book/3 oscillations and waves/3A oscillations/3A95 Non-Linear Systems/3A95.52 Chaotic Pendulum/3A95.52 Chaotic Pendulum.md
+          # files related to section '3A95 Non-Linear Systems'
+        - file: book/3 oscillations and waves/3A oscillations/3A95 Non-Linear Systems/3A95 Non-Linear Systems.md
+          sections: 
+          - file: book/3 oscillations and waves/3A oscillations/3A95 Non-Linear Systems/3A95.01 Fakir/3A95.01 Fakir.md
+          - file: book/3 oscillations and waves/3A oscillations/3A95 Non-Linear Systems/3A95.52 Chaotic Pendulum/3A95.52 Chaotic Pendulum.md
 
-    #     # files related to section '3B wave motion'
-    #   - file: book/3 oscillations and waves/3B wave motion/3B wave motion.md
-    #     sections: 
+        # files related to section '3B wave motion'
+      - file: book/3 oscillations and waves/3B wave motion/3B wave motion.md
+        sections: 
 
-    #       # files related to section '3B10 Transverse Pulses and Waves'
-    #     - file: book/3 oscillations and waves/3B wave motion/3B10 Transverse Pulses and Waves/3B10 Transverse Pulses and Waves.md
-    #       sections: 
-    #       - file: book/3 oscillations and waves/3B wave motion/3B10 Transverse Pulses and Waves/3B10.01 Reflections of Transverse Pulses (2)/3B10.01 Reflections of Transverse Pulses (2).md
-    #       - file: book/3 oscillations and waves/3B wave motion/3B10 Transverse Pulses and Waves/3B10.05 Transverse Traveling Wave (1)/3B10.05 Transverse Traveling Wave (1).md
-    #       - file: book/3 oscillations and waves/3B wave motion/3B10 Transverse Pulses and Waves/3B10.06 Transverse Traveling Wave (2)/3B10.06 Transverse Traveling Wave (2).md
+          # files related to section '3B10 Transverse Pulses and Waves'
+        - file: book/3 oscillations and waves/3B wave motion/3B10 Transverse Pulses and Waves/3B10 Transverse Pulses and Waves.md
+          sections: 
+          - file: book/3 oscillations and waves/3B wave motion/3B10 Transverse Pulses and Waves/3B10.01 Reflections of Transverse Pulses (2)/3B10.01 Reflections of Transverse Pulses (2).md
+          - file: book/3 oscillations and waves/3B wave motion/3B10 Transverse Pulses and Waves/3B10.05 Transverse Traveling Wave (1)/3B10.05 Transverse Traveling Wave (1).md
+          - file: book/3 oscillations and waves/3B wave motion/3B10 Transverse Pulses and Waves/3B10.06 Transverse Traveling Wave (2)/3B10.06 Transverse Traveling Wave (2).md
 
-    #       # files related to section '3B20 Longitudinal Pulses and Waves'
-    #     - file: book/3 oscillations and waves/3B wave motion/3B20 Longitudinal Pulses and Waves/3B20 Longitudinal Pulses and Waves.md
-    #       sections: 
-    #       - file: book/3 oscillations and waves/3B wave motion/3B20 Longitudinal Pulses and Waves/3B20.01 Reflected Sound Pulses/3B20.01 Reflected Sound Pulses.md
+          # files related to section '3B20 Longitudinal Pulses and Waves'
+        - file: book/3 oscillations and waves/3B wave motion/3B20 Longitudinal Pulses and Waves/3B20 Longitudinal Pulses and Waves.md
+          sections: 
+          - file: book/3 oscillations and waves/3B wave motion/3B20 Longitudinal Pulses and Waves/3B20.01 Reflected Sound Pulses/3B20.01 Reflected Sound Pulses.md
 
-    #       # files related to section '3B22 Standing Waves'
-    #     - file: book/3 oscillations and waves/3B wave motion/3B22 Standing Waves/3B22 Standing Waves.md
-    #       sections: 
-    #       - file: book/3 oscillations and waves/3B wave motion/3B22 Standing Waves/3B22.01 deBroglie Applied to Bohr/3B22.01 deBroglie Applied to Bohr.md
-    #       - file: book/3 oscillations and waves/3B wave motion/3B22 Standing Waves/3B22.02 Handheld Standing Waves/3B22.02 Handheld Standing Waves.md
-    #       - file: book/3 oscillations and waves/3B wave motion/3B22 Standing Waves/3B22.03 Kundt's Tube/3B22.03 Kundt's Tube.md
-    #       - file: book/3 oscillations and waves/3B wave motion/3B22 Standing Waves/3B22.04 Sonometer by Hand/3B22.04 Sonometer by Hand.md
-    #       - file: book/3 oscillations and waves/3B wave motion/3B22 Standing Waves/3B22.05 Plucking a String/3B22.05 Plucking a String.md
-    #       - file: book/3 oscillations and waves/3B wave motion/3B22 Standing Waves/3B22.09 Microwave Oven Standing Waves/3B22.09 Microwave Oven Standing Waves.md
+          # files related to section '3B22 Standing Waves'
+        - file: book/3 oscillations and waves/3B wave motion/3B22 Standing Waves/3B22 Standing Waves.md
+          sections: 
+          - file: book/3 oscillations and waves/3B wave motion/3B22 Standing Waves/3B22.01 deBroglie Applied to Bohr/3B22.01 deBroglie Applied to Bohr.md
+          - file: book/3 oscillations and waves/3B wave motion/3B22 Standing Waves/3B22.02 Handheld Standing Waves/3B22.02 Handheld Standing Waves.md
+          - file: book/3 oscillations and waves/3B wave motion/3B22 Standing Waves/3B22.03 Kundt's Tube/3B22.03 Kundt's Tube.md
+          - file: book/3 oscillations and waves/3B wave motion/3B22 Standing Waves/3B22.04 Sonometer by Hand/3B22.04 Sonometer by Hand.md
+          - file: book/3 oscillations and waves/3B wave motion/3B22 Standing Waves/3B22.05 Plucking a String/3B22.05 Plucking a String.md
+          - file: book/3 oscillations and waves/3B wave motion/3B22 Standing Waves/3B22.09 Microwave Oven Standing Waves/3B22.09 Microwave Oven Standing Waves.md
 
-    #       # files related to section '3B25 Impendance and Dispersion'
-    #     - file: book/3 oscillations and waves/3B wave motion/3B25 Impendance and Dispersion/3B25 Impendance and Dispersion.md
-    #       sections: 
-    #       - file: book/3 oscillations and waves/3B wave motion/3B25 Impendance and Dispersion/3B25.01 Impedance Matching/3B25.01 Impedance Matching.md
+          # files related to section '3B25 Impendance and Dispersion'
+        - file: book/3 oscillations and waves/3B wave motion/3B25 Impendance and Dispersion/3B25 Impendance and Dispersion.md
+          sections: 
+          - file: book/3 oscillations and waves/3B wave motion/3B25 Impendance and Dispersion/3B25.01 Impedance Matching/3B25.01 Impedance Matching.md
 
-    #       # files related to section '3B40 Doppler Effect'
-    #     - file: book/3 oscillations and waves/3B wave motion/3B40 Doppler Effect/3B40 Doppler Effect.md
-    #       sections: 
-    #       - file: book/3 oscillations and waves/3B wave motion/3B40 Doppler Effect/3B40.01 Doppler/3B40.01 Doppler.md
+          # files related to section '3B40 Doppler Effect'
+        - file: book/3 oscillations and waves/3B wave motion/3B40 Doppler Effect/3B40 Doppler Effect.md
+          sections: 
+          - file: book/3 oscillations and waves/3B wave motion/3B40 Doppler Effect/3B40.01 Doppler/3B40.01 Doppler.md
 
-    #     # files related to section '3C acoustics'
-    #   - file: book/3 oscillations and waves/3C acoustics/3C acoustics.md
-    #     sections: 
+        # files related to section '3C acoustics'
+      - file: book/3 oscillations and waves/3C acoustics/3C acoustics.md
+        sections: 
 
-    #       # files related to section '3C50 Wave Analysis and Synthesis'
-    #     - file: book/3 oscillations and waves/3C acoustics/3C50 Wave Analysis and Synthesis/3C50 Wave Analysis and Synthesis.md
-    #       sections: 
-    #       - file: book/3 oscillations and waves/3C acoustics/3C50 Wave Analysis and Synthesis/3C50.01 Plucking a String/3C50.01 Plucking a String.md
+          # files related to section '3C50 Wave Analysis and Synthesis'
+        - file: book/3 oscillations and waves/3C acoustics/3C50 Wave Analysis and Synthesis/3C50 Wave Analysis and Synthesis.md
+          sections: 
+          - file: book/3 oscillations and waves/3C acoustics/3C50 Wave Analysis and Synthesis/3C50.01 Plucking a String/3C50.01 Plucking a String.md
 
-    #   # This section does currently not have any experiments 
-    #   - file: book/3 oscillations and waves/3D instruments/3D instruments.md
+      # This section does currently not have any experiments 
+      - file: book/3 oscillations and waves/3D instruments/3D instruments.md
 
-    #   # This section does currently not have any experiments 
-    #   - file: book/3 oscillations and waves/3E sound reproduction/3E sound reproduction.md
+      # This section does currently not have any experiments 
+      - file: book/3 oscillations and waves/3E sound reproduction/3E sound reproduction.md
 
-    #   # files related to section '4 thermodynamics'
-    # - file: book/4 thermodynamics/4 thermodynamics.md
-    #   sections: 
+      # files related to section '4 thermodynamics'
+    - file: book/4 thermodynamics/4 thermodynamics.md
+      sections: 
 
-    #     # files related to section '4A thermal properties of matter'
-    #   - file: book/4 thermodynamics/4A thermal properties of matter/4A thermal properties of matter.md
-    #     sections: 
+        # files related to section '4A thermal properties of matter'
+      - file: book/4 thermodynamics/4A thermal properties of matter/4A thermal properties of matter.md
+        sections: 
 
-    #       # files related to section '4A10 Thermometry'
-    #     - file: book/4 thermodynamics/4A thermal properties of matter/4A10 Thermometry/4A10 Thermometry.md
-    #       sections: 
-    #       - file: book/4 thermodynamics/4A thermal properties of matter/4A10 Thermometry/4A10.01 Constant Volume Gas Thermometer/4A10.01 Constant Volume Gas Thermometer.md
-    #       - file: book/4 thermodynamics/4A thermal properties of matter/4A10 Thermometry/4A10.02 Inverted Thermometer/4A10.02 Inverted Thermometer.md
+          # files related to section '4A10 Thermometry'
+        - file: book/4 thermodynamics/4A thermal properties of matter/4A10 Thermometry/4A10 Thermometry.md
+          sections: 
+          - file: book/4 thermodynamics/4A thermal properties of matter/4A10 Thermometry/4A10.01 Constant Volume Gas Thermometer/4A10.01 Constant Volume Gas Thermometer.md
+          - file: book/4 thermodynamics/4A thermal properties of matter/4A10 Thermometry/4A10.02 Inverted Thermometer/4A10.02 Inverted Thermometer.md
 
-    #     # files related to section '4B heat and the first law'
-    #   - file: book/4 thermodynamics/4B heat and the first law/4B heat and the first law.md
-    #     sections: 
+        # files related to section '4B heat and the first law'
+      - file: book/4 thermodynamics/4B heat and the first law/4B heat and the first law.md
+        sections: 
 
-    #       # files related to section '4B10 Heat Capacity and Specific Heat'
-    #     - file: book/4 thermodynamics/4B heat and the first law/4B10 Heat Capacity and Specific Heat/4B10 Heat Capacity and Specific Heat.md
-    #       sections: 
-    #       - file: book/4 thermodynamics/4B heat and the first law/4B10 Heat Capacity and Specific Heat/4B10.01 Joule's Experiment/4B10.01 Joule's Experiment.md
+          # files related to section '4B10 Heat Capacity and Specific Heat'
+        - file: book/4 thermodynamics/4B heat and the first law/4B10 Heat Capacity and Specific Heat/4B10 Heat Capacity and Specific Heat.md
+          sections: 
+          - file: book/4 thermodynamics/4B heat and the first law/4B10 Heat Capacity and Specific Heat/4B10.01 Joule's Experiment/4B10.01 Joule's Experiment.md
 
-    #       # files related to section '4B20 Convection'
-    #     - file: book/4 thermodynamics/4B heat and the first law/4B20 Convection/4B20 Convection.md
-    #       sections: 
-    #       - file: book/4 thermodynamics/4B heat and the first law/4B20 Convection/4B20.01 Cooling by Insulation/4B20.01 Cooling by Insulation.md
+          # files related to section '4B20 Convection'
+        - file: book/4 thermodynamics/4B heat and the first law/4B20 Convection/4B20 Convection.md
+          sections: 
+          - file: book/4 thermodynamics/4B heat and the first law/4B20 Convection/4B20.01 Cooling by Insulation/4B20.01 Cooling by Insulation.md
 
-    #       # files related to section '4B30 Conduction'
-    #     - file: book/4 thermodynamics/4B heat and the first law/4B30 Conduction/4B30 Conduction.md
-    #       sections: 
-    #       - file: book/4 thermodynamics/4B heat and the first law/4B30 Conduction/4B30.01 Cooling by Insulation/4B30.01 Cooling by Insulation.md
+          # files related to section '4B30 Conduction'
+        - file: book/4 thermodynamics/4B heat and the first law/4B30 Conduction/4B30 Conduction.md
+          sections: 
+          - file: book/4 thermodynamics/4B heat and the first law/4B30 Conduction/4B30.01 Cooling by Insulation/4B30.01 Cooling by Insulation.md
 
-    #       # files related to section '4B40 Radiation'
-    #     - file: book/4 thermodynamics/4B heat and the first law/4B40 Radiation/4B40 Radiation.md
-    #       sections: 
-    #       - file: book/4 thermodynamics/4B heat and the first law/4B40 Radiation/4B40.01 Cooling by Insulation/4B40.01 Cooling by Insulation.md
-    #       - file: book/4 thermodynamics/4B heat and the first law/4B40 Radiation/4B40.01 Stefan-Boltzmann Law for Radiation/4B40.01 Stefan-Boltzmann Law for Radiation.md
+          # files related to section '4B40 Radiation'
+        - file: book/4 thermodynamics/4B heat and the first law/4B40 Radiation/4B40 Radiation.md
+          sections: 
+          - file: book/4 thermodynamics/4B heat and the first law/4B40 Radiation/4B40.01 Cooling by Insulation/4B40.01 Cooling by Insulation.md
+          - file: book/4 thermodynamics/4B heat and the first law/4B40 Radiation/4B40.01 Stefan-Boltzmann Law for Radiation/4B40.01 Stefan-Boltzmann Law for Radiation.md
 
-    #       # files related to section '4B60 Mechanical Equivalent of Heat'
-    #     - file: book/4 thermodynamics/4B heat and the first law/4B60 Mechanical Equivalent of Heat/4B60 Mechanical Equivalent of Heat.md
-    #       sections: 
-    #       - file: book/4 thermodynamics/4B heat and the first law/4B60 Mechanical Equivalent of Heat/4B60.01 Joule's Experiment/4B60.01 Joule's Experiment.md
-    #       - file: book/4 thermodynamics/4B heat and the first law/4B60 Mechanical Equivalent of Heat/4B60.01 Smashing/4B60.01 Smashing.md
+          # files related to section '4B60 Mechanical Equivalent of Heat'
+        - file: book/4 thermodynamics/4B heat and the first law/4B60 Mechanical Equivalent of Heat/4B60 Mechanical Equivalent of Heat.md
+          sections: 
+          - file: book/4 thermodynamics/4B heat and the first law/4B60 Mechanical Equivalent of Heat/4B60.01 Joule's Experiment/4B60.01 Joule's Experiment.md
+          - file: book/4 thermodynamics/4B heat and the first law/4B60 Mechanical Equivalent of Heat/4B60.01 Smashing/4B60.01 Smashing.md
 
-    #       # files related to section '4B70 Adiabatic Processes'
-    #     - file: book/4 thermodynamics/4B heat and the first law/4B70 Adiabatic Processes/4B70 Adiabatic Processes.md
-    #       sections: 
-    #       - file: book/4 thermodynamics/4B heat and the first law/4B70 Adiabatic Processes/4B70.01 Clement's and Desormes' Experiment/4B70.01 Clement's and Desormes' Experiment.md
-    #       - file: book/4 thermodynamics/4B heat and the first law/4B70 Adiabatic Processes/4B70.02 Fire-Pump/4B70.02 Fire-Pump.md
+          # files related to section '4B70 Adiabatic Processes'
+        - file: book/4 thermodynamics/4B heat and the first law/4B70 Adiabatic Processes/4B70 Adiabatic Processes.md
+          sections: 
+          - file: book/4 thermodynamics/4B heat and the first law/4B70 Adiabatic Processes/4B70.01 Clement's and Desormes' Experiment/4B70.01 Clement's and Desormes' Experiment.md
+          - file: book/4 thermodynamics/4B heat and the first law/4B70 Adiabatic Processes/4B70.02 Fire-Pump/4B70.02 Fire-Pump.md
 
-    #     # files related to section '4C change of state'
-    #   - file: book/4 thermodynamics/4C change of state/4C change of state.md
-    #     sections: 
+        # files related to section '4C change of state'
+      - file: book/4 thermodynamics/4C change of state/4C change of state.md
+        sections: 
 
-    #       # files related to section '4C10 pVT Surfaces'
-    #     - file: book/4 thermodynamics/4C change of state/4C10 pVT Surfaces/4C10 pVT Surfaces.md
-    #       sections: 
-    #       - file: book/4 thermodynamics/4C change of state/4C10 pVT Surfaces/4C10.01 Compressing a Gas/4C10.01 Compressing a Gas.md
-    #       - file: book/4 thermodynamics/4C change of state/4C10 pVT Surfaces/4C10.02 Work = int(PdV)/4C10.02 Work = int(PdV).md
+          # files related to section '4C10 pVT Surfaces'
+        - file: book/4 thermodynamics/4C change of state/4C10 pVT Surfaces/4C10 pVT Surfaces.md
+          sections: 
+          - file: book/4 thermodynamics/4C change of state/4C10 pVT Surfaces/4C10.01 Compressing a Gas/4C10.01 Compressing a Gas.md
+          - file: book/4 thermodynamics/4C change of state/4C10 pVT Surfaces/4C10.02 Work = int(PdV)/4C10.02 Work = int(PdV).md
 
-    #       # files related to section '4C30 Phase Changes, Liquid-Gas'
-    #     - file: book/4 thermodynamics/4C change of state/4C30 Phase Changes, Liquid-Gas/4C30 Phase Changes, Liquid-Gas.md
-    #       sections: 
-    #       - file: book/4 thermodynamics/4C change of state/4C30 Phase Changes, Liquid-Gas/4C30.01 Boiling to Freeze/4C30.01 Boiling to Freeze.md
+          # files related to section '4C30 Phase Changes, Liquid-Gas'
+        - file: book/4 thermodynamics/4C change of state/4C30 Phase Changes, Liquid-Gas/4C30 Phase Changes, Liquid-Gas.md
+          sections: 
+          - file: book/4 thermodynamics/4C change of state/4C30 Phase Changes, Liquid-Gas/4C30.01 Boiling to Freeze/4C30.01 Boiling to Freeze.md
 
-    #       # files related to section '4C31 Cooling by Evaporation'
-    #     - file: book/4 thermodynamics/4C change of state/4C31 Cooling by Evaporation/4C31 Cooling by Evaporation.md
-    #       sections: 
-    #       - file: book/4 thermodynamics/4C change of state/4C31 Cooling by Evaporation/4C31.01 Evaporating Ether/4C31.01 Evaporating Ether.md
+          # files related to section '4C31 Cooling by Evaporation'
+        - file: book/4 thermodynamics/4C change of state/4C31 Cooling by Evaporation/4C31 Cooling by Evaporation.md
+          sections: 
+          - file: book/4 thermodynamics/4C change of state/4C31 Cooling by Evaporation/4C31.01 Evaporating Ether/4C31.01 Evaporating Ether.md
 
-    #       # files related to section '4C33 Vapor Pressure'
-    #     - file: book/4 thermodynamics/4C change of state/4C33 Vapor Pressure/4C33 Vapor Pressure.md
-    #       sections: 
-    #       - file: book/4 thermodynamics/4C change of state/4C33 Vapor Pressure/4C33.01 Dippy Bird/4C33.01 Dippy Bird.md
-    #       - file: book/4 thermodynamics/4C change of state/4C33 Vapor Pressure/4C33.02 Boiling Water at Reduced Pressure/4C33.02 Boiling Water at Reduced Pressure.md
+          # files related to section '4C33 Vapor Pressure'
+        - file: book/4 thermodynamics/4C change of state/4C33 Vapor Pressure/4C33 Vapor Pressure.md
+          sections: 
+          - file: book/4 thermodynamics/4C change of state/4C33 Vapor Pressure/4C33.01 Dippy Bird/4C33.01 Dippy Bird.md
+          - file: book/4 thermodynamics/4C change of state/4C33 Vapor Pressure/4C33.02 Boiling Water at Reduced Pressure/4C33.02 Boiling Water at Reduced Pressure.md
 
-    #     # files related to section '4D kinetic theory'
-    #   - file: book/4 thermodynamics/4D kinetic theory/4D kinetic theory.md
-    #     sections: 
+        # files related to section '4D kinetic theory'
+      - file: book/4 thermodynamics/4D kinetic theory/4D kinetic theory.md
+        sections: 
 
-    #       # files related to section '4D10 Brownian Motion'
-    #     - file: book/4 thermodynamics/4D kinetic theory/4D10 Brownian Motion/4D10 Brownian Motion.md
-    #       sections: 
-    #       - file: book/4 thermodynamics/4D kinetic theory/4D10 Brownian Motion/4D10.01 Brownian Motion/4D10.01 Brownian Motion.md
+          # files related to section '4D10 Brownian Motion'
+        - file: book/4 thermodynamics/4D kinetic theory/4D10 Brownian Motion/4D10 Brownian Motion.md
+          sections: 
+          - file: book/4 thermodynamics/4D kinetic theory/4D10 Brownian Motion/4D10.01 Brownian Motion/4D10.01 Brownian Motion.md
 
-    #       # files related to section '4D30 Kinetic Motion'
-    #     - file: book/4 thermodynamics/4D kinetic theory/4D30 Kinetic Motion/4D30 Kinetic Motion.md
-    #       sections: 
-    #       - file: book/4 thermodynamics/4D kinetic theory/4D30 Kinetic Motion/4D30.01 Radiometer of Crooks/4D30.01 Radiometer of Crooks.md
-    #       - file: book/4 thermodynamics/4D kinetic theory/4D30 Kinetic Motion/4D30.02 Rain of Balls/4D30.02 Rain of Balls.md
+          # files related to section '4D30 Kinetic Motion'
+        - file: book/4 thermodynamics/4D kinetic theory/4D30 Kinetic Motion/4D30 Kinetic Motion.md
+          sections: 
+          - file: book/4 thermodynamics/4D kinetic theory/4D30 Kinetic Motion/4D30.01 Radiometer of Crooks/4D30.01 Radiometer of Crooks.md
+          - file: book/4 thermodynamics/4D kinetic theory/4D30 Kinetic Motion/4D30.02 Rain of Balls/4D30.02 Rain of Balls.md
 
-    #   # does currently not have any experiments 
-    #   - file: book/4 thermodynamics/4E gas law/4E gas law.md
+      # does currently not have any experiments 
+      - file: book/4 thermodynamics/4E gas law/4E gas law.md
 
-    #     # files related to section '4F entropy and the second law'
-    #   - file: book/4 thermodynamics/4F entropy and the second law/4F entropy and the second law.md
-    #     sections: 
+        # files related to section '4F entropy and the second law'
+      - file: book/4 thermodynamics/4F entropy and the second law/4F entropy and the second law.md
+        sections: 
 
-    #       # files related to section '4F10 Entropy'
-    #     - file: book/4 thermodynamics/4F entropy and the second law/4F10 Entropy/4F10 Entropy.md
-    #       sections: 
-    #       - file: book/4 thermodynamics/4F entropy and the second law/4F10 Entropy/4F10.01 Falling Down or Falling Up/4F10.01 Falling Down or Falling Up.md
-    #       - file: book/4 thermodynamics/4F entropy and the second law/4F10 Entropy/4F10.02 Irreversible Process/4F10.02 Irreversible Process.md
-    #       - file: book/4 thermodynamics/4F entropy and the second law/4F10 Entropy/4F10.03 Violation of the Entropy Law/4F10.03 Violation of the Entropy Law.md
+          # files related to section '4F10 Entropy'
+        - file: book/4 thermodynamics/4F entropy and the second law/4F10 Entropy/4F10 Entropy.md
+          sections: 
+          - file: book/4 thermodynamics/4F entropy and the second law/4F10 Entropy/4F10.01 Falling Down or Falling Up/4F10.01 Falling Down or Falling Up.md
+          - file: book/4 thermodynamics/4F entropy and the second law/4F10 Entropy/4F10.02 Irreversible Process/4F10.02 Irreversible Process.md
+          - file: book/4 thermodynamics/4F entropy and the second law/4F10 Entropy/4F10.03 Violation of the Entropy Law/4F10.03 Violation of the Entropy Law.md
 
-    #       # files related to section '4F30 Heat Cycles'
-    #     - file: book/4 thermodynamics/4F entropy and the second law/4F30 Heat Cycles/4F30 Heat Cycles.md
-    #       sections: 
-    #       - file: book/4 thermodynamics/4F entropy and the second law/4F30 Heat Cycles/4F30.01 Dippy Bird/4F30.01 Dippy Bird.md
-    #       - file: book/4 thermodynamics/4F entropy and the second law/4F30 Heat Cycles/4F30.01 Stirling Engine/4F30.01 Stirling Engine.md
+          # files related to section '4F30 Heat Cycles'
+        - file: book/4 thermodynamics/4F entropy and the second law/4F30 Heat Cycles/4F30 Heat Cycles.md
+          sections: 
+          - file: book/4 thermodynamics/4F entropy and the second law/4F30 Heat Cycles/4F30.01 Dippy Bird/4F30.01 Dippy Bird.md
+          - file: book/4 thermodynamics/4F entropy and the second law/4F30 Heat Cycles/4F30.01 Stirling Engine/4F30.01 Stirling Engine.md
 
     #   # files related to section '5 electricity and magnetism'
     # - file: book/5 electricity and magnetism/5 electricity and magnetism.md
