@@ -105,8 +105,7 @@ launch_buttons:
   colab_url                 : "" # The URL of Google Colab (https://colab.research.google.com)
 
 repository:
-  url                       : https://gitlab.tudelft.nl/education/as/ap/demolab
-#  url                       : https://github.com/classroom-demonstrations/demonstrating-the-theory  # The URL to your book's repository
+  url                       : https://github.com/Contemporary-Physicslab/Demolab
   path_to_book              : ""  # A path to your book's folder, relative to the repository root.
   branch                    : master  # Which branch of the repository should be used when creating links
 
