@@ -904,33 +904,33 @@ parts:
           - file: book/7 modern physics/7A quantum effects/7A60 X-ray and Electron Diffraction/7A60.01 Bragg Scattering/7A60.01 Bragg Scattering.md
 
         # files related to section '7B atomic physics'
-      # - file: book/7 modern physics/7B atomic physics/7B atomic physics.md
-      #   sections: 
+      - file: book/7 modern physics/7B atomic physics/7B atomic physics.md
+        sections: 
 
-      #     # files related to section '7B10 Spectra'
-      #   - file: book/7 modern physics/7B atomic physics/7B10 Spectra/7B10 Spectra.md
-      #     sections: 
-      #     - file: book/7 modern physics/7B atomic physics/7B10 Spectra/7B10.01 Balmer Series/7B10.01 Balmer Series.md
+          # files related to section '7B10 Spectra'
+        - file: book/7 modern physics/7B atomic physics/7B10 Spectra/7B10 Spectra.md
+          sections: 
+          - file: book/7 modern physics/7B atomic physics/7B10 Spectra/7B10.01 Balmer Series/7B10.01 Balmer Series.md
 
-      #     # files related to section '7B50 Atomic Models'
-      #   - file: book/7 modern physics/7B atomic physics/7B50 Atomic Models/7B50 Atomic Models.md
-      #     sections: 
-      #     - file: book/7 modern physics/7B atomic physics/7B50 Atomic Models/7B50.01 deBroglie Applied to Bohr/7B50.01 deBroglie Applied to Bohr.md
+          # files related to section '7B50 Atomic Models'
+        - file: book/7 modern physics/7B atomic physics/7B50 Atomic Models/7B50 Atomic Models.md
+          sections: 
+          - file: book/7 modern physics/7B atomic physics/7B50 Atomic Models/7B50.01 deBroglie Applied to Bohr/7B50.01 deBroglie Applied to Bohr.md
 
-      # # This section does currently not have any experiments 
-      # - file: book/7 modern physics/7D nuclear physics/7D nuclear physics.md
+      # This section does currently not have any experiments 
+      - file: book/7 modern physics/7D nuclear physics/7D nuclear physics.md
 
-      # # This section does currently not have any experiments 
-      # - file: book/7 modern physics/7E elementary particles/7E elementary particles.md
+      # This section does currently not have any experiments 
+      - file: book/7 modern physics/7E elementary particles/7E elementary particles.md
 
-      #   # files related to section '7F relativity'
-      # - file: book/7 modern physics/7F relativity/7F relativity.md
-      #   sections: 
+        # files related to section '7F relativity'
+      - file: book/7 modern physics/7F relativity/7F relativity.md
+        sections: 
 
-      #     # files related to section '7F10 Relativity'
-      #   - file: book/7 modern physics/7F relativity/7F10 Relativity/7F10 Relativity.md
-      #     sections: 
-      #     - file: book/7 modern physics/7F relativity/7F10 Relativity/7F10.01 E = mc^2 (Einstein)/7F10.01 E = mc^2 (Einstein).md
+          # files related to section '7F10 Relativity'
+        - file: book/7 modern physics/7F relativity/7F10 Relativity/7F10 Relativity.md
+          sections: 
+          - file: book/7 modern physics/7F relativity/7F10 Relativity/7F10.01 E = mc^2 (Einstein)/7F10.01 E = mc^2 (Einstein).md
 
     # # This section does currently not have any experiments 
     # - file: book/8 astronomy/8 astronomy.md
