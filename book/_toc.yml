@@ -750,7 +750,6 @@ parts:
 
           # files related to section '5N10 Transmission Lines and Antennas'
         - file: book/5 electricity and magnetism/5N electromagnetic radiation/5N10 Transmission Lines and Antennas/5N10 Transmission Lines and Antennas.md
-          sections: 
 
       # files related to section '6 optics'
     - file: book/6 optics/6 optics.md
