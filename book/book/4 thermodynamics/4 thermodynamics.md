@@ -3,4 +3,5 @@
 
 This chapter covers many demonstrations in the field of thermodynamics.
 ```{tableofcontents}
+:maxdepth: 4
 ```
