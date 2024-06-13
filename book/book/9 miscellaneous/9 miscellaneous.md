@@ -1,1 +1,4 @@
-# 9 miscellaneous
+# 9 Miscellaneous
+
+```{tableofcontents}
+```
